@@ -1,4 +1,12 @@
 address,price,number_of_beds,number_of_baths,style
+"#4002 -1 YORKVILLE AVE, Toronto, Ontario, M4W 1L1","$1,169,000",2 Beds,2 Baths,Apartment
+"#4204 -12 YORK ST, Toronto, Ontario, M5J 0A9","$999,000",3+1 Beds,2 Baths,Apartment
+"7 PENDEEN AVE, Toronto, Ontario, M6N 2P4","$899,000",3+1 Beds,2 Baths,Detached
+"431 GLENHOLME AVE, Toronto, Ontario, M6E 3E9","$849,000",3+2 Beds,2 Baths,Detached
+"#611 -15 SINGER CRT, Toronto, Ontario, M2K 0B1","$665,000",1+1 Beds,2 Baths,Apartment
+"#1010 -6 EVA RD, Toronto, Ontario, M9C 0B1","$634,900",2 Beds,2 Baths,Apartment
+"#1046 -100 MORNELLE CRT, Toronto, Ontario, M1E 4X2","$499,900",2+1 Beds,2 Baths,Townhouse
+"#1111 -36 LISGAR ST, Toronto, Ontario, M6J 0C7","$499,000",2 Beds,2 Baths,Apartment
 "92 DAY AVE, Toronto, Ontario, M6E 3V9","$1,189,000",3+1 Beds,2 Baths,Detached
 "#403 -20 TUBMAN AVE, Toronto, Ontario, M5A 0M5","$1,145,000",3 Beds,2 Baths,Apartment
 "#1912 -1 MARKET ST, Toronto, Ontario, M5E 0A2","$1,100,000",2 Beds,2 Baths,Apartment
@@ -10,6 +18,7 @@ address,price,number_of_beds,number_of_baths,style
 "#588 -1 GREYSTONE WALK DR, Toronto, Ontario, M1K 5J3","$619,000",2+1 Beds,2 Baths,Apartment
 "#204 -7 MICHAEL POWER PL, Toronto, Ontario, M9A 0A4","$615,000",1+1 Beds,2 Baths,Apartment
 "#1059 -100 MORNELLE CRT, Toronto, Ontario, M1E 4X2","$599,900",2+1 Beds,2 Baths,Townhouse
+"1107-151 Village Green Square, Toronto, ON, M1S 0K5","$599,880",2+1 Beds,2 Baths,Apartment
 "#1102 -840 QUEENS PLATE DR, Toronto, Ontario, M9W 7J9","$549,000",1+1 Beds,2 Baths,Apartment
 "#601 -3 SOUTHVALE DR, Toronto, Ontario, M4G 1G1","$1,998,500",2+1 Beds,2 Baths,Apartment
 "#712 -33 BAY ST, Toronto, Ontario, M5J 2Z3","$1,258,000",2+1 Beds,2 Baths,Apartment
@@ -31,7 +40,6 @@ address,price,number_of_beds,number_of_baths,style
 "133 HOLLYBERRY TR, Toronto, Ontario, M2H 2P2","$1,126,000",3 Beds,2 Baths,Detached
 "#520 -825 CHURCH ST, Toronto, Ontario, M4W 3Z4","$1,100,000",2 Beds,2 Baths,Apartment
 "#1504 -386 YONGE ST, Toronto, Ontario, M5B 0A5","$1,098,868",2 Beds,2 Baths,Apartment
-"63 LAUGHTON AVE, Toronto, Ontario, M6N 2W8","$1,039,000",2 Beds,2 Baths,Detached
 "30 MELDAZY DR, Toronto, Ontario, M1P 4G1","$999,000",3+2 Beds,2 Baths,Detached
 "59 ALDGATE  AVE, Toronto, Ontario, M8Y 3L7","$998,000",2+1 Beds,2 Baths,Detached
 "61 LOMBARDY CRES, Toronto, Ontario, M1K 4P1","$980,000",3+2 Beds,2 Baths,Detached
@@ -48,29 +56,28 @@ address,price,number_of_beds,number_of_baths,style
 "#2615 -75 QUEENS WHARF RD, Toronto, Ontario, M5V 0J8","$799,000",2 Beds,2 Baths,Apartment
 "#1607 -980 BROADVIEW AVE, Toronto, Ontario, M4K 3Y1","$759,000",2 Beds,2 Baths,Apartment
 "#909 -45 CHARLES ST E, Toronto, Ontario, M4Y 0B8","$749,000",1+1 Beds,2 Baths,Apartment
-"#1607 -980 BROADVIEW AVE, Toronto, Ontario, M4K 3Y1","$759,000",2 Beds,2 Baths,Apartment
+"#208 -130 CANON JACKSON DR, Toronto, Ontario, M6M 0B7","$719,900",2 Beds,2 Baths,Apartment
 "#1504 -1346 DANFORTH RD, Toronto, Ontario, M1J 0A9","$699,000",2+1 Beds,2 Baths,Apartment
 "#2403 -195 REDPATH AVE, Toronto, Ontario, M4P 0E4","$699,000",2 Beds,2 Baths,Apartment
-"#2211 -710 HUMBERWOOD BLVD, Toronto, Ontario, M9W 7J5","$699,000",2 Beds,2 Baths,Apartment
+"#2403 -195 REDPATH AVE, Toronto, Ontario, M4P 0E4","$699,000",2 Beds,2 Baths,Apartment
 "#1203 -60 BYNG AVE, Toronto, Ontario, M2N 7K3","$698,000",1+1 Beds,2 Baths,Apartment
 "#211 -1350 KINGSTON RD, Toronto, Ontario, M1N 1P7","$685,000",2 Beds,2 Baths,Apartment
 "#503 -175 HILDA AVE, Toronto, Ontario, M2M 1V8","$670,000",3 Beds,2 Baths,Apartment
 "#1512 -1 ROWNTREE RD, Toronto, Ontario, M9V 5G7","$649,000",2+1 Beds,2 Baths,Apartment
 "#210 -550 HOPEWELL AVE, Toronto, Ontario, M6E 2S6","$648,000",2 Beds,2 Baths,Apartment
 "#1902E -36 LISGAR ST, Toronto, Ontario, M6J 3G2","$629,900",2 Beds,2 Baths,Apartment
-"#503 -175 HILDA AVE, Toronto, Ontario, M2M 1V8","$670,000",3 Beds,2 Baths,Apartment
+"#2603 -38 LEE CENTER DR, Toronto, Ontario, M1H 3J7","$625,000",2 Beds,2 Baths,Apartment
 "#214 -115 BONIS AVE, Toronto, Ontario, M1T 3S4","$463,000",2 Beds,2 Baths,Apartment
-"#503 -175 HILDA AVE, Toronto, Ontario, M2M 1V8","$670,000",3 Beds,2 Baths,Apartment
+"#3902 -311 BAY ST, Toronto, Ontario, M5H 4G5","$1,649,900",2 Beds,2 Baths,Apartment
 "23 CORNING RD, Toronto, Ontario, M2J 2L6","$1,488,000",4 Beds,2 Baths,Detached
-"#211 -1350 KINGSTON RD, Toronto, Ontario, M1N 1P7","$685,000",2 Beds,2 Baths,Apartment
+"19 ENDERBY RD, Toronto, Ontario, M4E 2S4","$1,399,900",3 Beds,2 Baths,Detached
 "21 Whitaker Ave, Toronto, ON, M6J 1A2","$1,399,000",3+1 Beds,2 Baths,Townhouse
 "93 NORDIN AVE, Toronto, Ontario, M8Z 2B5","$1,238,000",3 Beds,2 Baths,Detached
 "16 MUNCEY AVE, Toronto, Ontario, M9W 3W1","$1,200,000",3+1 Beds,2 Baths,Detached
-"49 Ballacaine Dr, Toronto, ON, M8Y 4B2","$1,098,000",3 Beds,2 Baths,Detached
 "#PH03 -30 ROEHAMPTON AVE, Toronto, Ontario, M4P 1R2","$1,097,920",2+1 Beds,2 Baths,Apartment
 "#1009 -393 KING ST N, Toronto, Ontario","$1,090,000",2+2 Beds,2 Baths,Apartment
 "100 PICKERING ST, Toronto, Ontario, M4E 3J7","$1,089,000",2 Beds,2 Baths,Detached
-"#1009 -393 KING ST N, Toronto, Ontario","$1,090,000",2+2 Beds,2 Baths,Apartment
+"126 ELLENDALE DR, Toronto, Ontario, M1P 1P1","$1,088,000",3+2 Beds,2 Baths,Detached
 "63 Laughton Avenue, Toronto, ON, M6N 2W8","$1,039,000",2 Beds,2 Baths,1268 Square Feet
 "175 CRAVEN RD, Toronto, Ontario, M4L 2Z5","$999,000",2 Beds,2 Baths,Detached
 "1105-1101 Leslie St, Toronto, ON, M3C 4G3","$988,800",2 Beds,2 Baths,Apartment
@@ -86,7 +93,7 @@ address,price,number_of_beds,number_of_baths,style
 "58 KITCHENER RD, Toronto, Ontario, M1E 2X5","$799,900",3+1 Beds,2 Baths,Detached
 "#501 -26 NORTON AVE, Toronto, Ontario, M2N 0C6","$799,900",2 Beds,2 Baths,Apartment
 "42 PIXLEY CRES, Toronto, Ontario, M1E 3G6","$799,000",4+2 Beds,2 Baths,Detached
-"#2005 -115 BLUE JAY WAY, Toronto, Ontario, M5V 0N4","$799,000",2 Beds,2 Baths,Apartment
+"42 PIXLEY CRES, Toronto, Ontario, M1E 3G6","$799,000",4+2 Beds,2 Baths,Detached
 "391 WESTMORELAND AVE N, Toronto, Ontario, M6H 3A6","$798,800",2 Beds,2 Baths,Detached
 "#706 -223 BEECROFT RD, Toronto, Ontario, M2N 6Z9","$758,000",1+1 Beds,2 Baths,Apartment
 "#1603 -260 SCARLETT RD, Toronto, Ontario, M6N 4X6","$749,000",3 Beds,2 Baths,Apartment
@@ -110,7 +117,7 @@ address,price,number_of_beds,number_of_baths,style
 "#1201 -2130 WESTON RD, Toronto, Ontario, M9N 3R9","$475,000",3 Beds,2 Baths,Apartment
 "#206 -452 SCARBOROUGH GOLFCLUB RD, Toronto, Ontario, M1G 1H1","$434,000",2 Beds,2 Baths,Apartment
 "117 SHERWOOD AVE, Toronto, Ontario, M4P 2A6","$1,850,000",3 Beds,2 Baths,Detached
-"#PH7 -8 WELLESLEY ST E, Toronto, Ontario, M4Y 3B2","$1,799,999",2+1 Beds,2 Baths,Apartment
+"#206 -452 SCARBOROUGH GOLFCLUB RD, Toronto, Ontario, M1G 1H1","$434,000",2 Beds,2 Baths,Apartment
 "#909 -88 SCOTT ST, Toronto, Ontario, M5E 0A9","$1,688,800",2+1 Beds,2 Baths,Apartment
 "#6010 -388 YONGE ST, Toronto, Ontario, M5B 0A5","$1,600,000",2+1 Beds,2 Baths,Apartment
 "46 SPRUCE ST, Toronto, Ontario, M5A 2H9","$1,598,000",4 Beds,2 Baths,Detached
@@ -118,7 +125,7 @@ address,price,number_of_beds,number_of_baths,style
 "159 RHODES AVE, Toronto, Ontario, M4L 3A2","$1,350,000",3+1 Beds,2 Baths,Detached
 "#182 -28 STADIUM RD, Toronto, Ontario, M5V 3P4","$1,299,900",2 Beds,2 Baths,Apartment
 "#407 -170 AVENUE RD, Toronto, Ontario, M5R 0A4","$1,298,000",2 Beds,2 Baths,Apartment
-"29 Seabrook Ave, Toronto, ON, M6L 3B6","$1,279,000",3 Beds,2 Baths,Detached
+"29 Seabrook Ave, Toronto, ON, M6L 3B6","$1,279,000",3+1 Beds,2 Baths,Detached
 "#1812 -2045 LAKE SHORE BLVD W, Toronto, Ontario, M8V 2Z6","$1,239,000",2+1 Beds,2 Baths,Apartment
 "#2106 -80 QUEENS WHARF RD, Toronto, Ontario, M5V 0J3","$1,150,000",3 Beds,2 Baths,Apartment
 "28 BENPRICE CRT, Toronto, Ontario, M1H 1N3","$1,089,000",4+1 Beds,2 Baths,Detached
@@ -137,6 +144,7 @@ address,price,number_of_beds,number_of_baths,style
 "65 HEASLIP TERR, Toronto, Ontario, M1T 1W8","$849,000",3 Beds,2 Baths,Detached
 "#1125 -109 FRONT ST E, Toronto, Ontario, M5A 4P7","$829,000",2 Beds,2 Baths,Apartment
 "#1603 -195 REDPATH AVE, Toronto, Ontario, M4P 0E4","$799,988",2 Beds,2 Baths,Apartment
+"103 BRICKWORKS LANE, Toronto, Ontario, M6N 5H8","$799,900",2 Beds,2 Baths,Townhouse
 "#13 -740 KENNEDY RD, Toronto, Ontario, M1K 2C5","$799,900",2+1 Beds,2 Baths,Townhouse
 "#1617 -88 CORPORATE DR, Toronto, Ontario, M1H 3G6","$799,000",2+1 Beds,2 Baths,Brick
 "#202 -21 CARLTON ST, Toronto, Ontario, M5B 1L3","$749,900",2 Beds,2 Baths,Apartment
@@ -175,7 +183,6 @@ address,price,number_of_beds,number_of_baths,style
 "156 LOMAR DR, Toronto, Ontario, M3N 1Z4","$999,999",3 Beds,2 Baths,Detached
 "#901 -1 CLAIRTRELL RD, Toronto, Ontario, M2N 7H6","$999,900",2+1 Beds,2 Baths,Apartment
 "#503 -1 SCOTT ST, Toronto, Ontario, M5E 1A1","$999,900",2 Beds,2 Baths,Apartment
-"4061 DUFFERIN ST, Toronto, Ontario, M3H 5R7","$999,900",2+1 Beds,2 Baths,Detached
 "#3910 -15 FORT YORK BLVD, Toronto, Ontario, M5V 3Y4","$998,000",2 Beds,2 Baths,Apartment
 "84 WILLIAM ST, Toronto, Ontario, M9N 2G7","$979,000",3 Beds,2 Baths,Detached
 "#2603 -2010 ISLINGTON AVE, Toronto, Ontario, M6P 3S8","$949,000",3 Beds,2 Baths,Apartment
@@ -217,6 +224,7 @@ address,price,number_of_beds,number_of_baths,style
 "#102 -2800 WARDEN AVE, Toronto, Ontario, M1W 3Z6","$359,900",2 Beds,2 Baths,Apartment
 "259 Pleasant Avenue, Toronto, ON, M2M 1M7","$1,699,000",4 Beds,2 Baths,1100 Square Feet
 "254 Cedarvale Ave, Toronto, ON, M4C 4K2","$1,149,000",2 Beds,2 Baths,Detached
+"340 Osler St, Toronto, ON, M6N 2Z5","$1,149,000",4 Beds,2 Baths,Detached
 "603-128 Pears Ave, Toronto, ON, M5R 0A9","$1,100,000",1+1 Beds,2 Baths,Apartment
 "#3102 -25 TELEGRAM MEWS, Toronto, Ontario, M5V 3Z1","$984,900",2+1 Beds,2 Baths,Apartment
 "1008-33 Sheppard Ave E, Toronto, ON, M2N 7K1","$889,000",2 Beds,2 Baths,Apartment
@@ -316,7 +324,7 @@ address,price,number_of_beds,number_of_baths,style
 "52 WEDGEWOOD DR, Toronto, Ontario, M2M 2H5","$1,988,000",3+1 Beds,2 Baths,Detached
 "#510 -1 BEDFORD RD, Toronto, Ontario, M5R 2B5","$1,940,000",2 Beds,2 Baths,Apartment
 "197 FINCH AVE E, Toronto, Ontario, M2N 4S1","$1,580,000",4+3 Beds,2 Baths,Detached
-"178 NAIRN AVE, Toronto, Ontario, M6E 4H3","$1,449,900",4+2 Beds,2 Baths,Detached
+"178 NAIRN AVE, Toronto, Ontario, M6E 4H3","$1,349,900",4+2 Beds,2 Baths,Detached
 "22 King High Ave, Toronto, ON, M3H 3A7","$1,348,888",3+2 Beds,2 Baths,Detached
 "#RD -23 DENVALE RD, Toronto, Ontario, M4B 3B3","$1,340,000",2 Beds,2 Baths,Detached
 "#211 -55 MERCHANTS'  WHARF, Toronto, Ontario, M5A 0P2","$1,142,000",1+1 Beds,2 Baths,Apartment
@@ -372,3 +380,558 @@ address,price,number_of_beds,number_of_baths,style
 "#305 -30 CANTERBURY PL, Toronto, Ontario, M2N 0B9","$688,888",2 Beds,2 Baths,Apartment
 "#1010 -30 GIBBS RD, Toronto, Ontario, M9B 0E4","$649,800",2 Beds,2 Baths,Apartment
 "#1401 -716 THE WEST MALL, Toronto, Ontario, M9C 4Y4","$579,900",2+1 Beds,2 Baths,Apartment
+"133 LAWRENCE AVE W, Toronto, Ontario, M5M 1A7","$1,295,000",3 Beds,2 Baths,Detached
+"3408-357 King St W, Toronto, ON, M5V 1K1","$1,118,000",2 Beds,2 Baths,Apartment
+"Th 9-285 Antibes Dr, Toronto, ON, M2R 3X9","$679,000",3 Beds,2 Baths,Townhouse
+"85 CLUBHOUSE CRT, Toronto, Ontario, M3L 2L7","$1,259,000",3+1 Beds,2 Baths,Detached
+"#605 -12 BONNYCASTLE ST, Toronto, Ontario, M5A 0C8","$874,900",2 Beds,2 Baths,Apartment
+"#806 -56 FOREST MANOR RD, Toronto, Ontario, M2J 0E5","$679,000",1+1 Beds,2 Baths,Apartment
+"#2026 -75 BAMBURGH CIRC, Toronto, Ontario, M1W 3W1","$649,500",3+1 Beds,2 Baths,Apartment
+"#810 -18 HOLMES AVE, Toronto, Ontario, M2N 0E1","$649,000",2 Beds,2 Baths,Apartment
+"#112 -37 FOUR WINDS DR, Toronto, Ontario, M3J 1K7","$599,000",2 Beds,2 Baths,Townhouse
+"#1204 -3077 WESTON RD, Toronto, Ontario, M9M 3A1","$499,000",2 Beds,2 Baths,Apartment
+"#1828 -33 HARBOUR SQ, Toronto, Ontario, M5J 2G2","$1,690,000",2+1 Beds,2 Baths,Apartment
+"225 OAKWOOD AVE, Toronto, Ontario, M6E 2V3","$1,598,999",1+1 Beds,2 Baths,Detached
+"175B FINCH AVE E, Toronto, Ontario, M2N 4R8","$1,329,900",3 Beds,2 Baths,Townhouse
+"#201 -22 LOMBARD ST, Toronto, Ontario, M5A 0V3","$1,199,990",2 Beds,2 Baths,Apartment
+"#310 -40 SYLVAN VALLEYWAY, Toronto, Ontario, M5M 4M3","$1,169,000",2 Beds,2 Baths,Apartment
+"2005-2191 Yonge St, Toronto, ON, M4S 3H8","$1,158,000",2+1 Beds,2 Baths,Apartment
+"#2210 -15 LOWER JARVIS ST, Toronto, Ontario, M5E 0C4","$990,000",2 Beds,2 Baths,Apartment
+"#1106 -60 SHUTER ST, Toronto, Ontario, M5B 0B7","$988,000",3 Beds,2 Baths,Apartment
+"#2407 -7 GRENVILLE ST, Toronto, Ontario, M4Y 1A1","$968,000",1+1 Beds,2 Baths,Apartment
+"#203 -1316 KINGSTON  RD, Toronto, Ontario, M1N 1P6","$819,000",1+1 Beds,2 Baths,Apartment
+"#3209 -8 YORK ST, Toronto, Ontario, M5J 2Y2","$799,990",1+1 Beds,2 Baths,Apartment
+"#2004 -131 BEECROFT RD, Toronto, Ontario, M2N 6G9","$779,000",2+1 Beds,2 Baths,Apartment
+"#215 -100 WINGARDEN CRT, Toronto, Ontario, M1B 2P4","$649,900",2 Beds,2 Baths,Apartment
+"#1117 -1 ROWNTREE RD, Toronto, Ontario, M9V 5G7","$639,889",2 Beds,2 Baths,Apartment
+"#PH 5 -32 CAMDEN ST, Toronto, Ontario, M5V 1V1","$1,750,000",2 Beds,2 Baths,Apartment
+"717 1/2 QUEEN ST E, Toronto, Ontario, M4M 1H1","$1,675,000",1 Beds,2 Baths,Mixed
+"40 AFTON AVE, Toronto, Ontario, M6J 1R8","$1,399,000",3 Beds,2 Baths,Detached
+"1057 LOGAN AVE, Toronto, Ontario, M4K 3G2","$1,399,000",3 Beds,2 Baths,Detached
+"#1318 -55 HARBOUR SQ, Toronto, Ontario, M5J 2L1","$1,249,000",2 Beds,2 Baths,Apartment
+"#3506 -50 ORDNANCE ST, Toronto, Ontario, M6K 1A2","$1,249,000",2+1 Beds,2 Baths,Apartment
+"#UPH14 -21 NELSON ST, Toronto, Ontario, M5V 3H9","$1,180,000",1+1 Beds,2 Baths,Apartment
+"21 NELSON Street|Unit #UPH14, Toronto, Ontario, M5V 3H9","$1,180,000",1 Beds,2 Baths,Apartment
+"#3305 -1 YORKVILLE AVE, Toronto, Ontario, M4W 1L1","$1,159,000",3 Beds,2 Baths,Apartment
+"21 NELSON Street|Unit #UPH14, Toronto, Ontario, M5V 3H9","$1,180,000",1 Beds,2 Baths,Apartment
+"#3305 -1 YORKVILLE AVE, Toronto, Ontario, M4W 1L1","$1,159,000",3 Beds,2 Baths,Apartment
+"##134 -75 CURLEW DR, Toronto, Ontario, M3A 2P8","$1,029,000",2 Beds,2 Baths,Townhouse
+"#1201 -501 ADELAIDE ST W, Toronto, Ontario, M5V 0R3","$999,000",2 Beds,2 Baths,Apartment
+"#413 -1829 QUEEN STREET ST E, Toronto, Ontario, M4L 3X6","$990,000",2 Beds,2 Baths,Apartment
+"#1107 -2 ANNDALE DR, Toronto, Ontario, M2N 0G5","$918,000",2 Beds,2 Baths,Apartment
+"#A18 -108 FINCH AVE W, Toronto, Ontario, M2N 6W6","$869,000",2 Beds,2 Baths,Townhouse
+"17 WANSTEAD AVE, Toronto, Ontario, M1L 3L3","$848,888",3 Beds,2 Baths,Detached
+"#602 -250 MANITOBA ST, Toronto, Ontario, M8Y 4G8","$829,000",1+1 Beds,2 Baths,Apartment
+"408-12 Rean Dr, Toronto, ON, M2K 3C6","$828,000",2 Beds,2 Baths,Apartment
+"#1804 -15 GREENVIEW AVE, Toronto, Ontario, M2M 4M7","$819,000",2 Beds,2 Baths,Apartment
+"#901 -5418 YONGE  ST, Toronto, Ontario, M2N 6X4","$799,000",2 Beds,2 Baths,Apartment
+"#303 -50 CAMDEN ST, Toronto, Ontario, M5V 3N1","$799,000",2 Beds,2 Baths,Apartment
+"#922 -8 TRENT AVE, Toronto, Ontario, M4C 5C6","$787,000",2+1 Beds,2 Baths,Apartment
+"#1605 -30 MEADOWGLEN  PL, Toronto, Ontario, M1G 0A5","$760,000",2+1 Beds,2 Baths,Apartment
+"#1518 -7 BISHOP AVE, Toronto, Ontario, M2M 4J4","$749,000",2+1 Beds,2 Baths,Apartment
+"#907 -1 CLAIRTRELL RD, Toronto, Ontario, M2N 7H5","$738,000",2 Beds,2 Baths,Apartment
+"#408 -1403 ROYAL YORK RD, Toronto, Ontario, M9P 0A1","$725,000",2+1 Beds,2 Baths,Apartment
+"227-9 Mabelle Ave, Toronto, ON, M9A 0E1","$699,900",2 Beds,2 Baths,Apartment
+"#39 -57 FINCH AVE W, Toronto, Ontario, M2K 0K9","$699,000",2 Beds,2 Baths,Townhouse
+"#411 -4725 SHEPPARD AVE E, Toronto, Ontario, M1S 5B2","$695,000",2 Beds,2 Baths,Apartment
+"#1206 -135 ANTIBES DR, Toronto, Ontario, M2R 2Z1","$685,000",2 Beds,2 Baths,Apartment
+"#505 -11753 SHEPPARD AVE E, Toronto, Ontario, M1B 5M3","$679,900",2+1 Beds,2 Baths,Apartment
+"#912 -100 WINGARDEN CRT, Toronto, Ontario, M1B 2P4","$649,900",3 Beds,2 Baths,Apartment
+"#601 -61 RICHVIEW RD, Toronto, Ontario, M9A 4M8","$589,000",2 Beds,2 Baths,Apartment
+"##1508 -2901 KIPLING AVE, Toronto, Ontario, M9V 5E5","$509,000",2 Beds,2 Baths,Apartment
+"#505 -15 MCMURRICH ST, Toronto, Ontario, M5R 3M6","$1,575,000",3+1 Beds,2 Baths,Apartment
+"451 ROGERS RD, Toronto, Ontario, M6M 1A6","$1,299,900",1 Beds,2 Baths,Detached
+"#201 -1852 QUEEN ST E, Toronto, Ontario, M4L 1H1","$1,249,000",2 Beds,2 Baths,Apartment
+"#3611 -1 YORKVILLE AVE, Toronto, Ontario, M4W 0B1","$1,180,000",2 Beds,2 Baths,Apartment
+"79 CLEARBROOKE CIRC, Toronto, Ontario, M9W 2E6","$1,150,000",3+2 Beds,2 Baths,Detached
+"#602 -8 WELLESLEY ST E, Toronto, Ontario, M4Y 3B2","$1,049,000",2 Beds,2 Baths,Apartment
+"2308-25 The Esplanade, Toronto, ON, M5E 1W5","$999,900",2 Beds,2 Baths,Apartment
+"3104-300 Bloor St E, Toronto, ON, M4W 3Y2","$999,800",2+1 Beds,2 Baths,Apartment
+"#1109 -270 WELLINGTON ST W, Toronto, Ontario, M5V 3P5","$999,000",2+2 Beds,2 Baths,Apartment
+"14 HILLARY AVE, Toronto, Ontario, M6N 2B8","$949,000",3 Beds,2 Baths,Detached
+"#202 -12 BONNYCASTLE ST, Toronto, Ontario, M5A 3Y4","$928,800",2+1 Beds,2 Baths,Apartment
+"#3311 -125 BLUE JAYS WAY, Toronto, Ontario, M5V 0N5","$870,000",3 Beds,2 Baths,Apartment
+"#4 -291 ONTARIO ST, Toronto, Ontario, M5A 2V8","$865,000",2 Beds,2 Baths,Apartment
+"#1805 -10 YONGE ST, Toronto, Ontario, M5E 1R4","$859,000",1+1 Beds,2 Baths,Apartment
+"#1609 -19 WESTERN BATTERY RD, Toronto, Ontario, M6K 0E3","$829,000",2+1 Beds,2 Baths,Apartment
+"#3610 -1926 LAKESHORE BLVD W, Toronto, Ontario, M6S 1A1","$824,900",2+1 Beds,2 Baths,Apartment
+"#1810 -12 YORK ST, Toronto, Ontario, M5J 0A9","$788,888",2+1 Beds,2 Baths,Apartment
+"##2508 -30 GIBBS RD, Toronto, Ontario, M9B 6L6","$699,900",2 Beds,2 Baths,Apartment
+"#1526 -75 BAMBURGH CIRC, Toronto, Ontario, M1W 3W1","$698,000",3+1 Beds,2 Baths,Apartment
+"#N2408 -6 SONIC WAY, Toronto, Ontario, M3C 0P1","$669,888",2 Beds,2 Baths,Apartment
+"#1402 -400 MCLEVIN AVE, Toronto, Ontario, M1B 5J4","$609,000",2 Beds,2 Baths,Apartment
+"#PH01 -3 SOUTHVALE DR, Toronto, Ontario, M4G 1G2","$1,975,000",2+1 Beds,2 Baths,Apartment
+"184 HENDON AVE, Toronto, Ontario, M2M 1A7","$1,438,000",3+1 Beds,2 Baths,Detached
+"#GPH20 -280 HOWLAND AVE, Toronto, Ontario, M5R 0C3","$1,429,000",2 Beds,2 Baths,Apartment
+"85 WARINGSTOWN DR, Toronto, Ontario, M1R 4H5","$1,275,000",3+2 Beds,2 Baths,Detached
+"#1308 -55 ONTARIO ST, Toronto, Ontario, M5A 0T8","$1,195,000",3 Beds,2 Baths,Apartment
+"#2902 -11 WELLESLEY ST W, Toronto, Ontario, M4Y 1E8","$1,193,800",2 Beds,2 Baths,Apartment
+"#705 -111 ST CLAIR AVE W, Toronto, Ontario, M4V 1N5","$1,098,000",2 Beds,2 Baths,Apartment
+"#607 -899 COLLEGE ST, Toronto, Ontario, M6H 1A1","$1,079,000",1+1 Beds,2 Baths,Apartment
+"#2802 -1928 LAKESHORE BLVD W, Toronto, Ontario, M6S 0B1","$999,000",2+1 Beds,2 Baths,Apartment
+"#UPH09 -7 LORRAINE DR, Toronto, Ontario, M2N 7H2","$998,000",3 Beds,2 Baths,Apartment
+"104 TOPCLIFF AVE, Toronto, Ontario, M3N 1L8","$959,000",3+1 Beds,2 Baths,Detached
+"#1 -389 THE WESTWAY, Toronto, Ontario, M9R 0B4","$949,900",3 Beds,2 Baths,Townhouse
+"14 Hillary Avenue, Toronto, ON, M6N 2B8","$949,000",3 Beds,2 Baths,1016 Square Feet
+"#1005 -215 QUEEN WEST ST, Toronto, Ontario, M5V 0P5","$875,000",3 Beds,2 Baths,Apartment
+"#712 -840 ST CLAIR AVE W, Toronto, Ontario, M6C 0A4","$799,900",2 Beds,2 Baths,Apartment
+"#1908 -38 FOREST MANOR RD, Toronto, Ontario, M2J 1M5","$799,888",3+1 Beds,2 Baths,Apartment
+"#2502 -55 REGENT PARK BLVD, Toronto, Ontario, M5A 0C2","$799,000",2 Beds,2 Baths,Apartment
+"#617 -5418 YONGE ST, Toronto, Ontario","$795,900",2+1 Beds,2 Baths,Apartment
+"#335 -3121 SHEPPARD AVE E, Toronto, Ontario, M1T 3J7","$795,000",2+1 Beds,2 Baths,Apartment
+"#2619 -238 BONIS AVE, Toronto, Ontario, M1T 3W7","$789,000",2+1 Beds,2 Baths,Apartment
+"#919 -9 MABELLE AVE, Toronto, Ontario, M9A 4X7","$735,000",2+1 Beds,2 Baths,Apartment
+"#2402 -33 UNIVERSITY AVE, Toronto, Ontario, M5J 2S7","$729,000",1+1 Beds,2 Baths,Apartment
+"#312 -330 ALTON TOWERS CIRC, Toronto, Ontario, M1V 5H3","$659,000",2+1 Beds,2 Baths,Apartment
+"#1501 -2150 LAWRENCE AVE E, Toronto, Ontario, M1R 3A7","$599,000",2 Beds,2 Baths,Apartment
+"#1111 -2 SONIC WAY, Toronto, Ontario, M3C 0P2","$589,900",1+1 Beds,2 Baths,Apartment
+"##6409 -1 BLOOR ST E, Toronto, Ontario, M4W 0A8","$1,750,000",2+1 Beds,2 Baths,Apartment
+"14 BROOKLYN AVE, Toronto, Ontario, M4M 2X5","$1,699,900",4 Beds,2 Baths,Detached
+"52 ALTAMONT RD, Toronto, Ontario, M2M 1S7","$1,689,000",3 Beds,2 Baths,Detached
+"462 ANNETTE ST, Toronto, Ontario, M6P 1S2","$1,499,900",3 Beds,2 Baths,Detached
+"#132 -275 BROADVIEW AVE, Toronto, Ontario, M4M 3H5","$899,000",3 Beds,2 Baths,Townhouse
+"#2211 -15 WINDERMERE AVE, Toronto, Ontario, M6S 5A2","$849,000",2 Beds,2 Baths,Apartment
+"#405 -1603 EGLINTON AVE W, Toronto, Ontario, M6E 0A1","$844,900",2+1 Beds,2 Baths,Apartment
+"#902 -251 MANITOBA ST, Toronto, Ontario, M8Y 4G9","$749,999",2 Beds,2 Baths,Apartment
+"#1610 -30 MEADOWGLEN PL, Toronto, Ontario, M1H 3H3","$749,900",2+1 Beds,2 Baths,Apartment
+"#1626 -5233 DUNDAS  ST W, Toronto, Ontario, M9B 6M1","$739,900",2 Beds,2 Baths,Apartment
+"805-3420 Eglinton Ave E, Toronto, ON, M1J 2H9","$599,900",3 Beds,2 Baths,Apartment
+"##619 -2550 LAWRENCE AVE E, Toronto, Ontario, M1P 4Z3","$599,000",2 Beds,2 Baths,Apartment
+"50 Bainbridge Ave, Toronto, ON, M3H 2K2","$1,899,900",3 Beds,2 Baths,Detached
+"2001-628 Fleet St, Toronto, ON, M5V 1A8","$1,549,000",2+1 Beds,2 Baths,Apartment
+"#103 -15 HOLMES  AVE, Toronto, Ontario, M2N 4L8","$950,000",2 Beds,2 Baths,Apartment
+"109-1210 Don Mills Rd, Toronto, ON, M3B 3N9","$899,900",2 Beds,2 Baths,Apartment
+"#1902 -170 BAYVIEW AVE, Toronto, Ontario, M5A 0M4","$849,999",2 Beds,2 Baths,Apartment
+"205-800 King Street W, Toronto, ON, M5V 3M7","$849,000",1 Beds,2 Baths,700 Square Feet
+"718-99 The Donway Rd W, Toronto, ON, M3C 0N8","$814,900",2 Beds,2 Baths,Apartment
+"#617 -222 THE ESPLANADE AVE, Toronto, Ontario, M5A 4M8","$739,900",2 Beds,2 Baths,Apartment
+"#15 -11 ELDORA AVE, Toronto, Ontario, M2M 0B5","$599,000",2 Beds,2 Baths,Townhouse
+"#209 -1215 YORK MILLS RD, Toronto, Ontario, M3A 1Y4","$998,888",3 Beds,2 Baths,Apartment
+"1902-170 Bayview Avenue, Toronto, ON, M5A 0M4","$849,999",2 Beds,2 Baths,727 Square Feet
+"#2028 -75 BAMBURGH CIRC, Toronto, Ontario, M1W 3W1","$729,900",2+1 Beds,2 Baths,Apartment
+"#1204 -30 TIPPETT RD, Toronto, Ontario, M3H 2V2","$639,899",2 Beds,2 Baths,Apartment
+"#612 -1 ROWNTREE RD, Toronto, Ontario, M9V 5G7","$629,900",2+1 Beds,2 Baths,Apartment
+"#111 -3050 ELLESMERE RD, Toronto, Ontario, M1E 5E6","$525,900",2 Beds,2 Baths,Apartment
+"11 NIPISSING DR, Toronto, Ontario, M9B 4V4","$1,688,800",3+1 Beds,2 Baths,Detached
+"5 LEHAR CRES, Toronto, Ontario, M2H 1J4","$1,428,800",4 Beds,2 Baths,Detached
+"#802 -575 BLOOR ST E, Toronto, Ontario, M4W 0B2","$1,360,000",3 Beds,2 Baths,Apartment
+"16 ARCHER ST, Toronto, Ontario, M6H 1J2","$1,199,000",4 Beds,2 Baths,Detached
+"25 ELLINS AVE, Toronto, Ontario, M6N 2A4","$1,049,900",2 Beds,2 Baths,Detached
+"3125 ST CLAIR AVE E, Toronto, Ontario, M1L 1V1","$925,000",3+1 Beds,2 Baths,Detached
+"#2907 -30 GIBBS RD W, Toronto, Ontario, M9B 6L6","$759,000",3 Beds,2 Baths,Apartment
+"#355 -31 TIPPETT RD, Toronto, Ontario, M3H 0C8","$699,999",2+1 Beds,2 Baths,Apartment
+"#53 -2901 JANE ST, Toronto, Ontario, M3N 2J8","$699,990",3 Beds,2 Baths,Townhouse
+"#1011 -75 THE DONWAY WAY, Toronto, Ontario, M3C 2E9","$689,000",1+1 Beds,2 Baths,Apartment
+"#29 -81 DRIFTWOOD AVE, Toronto, Ontario, M3N 2M7","$649,900",3 Beds,2 Baths,Townhouse
+"#710 -3380 EGLINTON AVE E, Toronto, Ontario, M1J 3L6","$595,000",3 Beds,2 Baths,Apartment
+"#902 -15 LONDON GREEN CRT, Toronto, Ontario, M3N 1K4","$499,999",3 Beds,2 Baths,Apartment
+"#1201/02 -270 QUEENS QUAY W, Toronto, Ontario, M5J 2N4","$1,449,900",2+1 Beds,2 Baths,Apartment
+"40 EUCLID AVE, Toronto, Ontario, M6J 2J6","$1,379,000",3 Beds,2 Baths,Detached
+"126 Springhurst Avenue, Toronto, Ontario, M6K 1C1","$1,299,000",4 Beds,2 Baths,Detached
+"126 SPRINGHURST AVE, Toronto, Ontario, M6K 1C1","$1,299,000",4 Beds,2 Baths,Detached
+"8 CULNAN AVE, Toronto, Ontario, M8Z 5A8","$1,059,000",2+1 Beds,2 Baths,Detached
+"25 Ellins Avenue, Toronto, ON, M6N 2A4","$1,049,900",2 Beds,2 Baths,771 Square Feet
+"837 CRAVEN RD, Toronto, Ontario, M4L 2Z6","$999,000",2+1 Beds,2 Baths,Detached
+"#TORONTO -8 HANDEL ST, Toronto, Ontario, M6N 4G1","$999,000",2+1 Beds,2 Baths,Detached
+"#6 -10 BRADBROOK RD, Toronto, Ontario, M8Z 5V3","$949,000",3 Beds,2 Baths,Townhouse
+"#1202 -100 HARBOUR ST, Toronto, Ontario, M5J 0B5","$799,900",2 Beds,2 Baths,Apartment
+"#2205 -60 BYNG AVE, Toronto, Ontario, M2N 7K3","$798,000",2 Beds,2 Baths,Apartment
+"#PH E -7 BROADWAY AVE, Toronto, Ontario, M4P 3C5","$788,800",2 Beds,2 Baths,Apartment
+"#102 -135 WYNFORD DR, Toronto, Ontario, M3C 0J4","$779,800",2+1 Beds,2 Baths,Apartment
+"#2804 -2A CHURCH ST, Toronto, Ontario, M5E 0E1","$765,900",1+1 Beds,2 Baths,Apartment
+"#609 -28 AVONDALE AVE, Toronto, Ontario, M2N 2T9","$765,000",2 Beds,2 Baths,Apartment
+"#110 -211 RANDOLPH RD, Toronto, Ontario, M4G 4H1","$759,000",2 Beds,2 Baths,Apartment
+"#709 -5740 YONGE ST, Toronto, Ontario, M2M 1B0","$699,000",2+1 Beds,2 Baths,Apartment
+"#7C -6 ROSEBANK DR, Toronto, Ontario, M1B 0A1","$665,000",2 Beds,2 Baths,Apartment
+"#1412 -320 RICHMOND ST E, Toronto, Ontario, M5A 1P9","$649,000",1+1 Beds,2 Baths,Apartment
+"#15 -593 KENNEDY RD, Toronto, Ontario, M1K 2B2","$620,000",3 Beds,2 Baths,Townhouse
+"##PH 8 -480 MCLEVIN AVE, Toronto, Ontario, M1B 5N9","$599,000",2 Beds,2 Baths,Apartment
+"319-115 Bonis Ave, Toronto, ON, M1T 3S4","$538,000",2 Beds,2 Baths,Apartment
+"11 FAIRSIDE AVE, Toronto, Ontario, M4C 3G8","$1,399,000",2+1 Beds,2 Baths,Detached
+"232 COMBE AVE, Toronto, Ontario, M3H 4K7","$1,349,000",3+1 Beds,2 Baths,Detached
+"#PH16 -1000 KING ST W, Toronto, Ontario, M6K 3N1","$1,299,900",3 Beds,2 Baths,Apartment
+"66 NORTHBROOK RD, Toronto, Ontario, M4J 4G3","$1,259,900",2+1 Beds,2 Baths,Detached
+"#301 -825 CHURCH ST, Toronto, Ontario, M4W 3Z4","$998,000",2 Beds,2 Baths,Apartment
+"259 SIXTH ST, Toronto, Ontario, M8V 3A8","$899,999",3 Beds,2 Baths,Townhouse
+"#2206 -38 IANNUZZI ST, Toronto, Ontario, M5V 5S2","$899,000",2 Beds,2 Baths,Apartment
+"#1504 -2010 ISLINGTON AVE, Toronto, Ontario, M9P 3S8","$800,000",3 Beds,2 Baths,Apartment
+"14 SNOWOOD CRT, Toronto, Ontario, M3N 1E8","$799,000",3 Beds,2 Baths,Detached
+"#5807 -8 EGLINTON AVE E, Toronto, Ontario, M4P 1A6","$795,000",1+1 Beds,2 Baths,Apartment
+"#N803 -455 FRONT ST E, Toronto, Ontario, M5A 0G2","$769,000",2 Beds,2 Baths,Apartment
+"#201 -1201 STEELES AVE W, Toronto, Ontario, M2R 3K1","$719,000",2+1 Beds,2 Baths,Apartment
+"1206-133 Torresdale Ave, Toronto, ON, M2R 3T2","$714,900",3+1 Beds,2 Baths,Apartment
+"#C45 -288 MILL RD, Toronto, Ontario, M9C 4X7","$665,000",2 Beds,2 Baths,Apartment
+"#1814 -181 VILLAGE GREEN SQ, Toronto, Ontario, M1S 0K6","$659,900",2+1 Beds,2 Baths,Apartment
+"#925 -22 EAST HAVEN DR, Toronto, Ontario, M1N 0B4","$627,700",2 Beds,2 Baths,Apartment
+"45 CARNEY RD, Toronto, Ontario, M2M 1T3","$1,480,000",3+2 Beds,2 Baths,Detached
+"702-20 Shore Breeze Drive, Toronto, ON, M8V 0C7","$1,299,990",2 Beds,2 Baths,810 Square Feet
+"98A KITCHENER RD, Toronto, Ontario, M1E 2X7","$1,099,000",2+2 Beds,2 Baths,Detached
+"#1205 -10 YORK ST, Toronto, Ontario, M5J 2L9","$1,069,999",2 Beds,2 Baths,Apartment
+"#1202 -608 RICHMOND ST W, Toronto, Ontario, M5V 1Y9","$987,500",2 Beds,2 Baths,Apartment
+"#LPH1305 -36 BLUE JAYS WAY, Toronto, Ontario, M5V 3T3","$955,555",2 Beds,2 Baths,Apartment
+"#1829 -500 DORIS AVE, Toronto, Ontario, M2N 0C1","$889,000",2+1 Beds,2 Baths,Apartment
+"#105 -2087 LAKE SHORE BLVD W, Toronto, Ontario, M8V 4G3","$839,000",2 Beds,2 Baths,Apartment
+"#2115 -155 BEECROFT RD, Toronto, Ontario, M2N 7C6","$829,000",2 Beds,2 Baths,Apartment
+"#9 -4357 BLOOR ST W, Toronto, Ontario, M9C 2A4","$798,900",3 Beds,2 Baths,Townhouse
+"#1628 -700 HUMBERWOOD BLVD, Toronto, Ontario, M9W 1J4","$699,000",2+1 Beds,2 Baths,Apartment
+"#1605 -88 GRANGEWAY AVE, Toronto, Ontario, M1H 0A2","$685,000",2 Beds,2 Baths,Apartment
+"#1028 -26 GIBBS RD, Toronto, Ontario, M9B 6L6","$685,000",2 Beds,2 Baths,Apartment
+"#1219 -1028 MCNICOLL AVE, Toronto, Ontario, M1W 0B5","$679,000",2 Beds,2 Baths,Apartment
+"#2303 -125 VILLAGE GREEN SQ, Toronto, Ontario, M1S 0G3","$679,000",3 Beds,2 Baths,Apartment
+"#13 -36 GIBSON AVE, Toronto, Ontario, M9N 0A5","$649,000",2 Beds,2 Baths,Townhouse
+"#3007 -65 ST MARY ST, Toronto, Ontario, M5S 0A6","$1,500,000",2 Beds,2 Baths,Apartment
+"#803 -160 FREDERICK ST, Toronto, Ontario, M5A 4H9","$1,499,000",2+1 Beds,2 Baths,Apartment
+"20 PORTER CRES, Toronto, Ontario, M1P 1E7","$1,399,000",3+2 Beds,2 Baths,Detached
+"#3702 -224 KING ST W, Toronto, Ontario, M5H 0A6","$1,390,000",3 Beds,2 Baths,Apartment
+"#4108 -8 THE ESPLANADE DR, Toronto, Ontario","$1,180,000",2+1 Beds,2 Baths,Apartment
+"72C COXWELL AVE, Toronto, Ontario, M4L 3A7","$875,000",2 Beds,2 Baths,Apartment
+"#607 -70 HIGH PARK AVE, Toronto, Ontario, M6P 1A1","$869,900",2 Beds,2 Baths,Apartment
+"#PH5 -150 NEPTUNE DR, Toronto, Ontario, M6A 2Y9","$799,000",3 Beds,2 Baths,Apartment
+"#202 -500 GLENCAIRN AVE, Toronto, Ontario, M6B 1Z1","$699,000",1+1 Beds,2 Baths,Apartment
+"1028-26 Gibbs Road, Toronto, ON, M9B 0E3","$685,000",2 Beds,2 Baths,732 Square Feet
+"#315 -6 HUMBERLINE DR, Toronto, Ontario, M9W 6X8","$648,000",2+1 Beds,2 Baths,Apartment
+"#205 -3420 EGLINTON AVE E, Toronto, Ontario, M1J 2H9","$598,900",3 Beds,2 Baths,Apartment
+"1711-100 Wingarden Crt, Toronto, ON, M1B 2P4","$499,900",2 Beds,2 Baths,Apartment
+"703/704-70 Montclair Ave, Toronto, ON, M5P 1P7","$1,650,000",3+1 Beds,2 Baths,Apartment
+"#3905 -16 YONGE ST, Toronto, Ontario, M5E 2A3","$999,999",2+1 Beds,2 Baths,Apartment
+"#519 -20 GLADSTONE AVE, Toronto, Ontario, M6J 3K6","$759,000",2 Beds,2 Baths,Apartment
+"#2205 -135 EAST LIBERTY ST, Toronto, Ontario, M6K 3K4","$1,094,900",2 Beds,2 Baths,Apartment
+"#1405 -215 QUEEN ST W, Toronto, Ontario, M5V 0P5","$898,888",3 Beds,2 Baths,Apartment
+"#903E -555 WILSON AVE, Toronto, Ontario, M3H 5Y6","$789,900",2 Beds,2 Baths,Apartment
+"##612 -55 BAMBURGH CIRC, Toronto, Ontario, M1W 3V4","$738,000",3 Beds,2 Baths,Apartment
+"#1410 -100 WINGARDEN CRT, Toronto, Ontario, M1B 2P4","$688,000",3 Beds,2 Baths,Apartment
+"#605 -3220 SHEPPARD AVE, Toronto, Ontario, M1T 3K3","$649,999",2 Beds,2 Baths,Apartment
+"#1809 -5 GREYSTONE WALK DR, Toronto, Ontario, M1K 5J5","$569,000",2+1 Beds,2 Baths,Apartment
+"#605 -100 WINGARDEN CRT, Toronto, Ontario, M1B 2P4","$530,000",2 Beds,2 Baths,Apartment
+"2657 MIDLAND AVE, Toronto, Ontario, M1S 1R6","$1,458,800",2+2 Beds,2 Baths,Detached
+"18 MALLON AVE, Toronto, Ontario, M4M 1P8","$1,424,800",3 Beds,2 Baths,Detached
+"#2303 -39 ROEHAMPTON AVE, Toronto, Ontario, M4P 1P9","$939,900",2 Beds,2 Baths,Apartment
+"#PH02 -2220 LAKE SHORE BLVD W, Toronto, Ontario, M8Y 3H8","$899,000",2 Beds,2 Baths,Apartment
+"552 SANDHURST CIRC, Toronto, Ontario, M1S 4J6","$860,000",3 Beds,2 Baths,Townhouse
+"#2305 -39 ROEHAMPTON AVE, Toronto, Ontario, M4P 1P9","$849,900",2 Beds,2 Baths,Apartment
+"#1402 -12 YORK ST, Toronto, Ontario, M5J 0A9","$799,999",2 Beds,2 Baths,Apartment
+"4015-1926 Lake Shore Blvd W, Toronto, ON, M6S 1A1","$799,999",1+1 Beds,2 Baths,Apartment
+"#515 -890 SHEPPARD AVE W, Toronto, Ontario, M3H 6B9","$752,888",2 Beds,2 Baths,Apartment
+"#1510 -30 GIBBS RD, Toronto, Ontario, M9B 0E4","$645,900",2 Beds,2 Baths,Apartment
+"#PH15 -275 VILLAGE GREEN SQ, Toronto, Ontario, M2S 0L8","$639,800",1+1 Beds,2 Baths,Apartment
+"#1908 -17 ZORRA ST, Toronto, Ontario, M8Z 0C8","$619,500",1+1 Beds,2 Baths,Apartment
+"69 MONTROSE AVE, Toronto, Ontario, M6J 2T6","$1,599,900",3 Beds,2 Baths,Detached
+"11 SQUIRES AVE, Toronto, Ontario, M4B 2R2","$1,499,999",4+1 Beds,2 Baths,Detached
+"#2010 -20 EDWARD ST, Toronto, Ontario, M5G 0C5","$1,485,000",3 Beds,2 Baths,Apartment
+"#7407 -388 YONGE ST, Toronto, Ontario, M5B 0A4","$1,469,000",2 Beds,2 Baths,Apartment
+"#3713 -15 LOWER JARVIS ST, Toronto, Ontario, M5E 1R7","$949,990",2 Beds,2 Baths,Apartment
+"#910 -36 BLUE JAYS WAY, Toronto, Ontario, M5V 3T3","$829,000",2 Beds,2 Baths,Apartment
+"#TH 12 -15 BRIN DR, Toronto, Ontario, M8X 0B3","$799,900",3 Beds,2 Baths,Townhouse
+"#417 -177 DUNDAS ST E, Toronto, Ontario, M5B 1E1","$799,000",2 Beds,2 Baths,Apartment
+"#2105 -11 BOGERT AVE, Toronto, Ontario, M2N 0H4","$798,000",1+1 Beds,2 Baths,Apartment
+"#1014 -1101 STEELES AVE W, Toronto, Ontario, M2R 3W5","$769,900",2 Beds,2 Baths,Apartment
+"#225 -77 SHUTER ST, Toronto, Ontario, M5B 0B8","$730,000",1+1 Beds,2 Baths,Apartment
+"#520 -77 SHUTER ST, Toronto, Ontario, M5C 1S1","$728,000",1 Beds,2 Baths,Apartment
+"#610 -15 BRUYERES MEWS, Toronto, Ontario, M5V 0A7","$720,000",1+1 Beds,2 Baths,Apartment
+"#323 -2121 LAKESHORE BLVD W, Toronto, Ontario, M8V 4E9","$719,000",1+1 Beds,2 Baths,Apartment
+"#209 -1 FALAISE RD, Toronto, Ontario, M1E 0B9","$699,000",2+1 Beds,2 Baths,Apartment
+"#1715 -181 VILLAGE GREEN  SQ, Toronto, Ontario, M1S 0K6","$639,999",2+1 Beds,2 Baths,Apartment
+"#113 -2645 JANE ST, Toronto, Ontario, M3L 2J3","$469,000",2 Beds,2 Baths,Apartment
+"11 CATHLO ST, Toronto, Ontario, M1E 3N2","$1,250,000",3 Beds,2 Baths,Detached
+"82 SCARBOROUGH HEIGHTS BLVD, Toronto, Ontario, M1M 2V4","$1,199,900",3+1 Beds,2 Baths,Detached
+"118-120 Homewood Ave, Toronto, ON, M4Y 2J3","$1,198,000",2+1 Beds,2 Baths,Apartment
+"#14B -86 GERRARD ST E, Toronto, Ontario, M5B 2J1","$1,090,000",3 Beds,2 Baths,Apartment
+"#417 -270 WELLINGTON ST W, Toronto, Ontario, M5V 3P5","$1,008,000",2 Beds,2 Baths,Apartment
+"#3204 -395 BLOOR ST E, Toronto, Ontario, M4W 1H7","$999,000",2 Beds,2 Baths,Apartment
+"#507 -2045 LAKE SHORE BLVD W, Toronto, Ontario, M8V 2Z6","$920,000",2 Beds,2 Baths,Apartment
+"#2207 -2220 LAKE SHORE BLVD W, Toronto, Ontario, M8V 1A4","$849,900",2+1 Beds,2 Baths,Apartment
+"#620 -2885 BAYVIEW AVE, Toronto, Ontario, M2K 0A3","$705,000",1+1 Beds,2 Baths,Apartment
+"#806 -105 GEORGE ST, Toronto, Ontario, M5A 0L4","$698,000",1+1 Beds,2 Baths,Apartment
+"#20 -242 JOHN GARLAND BLVD, Toronto, Ontario, M9V 1N8","$679,000",3+1 Beds,2 Baths,Townhouse
+"#1904 -10 SUNNY GLEN WAY, Toronto, Ontario, M3C 2Z5","$599,800",3 Beds,2 Baths,Apartment
+"9 ROMANA DR, Toronto, Ontario, M1N 1K6","$1,100,000",3 Beds,2 Baths,Detached
+"#616 -251 MANITOBA ST, Toronto, Ontario, M8Y 4G9","$1,079,800",2 Beds,2 Baths,Apartment
+"#1201 -218 QUEENS QUAY W, Toronto, Ontario, M5J 2Y6","$899,888",2 Beds,2 Baths,Apartment
+"#1702 -299 MILL RD, Toronto, Ontario, M9C 4V9","$879,900",3 Beds,2 Baths,Apartment
+"#3611 -1926 LAKESHORE BLVD W, Toronto, Ontario, M6S 1A1","$799,000",2 Beds,2 Baths,Apartment
+"#1609 -31 TIPPETT RD, Toronto, Ontario, M3H 0C8","$779,900",2+1 Beds,2 Baths,Apartment
+"#2301 -400 ADELAIDE ST E, Toronto, Ontario, M5A 1N4","$779,000",1+1 Beds,2 Baths,Apartment
+"#817 -700 HUMBERWOOD BLVD, Toronto, Ontario, M9W 7J4","$660,000",2+1 Beds,2 Baths,"Storage - Locker, Exercise Centre, Recreation Centre"
+"#417 -1401 O'CONNOR DR, Toronto, Ontario, M4B 2V5","$649,000",1+1 Beds,2 Baths,Apartment
+"#705 -95 LOMBARD ST, Toronto, Ontario, M5C 2V3","$579,000",1 Beds,2 Baths,Apartment
+"#103 -19 FOUR WINDS DR, Toronto, Ontario, M3J 2S9","$549,888",2 Beds,2 Baths,Apartment
+"2775 VICTORIA PARK AVE, Toronto, Ontario, M1W 1A1","$1,998,000",3 Beds,2 Baths,Detached
+"#2208 -357 KING ST W, Toronto, Ontario, M5V 1K1","$1,089,000",2 Beds,2 Baths,Apartment
+"12 FOXRUN AVE, Toronto, Ontario, M3L 1L8","$984,880",3+1 Beds,2 Baths,Detached
+"#1008 -1 YORKVILLE AVE, Toronto, Ontario, M4W 1L1","$888,000",1+1 Beds,2 Baths,Apartment
+"#308 -88 GRANDVIEW WAY, Toronto, Ontario, M2N 6V6","$879,999",2+1 Beds,2 Baths,Apartment
+"#101 -460 ADELAIDE ST E, Toronto, Ontario, M5A 1N6","$879,900",2+1 Beds,2 Baths,Apartment
+"#5301 -138 DOWNES ST, Toronto, Ontario, M5E 0E4","$820,000",1+1 Beds,2 Baths,Apartment
+"#3705 -9 BOGERT AVE, Toronto, Ontario, M2N 5M6","$755,000",1+1 Beds,2 Baths,Apartment
+"555-60 Ann O'reilly Rd, Toronto, ON, M2J 0C8","$749,000",2 Beds,2 Baths,Apartment
+"#606 -105 VICTORIA ST, Toronto, Ontario, M5C 3B4","$749,000",2+1 Beds,2 Baths,Apartment
+"#207 -2087 LAKE SHORE BLVD W, Toronto, Ontario, M8V 4G3","$739,000",2 Beds,2 Baths,Apartment
+"#608 -70 ANNIE CRAIG DR, Toronto, Ontario, M8V 0G2","$719,000",1+1 Beds,2 Baths,Apartment
+"#303 -1415 LAWRENCE AVE W, Toronto, Ontario, M6L 1A9","$565,000",2 Beds,2 Baths,Apartment
+"#507 -15 LONDON GREEN CRT, Toronto, Ontario, M3N 1K4","$499,900",2 Beds,2 Baths,Apartment
+"#PH05 -1 YORKVILLE AVE, Toronto, Ontario, M4W 1L1","$1,900,000",2 Beds,2 Baths,Apartment
+"1 Random St, Toronto, ON, M9B 2J3","$1,399,000",2 Beds,2 Baths,Detached
+"#720 -5233 DUNDAS ST W, Toronto, Ontario, M9B 6M1","$849,000",2 Beds,2 Baths,Apartment
+"#910 -3655 KINGSTON RD, Toronto, Ontario, M1M 0E2","$848,000",2 Beds,2 Baths,Apartment
+"#1116 -2627 MCCOWAN RD, Toronto, Ontario, M1S 5T1","$660,000",2+1 Beds,2 Baths,Apartment
+"709-665 Kennedy Road, Toronto, ON, M1K 5E2","$519,900",3 Beds,2 Baths,571.56
+"#N305 -6 SONIC WAY, Toronto, Ontario, M3C 0P1","$653,000",2 Beds,2 Baths,Apartment
+"#1501 -1926 LAKE SHORE BLVD W, Toronto, Ontario, M6S 1A1","$629,000",1+1 Beds,2 Baths,Apartment
+"#A -50 DEVONDALE AVE, Toronto, Ontario, M2R 2E2","$1,624,900",3 Beds,2 Baths,Detached
+"#709 -39 ROEHAMPTON AVE, Toronto, Ontario, M4P 1P9","$1,088,000",3 Beds,2 Baths,Apartment
+"#202 -859 THE QUEENSWAY, Toronto, Ontario, M8Z 1N8","$1,064,990",2 Beds,2 Baths,Apartment
+"#2103 -20 RICHARDSON ST, Toronto, Ontario, M5A 0S6","$999,000",2+1 Beds,2 Baths,Apartment
+"#1105 -65 SPRING GARDEN AVE, Toronto, Ontario, M2N 6H9","$925,000",2+1 Beds,2 Baths,Apartment
+"859 Eglinton Avenue West, Toronto, ON, M6C 2B6","$919,000",1 Beds,2 Baths,Yes
+"#1402 -135 EAST LIBERTY ST S, Toronto, Ontario, M6K 3P6","$899,000",2 Beds,2 Baths,Apartment
+"46 CHERRYLAWN AVE, Toronto, Ontario, M9L 2B4","$899,000",3 Beds,2 Baths,Detached
+"#306 -35 ORMSKIRK AVE, Toronto, Ontario, M6S 1A8","$839,000",2+1 Beds,2 Baths,Apartment
+"#512 -35 HOLLYWOOD AVE, Toronto, Ontario, M2N 0A9","$829,000",2+1 Beds,2 Baths,Apartment
+"#2105 -77 MUTUAL ST, Toronto, Ontario, M5B 0B9","$808,000",2 Beds,2 Baths,Apartment
+"#303 -22 WELLESLEY ST, Toronto, Ontario, M4Y 1G3","$799,900",3 Beds,2 Baths,Apartment
+"#303 -22 WELLESLEY ST, Toronto, Ontario, M4Y 1G3","$799,900",3 Beds,2 Baths,Apartment
+"#1205 -70 ANNIE CRAIG DR, Toronto, Ontario, M8V 0G2","$718,900",1+1 Beds,2 Baths,Apartment
+"#1709 -219 DUNDAS ST E, Toronto, Ontario, M5A 0A1","$718,000",1+1 Beds,2 Baths,Apartment
+"#616 -2300 ST CLAIR AVE W, Toronto, Ontario, M6N 0B3","$675,000",1+1 Beds,2 Baths,Apartment
+"#404 -38 FOREST MANOR RD, Toronto, Ontario, M2J 1M1","$668,000",2 Beds,2 Baths,Apartment
+"#311 -10 MENDELSSOHN ST, Toronto, Ontario, M1L 0G7","$649,999",2 Beds,2 Baths,Apartment
+"47 AVONWICK GATE, Toronto, Ontario, M3A 2M8","$1,799,000",4 Beds,2 Baths,Detached
+"#4404 -8 THE ESPLANADE, Toronto, Ontario, M5E 0A6","$1,537,500",2+1 Beds,2 Baths,Apartment
+"#607 -2118 BLOOR ST W, Toronto, Ontario, M6S 0A6","$1,050,000",2 Beds,2 Baths,Apartment
+"#1010 -33 SHORE BREEZE DR, Toronto, Ontario, M8V 1A2","$1,049,000",2+1 Beds,2 Baths,Apartment
+"#506 -71 FRONT ST E, Toronto, Ontario, M5E 1T9","$999,000",2 Beds,2 Baths,Apartment
+"#1016 -1215 YORK MILLS  RD, Toronto, Ontario, M3A 1Y4","$948,888",2 Beds,2 Baths,Apartment
+"#1210 -39 ROEHAMPTON AVE, Toronto, Ontario, M4P 1P9","$749,988",1+1 Beds,2 Baths,Apartment
+"#PH07 -133 TORRESDALE AVE, Toronto, Ontario, M2R 3T2","$725,000",3 Beds,2 Baths,Apartment
+"#1107 -2787 EGLINTON AVE E, Toronto, Ontario, M1J 2E1","$719,000",2 Beds,2 Baths,Townhouse
+"#403 -236 ALBION RD, Toronto, Ontario, M9W 6A6","$588,800",3 Beds,2 Baths,Apartment
+"1667 ST. CLAIR AVE W, Toronto, Ontario, M6N 1H9","$1,849,000",4 Beds,2 Baths,Retail
+"118 WARWOOD RD, Toronto, Ontario, M9B 5B7","$1,788,000",3+1 Beds,2 Baths,Detached
+"1127 ST CLAIR AVE W, Toronto, Ontario, M6E 1B1","$1,649,900",2 Beds,2 Baths,Mixed
+"#303 -575 BLOOR ST E, Toronto, Ontario, M4W 0B2","$1,395,000",2 Beds,2 Baths,Apartment
+"47 Glenburn Ave, Toronto, ON, M4B 2X5","$1,249,000",3+2 Beds,2 Baths,Detached
+"#1807 -31 PARLIAMENT ST, Toronto, Ontario, M5A 2Y2","$1,199,900",2 Beds,2 Baths,Apartment
+"#1209 -197 YONGE ST, Toronto, Ontario, M5V 0C1","$1,159,000",3 Beds,2 Baths,Apartment
+"#1305 -135 EAST LIBERTY ST, Toronto, Ontario, M6K 3K4","$1,099,000",2 Beds,2 Baths,Apartment
+"#2208 -89 MCGILL ST, Toronto, Ontario, M5B 0B1","$1,098,000",3 Beds,2 Baths,Apartment
+"#305 -128 PEARS AVE, Toronto, Ontario, M5R 1T2","$995,000",1+1 Beds,2 Baths,Apartment
+"#615 -2300 ST CLAIR AVE W, Toronto, Ontario, M6N 0B3","$969,000",2+1 Beds,2 Baths,Apartment
+"#708 -1048 BROADVIEW AVE, Toronto, Ontario, M4K 2B8","$899,900",2 Beds,2 Baths,Apartment
+"#1440 -250 WELLINGTON ST W, Toronto, Ontario, M5V 3P6","$875,000",2 Beds,2 Baths,Apartment
+"#511 -8 EGLINTON AVE E, Toronto, Ontario, M4P 1A6","$870,000",2+1 Beds,2 Baths,Apartment
+"#2105 -5 ST. JOSEPH ST, Toronto, Ontario, M4Y 0B6","$858,000",1+1 Beds,2 Baths,Apartment
+"#2107 -75 CANTERBURY PL S, Toronto, Ontario, M2N 2N1","$850,000",2 Beds,2 Baths,Apartment
+"#PH1312 -812 LANSDOWNE AVE, Toronto, Ontario, M6H 4K5","$799,000",2 Beds,2 Baths,Apartment
+"#755 -5 EVERSON DR, Toronto, Ontario, M2N 7C3","$776,888",2+1 Beds,2 Baths,Townhouse
+"#906 -17 ZORRA ST, Toronto, Ontario, M8Z 4Z6","$719,800",2 Beds,2 Baths,Apartment
+"#604 -45 HUNTINGDALE BLVD, Toronto, Ontario, M1W 2N8","$709,900",2+1 Beds,2 Baths,Apartment
+"#99 -250 JOHN GARLAND BLVD, Toronto, Ontario, M9V 1N8","$698,900",3+1 Beds,2 Baths,Townhouse
+"##306 -2301 DANFORTH AVE, Toronto, Ontario, M4C 0A7","$689,000",2 Beds,2 Baths,Apartment
+"#214 -50 ORDNANCE ST, Toronto, Ontario, M6K 1A2","$668,000",1+1 Beds,2 Baths,Apartment
+"#1208 -1900 SHEPPARD AVE E, Toronto, Ontario, M2J 4T4","$599,000",2 Beds,2 Baths,Apartment
+"#208 -9 FOUR WINDS DR, Toronto, Ontario, M3J 2S8","$598,000",3 Beds,2 Baths,Apartment
+"#5210 -88 HARBOUR ST, Toronto, Ontario, M5J 1B7","$1,750,000",3 Beds,2 Baths,Apartment
+"1259 DAVENPORT RD, Toronto, Ontario, M6H 2H2","$1,380,000",5+1 Beds,2 Baths,Townhouse
+"#910 -150 SUDBURY ST, Toronto, Ontario, M6J 3S8","$910,000",2 Beds,2 Baths,Apartment
+"#1002 -125 BLUE JAYS WAY, Toronto, Ontario, M5V 0C4","$899,000",2+1 Beds,2 Baths,Apartment
+"#601 -10 PARK LAWN RD, Toronto, Ontario, M8V 0H9","$889,000",2 Beds,2 Baths,Apartment
+"#805 -1100 KINGSTON RD, Toronto, Ontario, M1N 0B3","$864,888",1+1 Beds,2 Baths,Apartment
+"3101-185 Roehampton Ave, Toronto, ON, M4P 1R4","$799,000",2 Beds,2 Baths,Apartment
+"#310 -105 THE QUEENSWAY AVE, Toronto, Ontario, M6S 5B5","$793,000",2 Beds,2 Baths,Apartment
+"#2511 -55 ANN O'REILLY RD, Toronto, Ontario, M2J 0E1","$750,000",2 Beds,2 Baths,Apartment
+"306-2301 Danforth Avenue, Toronto, ON, M4C 0A7","$689,000",2 Beds,2 Baths,671 Square Feet
+"#3001 -1928 LAKE SHORE BLVD W, Toronto, Ontario, M6S 0B1","$688,000",1+1 Beds,2 Baths,Apartment
+"368 ONTARIO ST, Toronto, Ontario, M5A 2V7","$1,699,888",4 Beds,2 Baths,Townhouse
+"1104 GLENGROVE AVE, Toronto, Ontario, M6B 2K4","$1,659,900",4 Beds,2 Baths,Detached
+"1259 Davenport Road, Toronto, ON, M6H 2H2","$1,380,000",6 Beds,2 Baths,2000 Square Feet
+"1311-15 Holmes Ave, Toronto, ON, M2N 4L8","$1,250,000",2 Beds,2 Baths,Apartment
+"#4112 -1926 LAKE SHORE BLVD W, Toronto, Ontario, M6S 1A1","$1,180,000",3 Beds,2 Baths,Apartment
+"#2215 -7 KING ST E, Toronto, Ontario, M5C 3C5","$1,098,000",2+1 Beds,2 Baths,Apartment
+"#210 -170 CHILTERN HILL RD, Toronto, Ontario, M6C 0A9","$999,000",2 Beds,2 Baths,Apartment
+"#2102 -30 NELSON ST, Toronto, Ontario, M5V 0H5","$968,000",2 Beds,2 Baths,Apartment
+"#807 -3237 BAYVIEW AVE, Toronto, Ontario, M2K 0G1","$699,000",2 Beds,2 Baths,Apartment
+"#1104 -2901 KIPLING AVE, Toronto, Ontario, M9V 5E5","$649,900",2+1 Beds,2 Baths,Apartment
+"#PH302 -135 WYNFORD DR, Toronto, Ontario, M3C 0J4","$899,000",2 Beds,2 Baths,Apartment
+"#1710 -7 LORRAINE  DR, Toronto, Ontario, M2N 7H2","$749,000",2 Beds,2 Baths,Apartment
+"#211 -60 SHUTER ST, Toronto, Ontario, M5B 0B7","$698,000",1+1 Beds,2 Baths,Apartment
+"#106 -18 KENASTON GDNS, Toronto, Ontario, M2K 3C7","$650,000",1+1 Beds,2 Baths,Apartment
+"316-115 Bonis Ave, Toronto, ON, M1T 3S4","$499,999",2 Beds,2 Baths,Apartment
+"#1803 -28 EMPRESS AVE, Toronto, Ontario, M2N 6Z7","$890,000",2 Beds,2 Baths,Apartment
+"#2805 -30 ROEHAMPTON AVE, Toronto, Ontario, M4P 0B9","$829,800",2 Beds,2 Baths,Apartment
+"#603 -9 FOUR WINDS DR, Toronto, Ontario, M3J 2S8","$599,000",3 Beds,2 Baths,Apartment
+"188 KINGSDALE AVE, Toronto, Ontario, M2N 3W9","$1,888,000",3+1 Beds,2 Baths,Detached
+"1708-15 Holmes Ave, Toronto, ON, M2N 4L8","$1,200,000",2 Beds,2 Baths,Apartment
+"#207 -650 MOUNT PLEASANT RD, Toronto, Ontario, M4S 2N5","$899,900",2 Beds,2 Baths,Apartment
+"#1202 -28 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 7B5","$899,000",2 Beds,2 Baths,Apartment
+"#2605 -29 SINGER CRT, Toronto, Ontario, M2K 0B4","$799,000",2+1 Beds,2 Baths,Apartment
+"#1203 -1910 LAKE SHORE BLVD W, Toronto, Ontario, M6S 1A2","$749,000",2 Beds,2 Baths,Apartment
+"#2104 -2787 EGLINTON AVE AVE E, Toronto, Ontario, M1J 2E1","$739,000",2 Beds,2 Baths,Townhouse
+"#3311 -161 ROEHAMPTON AVE, Toronto, Ontario, M4P 0C8","$730,000",1+1 Beds,2 Baths,Apartment
+"##703 -801 BAY ST, Toronto, Ontario, M5S 1Z1","$719,000",1+1 Beds,2 Baths,Apartment
+"326 STRATHMORE BLVD, Toronto, Ontario, M4J 1P8","$1,690,000",3+1 Beds,2 Baths,Detached
+"26 BEAVERBROOK AVE, Toronto, Ontario, M9B 2M9","$1,499,000",3+1 Beds,2 Baths,Detached
+"#501 -955 BAY ST, Toronto, Ontario, M5S 0C6","$999,000",2+1 Beds,2 Baths,Apartment
+"#427 -10 PARK LAWN RD, Toronto, Ontario, M8Y 0H9","$875,000",2+1 Beds,2 Baths,Apartment
+"#622 -5 MARINE PARADE DR, Toronto, Ontario, M8V 4B4","$859,999",2 Beds,2 Baths,Apartment
+"#919 -77 MAITLAND PL, Toronto, Ontario, M4Y 2V6","$750,000",2 Beds,2 Baths,Apartment
+"#2010 -60 PAVANE LINKWAY, Toronto, Ontario, M3C 1A1","$739,900",3 Beds,2 Baths,Apartment
+"#2208 -68 GRANGEWAY AVE, Toronto, Ontario, M1H 0A1","$650,000",2+1 Beds,2 Baths,Apartment
+"#2401 -30 MEADOWGLEN PL, Toronto, Ontario, M1G 0A6","$629,990",1+1 Beds,2 Baths,Apartment
+"808-225 Sherway Gardens Rd, Toronto, ON, M9C 0A3","$599,900",2 Beds,2 Baths,Apartment
+"430 DAWES RD, Toronto, Ontario, M4B 2E8","$1,488,888",2 Beds,2 Baths,Retail
+"#2206 -8 CHARLOTTE ST, Toronto, Ontario, M5V 0K4","$1,280,000",2+1 Beds,2 Baths,Apartment
+"94 SQUIRES AVE, Toronto, Ontario, M4B 2S1","$1,279,000",4 Beds,2 Baths,Detached
+"94 SQUIRES AVE, Toronto, Ontario, M4B 2S1","$1,279,000",4 Beds,2 Baths,Detached
+"#310 -99 FOXBAR RD, Toronto, Ontario, M4V 2G5","$1,199,000",2 Beds,2 Baths,Apartment
+"#2402 -197 YONGE ST, Toronto, Ontario, M5B 0C1","$999,900",2 Beds,2 Baths,Apartment
+"2102-812 Burnhamthorpe Rd, Toronto, ON, M9C 4W1","$844,900",3 Beds,2 Baths,Apartment
+"#1704 -75 GRAYDON HALL DR, Toronto, Ontario, M3A 3M5","$649,900",3 Beds,2 Baths,Apartment
+"#521 -621 SHEPPARD  AVE E, Toronto, Ontario, M2K 0G4","$629,000",1+1 Beds,2 Baths,Apartment
+"160 Windermere Ave, Toronto, ON, M6S 3J7","$1,625,000",3+1 Beds,2 Baths,Detached
+"188 ACTON AVE, Toronto, Ontario, M3H 4H5","$1,599,000",3 Beds,2 Baths,Detached
+"379 WINONA DR, Toronto, Ontario, M6C 3T4","$1,499,000",3 Beds,2 Baths,Detached
+"42 JOYCE PKWY, Toronto, Ontario, M6B 2S9","$1,440,000",3+1 Beds,2 Baths,Detached
+"51 WEDGE CRT, Toronto, Ontario, M3L 2M5","$1,199,000",3+1 Beds,2 Baths,Detached
+"310-99 Foxbar Road, Toronto, ON, M4V 2G5","$1,199,000",2 Beds,2 Baths,1160 Square Feet
+"2 LADYSBRIDGE DR, Toronto, Ontario, M1G 3H6","$1,150,000",3+1 Beds,2 Baths,Detached
+"#104 -408 BROWNS  LINE, Toronto, Ontario, M8W 3I9","$1,099,990",3 Beds,2 Baths,Apartment
+"#201 -408 BROWNS LINE, Toronto, Ontario, M5W 3T9","$829,990",2 Beds,2 Baths,Apartment
+"#1005 -120 DUNDALK DR, Toronto, Ontario, M1P 4V9","$625,000",3 Beds,2 Baths,Apartment
+"#105 -955 MILLWOOD RD, Toronto, Ontario, M4G 4E3","$849,900",2 Beds,2 Baths,Apartment
+"#1729 -38 JOE SHUSTER WAY, Toronto, Ontario, M6K 0A5","$600,000",1 Beds,2 Baths,Apartment
+"72 VANEVERY ST, Toronto, Ontario, M8V 1Y6","$1,369,999",3 Beds,2 Baths,Detached
+"#305 -160 FREDERICK ST, Toronto, Ontario, M5A 4H9","$1,099,999",2 Beds,2 Baths,Apartment
+"105-955 Millwood Road, Toronto, ON, M4G 4E3","$849,900",2 Beds,2 Baths,1171 Square Feet
+"#1101 -131 TORRESDALE AVE, Toronto, Ontario, M2R 3T1","$799,000",2+1 Beds,2 Baths,Apartment
+"#7 -38 GIBSON AVE, Toronto, Ontario, M9N 0A5","$709,000",2 Beds,2 Baths,Townhouse
+"#212 -1401 O'CONNOR DR, Toronto, Ontario, M4B 2V5","$569,900",1+1 Beds,2 Baths,Apartment
+"882 ROYAL YORK RD, Toronto, Ontario, M8Y 2V6","$1,538,000",2+1 Beds,2 Baths,Detached
+"31 MARKHAM ST, Toronto, Ontario, M6J 2G3","$1,499,000",3+1 Beds,2 Baths,Detached
+"159 SPRINGDALE BLVD, Toronto, Ontario, M4C 1Z6","$1,299,000",3 Beds,2 Baths,Detached
+"311-10 Delisle Ave W, Toronto, ON, M4V 3C6","$1,250,000",2 Beds,2 Baths,Apartment
+"#1407 -60 QUEEN ST E, Toronto, Ontario","$1,179,000",2 Beds,2 Baths,Apartment
+"157 BOULTBEE AVE, Toronto, Ontario, M4J 1B2","$1,088,888",1 Beds,2 Baths,Detached
+"#701 -770 BAY ST, Toronto, Ontario, M5G 1N6","$999,900",2 Beds,2 Baths,Apartment
+"#703 -508 WELLINGTON ST W, Toronto, Ontario, M5V 1E3","$979,000",2+1 Beds,2 Baths,Apartment
+"#731 -31 TIPPETT RD, Toronto, Ontario, M3H 0C8","$799,999",2+1 Beds,2 Baths,Apartment
+"##3004 -195 REDPATH AVE, Toronto, Ontario, M4P 0E4","$799,000",2 Beds,2 Baths,Apartment
+"#1005 -60 COLBORNE ST, Toronto, Ontario, M5E 0B7","$775,000",1 Beds,2 Baths,Apartment
+"#1208 -301 PRUDENTIAL DR, Toronto, Ontario, M1P 4V3","$649,000",3 Beds,2 Baths,Apartment
+"#501 -60 PAVANE LINKWAY LANE, Toronto, Ontario, M3C 1A1","$625,000",3 Beds,2 Baths,Apartment
+"#903 -10 MARTHA EATON WAY, Toronto, Ontario, M6M 5B3","$579,000",3 Beds,2 Baths,Apartment
+"882 Royal York Road, Toronto, ON, M8Y 2V6","$1,538,000",2 Beds,2 Baths,958.93
+"24 ASH CRES, Toronto, Ontario, M8W 1E3","$1,488,800",3 Beds,2 Baths,Detached
+"326 MAIN ST, Toronto, Ontario, M4C 4X7","$1,349,900",3+3 Beds,2 Baths,Detached
+"#212 -20 TUBMAN AVE, Toronto, Ontario, M5A 0M8","$1,099,000",3 Beds,2 Baths,Apartment
+"#418 -2300 ST CLAIR AVE W, Toronto, Ontario, M6N 0B3","$899,900",2+1 Beds,2 Baths,Apartment
+"#436 -20 MINOWAN MIIKAN LANE, Toronto, Ontario, M6J 0E5","$729,000",2 Beds,2 Baths,Apartment
+"#1406 -75 EMMETT AVE, Toronto, Ontario, M6M 5A7","$650,000",2+1 Beds,2 Baths,Apartment
+"#1505 -41 MARKBROOK LANE, Toronto, Ontario, M9V 5E6","$648,900",2 Beds,2 Baths,Apartment
+"#610 -1401 O'CONNOR DR, Toronto, Ontario, M4B 2V5","$585,000",1+1 Beds,2 Baths,Apartment
+"#602 -2800 WARDEN AVE, Toronto, Ontario, M1W 3Z6","$399,000",2 Beds,2 Baths,Apartment
+"#TH 106 -16 FOUNDRY AVE, Toronto, Ontario, M6H 0A9","$879,800",2+1 Beds,2 Baths,Townhouse
+"#507 -5 SHADY GFWY, Toronto, Ontario, M3C 3A5","$679,900",3 Beds,2 Baths,Apartment
+"634 Brock Ave, Toronto, ON, M6H 3P2","$1,695,000",3 Beds,2 Baths,Semi-Detached
+"#1004 -2 SONIC WAY, Toronto, Ontario, M3C 0P2","$829,800",3 Beds,2 Baths,Apartment
+"#934 -5 EVERSON DR, Toronto, Ontario, M2N 7C2","$778,000",2+1 Beds,2 Baths,Townhouse
+"#1612 -219 DUNDAS ST E, Toronto, Ontario, M5A 1Z7","$699,000",2 Beds,2 Baths,Apartment
+"#606 -906 SHEPPARD AVE, Toronto, Ontario, M3H 2T5","$665,000",2 Beds,2 Baths,Apartment
+"#1114 -30 THUNDER GRVE, Toronto, Ontario, M1V 4A3","$625,000",2+1 Beds,2 Baths,Apartment
+"194 KENNARD AVE, Toronto, Ontario, M3H 4M7","$1,279,000",3+1 Beds,2 Baths,Detached
+"19 LAURELCREST AVE, Toronto, Ontario, M3H 2A5","$1,588,000",3+2 Beds,2 Baths,Detached
+"#1505 -11 WELLESLEY ST W, Toronto, Ontario, M4Y 1E8","$1,299,000",3 Beds,2 Baths,Apartment
+"#509 -195 REDPATH AVE, Toronto, Ontario, M4P 0E4","$930,000",2+1 Beds,2 Baths,Apartment
+"#1809 -19 GRAND TRUNK CRES, Toronto, Ontario, M5J 3A3","$849,000",2 Beds,2 Baths,Apartment
+"#1405 -11 BOGERT AVE, Toronto, Ontario, M2N 0H4","$789,000",1+1 Beds,2 Baths,Apartment
+"#1704 -133 TORRESDALE AVE, Toronto, Ontario, M2R 3T2","$749,000",2 Beds,2 Baths,Apartment
+"#PH02 -15 ELLERSLIE AVE, Toronto, Ontario, M2N 0E7","$1,250,000",2 Beds,2 Baths,Apartment
+"#713 -125 REDPATH AVE, Toronto, Ontario, M4S 0B5","$929,000",2 Beds,2 Baths,Apartment
+"#1510 -255 BAMBURGH CIRC, Toronto, Ontario, M1W 3T6","$869,000",2+1 Beds,2 Baths,Apartment
+"#1911 -1928 LAKESHORE BLVD W, Toronto, Ontario, M6S 1A1","$799,000",2+1 Beds,2 Baths,Storage - Locker
+"#708 -55 REGENT PARK BLVD, Toronto, Ontario, M5A 3H6","$749,000",2 Beds,2 Baths,Apartment
+"#609 -18 CONCORDE PL, Toronto, Ontario, M3C 3T9","$675,000",2 Beds,2 Baths,Apartment
+"#308 -150 ALTON TOWERS CIRC, Toronto, Ontario, M1V 4X7","$650,000",2+1 Beds,2 Baths,Apartment
+"#1911 -88 SCOTT ST, Toronto, Ontario, M5E 0A9","$1,549,000",2+1 Beds,2 Baths,Apartment
+"#PH 18 -230 KING ST E, Toronto, Ontario, M5A 1K5","$1,070,000",2+1 Beds,2 Baths,Apartment
+"#314 -251 JARVIS  ST, Toronto, Ontario, M5B 0C3","$1,049,000",3+1 Beds,2 Baths,Apartment
+"#504 -40 SYLVAN VALLEYWAY, Toronto, Ontario, M5M 4M3","$849,000",2 Beds,2 Baths,Apartment
+"#3710 -2200 LAKE SHORE BLVD W, Toronto, Ontario, M8V 1A4","$969,000",2 Beds,2 Baths,Apartment
+"#2704 -205 WYNFORD DR, Toronto, Ontario, M3C 3P4","$958,000",2+1 Beds,2 Baths,Apartment
+"#402 -225 THE DONWAY W, Toronto, Ontario, M3B 2V7","$1,249,000",2 Beds,2 Baths,Apartment
+"#407 -935 ROYAL YORK RD, Toronto, Ontario, M8Y 4H1","$1,099,000",2+1 Beds,2 Baths,Apartment
+"#605 -11753 SHEPPARD AVE E, Toronto, Ontario, M1B 5M3","$688,000",2 Beds,2 Baths,Apartment
+"#2429 -15 NORTHTOWN WAY, Toronto, Ontario, M2N 7A2","$659,000",1+1 Beds,2 Baths,Apartment
+"##705 -215 FORT YORK BLVD, Toronto, Ontario, M5V 4A2","$1,068,800",2 Beds,2 Baths,Apartment
+"701-80 Mill St, Toronto, ON, M5A 4T3","$920,000",2+1 Beds,2 Baths,Apartment
+"#2005 -5168 YONGE ST, Toronto, Ontario, M2N 5P6","$899,900",2 Beds,2 Baths,Apartment
+"##127 -380 HOPEWELL AVE, Toronto, Ontario, M6E 2S2","$690,000",1 Beds,2 Baths,Townhouse
+"#303 -33 UNIVERSITY AVE, Toronto, Ontario, M5J 2S7","$688,000",1+1 Beds,2 Baths,Apartment
+"#PH8 -2000 ISLINGTON AVE, Toronto, Ontario, M9P 3S7","$1,039,000",2+1 Beds,2 Baths,Apartment
+"#221 -39 ANNIE CRAIG DR, Toronto, Ontario, M8V 0H1","$949,900",2 Beds,2 Baths,Apartment
+"#1605 -2010 ISLINGTON AVE, Toronto, Ontario, M9P 3S8","$839,900",2 Beds,2 Baths,Apartment
+"#903 -714 THE WEST MALL, Toronto, Ontario, M9C 4X1","$728,880",2+1 Beds,2 Baths,Apartment
+"#1810 -125 VILLAGE GREEN SQ, Toronto, Ontario, M1S 0G3","$699,000",2+1 Beds,2 Baths,Apartment
+"7 ELSFIELD RD, Toronto, Ontario, M8Y 3R3","$1,590,000",2 Beds,2 Baths,Detached
+"#608 -20 SHORE BREEZE DR, Toronto, Ontario, M8V 1A1","$945,900",2 Beds,2 Baths,Apartment
+"#202 -120 CANON JACKSON DR, Toronto, Ontario, M6M 0B8","$859,000",2 Beds,2 Baths,Apartment
+"#217 -2300 ST CLAIR AVE W, Toronto, Ontario, M6N 0B3","$798,800",1+1 Beds,2 Baths,Apartment
+"#317 -8 TELEGRAM MEWS, Toronto, Ontario, M5V 3Z5","$775,000",2 Beds,2 Baths,Apartment
+"#1508 -2083 LAKE SHORE BLVD W, Toronto, Ontario, M8V 2Z6","$729,999",2 Beds,2 Baths,Apartment
+"#805 -15 LONDON GREEN CRCT, Toronto, Ontario, M3N 1K4","$450,000",2 Beds,2 Baths,Apartment
+"#PH 3201 -15 HOLMES AVE, Toronto, Ontario, M2N 4L8","$1,775,000",3 Beds,2 Baths,Apartment
+"27 WESTGATE BLVD, Toronto, Ontario, M3H 1N8","$1,699,900",3 Beds,2 Baths,Detached
+"#311 -300 MANITOBA ST, Toronto, Ontario, M8Y 4G6","$1,590,000",2 Beds,2 Baths,Apartment
+"2307-77 Harbour Square, Toronto, ON, M5J 2S2","$1,278,000",2 Beds,2 Baths,1191 Square Feet
+"606-31 Tippett Rd, Toronto, ON, M3H 0C8","$638,800",1+1 Beds,2 Baths,Apartment
+"#1004 -2800 WARDEN AVE, Toronto, Ontario, M1W 3Z6","$469,000",2 Beds,2 Baths,Apartment
+"#2904 -1245 DUPONT ST, Toronto, Ontario, M6H 2A6","$1,239,900",3 Beds,2 Baths,Apartment
+"455 FRONT Street Unit# N909, Toronto, Ontario, M5A 0G2","$799,797",2 Beds,2 Baths,Apartment
+"#635 -26 GIBBS RD, Toronto, Ontario, M9B 0E3","$749,000",2 Beds,2 Baths,Apartment
+"51 APPIAN DR, Toronto, Ontario, M2J 2P8","$1,829,999",4 Beds,2 Baths,Detached
+"#1201 -39 QUEENS QUAY E, Toronto, Ontario, M5E 0A4","$1,550,000",2+1 Beds,2 Baths,Apartment
+"#1406 -10 BELLAIR ST, Toronto, Ontario, M5R 3T8","$1,489,900",2 Beds,2 Baths,Apartment
+"#502 -1316 KINGSTON RD, Toronto, Ontario, M1N 1P6","$1,335,100",2 Beds,2 Baths,Apartment
+"#1111 -10 MARTHA EATON WAY, Toronto, Ontario, M6M 5B3","$699,000",3 Beds,2 Baths,Apartment
+"#106 -2088 LAWRENCE AVE W, Toronto, Ontario, M9N 1J1","$578,800",2+1 Beds,2 Baths,Apartment
+"#PH2901 -205 WYNFORD DR, Toronto, Ontario, M3C 3P4","$1,199,000",2 Beds,2 Baths,Apartment
+"2555 DUNDAS ST W, Toronto, Ontario, M6P 1X6","$950,000",1+1 Beds,2 Baths,Duplex
+"PH2901-205 Wynford Drive, Toronto, ON, M3C 3P4","$1,199,000",2 Beds,2 Baths,1650 Square Feet
+"#4602 -2191 YONGE ST, Toronto, Ontario, M4S 3H8","$1,198,000",2+1 Beds,2 Baths,Apartment
+"#2310 -100 HARBOUR ST, Toronto, Ontario, M5J 0B5","$1,090,000",3 Beds,2 Baths,Apartment
+"#2209 -50 BRIAN HARRISON WAY, Toronto, Ontario, M1P 5J4","$739,800",2+1 Beds,2 Baths,Apartment
+"#409 -2050 BRIDLETOWNE CIRC, Toronto, Ontario, M1W 2V5","$560,000",3 Beds,2 Baths,Apartment
+"2 FOUR OAKS GATE, Toronto, Ontario, M4J 2X2","$1,589,900",2+1 Beds,2 Baths,Detached
+"#708 -2045 LAKE SHORE BLVD W, Toronto, Ontario, M8V 2Z6","$998,000",2 Beds,2 Baths,Apartment
+"##1802 -1101 LESLIE ST, Toronto, Ontario, M3C 4G3","$988,000",2 Beds,2 Baths,Apartment
+"#1210 -1926 LAKESHORE BLVD W, Toronto, Ontario, M6S 1A1","$899,000",2+1 Beds,2 Baths,Apartment
+"#1001 -27 BATHURST ST, Toronto, Ontario, M5V 2P1","$899,000",2 Beds,2 Baths,Apartment
+"#406 -495 LOGAN AVE, Toronto, Ontario, M4K 3B2","$889,900",2 Beds,2 Baths,Apartment
+"#102 -75 GRAYDON HALL DR, Toronto, Ontario, M3A 3M5","$699,000",3 Beds,2 Baths,Apartment
+"#914 -181 VILLAGE GREEN SQ, Toronto, Ontario, M1S 0L3","$649,000",2 Beds,2 Baths,Apartment
+"1202-2800 Warden Ave, Toronto, ON, M1W 3Z6","$489,900",2 Beds,2 Baths,Yes
+"43 ALGOMA ST, Toronto, Ontario, M8Y 1C4","$1,099,900",2+1 Beds,2 Baths,Detached
+"2301-1 Concorde Pl, Toronto, ON, M3C 3K6","$1,098,000",2+1 Beds,2 Baths,Apartment
+"#1814 -15 MERCER ST, Toronto, Ontario, M5V 1H2","$1,050,000",2+1 Beds,2 Baths,Apartment
+"#508 -111 ST CLAIR AVE W, Toronto, Ontario","$760,000",1+1 Beds,2 Baths,Apartment
+"#611 -2300 ST. CLAIR AVE W, Toronto, Ontario, M6N 1K8","$750,000",1+1 Beds,2 Baths,Apartment
+"#213 -3830 BATHURST ST, Toronto, Ontario, M3H 3M9","$679,900",2 Beds,2 Baths,Apartment
+"#2005 -470 FRONT ST W, Toronto, Ontario","$1,845,000",3 Beds,2 Baths,Apartment
+"#308 -3220 SHEPPARD AVE E, Toronto, Ontario, M1T 0B7","$789,000",2 Beds,2 Baths,Apartment
+"#404 -33 HELENDALE AVE, Toronto, Ontario, M4R 1C5","$759,000",2+1 Beds,2 Baths,Apartment
+"#707 -3000 BATHURST ST, Toronto, Ontario, M6B 3B4","$749,900",2 Beds,2 Baths,Apartment
+"#611 -18 GRAYDON HALL DR, Toronto, Ontario, M3A 0A4","$729,000",2 Beds,2 Baths,Apartment
+"#103 -350 ALTON TOWERS CIRC, Toronto, Ontario, M1V 5E3","$639,900",2+1 Beds,2 Baths,Apartment
+"10 URBANDALE AVE, Toronto, Ontario, M2M 2H1","$1,920,000",3 Beds,2 Baths,Detached
+"#3009 -39 ROEHAMPTON AVE, Toronto, Ontario, M4P 1P9","$1,395,000",3 Beds,2 Baths,Apartment
+"#PH05 -858 DUPONT ST, Toronto, Ontario","$1,150,000",2 Beds,2 Baths,Apartment
+"#1903 -628 FLEET ST W, Toronto, Ontario, M5V 1A8","$1,480,000",2+1 Beds,2 Baths,Apartment
+"#3303 -56 ANNIE CRAIG DR, Toronto, Ontario, M8V 0C8","$1,330,000",2+1 Beds,2 Baths,Apartment
+"#2204 -188 CUMBERLAND ST, Toronto, Ontario, M5R 0B6","$1,178,000",2+1 Beds,2 Baths,Apartment
+"#103 -722 MARLEE AVE, Toronto, Ontario, M6B 3J7","$1,118,800",2 Beds,2 Baths,Apartment
+"#304 -115 DENISON AVE, Toronto, Ontario","$1,555,000",3 Beds,2 Baths,Apartment
+"#302 -99 FOXBAR RD, Toronto, Ontario, M4V 2G5","$1,369,000",2 Beds,2 Baths,Apartment
+"#315 -115 DENISON AVE, Toronto, Ontario","$1,265,000",2 Beds,2 Baths,Apartment
+"15 HOWARD PARK AVE, Toronto, Ontario, M6R 1V3","$1,248,888",3 Beds,2 Baths,Semi-Detached
+"#1108 -10 MARTHA EATON WAY, Toronto, Ontario, M6M 5B3","$574,900",3 Beds,2 Baths,Apartment
+"#4010 -20 SHORE BREEZE DR, Toronto, Ontario, M8V 0V7","$1,249,000",2 Beds,2 Baths,Apartment
+"#314 -328 DUPONT ST, Toronto, Ontario, M5R 1V9","$1,169,900",2+1 Beds,2 Baths,Apartment
