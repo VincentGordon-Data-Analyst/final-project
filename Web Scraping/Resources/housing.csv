@@ -1,223 +1,124 @@
 address,price,number_of_beds,number_of_baths,style,cooling_type,heating_fuel,heating_type,fire_place,lat,lon
-"2183 PHEASANT LANE, Oakville, Ontario, L6M 3R8","$1,998,000",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"1965 Fieldgate Drive, Burlington, Ontario, L7P 3H4","$1,799,999",3 Beds,4 Baths,Detached,"Central Vacuum, Dryer, Microwave, Refrigerator, Range",Central air conditioning,Natural gas,Forced air,,
-"3483 FOURTH LINE, Oakville, Ontario, L6M 1N8","$1,349,900",4+1 Beds,5 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,,
-"1284 TYRRELL Road, Burlington, Ontario, L7P 2S4","$1,349,000",3 Beds,2 Baths,Detached,"Dishwasher, Refrigerator, Oven, Cooktop, Hood Fan",Central air conditioning,Natural gas,Forced air,,
-"176 SHARPE CRES, New Tecumseth, Ontario, L0G 1W0","$1,320,000",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"158 FIRST Street W, Elmira, Ontario, N3B 1H1","$1,300,000",4+1 Beds,4 Baths,Detached,"Freezer, Window Coverings, Hot Tub",Central air conditioning,Natural gas,Forced air,,
-"1112 CHARLOTTE CRESCENT, Lakeshore, Ontario, N0R 1A0","$1,188,000",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,,,
-"29 Reno Avenue, Hamilton, Ontario, L8T 2S5","$999,900",3+2 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Block,,
-"8 Murray Crt, Orangeville, ON, L9W 0A1","$949,900",3 Beds,4 Baths,Detached,Gas,Forced Air,Built-in,No,,
-"661 GLEN CEDAR CRES, Innisfil, Ontario, L9S 2J5","$949,900",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"539 QUEBEC AVE, Toronto, Ontario, M6P 2V6","$899,000",3 Beds,2 Baths,Townhouse,Natural gas,Forced air,Attached,N/A,,
-"8 RAVEY ST, Clarington, Ontario, L1B 1N8","$879,000",3+2 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"2351 Middlesmoor Crescent, Burlington, Ontario, L7P 3X4","$869,900",3 Beds,2 Baths,Semi-Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Blinds, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"32 JACWIN DR, Ajax, Ontario, L1S 6H9","$849,000",4 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
-"19 CLOVERFIELD ST, Clarington, Ontario, L1E 1K5","$800,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"62 MOSES CRES, Clarington, Ontario, L1C 3K2","$799,900",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"364 DEVONSHIRE Road, Port Elgin, Ontario, N0H 2C2","$759,900",3+2 Beds,3 Baths,Detached,"Dryer, Refrigerator, Washer, Range - Gas, Microwave Built-in, Gas stove(s), Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"8 CHRISTOPHER Court, Belleville, Ontario, K8N 5Z3","$749,900",3+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Microwave Built-in, Hot Tub",Central air conditioning,Natural gas,Forced air,,
-"13065 HYLAND Sideroad, Essex, Ontario, N0R 1K0","$699,900",2+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Freezer, Microwave, Stove, Washer",Heat Pump,,Heat Pump,,
-"84C CARRUTHERS AVENUE, Ottawa, Ontario, K1Y 1N2","$699,900",2 Beds,1 Bath,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",None,Natural gas,Forced air,,
-"20 CLAREWOOD Drive, Walkerton, Ontario, N0G 2V0","$659,000",3+1 Beds,3 Baths,Detached,"Central Vacuum - Roughed In, Dishwasher, Stove, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"53 YORK Street, Welland, Ontario, L3B 4A8","$625,000",3 Beds,4 Baths,Townhouse,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Microwave Built-in, Window Coverings",Central air conditioning,Natural gas,Hot water radiator heat,,
-"54 BRIDGE Street W Unit# 14, Kitchener, Ontario, N2K 1K7","$590,000",2 Beds,1 Bath,Townhouse,"Dishwasher, Dryer, Refrigerator, Stove, Water softener, Washer, Hood Fan",Central air conditioning,Natural gas,Forced air,,
-"##106 -102 ASPEN SPRINGS  DR, Clarington, Ontario, L1C 5N6","$559,000",2 Beds,1 Bath,Apartment,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
-"1 SHELBY LANE, Brockville, Ontario, K6V 7L8","$549,900",2+1 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Microwave Range Hood Combo, Stove, Washer, Alarm System",Central air conditioning,Natural gas,Forced air,,
-"1455 SNAKE LANE, Harrow, Ontario, N0R 1G0","$529,700",3 Beds,3 Baths,Detached,"Dishwasher, Dryer, Microwave Range Hood Combo, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"345 ROBSON ROAD, Leamington, Ontario, N8H 5G6","$439,900",2 Beds,2 Baths,Detached,"Dishwasher, Dryer, Microwave Range Hood Combo, Refrigerator, Stove, Washer",Heat Pump,"Electric, Natural gas","Baseboard heaters, Heat Pump",,
-"1729 TRAPPIST LANE, Ottawa, Ontario, K1C 1X7","$425,000",3 Beds,2 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"957 CUMMINGS AVENUE, Ottawa, Ontario, K1J 7R9","$419,900",2 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"284 Pickering DRIVE, Amherstburg, Ontario, N9V 1R6","$399,900",3 Beds,2 Baths,Detached,"Hot Tub, Dishwasher, Dryer, Microwave Range Hood Combo, Washer, Window Air Conditioner",Electric,Baseboard heaters,Block,,
-"34 HUBBELL STREET, Brockville, Ontario, K6V 4K3","$349,900",3 Beds,1 Bath,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Window air conditioner,Natural gas,Forced air,,
-"143 QUEEN FILOMENA AVE, Vaughan, Ontario, L6A 0H7","$1,989,000",4+2 Beds,5 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"84 VALENTINE DR, Toronto, Ontario, M3A 3J8","$1,880,000",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"30 FALLINGBROOK RD, Toronto, Ontario, M1N 2T4","$1,849,999",3+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"81 BURNS BLVD, King, Ontario, L7B 0M5","$1,828,000",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"13 CHARLES ST, Halton Hills, Ontario, L7G 2Z1","$1,725,000",3+3 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"1170 Agram Drive, Oakville, Ontario, L6H 7R9","$1,649,900",3+1 Beds,4 Baths,Townhouse,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer, Blinds",Central air conditioning,Natural gas,Forced air,,
-"165 BRISTOL RD E, Mississauga, Ontario, L4Z 3V3","$1,599,888",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"22 SOMERVILLE CRES, Mulmur, Ontario, L0N 1M0","$1,575,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"22 MCKENZIE WAY, Bradford West Gwillimbury, Ontario, L3Z 0K1","$1,499,900",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"36 EDGEWOOD CRES, Toronto, Ontario, M4W 3A9","$1,495,000",4 Beds,1 Bath,Detached,Natural gas,Forced air,Yes,Brick,,
-"173 RANKIN CRES, Toronto, Ontario, M6P 4H8","$1,399,000",3 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"446 WESTMINSTER AVENUE, Ottawa, Ontario, K2A 2T8","$1,395,000",4 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave, Stove, Washer",Central air conditioning,Natural gas,"Hot water radiator heat, Radiant heat",,
-"149 LETITIA ST, Barrie, Ontario, L4N 1P4","$1,389,900",2+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"240 KITTY MURRAY Lane, Ancaster, Ontario, L9K 1L8","$1,349,900",3+1 Beds,5 Baths,Detached,"Alarm System, Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"45 SKINNER RD, Hamilton, Ontario, L8B 1W7","$1,349,000",4 Beds,5 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"998 LAKE TRAIL DRIVE, Windsor, Ontario, N9G 2R3","$1,299,999",3+1 Beds,3 Baths,Detached,"Dishwasher, Refrigerator, Stove",Central air conditioning,Natural gas,Forced air,,
-"44 HAVELOCK GATE, Markham, Ontario, L3S 3X6","$1,299,000",4+2 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"42 FRONT ST S, Mississauga, Ontario, L5H 2E2","$1,299,000",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"41 LEILA JACKSON TERR, Toronto, Ontario, M3L 0B2","$1,299,000",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"25 Squirewood Rd, Toronto, ON, M2J 4T2","$1,298,800",4+1 Beds,2 Baths,Detached,Gas,Forced Air,Attached,Yes,,
-"2586 HAMMOND RD, Mississauga, Ontario, L5K 1T2","$1,298,000",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"1683 IRVINE SCOTT ST, Oshawa, Ontario, L1H 7K5","$1,280,000",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"1342 CANFORD CRES, Mississauga, Ontario, L5J 3N1","$1,250,000",3 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"448 CINNAMON CRESCENT, Ottawa, Ontario, K0A 2H0","$1,249,900",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Stove",Central air conditioning,Natural gas,Forced air,,
-"488 FOURTH LINE, Oakville, Ontario, L6L 5A7","$1,249,000",2+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"83 GARDEN ST, Whitby, Ontario, L1N 9E7","$1,225,000",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"86 EDGECROFT RD, Toronto, Ontario, M8Z 2C3","$1,200,000",3+1 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"1452 NORMANDY CRESCENT, Ottawa, Ontario, K2C 0N6","$1,150,000",4+3 Beds,4 Baths,Detached,"Refrigerator, Dishwasher, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"3893 St Francis, LaSalle, Ontario, N9H 1W7","$1,149,000",4+1 Beds,4 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer","Central air conditioning, Fully air conditioned",Natural gas,Forced air,,
-"597 PARKVIEW ROAD, Ottawa, Ontario, K1Z 7E8","$1,129,000",3 Beds,3 Baths,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"162 WILLIAM HONEY CRES, Markham, Ontario, L3S 2L5","$1,099,990",3 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"525 MAGUIRE STREET, Windsor, Ontario, N9E 0A6","$1,099,900",4+2 Beds,4 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,,,
-"1603 SANDHURST CRES, Pickering, Ontario, L1V 6W2","$1,099,000",3 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"550 FOXCROFT BLVD, Newmarket, Ontario, L3X 3L6","$1,099,000",3+1 Beds,4 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"24 MEMON PL, Markham, Ontario, L6E 0S1","$1,098,000",4 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"94 AMBLESIDE DR, Brampton, Ontario, L6Y 1B9","$1,095,000",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"6 PINECLIFF CRES, Barrie, Ontario, L4N 5V3","$1,069,000",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"2433 COPPERSMITH CRT, Mississauga, Ontario, L5L 3B5","$1,049,800",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
-"248 STONEWALK WAY, Kinburn, Ontario, K0A 2H0","$999,999",3 Beds,2 Baths,Detached,"Refrigerator, Cooktop, Dishwasher, Dryer, Hood Fan",Central air conditioning,Propane,Forced air,,
-"1037 WAYNE Place, Burlington, Ontario, L7T 3R5","$999,905",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Hot Tub, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"202 FLANDERS, Lakeshore, Ontario, N8N 3G3","$999,900",4+1 Beds,5 Baths,Detached,"Hot Tub, Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,,,
-"118 Queen Street S, Hamilton, Ontario, L8P 3S1","$999,900",3 Beds,2 Baths,Detached,"Alarm System, Window Coverings",Central air conditioning,"Electric, Natural gas","Baseboard heaters, Forced air",,
-"27 COVENTRY Drive, Kitchener, Ontario, N2A 1N2","$999,900",4 Beds,4 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Freezer, Microwave, Refrigerator, Satellite Dish, Sauna, Water softener, Water purifier, Washer, Range - Gas, Hood Fan, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"116 ARTHUR Street, St. Catharines, Ontario, L2M 1H7","$999,000",4+1 Beds,3 Baths,Detached,"Dryer, Refrigerator, Stove, Washer, Range",Central air conditioning,Natural gas,Forced air,,
-"#236 -1173 DUNDAS ST E, Toronto, Ontario, M4M 3P1","$999,000",2 Beds,1 Bath,Apartment,Central air conditioning,Forced air,Yes,Brick,,
-"3038 BENTLEY DR, Mississauga, Ontario, L5M 6W2","$999,000",3+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"183 HOPEWELL Avenue, Ottawa, ON, K1S 2Z4","$999,000",3 Beds,3 Baths,3,3,Municipal,Natural Gas,Residential,,
-"#4 -169 JONES AVE, Toronto, Ontario, M4M 3A2","$999,000",3 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Brick,,
-"1243 UPPER VILLAGE DR, Mississauga, Ontario, L5E 3J6","$999,000",3 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,,
-"30 CLETA DR, Toronto, Ontario, M1K 3G6","$999,000",3+2 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Baseboard heaters,Brick,,
-"7067 OLD MILL LANE, Mississauga, Ontario, L5W 1A1","$999,000",2 Beds,1 Bath,Detached,Wall unit,Yes,Vinyl siding,Detached,,
-"1341 LUDBROOK CRT, Mississauga, Ontario, L5J 3P2","$999,000",4+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"3394 EGLINTON AVE W, Mississauga, Ontario, L5M 7P2","$998,900",3 Beds,4 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,,
-"2 BRIXHAM LANE, Brampton, Ontario, L7A 0B3","$998,000",3 Beds,3 Baths,Semi-Detached,Natural gas,Forced air,"Brick, Vinyl siding",Semi-detached,,
-"80 WATER ST S, Kitchener, Ontario, N2G 1Z5","$995,000",3 Beds,3 Baths,Detached,Natural gas,Radiant heat,Yes,Brick,,
-"20 MARCHMOUNT CRES, Brampton, Ontario, L6S 2S9","$979,000",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"114 GLEN EAGLES DR, Clarington, Ontario, L1E 3H8","$974,900",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"155 SANDRINGHAM DR, Barrie, Ontario, L4N 0Y9","$949,900",2+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"158 MOONSTONE RD E, Oro-Medonte, Ontario, L0K 1N0","$949,000",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"104 HARPIN Way E, Fergus, Ontario, N1M 2W3","$939,900",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Water softener, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"90 MOUNTAINVIEW RD S, Halton Hills, Ontario, L7G 4K5","$934,900",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
-"41 CELEBRITY GREENS WAY, Markham, Ontario, L6E 1B5","$928,000",2 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,,
-"353 MUNNOCH Boulevard, Woodstock, Ontario, N4T 0H7","$915,000",2+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Microwave Built-in, Window Coverings, Hot Tub",Central air conditioning,Natural gas,Forced air,,
-"195 NAIRN AVE, Toronto, Ontario, M6E 4H2","$899,900",2+1 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"5116 OLD HIGHWAY 2, Belleville, Ontario, K8N 4Z4","$899,900",3+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Satellite Dish, Stove, Water softener, Washer, Microwave Built-in, Window Coverings, Hot Tub",Central air conditioning,Propane,Forced air,,
-"64 Great Oak Trail, Binbrook, Ontario, L0R 1C0","$899,900",2+2 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"46 DOYLE Drive, Guelph, Ontario, N1G 5E3","$899,900",3+1 Beds,4 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Forced air,Poured Concrete,,
-"#202 -15 SOUSA MENDES ST, Toronto, Ontario, M6P 0A9","$899,900",2+1 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
-"192 GLEDHILL AVE, Toronto, Ontario, M4C 5L1","$899,000",2 Beds,2 Baths,Detached,Wall unit,Natural gas,Forced air,Vinyl siding,,
-"108 NATIVE LANDING, Brampton, Ontario, L6X 5A7","$899,000",3+1 Beds,4 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"#10 -11 NIAGARA ST, Toronto, Ontario, M5V 3N9","$899,000",2 Beds,1 Bath,Townhouse,Central air conditioning,Natural gas,Forced air,Security guard,,
-"57 DOMBEY RD, Toronto, Ontario, M3L 1P1","$895,000",3 Beds,2 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"643 CHADBURN AVENUE, Ottawa, Ontario, K1G 0Y6","$875,000",4 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer, Wine Fridge",Central air conditioning,Natural gas,Forced air,,
-"1716 WOLLASTON CRT, Pickering, Ontario, L1V 2X1","$875,000",3 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"#123 -1001 ROSELAWN AVE, Toronto, Ontario, M6B 4M4","$875,000",2 Beds,2 Baths,Apartment,Central air conditioning,Natural gas,Forced air,Stucco,,
-"3 BRISTOL Place, Belleville, Ontario, K8N 4Z5","$855,900",3+2 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer, Hood Fan, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"10 RAVENAL ST, Toronto, Ontario, M6N 3Y7","$849,900",3+1 Beds,2 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
-"11 CEDARGROVE COURT, Ottawa, Ontario, K2G 0M4","$849,900",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Poured Concrete,,
-"928 DU CASTOR ROAD, St Albert, Ontario, K0A 3C0","$849,900",3+2 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"53 STRATHCONA AVENUE, Ottawa, Ontario, K1S 1X3","$849,900",3 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"1692 Latimer, Sudbury, Ontario, P3C 2V7","$829,900",4 Beds,4 Baths,Detached,Central air conditioning,Forced air,Unknown,Asphalt shingle,,
-"3237 TRISHA  DWNS, Mississauga, Ontario, L5A 2A6","$829,900",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Backsplit,,
-"4 SINDEN DR, Whitby, Ontario, L1M 2B8","$800,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"390 KELLER DR, Midland, Ontario, L4R 0A7","$799,900",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"2036 EUGENI STREET, Tecumseh, Ontario, N9K 1B3","$799,900",5+1 Beds,4 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"633 COMMISSO CRESCENT, LaSalle, Ontario, N9H 0C8","$799,900",2+1 Beds,3 Baths,Semi-Detached,"Hot Tub, Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"100 SNOWLING DR, Ajax, Ontario, L1Z 0G4","$799,900",3 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"166 BOURBON PL, Whitby, Ontario, L1R 3C6","$799,898",3 Beds,4 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Brick,,
-"833 NAROCH BLVD, Pickering, Ontario, L1W 1T1","$799,000",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"1139 VISCOUNT Road, London, Ontario, N6K 1H9","$799,000",4+1 Beds,4 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"2058 BRANT Street|Unit #3, Burlington, Ontario, L7P 3A6","$799,000",2 Beds,4 Baths,Townhouse,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer, Range, Window Coverings",Wall unit,Electric,Baseboard heaters,,
-"1318 Tom Toth, LaSalle, Ontario, N9H 0L9","$798,888",2 Beds,2 Baths,Semi-Detached,"Dishwasher, Dryer, Garburator, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"40 FOLEY CRES, Collingwood, Ontario, L9Y 3B7","$789,900",3 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"15 IVY PL, Chatham, Ontario, N7L 5R7","$787,700",3 Beds,2 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"986 SHIMMERTON CIRCLE, Ottawa, Ontario, K2M 0L4","$786,800",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"4 ROCKFIELD CRESCENT, Ottawa, Ontario, K2E 5L5","$779,000",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Washer",Central air conditioning,Oil,Forced air,,
-"180 BREEZEHILL Avenue NORTH, Ottawa, ON, K1Y 2H9","$774,900",3 Beds,2 Baths,3,1,Municipal,Natural Gas,RESIDENTIAL - Residential Fourth Density (4),,
-"#2805 -36 PARK LAWN  RD, Toronto, Ontario, M8Y 3H8","$759,900",2 Beds,2 Baths,Apartment,Central air conditioning,Natural gas,Forced air,Concrete,,
-"2369 KAWARTHA HEIGHTS Boulevard, Peterborough, Ontario, K9K 1S4","$749,900",3+3 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Satellite Dish, Stove, Washer, Hood Fan, Wine Fridge",Central air conditioning,Natural gas,Forced air,,
-"7463 ISLAND CRES, Severn, Ontario, L0K 2B0","$749,900",4 Beds,1 Bath,Detached,Wall unit,Electric,Baseboard heaters,Yes,,
-"1976 CATHCART Crescent, Cavan-Monaghan, Ontario, L0A 1C0","$739,900",3 Beds,2 Baths,Detached,"Dishwasher, Dryer, Freezer, Refrigerator, Satellite Dish, Stove, Washer, Hood Fan, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"22 NAUTICAL LANE, Brighton, Ontario, K0K 1H0","$727,500",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"622 DU PARC  AVE, Russell, Ontario, K4R 1C5","$725,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"12 LORD'S DR, Trent Hills, Ontario, K0L 1Y0","$714,900",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"175 FREDERICK ST, Georgina, Ontario, L4P 2J2","$699,999",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"126 GARSIDE Avenue S, Hamilton, Ontario, L8K 2W2","$699,900",4 Beds,3 Baths,Detached,"Dryer, Refrigerator, Stove, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"2400 CHURCH Street, North Gower, ON, K0A 2T0","$699,900",3+1 Beds,3 Baths,3+1,11,Drilled Well,Natural Gas,RURAL - Village Residential First Density (V1),,
-"506 CHEROKEE WAY, Ottawa, Ontario, K2S 0H5","$699,900",3 Beds,3 Baths,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"890 DUCHARME, Windsor, Ontario, N9G 1K7","$699,900",4+1 Beds,3 Baths,Detached,"Hot Tub, Central Vacuum, Dishwasher, Dryer, Microwave Range Hood Combo, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"1785 MAPLE GROVE ROAD, Stittsville, Ontario, K2S 0M4","$699,888",3 Beds,4 Baths,Detached,"Refrigerator, Dishwasher, Hood Fan, Stove",Central air conditioning,Natural gas,Forced air,,
-"#192 -10 BASSETT BLVD, Whitby, Ontario, L1N 9C3","$699,000",3 Beds,2 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
-"1430 GAULTOIS AVENUE, Ottawa, Ontario, K1C 3G8","$699,000",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Microwave, Stove",Central air conditioning,Natural gas,Forced air,,
-"195 PENN AVE, Newmarket, Ontario, L3Y 2S4","$698,800",3+1 Beds,2 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"108 QUIGLEY ST, Essa, Ontario, L0M 1B6","$679,900",3 Beds,4 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"865 DUCHARME STREET, Windsor, Ontario, N9G 1K8","$679,900",3 Beds,2 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Natural gas,Forced air,Concrete,,
-"290 WAYMARK CRESCENT, Ottawa, Ontario, K2M 0A5","$679,000",3 Beds,3 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"691 WHITE ALDER AVENUE, Ottawa, Ontario, K1T 0E8","$669,900",3 Beds,3 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"282 MURRAY STREET, Ottawa, Ontario, K1N 5N2","$659,900",3 Beds,3 Baths,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"52 Grant Street, Cambridge, Ontario, N1S 1C1","$649,900",3 Beds,2 Baths,Detached,"Refrigerator, Stove, Water softener, Blinds, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"1167 DEER PARK Road, Ottawa, ON, K2E 6H4","$649,900",3+1 Beds,2 Baths,3+1,4,Municipal,Natural Gas,RESIDENTIAL - Residential First Density (R1),,
-"117 MAX BECKER Drive, Kitchener, Ontario, N2E 3W6","$649,900",3 Beds,3 Baths,Townhouse,"Dishwasher, Dryer, Refrigerator, Stove, Water meter, Water softener, Washer, Microwave Built-in",Central air conditioning,Natural gas,Forced air,,
-"667 FARMBROOK CRESCENT, Ottawa, Ontario, K4A 2L3","$649,900",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Microwave Range Hood Combo, Stove",Central air conditioning,Natural gas,Forced air,,
-"1121 QUEENSDALE Avenue E, Hamilton, Ontario, L8T 1J6","$649,000",2+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"19 BANK SWALLOW Crescent, Kitchener, Ontario, N2P 0J7","$645,000",2 Beds,3 Baths,Townhouse,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"82 BOULDER WAY, Ottawa, Ontario, K2J 4R5","$639,000",2+2 Beds,2 Baths,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer, Alarm System",Central air conditioning,Natural gas,Forced air,,
-"14 MACLEAN STREET, Ottawa, Ontario, K1S 3E9","$625,000",1+1 Beds,2 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"535 WATERLOO Street S, Cambridge, Ontario, N3H 1P3","$621,000",3 Beds,1 Bath,Detached,"Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"73 Roxborough Drive, Greater Sudbury, Ontario, P3E 1J8","$599,900",3 Beds,3 Baths,Detached,"Air exchanger, Central air conditioning",Forced air,Unknown,Asphalt shingle,,
-"195 COUNTY RD 29 Road, Consecon, Ontario, K0K 1T0","$599,900",4 Beds,2 Baths,Detached,"Dryer, Microwave, Refrigerator, Washer, Gas stove(s), Hood Fan, Window Coverings",Propane,Baseboard heaters,Block,,
-"##36 -72 MARTIN RD, Clarington, Ontario, L1C 3N3","$599,900",4 Beds,2 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
-"109 GALBRAITH CRT, Clarington, Ontario, L1C 4P7","$599,900",2 Beds,2 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Brick, Vinyl siding",,
-"220 DEERBROOK ROAD, Lakeshore, Ontario, N0R 1A0","$599,900",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Concrete,,
-"9 MCNEE DRIVE, Golden Lake, Ontario, K0J 1X0","$599,000",3 Beds,1 Bath,Detached,"Refrigerator, Stove",Central air conditioning,Propane,Forced air,,
-"5029 FIFTH AVE, Niagara Falls, Ontario, L2E 4S6","$589,500",4 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
-"95 SUSAN Street, Meaford, Ontario, N4L 1J3","$589,000",3 Beds,1 Bath,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"15 Dahlia, Chatham, Ontario, N7L 5L6","$579,900",2+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,1850 sqft,,
-"3075 Trottier Avenue, Chelmsford, Ontario, P0M 1L0","$579,000",4 Beds,3 Baths,Detached,Forced air,Unknown,Asphalt shingle,"Stone, Vinyl siding",,
-"6048 PINEGLADE CRESCENT, Ottawa, Ontario, K1W 1G8","$575,000",3 Beds,3 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"36 SECOND Avenue, Russell, ON, K4R 1E2","$574,900",3 Beds,3 Baths,3,4,Municipal,Natural Gas,residential,,
-"2419 DU LAC ROAD, Clarence-Rockland, Ontario, K0A 3N0","$550,000",2 Beds,2 Baths,Detached,"Refrigerator, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Propane,Forced air,,
-"233 DIVISION STREET North, Kingsville, Ontario, N9Y 1E7","$549,900",2+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Oven",Central air conditioning,Natural gas,Forced air,,
-"#29 -41 RHONDA RD, Guelph, Ontario, N1H 6H1","$549,900",3 Beds,2 Baths,Townhouse,Yes,Brick,Attached,N/A,,
-"35 MAITLAND Drive, Belleville, Ontario, K8N 4Z5","$549,000",3+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Water softener, Water purifier, Washer, Microwave Built-in, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"28 KYLE Court, Quinte West, Ontario, K0K 2C0","$549,000",2 Beds,1 Bath,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Water meter, Microwave Built-in",Central air conditioning,Natural gas,"Forced air, Hot water radiator heat",,
-"128 SEVENTH ST W, Midland, Ontario, L4R 3Z1","$549,000",4 Beds,1 Bath,Detached,Natural gas,Forced air,Brick,Detached,,
-"942 ERIE AVENUE, Kingsville, Ontario, N9Y 3E2","$549,000",3 Beds,2 Baths,Detached,Dishwasher,Central air conditioning,Natural gas,Forced air,,
-"189 FOURTH AVENUE, Arnprior, Ontario, K7S 1Z5","$525,000",3 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"527 TURNING STONE CRESCENT, Petawawa, Ontario, K8H 0B3","$525,000",3+1 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"29 SPRINGCREEK CRESCENT, Kanata, Ontario, K2M 2K7","$520,000",3 Beds,2 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"55 BARKER STREET, Carleton Place, Ontario, K7C 4K4","$514,900",3 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Freezer, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"153 Caruso Street, Coniston, Ontario, P0M 1M0","$499,900",3 Beds,2 Baths,Detached,Central air conditioning,Forced air,Unknown,Asphalt shingle,,
-"1262 Edward AVENUE, Windsor, Ontario, N8S 3A1","$499,900",3+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"10 MORTON Drive, Ottawa, ON, K2L 1W8","$499,900",4 Beds,2 Baths,4,2,Municipal,Natural Gas,RESIDENTIAL - Residential Second Density Zone (R2),,
-"3105 CALIFORNIA, Windsor, ON, N9E 3K5","$499,900",4 Beds,2 Baths,4,Carport,"Storm, Sanitary",Municipal Water,Natural Gas,,
-"#711 -19 BARBERRY PL, Toronto, Ontario, M2K 3E3","$499,900",1+1 Beds,2 Baths,Apartment,Central air conditioning,Natural gas,Forced air,Concrete,,
-"14 Villa COURT, Chatham, Ontario, N7L 5P5","$499,900",2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Concrete,,
-"22 BALFOUR Crescent, Kitchener, Ontario, N2C 1Z5","$499,900",3 Beds,2 Baths,Semi-Detached,"Dishwasher, Microwave, Refrigerator, Stove, Window Coverings",Central air conditioning,Forced air,Poured Concrete,,
-"32 ALGONQUIN TR, Wasaga Beach, Ontario, L9Z 1X7","$499,900",3 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
-"1721 SOUTH CAMERON, Windsor, Ontario, N9B 3C9","$489,900",3 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Block,,
-"150 MACLELLAN Avenue, Quinte West, Ontario, K8V 5H9","$485,900",3 Beds,2 Baths,Detached,"Dryer, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
-"1477 ALDERDALE Road, Powassan, Ontario, P0H 1Z0","$479,900",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer, Microwave Built-in, Window Coverings, Hot Tub",Central air conditioning,"Pellet, Propane","Forced air, Heat Pump, Stove",,
-"300 124 Highway, McDougall, Ontario, P2A 2W7","$479,000",3 Beds,1 Bath,Detached,"Refrigerator, Stove, Microwave Built-in, Window Coverings, Hot Tub",Window air conditioner,Propane,Forced air,,
-"176 ELK STREET, Renfrew, Ontario, K7V 0A1","$445,000",2 Beds,1 Bath,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
-"112 Arnold STREET, Chatham, Ontario, N7L 2X8","$444,900",3+1 Beds,2 Baths,Detached,Natural gas,Forced air,Block,Hardwood,,
-"345 ROBSON ROAD Unit# 9, Leamington, Ontario, N8H 5G6","$439,900",2 Beds,2 Baths,Townhouse,Heat Pump,"Electric, Natural gas","Baseboard heaters, Heat Pump",Block,,
-"107 ST-MORITZ TRAIL UNIT#502, Embrun, Ontario, K0A 1W0","$439,900",2 Beds,1 Bath,Detached,Microwave Range Hood Combo,Wall unit,Natural gas,Radiant heat,,
-"107 ST-MORITZ TRAIL UNIT#501, Embrun, Ontario, K0A 1W0","$439,900",2 Beds,1 Bath,Detached,Microwave Range Hood Combo,Wall unit,Natural gas,Radiant heat,,
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
-"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"2183 PHEASANT LANE, Oakville, Ontario, L6M 3R8","$1,998,000",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.447436,-79.666672
+"32 ATLANTIC AVE, Markham, Ontario, L3P 7C4","$1,899,900",4+2 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.8563707,-79.3376825
+"27 WATTS MEADOW, Aurora, Ontario, L4G 7L7","$1,898,888",4 Beds,5 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.99973,-79.467545
+"1965 Fieldgate Drive, Burlington, Ontario, L7P 3H4","$1,799,999",3 Beds,4 Baths,Detached,"Central Vacuum, Dryer, Microwave, Refrigerator, Range",Central air conditioning,Natural gas,Forced air,43.3248924,-79.7966835
+"603 QUEEN ST, Newmarket, Ontario, L3Y 2J1","$1,799,900",4 Beds,5 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,44.056258,-79.461708
+"#PH8 -35 BOARDWALK DR, Toronto, Ontario, M4L 3Y8","$1,795,000",2 Beds,2 Baths,Apartment,Central air conditioning,Natural gas,Forced air,Yes,43.67089,-79.316931
+"251 VIA TEODORO, Vaughan, Ontario, L4H 0X6","$1,699,000",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.7941544,-79.5268023
+"1416 EDDIE SHAIN Drive, Oakville, Ontario, L6J 7C6","$1,698,880",4+2 Beds,4 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Washer, Range - Gas, Window Coverings",Central air conditioning,Forced air,Poured Concrete,43.447436,-79.666672
+"20 WHITEOAK CRT, Markham, Ontario, L3P 3Y1","$1,679,000",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.8563707,-79.3376825
+"181 RIVERBANK Drive, Cambridge, Ontario, N3H 4R6","$1,649,000",3 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Water softener, Washer, Hood Fan",Central air conditioning,Natural gas,Forced air,43.3600536,-80.3123023
+"1381 AVONLEA Court, Mississauga, Ontario, L5V 1S3","$1,579,000",4 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,43.5896231,-79.6443879
+"120 HARCOURT AVE, Toronto, Ontario, M4J 1J2","$1,549,900",4 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,43.686567,-79.337066
+"482 Donegal Drive, Burlington, Ontario, L7L 2M7","$1,499,000",3+1 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Range, Oven",Central air conditioning,Natural gas,Forced air,43.3248924,-79.7966835
+"139 BROAD LEAF Crescent, Ancaster, Ontario, L9G 3M4","$1,439,900",4 Beds,4 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Oven, Window Coverings, Garage door opener",Central air conditioning,Natural gas,Forced air,43.225693,-79.976692
+"3454 REGAL Road, Burlington, Ontario, L7N 1L8","$1,399,900",4+1 Beds,2 Baths,Detached,"Alarm System, Dishwasher, Dryer, Refrigerator, Stove, Washer, Window Coverings, Garage door opener",Central air conditioning,Natural gas,Forced air,43.3248924,-79.7966835
+"6737 GRACEFIELD DR, Mississauga, Ontario, L5N 6T1","$1,399,900",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.5896231,-79.6443879
+"258 GLENWAY CIRC, Newmarket, Ontario, L3Y 7S7","$1,399,000",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,44.056258,-79.461708
+"8 MOORCREST DR, Aurora, Ontario, L4G 3R4","$1,388,000",3+2 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.99973,-79.467545
+"2584 HORNSGATE DR, Mississauga, Ontario, L5K 1P6","$1,350,000",4+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.5896231,-79.6443879
+"3483 FOURTH LINE, Oakville, Ontario, L6M 1N8","$1,349,900",4+1 Beds,5 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,43.447436,-79.666672
+"1284 TYRRELL Road, Burlington, Ontario, L7P 2S4","$1,349,000",3 Beds,2 Baths,Detached,"Dishwasher, Refrigerator, Oven, Cooktop, Hood Fan",Central air conditioning,Natural gas,Forced air,43.3248924,-79.7966835
+"1284 TYRRELL RD, Burlington, Ontario, L7P 2S4","$1,349,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.3248924,-79.7966835
+"176 SHARPE CRES, New Tecumseth, Ontario, L0G 1W0","$1,320,000",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,44.0818996,-79.77443058053504
+"158 FIRST Street W, Elmira, Ontario, N3B 1H1","$1,300,000",4+1 Beds,4 Baths,Detached,"Freezer, Window Coverings, Hot Tub",Central air conditioning,Natural gas,Forced air,43.60009,-80.5497
+"1447 HEADON Road, Burlington, Ontario, L7M 3N8","$1,299,000",4 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer, Microwave Built-in, Window Coverings, Hot Tub",Central air conditioning,Forced air,Poured Concrete,43.3248924,-79.7966835
+"2804 CATHIAN CRT, Mississauga, Ontario, L5L 2C7","$1,298,000",4+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.5896231,-79.6443879
+"45 RUBY LANG LANE, Toronto, Ontario, M8Z 0B7","$1,295,000",3+1 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,43.64877,-79.38171
+"2486 YEOVIL Road, Mississauga, Ontario, L5J 2E9","$1,199,900",4 Beds,2 Baths,Semi-Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Washer, Gas stove(s)",Central air conditioning,Natural gas,,43.5896231,-79.6443879
+"23 CHESTNUT AVE, Brampton, Ontario, L6X 2A6","$1,199,900",5+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.6858146,-79.7599337
+"42 STATION RD, Toronto, Ontario, M8V 2P9","$1,189,000",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,43.602637,-79.506096
+"1112 CHARLOTTE CRESCENT, Lakeshore, Ontario, N0R 1A0","$1,188,000",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,,42.3038299,-82.8189267
+"2279 WHISTLING SPRINGS CRES, Oakville, Ontario, L6M 0C5","$1,177,777",3 Beds,4 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Yes,43.447436,-79.666672
+"2279 WHISTLING SPRINGS Crescent, Oakville, Ontario, L6M 0C5","$1,177,777",3 Beds,4 Baths,Semi-Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer, Microwave Built-in, Window Coverings",Central air conditioning,Natural gas,Forced air,43.447436,-79.666672
+"769 CHURCHILL LANE, Georgina, Ontario, L0E 1S0","$1,169,900",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,44.341595749999996,-79.34615813017496
+"16 HEPBURN CRES, Halton Hills, Ontario, L7G 5P9","$1,150,000",3 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.621861,-79.943877
+"300 CHRISTINE, Belle River, Ontario, N0R 1A0","$1,149,999",4+1 Beds,4 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,42.2928986,-82.7113352
+"159 HIGHLANDS BLVD, Cavan Monaghan, Ontario, L0A 1G0","$1,124,900",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,44.190608,-78.46896060471727
+"5 GREEN HOLLOW CRT, Markham, Ontario, L6E 1K7","$1,099,000",4+1 Beds,4 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,43.8563707,-79.3376825
+"13083 CONCESSION RD 13, Essex, Ontario, N0R 1J0","$1,089,000",2+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Microwave, Stove, Washer",Central air conditioning,Natural gas,Forced air,42.1744783,-82.8215468
+"8575 FINANCIAL DR, Brampton, Ontario, L6Y 6C4","$1,075,000",4 Beds,4 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Brick, Stone",43.6858146,-79.7599337
+"4167 Rawlins Common, Burlington, Ontario, L7M 0B5","$1,049,900",3 Beds,4 Baths,Townhouse,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,43.3248924,-79.7966835
+"135 ATLEE AVE, Toronto, Ontario, M1N 4C7","$1,049,000",3+2 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,43.704081,-79.255219
+"355 LADYCROFT TERR, Mississauga, Ontario, L5A 0A7","$1,049,000",3 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Brick, Stone",43.5896231,-79.6443879
+"316 NIAGARA DR, Oshawa, Ontario, L1G 8A6","$999,900",3 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.8975558,-78.8635324
+"29 Reno Avenue, Hamilton, Ontario, L8T 2S5","$999,900",3+2 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Block,43.2560802,-79.8728583
+"6 CLIFFSIDE DR, Toronto, Ontario, M1N 1L1","$999,900",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.704081,-79.255219
+"5 AITKEN PL, Toronto, Ontario, M5A 4E6","$999,000",3+1 Beds,2 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,43.656078,-79.36364
+"621 BOOKHAM Crescent, Mississauga, Ontario, L4Z 1T7","$999,000",3 Beds,3 Baths,Detached,"Central Vacuum, Dryer, Microwave, Refrigerator, Stove",Central air conditioning,Natural gas,Forced air,43.5896231,-79.6443879
+"#4 -8050 ISLINGTON AVE, Vaughan, Ontario, L4L 1W5","$998,800",3 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,43.7941544,-79.5268023
+"1035 MARYSVILLE Road, Marysville, Ontario, K0K 2N0","$994,900",4 Beds,2 Baths,Detached,"Dryer, Refrigerator, Satellite Dish, Stove, Water softener, Washer, Window Coverings",Central air conditioning,Electric,"Forced air, Heat Pump",44.19384,-76.43815
+"1035 MARYSVILLE RD, Tyendinaga, Ontario, K0K 2N0","$994,900",4 Beds,2 Baths,Detached,Central air conditioning,Heat Pump,Brick,Detached,44.253617,-77.202437
+"10 THE GREENERY TR, Oakville, Ontario, L6H 6J6","$979,000",3+1 Beds,4 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,43.447436,-79.666672
+"33 HEXHAM DR, Toronto, Ontario, M1R 1J5","$950,000",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,43.751725,-79.299967
+"8 Murray Crt, Orangeville, ON, L9W 0A1","$949,900",3 Beds,4 Baths,Detached,Gas,Forced Air,Built-in,No,43.9193171,-80.0973754
+"661 GLEN CEDAR CRES, Innisfil, Ontario, L9S 2J5","$949,900",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,44.3150892,-79.5461073
+"1124 CEDARWOOD PL, Burlington, Ontario, L7T 4K6","$949,000",3 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.3248924,-79.7966835
+"8 BRONZE CRES, Bradford West Gwillimbury, Ontario, L3Z 2Z4","$939,900",3 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,44.118081,-79.618447
+"32 Margaret Avenue, Grimsby, Ontario, L3M 5L4","$929,000",3 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Microwave, Refrigerator, Stove, Hot Tub, Wine Fridge, Window Coverings",Central air conditioning,Natural gas,Forced air,43.1931661,-79.560677
+"542 HUGHSON Street N, Hamilton, Ontario, L8L 4N9","$925,000",2 Beds,2 Baths,Detached,"Dryer, Refrigerator, Range",Central air conditioning,Natural gas,Forced air,43.2560802,-79.8728583
+"33 CORUNDUM CRES, Toronto, Ontario, M1T 1Z7","$900,000",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.780943,-79.300491
+"64 EVANS Avenue, Bradford, Ontario, L3Z 1B5","$899,900",3 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,44.1143279,-79.5647069
+"26 BALMORAL STREET, Kemptville, Ontario, K0G 1J0","$899,900",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Freezer, Microwave, Stove, Washer, Wine Fridge",Central air conditioning,Natural gas,Forced air,45.0154164,-75.644567
+"64 EVANS AVE, Bradford West Gwillimbury, Ontario, L3Z 1B5","$899,900",3 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,44.118081,-79.618447
+"35 FOXRUN Avenue, Toronto, Ontario, M3L 1L9","$899,900",3 Beds,2 Baths,Semi-Detached,"Dryer, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,43.727586,-79.517186
+"8572 PRONOVOST PLACE, Windsor, Ontario, N8S 0A8","$899,000",4 Beds,3 Baths,Detached,"Dryer, Refrigerator, Stove, Washer",Natural gas,Forced air,Concrete,42.28382,-82.997089
+"539 QUEBEC AVE, Toronto, Ontario, M6P 2V6","$899,000",3 Beds,2 Baths,Townhouse,Natural gas,Forced air,Attached,N/A,43.660438,-79.465004
+"8 RAVEY ST, Clarington, Ontario, L1B 1N8","$879,000",3+2 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.96868585,-78.65135738273909
+"2351 Middlesmoor Crescent, Burlington, Ontario, L7P 3X4","$869,900",3 Beds,2 Baths,Semi-Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Blinds, Window Coverings",Central air conditioning,Natural gas,Forced air,43.3248924,-79.7966835
+"132 MARY ST, Niagara-on-the-Lake, Ontario, L0S 1J0","$868,000",2 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.2556116,-79.0723264
+"5 IRONS Avenue, Lakefield, Ontario, K0L 2H0","$865,000",1+1 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Freezer, Microwave Built-in",Central air conditioning,Natural gas,Forced air,44.4233365,-78.2721953
+"278 Celtic Drive, Stoney Creek, Ontario, L8E 2T9","$864,900",3+1 Beds,2 Baths,Detached,"Dryer, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,43.2167526,-79.7567616
+"1234 ST JEAN STREET, Orleans, Ontario, K1C 7C9","$849,900",5 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,45.4810323,-75.5100002
+"18 EDWARD ST, Halton Hills, Ontario, L7G 1V1","$849,900",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.621861,-79.943877
+"51 SEGUIN Crescent, Tiny, Ontario, L9M 1R2","$849,900",2+1 Beds,2 Baths,Detached,"Dryer, Refrigerator, Washer, Range - Gas",Central air conditioning,Natural gas,Forced air,44.7382893,-80.12709935653204
+"25 CONCESSION Street Unit# 215, Cambridge, Ontario, N1R 2G6","$849,900",2 Beds,2 Baths,Apartment,"Dishwasher, Dryer, Refrigerator, Washer, Microwave Built-in",Central air conditioning,"In Floor Heating, Boiler, Radiant heat","Brick, Stone",43.3600536,-80.3123023
+"32 JACWIN DR, Ajax, Ontario, L1S 6H9","$849,000",4 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",43.8505287,-79.0208814
+"15879 SIMCOE ST, Scugog, Ontario, L9L 1N5","$839,900",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,44.1150554,-78.90598875892695
+"#42 -1146 JAMESWAY BLVD, Oakville, Ontario, L6H 2Z7","$827,777",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",43.447436,-79.666672
+"153 WATERLOO Street, New Hamburg, Ontario, N3A 1S3","$809,000",5 Beds,3 Baths,Detached,"Central Vacuum - Roughed In, Dishwasher, Dryer, Refrigerator, Stove, Water softener, Washer",Central air conditioning,Hot water radiator heat,Stone,43.38339,-80.6997
+"19 CLOVERFIELD ST, Clarington, Ontario, L1E 1K5","$800,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.96868585,-78.65135738273909
+"70 GREEN GATE Boulevard, Cambridge, Ontario, N1T 2E2","$799,999",3 Beds,4 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Microwave, Refrigerator, Stove, Water softener, Washer, Gas stove(s), Hood Fan",Central air conditioning,Natural gas,Forced air,43.3600536,-80.3123023
+"62 MOSES CRES, Clarington, Ontario, L1C 3K2","$799,900",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.96868585,-78.65135738273909
+"31 COSTAIN Court, Kitchener, Ontario, N2N 3A5","$799,900",3+1 Beds,2 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Freezer, Refrigerator, Stove, Washer, Hood Fan, Window Coverings",Central air conditioning,Natural gas,Forced air,43.451291,-80.4927815
+"18 STANLEY CRT, Brampton, Ontario, L6Y 2A9","$799,900",3+1 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,43.6858146,-79.7599337
+"82 LOCKER PL, Milton, Ontario, L9E 1E8","$799,900",3 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Brick,43.513671,-79.882817
+"10526 LOUGHLIN RIDGE ROAD, Hallville, Ontario, K0E 1S0","$799,900",3 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Microwave Range Hood Combo, Stove",Central air conditioning,Propane,Forced air,45.0617824,-75.5175929
+"3561 BRUCE, Windsor, Ontario, N9E 1W9","$799,000",4 Beds,4 Baths,Detached,"Hot Tub, Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,42.265799,-83.024291
+"2247 56 REGIONAL Road, Hamilton, Ontario, L0R 1C0","$799,000",3+2 Beds,2 Baths,Detached,"Dishwasher, Dryer, Freezer, Refrigerator, Water softener, Water purifier, Washer, Microwave Built-in, Gas stove(s), Window Coverings, Wine Fridge, Hot Tub",Central air conditioning,Forced air,Block,43.2560802,-79.8728583
+"51 WINDEYER CRESCENT, Ottawa, Ontario, K2K 2P7","$799,000",3+1 Beds,4 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Poured Concrete,45.4208777,-75.6901106
+"363 LEFEBVRE WAY, Ottawa, Ontario, K1E 2W5","$799,000",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Stove, Washer",Central air conditioning,Natural gas,Forced air,45.4208777,-75.6901106
+"15 CHARLES ST, Halton Hills, Ontario, L7G 2Z1","$799,000",3 Beds,2 Baths,Semi-Detached,Window air conditioner,Natural gas,Hot water radiator heat,"Aluminum siding, Wood",43.621861,-79.943877
+"1150 CAMEO DRIVE, Ottawa, Ontario, K2C 1Y7","$789,000",4 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,45.4208777,-75.6901106
+"24 GRASSMERE CRT, Oshawa, Ontario, L1H 3X4","$779,900",3+2 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,43.8975558,-78.8635324
+"8 STRATHCONA DRIVE Drive N, Pelham, Ontario, L0S 1M0","$774,900",3 Beds,2 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,43.0445702,-79.2838481
+"364 DEVONSHIRE Road, Port Elgin, Ontario, N0H 2C2","$759,900",3+2 Beds,3 Baths,Detached,"Dryer, Refrigerator, Washer, Range - Gas, Microwave Built-in, Gas stove(s), Window Coverings",Central air conditioning,Natural gas,Forced air,44.43605,-81.38981
+"8 KEMPTON Avenue, Belleville, Ontario, K8N 4Z5","$759,900",3+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer, Microwave Built-in, Window Coverings",Central air conditioning,Natural gas,Poured Concrete,44.210386,-77.306575
+"417 CENTRAL PARK BOULEVARD, Russell, Ontario, K4R 0C6","$754,900",3+1 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,45.2573172,-75.3583264
+"59 WESTRAY CRES, Ajax, Ontario, L1Z 0B3","$750,000",3 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Vinyl siding,43.8505287,-79.0208814
+"7498 ISLAND CRES, Severn, Ontario, L0K 2B0","$749,900",2 Beds,1 Bath,Detached,Propane,Forced air,"Stone, Wood",Detached,44.7546878,-79.51491635139335
+"7498 ISLAND Crescent, Ramara, Ontario, L0K 2B0","$749,900",2 Beds,1 Bath,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Water softener, Washer, Window Coverings",None,Propane,Forced air,44.742574133333335,-79.31772236666666
+"8 CHRISTOPHER Court, Belleville, Ontario, K8N 5Z3","$749,900",3+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Microwave Built-in, Hot Tub",Central air conditioning,Natural gas,Forced air,44.210386,-77.306575
+"97 SECOND Street N, Stoney Creek, Ontario, L8G 1Z5","$749,900",2+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Freezer, Refrigerator, Stove, Washer, Garage door opener",Central air conditioning,Natural gas,Forced air,43.2167526,-79.7567616
+"120 LUPIN DR, Whitby, Ontario, L1N 1X8","$749,900",3+1 Beds,2 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Yes,43.87982,-78.9421751
+"8 OSPREY RIDGE RD, Barrie, Ontario, L4M 6P9","$749,900",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Vinyl siding,44.3893113,-79.6901736
+"195 ANGELINE Street N, Lindsay, Ontario, K9V 4Y5","$749,900",3+1 Beds,2 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Water meter, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,44.35012,-78.73286
+"32 HURON RIDGE Crescent, Kincardine, Ontario, N2Z 1K2","$729,500",2+1 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Water meter, Water softener, Washer, Microwave Built-in, Window Coverings, Hot Tub",Central air conditioning,Propane,"Forced air, Heat Pump",44.1776378,-81.6348713
+"550 Corbett Street, Hamilton, Ontario, L8H 6V1","$719,900",2+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Hot Tub, Oven, Window Coverings",Central air conditioning,Natural gas,Forced air,43.2560802,-79.8728583
+"1425 GHENT Avenue|Unit #608, Burlington, Ontario, L7S 1X5","$714,500",3 Beds,2 Baths,Apartment,"Alarm System, Dishwasher, Dryer, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,43.3248924,-79.7966835
+"13132 St. Thomas STREET, Tecumseh, Ontario, N8N 3V2","$699,999",2+2 Beds,3 Baths,Detached,Fully air conditioned,Natural gas,Forced air,Block,42.3117951,-82.8861974
+"95 KINGS CRES, Ajax, Ontario, L1S 1P8","$699,900",2+1 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,"Stone, Vinyl siding",43.8505287,-79.0208814
+"1278 LAUREL BAY, Windsor, Ontario, N8P 1M9","$699,900",2+1 Beds,3 Baths,Semi-Detached,"Central Vacuum, Dishwasher, Dryer, Microwave Range Hood Combo, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,42.327396,-82.909689
+"47 CHURCHILL CRES, Halton Hills, Ontario, L7G 2N2","$699,900",3 Beds,2 Baths,Detached,Natural gas,Forced air,Brick,Detached,43.621861,-79.943877
+"84C CARRUTHERS AVENUE, Ottawa, Ontario, K1Y 1N2","$699,900",2 Beds,1 Bath,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",None,Natural gas,Forced air,45.4208777,-75.6901106
+"13065 HYLAND Sideroad, Essex, Ontario, N0R 1K0","$699,900",2+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Freezer, Microwave, Stove, Washer",Heat Pump,,Heat Pump,42.1744783,-82.8215468
+"#24 -5878 MONTEVIDEO RD, Mississauga, Ontario, L5N 2V5","$699,900",3 Beds,2 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Brick,43.5896231,-79.6443879
+"9 COLONIAL CRT, St. Catharines, Ontario, L2N 2R2","$699,000",3 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,43.1579812,-79.2441003
+"#414 -75 WELDRICK RD E, Richmond Hill, Ontario, L4C 0H9","$688,000",3+1 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Security system,43.8801166,-79.4392925
+"260 WOODWARD AVE, Peterborough, Ontario, K9L 1J7","$679,900",2+2 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,44.3048009,-78.3199496
+"131 HIGHLAND AVE, Oshawa, Ontario, L1H 6A5","$669,900",2+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,43.8975558,-78.8635324
+"217 BELLEEK LANE, Ottawa, Ontario, K2J 6G7","$659,900",3 Beds,3 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,45.4208777,-75.6901106
+"20 CLAREWOOD Drive, Walkerton, Ontario, N0G 2V0","$659,000",3+1 Beds,3 Baths,Detached,"Central Vacuum - Roughed In, Dishwasher, Stove, Window Coverings",Central air conditioning,Natural gas,Forced air,44.1331908,-81.1485894
+"31 WADDINGTON Street, Brantford, Ontario, N3R 2R4","$659,000",2+1 Beds,2 Baths,Detached,"Dryer, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,43.1408157,-80.2631733
+"4389 HENRY Avenue, Lincoln, Ontario, L0R 1B6","$650,000",3 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,1606 Square Feet,43.17354975,-79.41600688766434
