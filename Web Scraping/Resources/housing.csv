@@ -1,618 +1,223 @@
-address,price,number_of_beds,number_of_baths,style
-"#903 -151 AVENUE RD, Toronto, Ontario, M5R 2H7","$1,955,000",2+1 Beds,2 Baths,Apartment
-"7575 4TH LINE, Centre Wellington, Ontario, N0B 1S0","$1,799,900",5 Beds,2 Baths,Detached
-"388A WHITMORE AVE, Toronto, Ontario, M6E 2N4","$1,795,000",4+2 Beds,2 Baths,Triplex
-"332 DURIE ST, Toronto, Ontario, M6S 3G3","$1,699,000",4 Beds,2 Baths,Detached
-"71 WALMSLEY BLVD, Toronto, Ontario, M4V 1X7","$1,599,000",3 Beds,2 Baths,Duplex
-"#319 -9909 PINE VALLEY DR, Vaughan, Ontario, L4H 4M1","$1,488,800",2 Beds,2 Baths,Apartment
-"B130 CONCESSION ROAD 1 RD, Brock, Ontario, L0K 1A0","$1,399,000",3 Beds,2 Baths,Detached
-"#PH01 -30 ROEHAMPTON AVE, Toronto, Ontario, M4P 1R2","$1,267,280",2+1 Beds,2 Baths,Apartment
-"454638 ROAD 45 RD, Grey Highlands, Ontario, N0C 1C0","$1,260,000",3 Beds,2 Baths,Detached
-"556 BARTON ST E, Hamilton, Ontario, L8E 5N3","$1,250,000",3 Beds,2 Baths,Detached
-"223213 STATION ST, Amaranth, Ontario, L0N 1G0","$1,249,999",3+1 Beds,2 Baths,Detached
-"2193 TRUSCOTT DR, Mississauga, Ontario, L5J 2A7","$1,249,888",3+2 Beds,2 Baths,Detached
-"74 SEVENTEENTH ST, Toronto, Ontario, M8V 3K4","$1,199,000",2+1 Beds,2 Baths,Detached
-"523 MARINERS WAY, Collingwood, Ontario, L9Y 5C7","$1,180,000",2 Beds,2 Baths,Apartment
-"61 HORSESHOE BAY RD, Haldimand, Ontario, N1A 2W8","$1,147,000",3+2 Beds,2 Baths,Detached
-"61 HORSESHOE BAY Road, Dunnville, Ontario, N1A 2W8","$1,147,000",3+2 Beds,2 Baths,Detached
-"#2508 -357 KING  ST W, Toronto, Ontario, M5V 1K1","$1,130,000",2 Beds,2 Baths,Apartment
-"9 CLEGG RD S, Markham, Ontario, L6G 0G6","$1,109,900",3 Beds,2 Baths,Apartment
-"4994 CANBOROUGH RD, West Lincoln, Ontario, L0R 2J0","$1,099,999",3+1 Beds,2 Baths,Detached
-"116 ELLIOTT ST, Brampton, Ontario, L6Y 1W4","$1,088,888",3+1 Beds,2 Baths,Detached
-"925 BOGDANOVIC Way, Huron-Kinloss, Ontario, N2Z 0H3","$1,059,000",3 Beds,2 Baths,Detached
-"#640 -21 DALE AVE, Toronto, Ontario, M4W 1K3","$1,049,000",2 Beds,2 Baths,Apartment
-"232 ROSLIN Road, Hastings, Ontario, K0K 2Y0","$999,000",3+1 Beds,2 Baths,Detached
-"#1308 -33 ELLEN ST, Barrie, Ontario, L4N 6E9","$999,000",2 Beds,2 Baths,Apartment
-"1438 DUNNS LINE, Severn, Ontario, L0K 1E0","$999,000",2+2 Beds,2 Baths,Detached
-"122 DRIVE-IN Crescent, Owen Sound, Ontario, N4K 5N7","$985,000",4+1 Beds,2 Baths,Detached
-"140 FINLEY MCEWEN AVENUE, Carleton Place, Ontario, K7C 3P2","$979,000",4 Beds,2 Baths,Detached
-"140 FINLEY MCEWEN AVENUE, Carleton Place, Ontario, K7C 3P2","$979,000",4 Beds,2 Baths,Detached
-"6 LYNNWOOD Avenue, Grimsby, Ontario, L3M 2X7","$949,900",3 Beds,2 Baths,Detached
-"255 GUILDWOOD DR, Hamilton, Ontario, L9C 6W7","$949,900",3+1 Beds,2 Baths,Detached
-"2131 Cavendish Drive, Burlington, Ontario, L7P 1Z5","$899,900",3 Beds,2 Baths,Detached
-"2131 CAVENDISH DR, Burlington, Ontario, L7P 1Z5","$899,900",3 Beds,2 Baths,Detached
-"2131 CAVENDISH DR, Burlington, Ontario, L7P 1Z5","$899,900",3 Beds,2 Baths,Detached
-"1737 Cote Boulevard, Hanmer, Ontario, P3P 0B2","$849,900",5 Beds,2 Baths,Detached
-"1737 Cote Boulevard, Hanmer, Ontario, P3P 0B2","$849,900",5 Beds,2 Baths,Detached
-"##47 -2441 GREENWICH DR, Oakville, Ontario, L6M 0S4","$834,950",2 Beds,2 Baths,Townhouse
-"479 JOSEPH GALE ST, Cobourg, Ontario, K9A 3N3","$824,000",2 Beds,2 Baths,Detached
-"#2214 -35 WATERGARDEN DR, Mississauga, Ontario","$819,900",2+1 Beds,2 Baths,Apartment
-"#615 -25 BAKER HILL BLVD, Whitchurch-Stouffville, Ontario, L4A 1P8","$818,000",1+1 Beds,2 Baths,Apartment
-"#207 -1190 DUNDAS ST E, Toronto, Ontario, M4M 0C5","$799,999",2 Beds,2 Baths,Apartment
-"294 WOLFE ST, Oshawa, Ontario, L1H 3T7","$799,900",3+1 Beds,2 Baths,Detached
-"44 ELDOMAR AVE, Brampton, Ontario, L6W 1P7","$799,900",2+1 Beds,2 Baths,Detached
-"479 HAYWARD ST, Cobourg, Ontario, K9A 3N5","$799,000",3 Beds,2 Baths,Townhouse
-"#PH 3 -58 CHURCH ST E, Brampton, Ontario, L6V 4A8","$799,000",2 Beds,2 Baths,Apartment
-"225 VILLAGE GREEN SQ, Toronto, Ontario, M1S 0N4","$780,000",2+1 Beds,2 Baths,Apartment
-"#1504 -45 KINGSBRIDGE GARDEN CIRC, Mississauga, Ontario, L5R 3K4","$779,900",2+1 Beds,2 Baths,Apartment
-"#825 -4263 FOURTH AVE, Niagara Falls, Ontario, L7E 4N2","$777,000",3 Beds,2 Baths,Townhouse
-"102 COURTLEIGH SQ, Brampton, Ontario, L6Z 1J3","$769,000",3 Beds,2 Baths,Townhouse
-"1773 PAISLEY AVENUE, Ottawa, Ontario, K2C 1A7","$759,900",3+1 Beds,2 Baths,Detached
-"1174 ALFRED ST, Innisfil, Ontario, L0L 1C0","$759,500",3 Beds,2 Baths,Detached
-"1038 RIVIERA DRIVE, Ottawa, Ontario, K1K 0N8","$749,900",3+1 Beds,2 Baths,Detached
-"1905 Main Street E, Hamilton, Ontario, L8H 1G6","$749,500",3+2 Beds,2 Baths,Detached
-"1905 MAIN ST E, Hamilton, Ontario, L8H 1G6","$749,500",3+2 Beds,2 Baths,Detached
-"1484 HEARTLAND BLVD, Oshawa, Ontario, L1K 2P2","$749,000",3 Beds,2 Baths,Detached
-"15 VICTORIA CRES, Centre Wellington, Ontario, N1M 2W3","$746,969",3+1 Beds,2 Baths,Detached
-"139 RIDGE Road, Rockwood, Ontario, N0B 2K0","$739,000",3 Beds,2 Baths,Townhouse
-"146 ALLEGRA DR, Wasaga Beach, Ontario, L9Z 1P6","$729,000",2 Beds,2 Baths,Detached
-"423 AUDEN RD, Guelph, Ontario, N1E 6V7","$724,900",3 Beds,2 Baths,Detached
-"34 DALGLEISH AVE, Kingston, Ontario, K7L 0C3","$724,888",3+2 Beds,2 Baths,Detached
-"#111 -1441 WALKER'S LINE, Burlington, Ontario, L7M 4P2","$719,900",2 Beds,2 Baths,Apartment
-"13 Alpine Avenue, Hamilton, Ontario, L9A 1A4","$710,000",3 Beds,2 Baths,Detached
-"13 ALPINE AVE, Hamilton, Ontario, L9A 1A4","$710,000",3 Beds,2 Baths,Detached
-"9 DOWNEY Street, Kitchener, Ontario, N2H 6K5","$700,000",3 Beds,2 Baths,Detached
-"1869 MUSKOKA 118 Road W Unit# BTV-W-103, Bracebridge, Ontario, P1L 1W8","$699,999",2 Beds,2 Baths,Apartment
-"1172 HILL ST, Innisfil, Ontario, L9S 1Y1","$699,999",2 Beds,2 Baths,Townhouse
-"#1401 -1055 SOUTHDOWN RD, Mississauga, Ontario, L5J 0A3","$699,999",1+1 Beds,2 Baths,Apartment
-"61 SEVEN OAKS ST, Whitby, Ontario, L1R 0C2","$699,900",2 Beds,2 Baths,Detached
-"#1711 -50 ELM DR E, Mississauga, Ontario, L5A 3X2","$699,900",2+1 Beds,2 Baths,Apartment
-"#1501 -8 REAN DR, Toronto, Ontario, M2K 3B9","$699,900",2 Beds,2 Baths,Apartment
-"#2004 -4065 CONFEDERATION PKWY, Mississauga, Ontario, L5B 0E9","$699,900",2 Beds,2 Baths,Apartment
-"308 NIAGARA ST, Haldimand, Ontario, N1A 2B3","$699,500",4 Beds,2 Baths,Detached
-"937 YONGE ST E, Barrie, Ontario, L9S 3C1","$699,000",3+2 Beds,2 Baths,Detached
-"138 GLEDHILL Crescent, Hamilton, Ontario, L9C 6H4","$669,900",3 Beds,2 Baths,Townhouse
-"17 BROOKDALE Avenue, St. Catharines, Ontario, L2T 2T2","$665,000",3 Beds,2 Baths,Detached
-"#40 -2500 HILL RISE CRT, Oshawa, Ontario, L1L 0J5","$654,900",2 Beds,2 Baths,Townhouse
-"19 RUPERTS RD, Madoc, Ontario, K0K 2K0","$650,000",3 Beds,2 Baths,Detached
-"238 BROWNING TR, Barrie, Ontario, L4N 5C1","$649,900",3 Beds,2 Baths,Detached
-"#2310 -50 TOWN CENTRE CRT, Toronto, Ontario, M1P 0A9","$649,000",2+1 Beds,2 Baths,Apartment
-"1235 RICHMOND ST, London, Ontario, N6A 0C1","$649,000",3 Beds,2 Baths,Apartment
-"102 QUEEN ST, Essa, Ontario, L0M 1B0","$649,000",3 Beds,2 Baths,Detached
-"#831 -3091 DUFFERIN ST, Toronto, Ontario, M6A 2S7","$629,000",2 Beds,2 Baths,Apartment
-"#6108 -5 BUTTERMILL  AVE, Vaughan, Ontario, L4J 0J5","$628,000",2 Beds,2 Baths,Apartment
-"112 KING Street E|Unit #807, Hamilton, Ontario, L8N 1A8","$627,997",2 Beds,2 Baths,Apartment
-"124 Grassland Grove, Chatham, Ontario, N7M 0T2","$609,900",3 Beds,2 Baths,Detached
-"569 HURDVILLE Road, McKellar, Ontario, P2A 0B5","$599,900",3 Beds,2 Baths,Detached
-"2032 MAIN ST N, Haldimand, Ontario, N0A 1J0","$599,900",2 Beds,2 Baths,Detached
-"#L -2111 MEADOWBROOK RD, Burlington, Ontario, L7P 2A5","$599,000",3 Beds,2 Baths,Townhouse
-"2111 Meadowbrook Road|Unit #L, Burlington, Ontario, L7P 2A5","$599,000",3 Beds,2 Baths,Townhouse
-"#511 -500 GREEN RD, Hamilton, Ontario, L8E 3M6","$599,000",2+1 Beds,2 Baths,Apartment
-"500 GREEN Road|Unit #511, Stoney Creek, Ontario, L8E 3M6","$599,000",2 Beds,2 Baths,Apartment
-"#706 -223 BEECROFT RD, Toronto, Ontario, M2N 6Z9","$598,000",1+1 Beds,2 Baths,Apartment
-"#301 -335 WEBB DR, Mississauga, Ontario, L5B 4A1","$589,800",2+1 Beds,2 Baths,Apartment
-"#154 -2095 ROCHE CRT, Mississauga, Ontario, L5K 2C8","$575,000",2+1 Beds,2 Baths,Townhouse
-"#515 -1300 MARLBOROUGH CRT, Oakville, Ontario, L6H 2S2","$559,999",3 Beds,2 Baths,"Storage - Locker, Party Room, Exercise Centre, Recreation Centre"
-"11 PRINCESS Street, Glen Morris, Ontario, L4B 1J8","$550,000",3 Beds,2 Baths,Detached
-"851 GOLF CLUB ROAD, Hawkesbury, Ontario, K6A 2R2","$550,000",3 Beds,2 Baths,Detached
-"27 JONES LANE, Welland, Ontario, L3G 3M6","$549,400",2+1 Beds,2 Baths,Detached
-"223 AUBURN AVE, Hamilton, Ontario, L8K 3B7","$549,000",2+2 Beds,2 Baths,Detached
-"#704 -665 KENNEDY RD, Toronto, Ontario, M1K 5E2","$519,000",3 Beds,2 Baths,Apartment
-"80 Duskridge Road, Chatham, Ontario, N7L 0G6","$509,900",2 Beds,2 Baths,Detached
-"33 DAYTON Court, Picton, Ontario, K0K 2T0","$499,900",2 Beds,2 Baths,Detached
-"152 ANTONIO COURT, Leamington, Ontario, N8H 5P5","$499,000",2+1 Beds,2 Baths,Townhouse
-"#104 -410 DUNDAS ST S, Cambridge, Ontario, N1R 8H7","$499,000",2 Beds,2 Baths,Apartment
-"U 10 116 CEDARDALE RD, Brighton, Ontario, K0K 1H0","$499,000",3 Beds,2 Baths,Mobile
-"41 PORTLAND AVENUE, Cornwall, Ontario, K6H 0A2","$489,900",2+1 Beds,2 Baths,Detached
-"#205 -358 WATERLOO AVE, Guelph, Ontario, N1H 7Y3","$479,900",2+1 Beds,2 Baths,Apartment
-"23 MARY STREET, Petawawa, Ontario, K8H 1R8","$449,900",3 Beds,2 Baths,Detached
-"55 Plumtree Crescent, Sudbury, Ontario, P3B 4G7","$424,900",4 Beds,2 Baths,Detached
-"10 COOPER Street Unit# 215, Cambridge, Ontario, N3C 2N2","$400,000",2 Beds,2 Baths,Apartment
-"1135 10TH Avenue E, Owen Sound, Ontario, N4K 5V5","$400,000",2+2 Beds,2 Baths,Detached
-"7 LEE Street, Walkerton, Ontario, N0G 2V0","$399,900",2+1 Beds,2 Baths,Detached
-"450 McEwan AVENUE, Windsor, Ontario, N9B 2E8","$399,000",4 Beds,2 Baths,Duplex
-"#76 -92 STROUD CRES, London, Ontario, N6E 1Y8","$390,000",3 Beds,2 Baths,Townhouse
-"257 McMillan Crescent, Dryden, ON, P8N 0A2","$389,000",4 Beds,2 Baths,4
-"329 THIRD STREET, Cornwall, Ontario, K6H 2E3","$379,900",3 Beds,2 Baths,Detached
-"193 West River Road, Dryden, ON, P8N 2Y5","$379,900",4 Beds,2 Baths,4
-"4530 STE-CATHERINE STREET, St Isidore, Ontario, K0C 2B0","$374,900",3 Beds,2 Baths,Detached
-"231 Glen AVE, Sault Ste. Marie, Ontario, P6A 5E3","$359,000",3 Beds,2 Baths,Detached
-"210 Walsh Street W, Thunder Bay, ON, P7E 4W6","$355,000",3 Beds,2 Baths,3
-"86 NELSON Avenue, North Bay, Ontario, P1A 1Z9","$349,900",2+1 Beds,2 Baths,Detached
-"6300 WILLIAM-MILLIKEN Road, Kettle Point, Ontario, N0N 1J1","$329,900",2 Beds,2 Baths,Detached
-"44 WILSON ROAD, Petawawa, Ontario, K8H 2Y3","$315,900",2 Beds,2 Baths,Detached
-"434 GOLF COURSE ROAD, Pembroke, Ontario, K8A 7B4","$309,900",2 Beds,2 Baths,Detached
-"7 MILL STREET, Oxford Station, Ontario, K0G 1T0","$309,000",1+3 Beds,2 Baths,Detached
-"121 Amelia Street W, Thunder Bay, ON, P7E 4A1","$259,900",4 Beds,2 Baths,4
-"52 Hudson Drive, Terrace Bay, ON, P0T 2W0","$219,900",3 Beds,2 Baths,3
-"219 DOUGLAS AVE, Toronto, Ontario, M5M 1G9","$1,599,000",3+1 Beds,2 Baths,Detached
-"1225 Bellview Street, Burlington, ON, L7S 1C8","$1,372,900",3 Beds,2 Baths,1038 Square Feet
-"616 Lakeshore Road, Fort Erie, ON, L2A 1B6","$1,298,800",3 Beds,2 Baths,2050 Square Feet
-"341 Lawrence Ave W, Toronto, ON, M5M 1B6","$1,290,000",3+1 Beds,2 Baths,Detached
-"454638 Road 45, Feversham, ON, N0C 1C0","$1,260,000",3 Beds,2 Baths,2939 Square Feet
-"#4002 -1 YORKVILLE AVE, Toronto, Ontario, M4W 1L1","$1,169,000",2 Beds,2 Baths,Apartment
-"58 Pinecone Avenue, Tiny, ON, L9M 0J2","$1,125,000",3 Beds,2 Baths,1820 Square Feet
-"307604 Hockley Rd, Mono, ON, L9W 6N1","$1,100,000",4 Beds,2 Baths,Detached
-"4994 Canborough Road, Wellandport, ON, L0R 2J0","$1,099,999",4 Beds,2 Baths,1554 Square Feet
-"3408-357 King St W, Toronto, ON, M5V 1K1","$1,099,000",2 Beds,2 Baths,Apartment
-"1360 WOODBINE AVE, Toronto, Ontario, M4C 4G5","$999,999",2+1 Beds,2 Baths,Detached
-"1360 WOODBINE AVE, Toronto, Ontario, M4C 4G5","$999,999",2+1 Beds,2 Baths,Detached
-"#4204 -12 YORK ST, Toronto, Ontario, M5J 0A9","$999,000",3+1 Beds,2 Baths,Apartment
-"1308-33 Ellen Street, Barrie, ON, L4N 6E9","$999,000",2 Beds,2 Baths,1369 Square Feet
-"290 Shanty Bay Road, Oro-Medonte, ON, L4M 1E6","$999,000",3 Beds,2 Baths,957 Square Feet
-"807-60 Old Mill Road, Oakville, ON, L6J 7V9","$929,900",2 Beds,2 Baths,1050 Square Feet
-"62 Ottawa Street, Whitney, ON, K0J 2M0","$925,000",4 Beds,2 Baths,2060 Square Feet
-"71 Little John Road, Dundas, ON, L9H 4G9","$899,000",4 Beds,2 Baths,Yes
-"2228 CONCESSION 6 RD, Clarington, Ontario, L0B 1J0","$899,000",3 Beds,2 Baths,Detached
-"7 PENDEEN AVE, Toronto, Ontario, M6N 2P4","$899,000",3+1 Beds,2 Baths,Detached
-"378 Jonathan Street, London, ON, N5Z 5C8","$895,000",3 Beds,2 Baths,2150 Square Feet
-"214-800 Lawrence Ave W, Toronto, ON, M6A 1C3","$879,900",2+1 Beds,2 Baths,Apartment
-"66 St Andrew Street, Paris, ON, N3L 2X3","$879,888",3 Beds,2 Baths,Yes
-"55 Belcourt Crescent, Guelph, ON, N1H 7A6","$875,000",4 Beds,2 Baths,1162 Square Feet
-"#2205 -5 ST JOSEPH ST, Toronto, Ontario, M4Y 0B6","$868,000",1+1 Beds,2 Baths,Apartment
-"441038 CONCESSION 12-13 RD, East Luther Grand Valley, Ontario, L9W 0Z9","$849,900",3 Beds,2 Baths,Detached
-"407-1888 Queen St E, Toronto, ON, M4L 1H3","$849,000",2 Beds,2 Baths,Apartment
-"431 GLENHOLME AVE, Toronto, Ontario, M6E 3E9","$849,000",3+2 Beds,2 Baths,Detached
-"43 Warwick Avenue, Grand Bend, ON, N0M 1T0","$839,900",4 Beds,2 Baths,1406 Square Feet
-"331 Tweedsmuir Avenue, London, ON, N5W 1L5","$829,900",3 Beds,2 Baths,1494 Square Feet
-"28 Cottonwood Dr, Toronto, ON, M3C 2B4","$828,000",3 Beds,2 Baths,Townhouse
-"531 Sandybrook Drive, London, ON, N5X 4H1","$819,900",2 Beds,2 Baths,1711.93
-"#723 -50 CLEGG RD, Markham, Ontario, L6G 0C6","$809,980",2 Beds,2 Baths,Apartment
-"207-1190 Dundas Street E, Toronto, ON, M4M 0C5","$799,999",2 Beds,2 Baths,754 Square Feet
-"230 Frederick Court, Tavistock, ON, N0B 2R0","$799,900",2 Beds,2 Baths,1470 Square Feet
-"100 Stirling Avenue N, Kitchener, ON, N2H 3G8","$799,900",4 Beds,2 Baths,1242 Square Feet
-"241 BOON AVE, Toronto, Ontario, M6E 3Z7","$799,900",3 Beds,2 Baths,Detached
-"2102-1215 York Mills  Rd, Toronto, ON, M3A 1Y4","$797,000",2 Beds,2 Baths,Apartment
-"167 Highland Dr, Orangeville, ON, L9W 3J5","$779,000",4 Beds,2 Baths,Detached
-"1137 Prince Philip Drive, London, ON, N6H 4E8","$749,900",4 Beds,2 Baths,1600 Square Feet
-"15 Victoria Crescent, Fergus, ON, N1M 2W3","$746,969",4 Beds,2 Baths,1191 Square Feet
-"1664 Ridge Road E, Hawkestone, ON, L0L 1T0","$745,000",3 Beds,2 Baths,845 Square Feet
-"14 Elm Street, Picton, ON, K0K 2T0","$745,000",3 Beds,2 Baths,1431 Square Feet
-"418-302 Essa Road, Barrie, ON, L9J 0H3","$739,900",2 Beds,2 Baths,1454 Square Feet
-"3561 Imperial Road, Aylmer, ON, N2H 2R2","$739,500",2 Beds,2 Baths,1046 Square Feet
-"146 Allegra Drive, Wasaga Beach, ON, L9Z 1P6","$729,000",2 Beds,2 Baths,1327 Square Feet
-"212-85 Wellington St W, Aurora, ON, L4G 2P2","$729,000",2 Beds,2 Baths,Apartment
-"423 Auden Road, Guelph, ON, N1E 6V7","$724,900",3 Beds,2 Baths,1129 Square Feet
-"34 Dalgleish Avenue, Kingston, ON, K7L 0C3","$724,888",5 Beds,2 Baths,1102 Square Feet
-"703 VICTORIA ST, Shelburne, Ontario","$724,000",4 Beds,2 Baths,Detached
-"815 Mohawk Road E, Hamilton, Ontario, L8T 2R4","$699,000",3+1 Beds,2 Baths,Detached
-"#504 -2908 HWY 7 RD N, Vaughan, Ontario, L4K 0H8","$699,000",1+1 Beds,2 Baths,Apartment
-"10-530 Falgarwood Drive, Oakville, ON, L6H 1N3","$699,000",3 Beds,2 Baths,1590 Square Feet
-"42 HIGHLAND DR W, Orangeville, Ontario, L9W 2Y3","$680,000",3+1 Beds,2 Baths,Detached
-"#611 -15 SINGER CRT, Toronto, Ontario, M2K 0B1","$665,000",1+1 Beds,2 Baths,Apartment
-"40-2500 Hill Rise Court, Oshawa, ON, L1L 0J5","$654,900",2 Beds,2 Baths,900 Square Feet
-"71 Leeson St S, East Luther Grand Valley, ON, L9W 5S5","$650,000",3+1 Beds,2 Baths,Detached
-"#316 -2910 HIGHWAY 7 RD W, Vaughan, Ontario, L4K 0H8","$649,900",1+1 Beds,2 Baths,Apartment
-"16 Wiltshire Drive, Brantford, ON, N3R 5A9","$649,900",4 Beds,2 Baths,1341 Square Feet
-"128 The Greenway, Cambridge, ON, N1R 6L9","$649,900",3 Beds,2 Baths,1021 Square Feet
-"6 Arrow Wood Court, Guelph, ON, N1G 4X7","$649,900",2 Beds,2 Baths,1283.65
-"#1010 -6 EVA RD, Toronto, Ontario, M9C 0B1","$634,900",2 Beds,2 Baths,Apartment
-"101 Martindale Road, St. Catharines, ON, L2S 2Y7","$629,900",5 Beds,2 Baths,1030 Square Feet
-"57-369 Essa Road Road, Barrie, ON, L4N 9C8","$624,900",3 Beds,2 Baths,1388 Square Feet
-"4119 Rd 164 Road, Mitchell, ON, N0K 1N0","$607,000",3 Beds,2 Baths,2086 Square Feet
-"158 Huron Road, Sebringville, ON, N0K 1N0","$599,900",4 Beds,2 Baths,2000 Square Feet
-"499 Canterbury Street, Woodstock, ON, N4S 4K6","$589,900",2 Beds,2 Baths,1600 Square Feet
-"81 Field Street, Lively, ON, P3Y 1B4","$575,000",3 Beds,2 Baths,1325 Square Feet
-"3211 Highway 3, Simcoe, ON, N3Y 4K6","$549,919",3 Beds,2 Baths,1444 Square Feet
-"104 St David Street, Mitchell, ON, N0K 1N0","$549,000",4 Beds,2 Baths,1344 Square Feet
-"103 Empire Lane, Meaford, ON, N4L 0A5","$549,000",2 Beds,2 Baths,1583 Square Feet
-"6 Tillson Street, Tillsonburg, ON, N4G 2X2","$535,000",5 Beds,2 Baths,1367 Square Feet
-"202-155 Water Street S, Cambridge, ON, N1R 3E3","$524,900",2 Beds,2 Baths,850 Square Feet
-"59 Lankin Boulevard, Orillia, ON, L3V 6T1","$519,000",3 Beds,2 Baths,1564 Square Feet
-"22 The Greenway Way, Cambridge, ON, N1R 6L8","$514,500",3 Beds,2 Baths,1053 Square Feet
-"326 Glen Cairn Terrace, Kingston, ON, K7M 4A5","$509,900",4 Beds,2 Baths,1109 Square Feet
-"64-26 Poplar Drive, Cambridge, ON, N3C 4A4","$500,000",3 Beds,2 Baths,1412 Square Feet
-"51 HARRIS ST, Cambridge, Ontario, N1R 3X9","$499,900",5 Beds,2 Baths,Duplex
-"207-344 Florence Drive, Peterborough, ON, K9J 0K4","$499,900",2 Beds,2 Baths,888 Square Feet
-"#1046 -100 MORNELLE CRT, Toronto, Ontario, M1E 4X2","$499,900",2+1 Beds,2 Baths,Townhouse
-"230 Grey Street, Brantford, ON, N3S 4W7","$499,900",3 Beds,2 Baths,1500 Square Feet
-"#1111 -36 LISGAR ST, Toronto, Ontario, M6J 0C7","$499,000",2 Beds,2 Baths,Apartment
-"321-8 Harris Street, Cambridge, ON, N1R 8R1","$489,800",2 Beds,2 Baths,818 Square Feet
-"14 Mariah Street, North Bay, ON, P1A 4L9","$449,000",3 Beds,2 Baths,1066 Square Feet
-"32-14 New Lakeshore Road, Port Dover, ON, N0A 1N8","$423,750",3 Beds,2 Baths,1026 Square Feet
-"76-92 Stroud Crescent, London, ON, N6E 1Y8","$390,000",3 Beds,2 Baths,1170 Square Feet
-"6300 William-Milliken Road, Kettle Point, ON, N0N 1J1","$329,900",2 Beds,2 Baths,1380 Square Feet
-"484 Dundas Street, Deseronto, ON, K0K 1X0","$299,900",2 Beds,2 Baths,1390 Square Feet
-"92 DAY AVE, Toronto, Ontario, M6E 3V9","$1,189,000",3+1 Beds,2 Baths,Detached
-"15494 HWY 41, Cloyne, Ontario, K0H 1K0","$1,185,000",3+1 Beds,2 Baths,Detached
-"3082 30 Side Rd, Milton, ON, N0B 2K0","$1,175,000",3+2 Beds,2 Baths,Detached
-"#403 -20 TUBMAN AVE, Toronto, Ontario, M5A 0M5","$1,145,000",3 Beds,2 Baths,Apartment
-"#1912 -1 MARKET ST, Toronto, Ontario, M5E 0A2","$1,100,000",2+1 Beds,2 Baths,Apartment
-"2070 CHURCHILL AVE, Burlington, Ontario, L7R 3T7","$1,099,000",4 Beds,2 Baths,Detached
-"60 Balmoral Place, Barrie, ON, L4N 0Y9","$1,049,000",5 Beds,2 Baths,2189 Square Feet
-"61 BARRYMORE RD, Toronto, Ontario, M1J 1W4","$998,888",3+1 Beds,2 Baths,Detached
-"89 REYNOLDS RD, Centre Wellington, Ontario, N0B 1S0","$998,000",3 Beds,2 Baths,Detached
-"38 Erie Avenue S, Fisherville, Ontario, N0A 1G0","$899,999",3 Beds,2 Baths,Detached
-"15 FERGUSON DR, Barrie, Ontario, L4N 7B4","$899,999",3+1 Beds,2 Baths,Detached
-"#1203 -5 KENNETH AVE, Toronto, Ontario, M2N 6M7","$899,000",2+1 Beds,2 Baths,Apartment
-"#3210 -10 PARK LAWN RD, Toronto, Ontario, M8V 0H9","$895,000",2+1 Beds,2 Baths,Apartment
-"7 Yarmouth Court, Hamilton, Ontario, L8S 3E2","$869,900",4+3 Beds,2 Baths,Detached
-"#125 -5030 HEATHERLEIGH AVE, Mississauga, Ontario, L5V 2G7","$869,900",3 Beds,2 Baths,Townhouse
-"#2215 -72 ESTHER SHINER BLVD, Toronto, Ontario, M2K 2X9","$869,000",2 Beds,2 Baths,Apartment
-"#1032 -100 EAGLE ROCK WAY, Vaughan, Ontario, L6A 5A7","$858,000",2+1 Beds,2 Baths,Apartment
-"1229 DELMARK CRT, Oshawa, Ontario, L1H 8K6","$849,000",3 Beds,2 Baths,Detached
-"1317 UPPER SHERMAN AVE, Hamilton, Ontario, L8W 3E7","$829,000",3+2 Beds,2 Baths,Detached
-"29 ADELAIDE STREET, Ottawa, Ontario, K1S 3S1","$824,000",3 Beds,2 Baths,Townhouse
-"82-1058 Whitings Road, Torrance, ON, P0C 1M0","$800,000",3 Beds,2 Baths,1140.72
-"22A BERNICK DR, Barrie, Ontario, L4M 5J5","$799,999",3+3 Beds,2 Baths,Duplex
-"411 Leacock Drive, Barrie, ON, L4N 5L8","$799,900",6 Beds,2 Baths,1005 Square Feet
-"14 HUCKLEBERRY SQ, Brampton, Ontario, L6S 1Y2","$799,000",4 Beds,2 Baths,Detached
-"303 SECOND Avenue N, Sauble Beach, Ontario, N0H 2G0","$799,000",4 Beds,2 Baths,Detached
-"44 WALTER AVE, Newmarket, Ontario, L3Y 2T3","$789,900",3+2 Beds,2 Baths,Detached
-"6662 STANMORE STREET, Ottawa, Ontario, K4P 1G7","$789,000",3 Beds,2 Baths,Detached
-"72 KINZIE LANE, Barrie, Ontario, L4M 5Z8","$786,500",4+2 Beds,2 Baths,Detached
-"16 SHANNON ST, Barrie, Ontario, L4M 2K8","$769,000",3 Beds,2 Baths,Detached
-"1174 Alfred Street, Innisfil, ON, L0L 1C0","$759,500",3 Beds,2 Baths,1030 Square Feet
-"#121 -2 ADAM SELLERS ST, Markham, Ontario, L6B 1P2","$759,000",2 Beds,2 Baths,Apartment
-"1 ROSLYN RD, Barrie, Ontario, L4M 2X5","$750,000",3+1 Beds,2 Baths,Detached
-"10 Windward Drive|Unit #307, Grimsby, Ontario, L3M 4E8","$739,000",1 Beds,2 Baths,Apartment
-"#407 -550 NORTH SERVICE RD, Grimsby, Ontario, L3M 4E8","$714,900",2 Beds,2 Baths,Apartment
-"#704 -15 ELIZABETH ST N, Mississauga, Ontario, L5G 2Z3","$699,900",3 Beds,2 Baths,Apartment
-"367 2ND AVENUE SOUTH EAST Avenue, Georgian Bluffs, Ontario, N4K 5T2","$699,000",4 Beds,2 Baths,Detached
-"815 MOHAWK RD E, Hamilton, Ontario, L8T 2R4","$699,000",3+1 Beds,2 Baths,Detached
-"2832-7161 Yonge St, Markham, ON, L3T 0C8","$699,000",2+1 Beds,2 Baths,Apartment
-"593 GRANDVIEW ST S, Oshawa, Ontario, L1H 7T5","$699,000",3+1 Beds,2 Baths,Detached
-"1817 KING STREET, Limoges, Ontario, K0A 2M0","$669,900",4+1 Beds,2 Baths,Detached
-"1296 LOWER CRAIGMOUNT ROAD, Combermere, Ontario, K0J 1L0","$669,000",2 Beds,2 Baths,Detached
-"147 KENSINGTON AVE N, Hamilton, Ontario, L8L 7N4","$669,000",2+1 Beds,2 Baths,Detached
-"#606 -60 FAIRFAX CRES, Toronto, Ontario, M1L 1Z8","$659,500",2+1 Beds,2 Baths,Apartment
-"2211-15 Queen Street S, Hamilton, ON, L8P 3R6","$659,000",2 Beds,2 Baths,846 Square Feet
-"52 Kinnear Crescent, London, ON, N6K 1V8","$650,000",3 Beds,2 Baths,1424 Square Feet
-"1262 COLEMAN CRT, Innisfil, Ontario, L0L 2M0","$649,888",3 Beds,2 Baths,Townhouse
-"#8 -2444 POST RD, Oakville, Ontario, L6M 5A8","$649,000",2 Beds,2 Baths,Townhouse
-"60 LIBBYS ROAD, Braeside, Ontario, K7S 0E1","$624,900",3+1 Beds,2 Baths,Detached
-"56 GOWRIE Drive, Ottawa, ON, K2L 2S5","$620,000",3 Beds,2 Baths,3
-"#588 -1 GREYSTONE WALK DR, Toronto, Ontario, M1K 5J3","$619,000",2+1 Beds,2 Baths,Apartment
-"#204 -7 MICHAEL POWER PL, Toronto, Ontario, M9A 0A4","$615,000",1+1 Beds,2 Baths,Apartment
-"2032 Main Street N, Jarvis, Ontario, N0A 1J0","$599,900",2 Beds,2 Baths,Detached
-"#1059 -100 MORNELLE CRT, Toronto, Ontario, M1E 4X2","$599,900",2+1 Beds,2 Baths,Townhouse
-"1107-151 Village Green Square, Toronto, ON, M1S 0K5","$599,880",2+1 Beds,2 Baths,Apartment
-"#2106 -3939 DUKE OF YORK BLVD, Mississauga, Ontario, L5B 4N2","$599,000",1+1 Beds,2 Baths,Apartment
-"230 LINDEN  DR, Cambridge, Ontario, N3H 4Y2","$590,000",3+1 Beds,2 Baths,Townhouse
-"#902 -7890 BATHURST ST, Vaughan, Ontario, L4J 0J8","$580,000",1+1 Beds,2 Baths,Apartment
-"#805 -330 MILL ST S, Brampton, Ontario, L6Y 3V3","$560,000",2 Beds,2 Baths,Apartment
-"#1102 -840 QUEENS PLATE DR, Toronto, Ontario, M9W 7J9","$549,000",1+1 Beds,2 Baths,Apartment
-"20 QUEEN STREET, Renfrew, Ontario, K7C 2A2","$515,000",4 Beds,2 Baths,Detached
-"111 LEACOCK DRIVE, Ottawa, Ontario, K2K 1S7","$499,900",4 Beds,2 Baths,Detached
-"62 EMERALD ST N, Hamilton, Ontario, L8L 5K3","$499,000",3 Beds,2 Baths,Detached
-"20 OWEN ST, Penetanguishene, Ontario, L9M 1M8","$497,700",3 Beds,2 Baths,Townhouse
-"52-423 Westwood Drive, Kitchener, ON, N2M 5B5","$449,900",3 Beds,2 Baths,1143 Square Feet
-"120 PRESTIGE CIRCLE UNIT#117, Ottawa, Ontario, K4A 1B4","$429,900",2 Beds,2 Baths,Apartment
-"61 WOODFIELD DRIVE UNIT#D, Ottawa, Ontario, K2G 3Y7","$429,900",3 Beds,2 Baths,Townhouse
-"694 22ND Street W, Owen Sound, Ontario, N4K 4G4","$395,000",2+1 Beds,2 Baths,Detached
-"#17 -15 NICKLAUS DR, Hamilton, Ontario, L8K 5J5","$389,900",3 Beds,2 Baths,"Storage - Locker, Party Room, Exercise Centre, Recreation Centre"
-"#601 -3 SOUTHVALE DR, Toronto, Ontario, M4G 1G1","$1,998,500",2+1 Beds,2 Baths,Apartment
-"457 CLAREMONT CRES, Oakville, Ontario, L6J 6J9","$1,688,000",3 Beds,2 Baths,Detached
-"245 Brookview Court, Ancaster, Ontario, L9G 1J7","$1,299,900",3+1 Beds,2 Baths,Detached
-"#712 -33 BAY ST, Toronto, Ontario, M5J 2Z3","$1,258,000",2+1 Beds,2 Baths,Apartment
-"252 Morton Line, Cavan-Monaghan, ON, L0A 1C0","$1,200,000",3 Beds,2 Baths,1130 Square Feet
-"523 Mariners Way, Collingwood, ON, L9Y 5C7","$1,180,000",2 Beds,2 Baths,1157 Square Feet
-"3 GARLAND CRT, Brampton, Ontario, L6S 2E3","$1,099,000",4+2 Beds,2 Baths,Detached
-"#PH08 -30 ROEHAMPTON AVE, Toronto, Ontario, M4P 1R2","$1,095,584",2+1 Beds,2 Baths,Apartment
-"735 9TH LINE, Innisfil, Ontario, L9S 3X9","$1,068,000",3 Beds,2 Baths,Detached
-"5780 SECOND LINE E, Guelph/Eramosa, Ontario, N0B 1B0","$999,900",3 Beds,2 Baths,Detached
-"84 SHERWOOD FOREST DR, Markham, Ontario, L3P 1R1","$998,000",4 Beds,2 Baths,Detached
-"14 MELLON AVE, Georgina, Ontario, L0E 1N0","$989,900",3 Beds,2 Baths,Detached
-"356-358 DUNDAS ST E, Hamilton, Ontario, L0R 2H1","$958,000",4 Beds,2 Baths,Detached
-"339 GREEN Street, Port Elgin, Ontario, N0H 2C0","$899,900",4 Beds,2 Baths,Detached
-"104 DUNSMURE RD, Hamilton, Ontario, L8M 1S4","$899,900",6 Beds,2 Baths,Detached
-"#PH2 -7 KENASTON GDNS, Toronto, Ontario, M2K 1G7","$899,000",2+1 Beds,2 Baths,Apartment
-"13 SPEERS AVE, Toronto, Ontario, M9N 1E9","$888,000",2+1 Beds,2 Baths,Detached
-"#633 -120 HARRISON GARDEN BLVD, Toronto, Ontario, M2N 0H1","$869,000",2+1 Beds,2 Baths,Apartment
-"151 STANLEY DR, Grey Highlands, Ontario, N0C 1E0","$800,000",2 Beds,2 Baths,Detached
-"22A Bernick Drive, Barrie, ON, L4M 5J5","$799,999",6 Beds,2 Baths,1032 Square Feet
-"34 FERNWOOD Terrace, Welland, Ontario, L3C 2R8","$799,900",3+1 Beds,2 Baths,Detached
-"#318 -7363 KENNEDY RD, Markham, Ontario, L3R 5B5","$799,000",3+1 Beds,2 Baths,Apartment
-"#28 -59 KENNINGHALL BLVD, Mississauga, Ontario, L5N 1J6","$799,000",3 Beds,2 Baths,Detached
-"#3209 -3515 KARIYA DR, Mississauga, Ontario, L5B 0C1","$799,000",2+1 Beds,2 Baths,Apartment
-"232 THOMSON LANE, Arran-Elderslie, Ontario, N0G 1L0","$789,900",3+1 Beds,2 Baths,Detached
-"1 WINTERGREEN CIRC, Tay, Ontario, L0K 2A0","$755,000",2+1 Beds,2 Baths,Detached
-"27 Burnet Street, Warminster, ON, L0K 2G0","$749,900",4 Beds,2 Baths,1192 Square Feet
-"#112 -9235 JANE ST, Vaughan, Ontario, L6A 0J8","$749,000",2 Beds,2 Baths,Apartment
-"#611 -5001 FINCH AVE E, Toronto, Ontario, M1S 5J9","$738,000",3 Beds,2 Baths,Apartment
-"376 BRIARHILL AVE, London, Ontario, N5Y 1N9","$735,000",2+2 Beds,2 Baths,Detached
-"73 NUTCRACKER ST, Cambridge, Ontario, N1T 1M1","$729,900",3+1 Beds,2 Baths,Detached
-"1386 KILLARNEY BAY RD, Kawartha Lakes, Ontario, K0M 1G0","$729,900",2 Beds,2 Baths,Detached
-"1386 KILLARNEY BAY Road, Cameron, Ontario, K0M 1G0","$729,900",2 Beds,2 Baths,Detached
-"410-70 Annie Craig Drive, Toronto, ON, M8V 0G2","$714,000",2 Beds,2 Baths,789 Square Feet
-"5865 MARINE STATION Road, Iroquois, ON, K0E 1K0","$699,900",3 Beds,2 Baths,3
-"704-15 Elizabeth Street N, Port Credit, ON, L5G 2Z3","$699,900",3 Beds,2 Baths,1117.44
-"308 NIAGARA Street, Dunnville, Ontario, N1A 2B3","$699,500",4 Beds,2 Baths,Detached
-"75 Princess St, Orangeville, ON, L9W 4E8","$699,000",3 Beds,2 Baths,Semi-Detached
-"248 Moonstone CRESCENT, Chatham, Ontario, N7M 0S1","$679,900",2 Beds,2 Baths,Detached
-"18 OXFORD ST, Orangeville, Ontario, L9W 3P5","$679,000",4+1 Beds,2 Baths,Detached
-"14 LAKEVIEW CRT, Orangeville, Ontario, L9W 4P2","$675,000",3 Beds,2 Baths,Detached
-"#1416 -4727 SHEPPARD AVE E, Toronto, Ontario, M1S 5B3","$659,999",2+1 Beds,2 Baths,Apartment
-"#315 NE -9205 YONGE ST, Richmond Hill, Ontario, L4C 1V5","$659,900",2 Beds,2 Baths,Apartment
-"19 RUPERTS Road, Madoc, Ontario, K0K 2K0","$650,000",2+1 Beds,2 Baths,Detached
-"210 FORWARD AVENUE, Ottawa, Ontario, K1Y 1L2","$649,900",3 Beds,2 Baths,Townhouse
-"3 DEAN DR, Brighton, Ontario, K0K 1H0","$649,900",3+1 Beds,2 Baths,Detached
-"1262 Coleman Court, Innisfil, ON, L9S 1X4","$649,888",3 Beds,2 Baths,1259 Square Feet
-"1383 BRUCE-SAUGEEN Townline, Saugeen Shores, Ontario, N0G 2N0","$649,000",3 Beds,2 Baths,Detached
-"896 FLAT RAPIDS Drive, Arnprior, ON, K7S 3G8","$649,000",2 Beds,2 Baths,2
-"#1408 -3 MICHAEL POWER PL, Toronto, Ontario, M9A 0A2","$638,000",2 Beds,2 Baths,Apartment
-"82 Patterson Road, Barrie, ON, L4N 3W2","$629,900",3 Beds,2 Baths,1056 Square Feet
-"#104 -8 CULINARY LANE, Barrie, Ontario, L9J 0T2","$629,000",2 Beds,2 Baths,Apartment
-"202-13 Beausoleil Lane, The Blue Mountains, ON, L9Y 2X5","$619,000",2 Beds,2 Baths,905 Square Feet
-"##213 -21 MATCHEDASH ST S, Orillia, Ontario, L3V 4W4","$605,000",1 Beds,2 Baths,Apartment
-"#1708 -5 BUTTERMILL AVE, Vaughan, Ontario, L4K 0J5","$599,900",2 Beds,2 Baths,Apartment
-"##1706 -3100 KIRWIN AVE, Mississauga, Ontario, L5A 3S6","$599,900",1+1 Beds,2 Baths,Apartment
-"#PH11 -225 BAMBURGH CIRC, Toronto, Ontario, M1W 3X9","$599,000",2+1 Beds,2 Baths,Apartment
-"4993 Maple Street, Niagara Falls, ON, L2E 2M7","$599,000",2 Beds,2 Baths,1148 Square Feet
-"39 Lake Breeze Drive, Ashfield-Colborne-Wawanosh, ON, N7A 0B7","$589,900",2 Beds,2 Baths,1333 Square Feet
-"#419 -50 LAKEBREEZE DR, Clarington, Ontario, L1B 0V9","$579,990",1+1 Beds,2 Baths,Apartment
-"6-410 Burwell Road, St. Thomas, ON, N5P 4N6","$579,000",4 Beds,2 Baths,1164 Square Feet
-"6 Wesley Avenue, Brantford, ON, N3R 3X1","$549,900",2 Beds,2 Baths,714 Square Feet
-"34 YORK Street, Picton, Ontario, K0K 2T0","$546,500",3 Beds,2 Baths,Detached
-"34 YORK ST, Prince Edward County, Ontario, K0K 2T0","$546,500",3 Beds,2 Baths,Detached
-"7 INDIANA ST, Kitchener, Ontario, N2H 2A4","$540,000",2+1 Beds,2 Baths,Detached
-"201-7 KIPPEWA Drive, Ottawa, ON, K1S 3G3","$539,800",2 Beds,2 Baths,2
-"#1004 -20 MCFARLANE DR, Halton Hills, Ontario, L7G 5J8","$539,000",1 Beds,2 Baths,Apartment
-"#1076 -100 MORNELLE CRT, Toronto, Ontario, M1E 4X2","$515,000",2+1 Beds,2 Baths,Townhouse
-"#5007 -5 BUTTERMILL AVE, Vaughan, Ontario, L4K 0J5","$499,990",2 Beds,2 Baths,Apartment
-"5636 DORAN CREEK DRIVE, Iroquois, Ontario, K0E 1K0","$499,900",2 Beds,2 Baths,Detached
-"312 CARLA STREET, Petawawa, Ontario, K8H 3N2","$499,900",3+2 Beds,2 Baths,Detached
-"62 Emerald Street N, Hamilton, Ontario, L8W 3V5","$499,000",3 Beds,2 Baths,Detached
-"57 SPRUCE STREET, Petawawa, Ontario, K8H 3N6","$490,000",2+1 Beds,2 Baths,Detached
-"1121 KIRKMAN COURT, Cornwall, Ontario, K6H 7M7","$489,000",3+1 Beds,2 Baths,Detached
-"25 DURANT STREET, Petawawa, Ontario, K8H 0H3","$474,900",2 Beds,2 Baths,Detached
-"180 Lake Street, St. Catharines, ON, L2R 5Y9","$449,000",3 Beds,2 Baths,1342 Square Feet
-"62 RIDGE ROAD, Eganville, Ontario, K0J 1T0","$425,000",3+1 Beds,2 Baths,Detached
-"17-15 Nicklaus Drive, Hamilton, ON, L8K 5J5","$389,900",3 Beds,2 Baths,1185 Square Feet
-"305-10 Lake Road, Grand Bend, ON, N0M 1T0","$369,900",2 Beds,2 Baths,925 Square Feet
-"240 CHAPEL Street Unit# 320, Cobourg, Ontario, K9A 0E3","$299,000",2 Beds,2 Baths,Apartment
-"#320 -240 CHAPEL ST, Cobourg, Ontario, K9A 0E3","$299,000",2 Beds,2 Baths,Apartment
-"4944 ST PAUL STREET, St Eugene, Ontario, K0B 1P0","$289,900",3 Beds,2 Baths,Detached
-"123 Park Street, Victoria Harbour, ON, L0K 2A0","$275,000",3 Beds,2 Baths,987.8
-"74845 DR GEORGE SMITH Avenue, Bayfield, Ontario, N0M 1G0","$1,999,000",3 Beds,2 Baths,Detached
-"33 PINEWAY CRT, Galway-Cavendish and Harvey, Ontario, K0L 1J0","$1,995,000",3+1 Beds,2 Baths,Detached
-"1879 Truscott Drive, Mississauga, Ontario, L5J 2A1","$1,799,900",4 Beds,2 Baths,Detached
-"1879 TRUSCOTT DR, Mississauga, Ontario, L5J 2A1","$1,799,900",4 Beds,2 Baths,Detached
-"61 SIMPSON ST, Brighton, Ontario, K0K 1H0","$1,699,000",3 Beds,2 Baths,Detached
-"1719 ELLIS Road, Severn, Ontario, L0K 1E0","$1,599,000",3 Beds,2 Baths,Detached
-"645 SIMCOE ST, Niagara-on-the-Lake, Ontario, L0S 1J0","$1,575,000",2 Beds,2 Baths,Detached
-"50 Heathfield Dr, Toronto, ON, M1M 3B1","$1,498,000",3+1 Beds,2 Baths,Detached
-"148 BETTY ANN DR, Toronto, Ontario, M2N 1X4","$1,490,000",5 Beds,2 Baths,Detached
-"3557 REGIONAL ROAD 12 S, Grimsby, Ontario, L0R 1M0","$1,487,000",3+1 Beds,2 Baths,Detached
-"3557 REGIONAL ROAD 12 Road S, West Lincoln, Ontario, L0R 1M0","$1,487,000",3+1 Beds,2 Baths,Detached
-"422 DAVENPORT RD, Toronto, Ontario, M4V 1B5","$1,449,000",2+1 Beds,2 Baths,Detached
-"88 Russell Drive, Oakville, ON, L6H 1L3","$1,399,000",4 Beds,2 Baths,Yes
-"349 BRYANT CRES, Burlington, Ontario, L7L 3Z4","$1,349,900",5 Beds,2 Baths,Detached
-"349 BRYANT Crescent, Burlington, Ontario, L7L 3Z4","$1,349,900",5 Beds,2 Baths,Detached
-"67 POWSELAND CRES, Vaughan, Ontario, L4L 0C5","$1,299,999",3+1 Beds,2 Baths,Townhouse
-"2254 Kilbride Street, Burlington, Ontario, L7P 0J4","$1,299,900",3 Beds,2 Baths,Detached
-"907 ADAMS RD, Innisfil, Ontario, L9S 4C9","$1,299,700",3 Beds,2 Baths,Detached
-"189 ARMSTRONG STREET, Ottawa, Ontario, K1Y 2W3","$1,299,000",5 Beds,2 Baths,Detached
-"212 CROSSLAND GATE, Newmarket, Ontario, L3X 1A8","$1,279,000",3 Beds,2 Baths,Detached
-"77 MILFORD HEAVEN DR, Toronto, Ontario, M1G 3C9","$1,260,000",4 Beds,2 Baths,Detached
-"740 APPLEWOOD CRES, Milton, Ontario, L9T 3C4","$1,225,000",3+1 Beds,2 Baths,Detached
-"616 SEAWIND  TR, Waterloo, Ontario, N2K 4G4","$1,200,000",3 Beds,2 Baths,Detached
-"2515 WINDWOOD DR, Mississauga, Ontario, L5N 2A8","$1,190,000",3 Beds,2 Baths,Detached
-"14 GOLDPINE CRES, Toronto, Ontario, M9M 1X9","$1,150,000",4 Beds,2 Baths,Detached
-"132 Ritchie Crescent, Elmvale, ON, L0L 1P0","$1,139,000",3 Beds,2 Baths,1957 Square Feet
-"133 HOLLYBERRY TR, Toronto, Ontario, M2H 2P2","$1,126,000",3 Beds,2 Baths,Detached
-"9 CASSELS RD, Whitby, Ontario, L1M 1A5","$1,100,000",3+1 Beds,2 Baths,Detached
-"#520 -825 CHURCH ST, Toronto, Ontario, M4W 3Z4","$1,100,000",2 Beds,2 Baths,Apartment
-"#1604 -1 CLARK AVE W, Vaughan, Ontario, L4J 7Y6","$1,100,000",2+1 Beds,2 Baths,Apartment
-"1242 HOUSTON RD, Highlands East, Ontario, K0M 1L0","$1,099,000",2+2 Beds,2 Baths,Detached
-"44 GREENWAY CIRC, Brighton, Ontario, K0K 1H0","$1,099,000",3 Beds,2 Baths,Detached
-"29 MCCAFFERY'S LANE, Caledon, Ontario, L7C 1K4","$1,099,000",3 Beds,2 Baths,Detached
-"1242 HOUSTON Road, Cardiff, Ontario, K0M 1L0","$1,099,000",1+2 Beds,2 Baths,Detached
-"32 Hyde Park Avenue, Hamilton, Ontario, L8P 4M5","$1,099,000",3 Beds,2 Baths,Detached
-"15 ELM HILL BLVD, Hamilton, Ontario, L9G 2T9","$1,099,000",3+2 Beds,2 Baths,Detached
-"32 HYDE PARK AVE, Hamilton, Ontario, L8P 4M5","$1,099,000",3 Beds,2 Baths,Detached
-"#1504 -386 YONGE ST, Toronto, Ontario, M5B 0A5","$1,098,868",2 Beds,2 Baths,Apartment
-"#17 -300 RICHMOND ST, Thorold, Ontario, L2V 5B9","$1,075,000",2+1 Beds,2 Baths,Detached
-"5124 HARRIS BOATWORKS RD, Hamilton Township, Ontario, K0K 2E0","$1,050,000",3 Beds,2 Baths,Detached
-"318743 GREY ROAD 1, Georgian Bluffs, Ontario, N4K 5N4","$1,050,000",2+1 Beds,2 Baths,Detached
-"31 BARDS BEACH Road, Oro-Medonte, Ontario, L3V 6H2","$1,025,000",2 Beds,2 Baths,Detached
-"952 Glenwood Avenue, Burlington, Ontario, L7T 2K2","$999,999",4 Beds,2 Baths,Detached
-"1033 PICARD LANE, Gravenhurst, Ontario, P0E 1G0","$999,999",3 Beds,2 Baths,Detached
-"14 GAFNEY DR, Mississauga, Ontario, L5M 1E2","$999,999",4+1 Beds,2 Baths,Detached
-"5780 Second Line E, Ariss, ON, N0B 1B0","$999,900",3 Beds,2 Baths,1170 Square Feet
-"30 MELDAZY DR, Toronto, Ontario, M1P 4G1","$999,000",3+2 Beds,2 Baths,Detached
-"59 ALDGATE  AVE, Toronto, Ontario, M8Y 3L7","$998,000",2+1 Beds,2 Baths,Detached
-"30 BRADFORD ST, East Gwillimbury, Ontario, L9N 1L6","$998,000",3 Beds,2 Baths,Detached
-"78 STUART ST, Whitchurch-Stouffville, Ontario, L4A 4S3","$998,000",3 Beds,2 Baths,Detached
-"89 Reynolds Road, Centre Wellington, ON, N0B 1S0","$998,000",3 Beds,2 Baths,Yes
-"129 TUSCANY TR, Chatham-Kent, Ontario, N7L 0A0","$989,786",3 Beds,2 Baths,Detached
-"137 Blossom Avenue, Brantford, ON, N3T 5L9","$989,500",3 Beds,2 Baths,1632 Square Feet
-"61 LOMBARDY CRES, Toronto, Ontario, M1K 4P1","$980,000",3+2 Beds,2 Baths,Detached
-"191 CHARLOTTE ST S, Newmarket, Ontario, L3Y 3S7","$980,000",2+1 Beds,2 Baths,Detached
-"#207 -1300 BLOOR ST W, Mississauga, Ontario, L4Y 3Z2","$977,000",3 Beds,2 Baths,Apartment
-"1 VISCOUNT PL, St. Catharines, Ontario, L2N 2N2","$974,900",3 Beds,2 Baths,Detached
-"551 Heritage, Kingsville, Ontario, N9Y 3A9","$969,000",2 Beds,2 Baths,Detached
-"356-358 Dundas Street E, Waterdown, ON, L0R 2H1","$958,000",4 Beds,2 Baths,2000 Square Feet
-"3679 BRANDON GATE DR, Mississauga, Ontario, L4T 3E4","$949,888",3+1 Beds,2 Baths,Detached
-"#313 -377 MADISON AVE, Toronto, Ontario, M4V 2W7","$949,000",2 Beds,2 Baths,Apartment
-"222 COLUMBIA DR, Hamilton, Ontario, L9C 3Y9","$945,777",3+1 Beds,2 Baths,Detached
-"255 GARRARD RD, Whitby, Ontario, L1N 3K9","$900,000",3 Beds,2 Baths,Detached
-"1426 SPRING GARDEN  CRT, Mississauga, Ontario, L5N 8K5","$899,900",3 Beds,2 Baths,Detached
-"104 Dunsmure Road, Hamilton, Ontario, L8M 1S4","$899,900",6 Beds,2 Baths,Detached
-"3 HOLTON RD, Toronto, Ontario, M1G 1E7","$899,900",3+1 Beds,2 Baths,Detached
-"151 FAWCETT TR, Toronto, Ontario, M1B 3B9","$899,000",4+1 Beds,2 Baths,Detached
-"#502 -1215 YORK MILLS RD, Toronto, Ontario, M3A 1Y4","$898,800",2 Beds,2 Baths,Apartment
-"#4303 -2221 YONGE ST, Toronto, Ontario, M4S 0B8","$898,000",2 Beds,2 Baths,Apartment
-"#206 -375 LAKEBREEZE DR, Clarington, Ontario, L1B 0A3","$895,000",2 Beds,2 Baths,Apartment
-"21 JERMYN ST, Whitby, Ontario, L1N 5M4","$888,000",3 Beds,2 Baths,Detached
-"#129 -251 MANITOBA ST, Toronto, Ontario, M8Y 4G9","$879,900",2 Beds,2 Baths,Apartment
-"6332 ATHERLY CRES, Mississauga, Ontario, L5N 2J2","$875,000",4 Beds,2 Baths,Detached
-"#508 -3985 GRAND PARK DR DR, Mississauga, Ontario, L5B 0H8","$869,900",1+1 Beds,2 Baths,Apartment
-"1 TURNER CRT, Bradford West Gwillimbury, Ontario, L3Z 2W3","$859,000",3+1 Beds,2 Baths,Detached
-"24 MILL ST, Erin, Ontario, N0B 1Z0","$859,000",3+1 Beds,2 Baths,Detached
-"#405 -99 EAGLE ROCK WAY, Vaughan, Ontario, L6A 5A7","$858,888",2+1 Beds,2 Baths,Apartment
-"291 SHORELINE DR, Oro-Medonte, Ontario, L0L 1T0","$850,000",3+1 Beds,2 Baths,Detached
-"#801 -1000 CREEKSIDE DR, Hamilton, Ontario, L9H 7S6","$849,900",2 Beds,2 Baths,Apartment
-"1336 TATRA DR, Pickering, Ontario, L1W 1K4","$849,900",6 Beds,2 Baths,Duplex
-"11 SUMAC PL, Guelph, Ontario, N1E 1K8","$849,900",2 Beds,2 Baths,Detached
-"16 MelBeuf Drive, Webbwood, Ontario, P0P 2G0","$849,900",2 Beds,2 Baths,Detached
-"1240 MCDOWELL  CRES, Milton, Ontario, L9T 6R5","$849,000",3 Beds,2 Baths,Townhouse
-"164 Selkirk Drive, Kitchener, ON, N2E 1M6","$849,000",5 Beds,2 Baths,2111 Square Feet
-"164 Selkirk Dr, Kitchener, ON, N2E 1M6","$849,000",3+2 Beds,2 Baths,Duplex
-"#205 -1055 BAY ST, Toronto, Ontario, M5S 3A3","$845,000",2+1 Beds,2 Baths,Apartment
-"1692 NORTH BIG ISLAND Road, Demorestville, Ontario, K0K 1W0","$839,900",4 Beds,2 Baths,Detached
-"2655 DON STREET, Ottawa, Ontario, K2B 6Y2","$839,000",3+2 Beds,2 Baths,Detached
-"#1040 -250 WELLINGTON ST W, Toronto, Ontario, M5V 3P6","$829,900",2 Beds,2 Baths,Apartment
-"384232 CONCESSION 4, West Grey, Ontario, N0C 1K0","$829,000",4 Beds,2 Baths,Detached
-"1317 UPPER SHERMAN Avenue, Hamilton, Ontario, L8W 3E7","$829,000",3+2 Beds,2 Baths,Detached
-"#4002 -8 EGLINTON AVE E, Toronto, Ontario, M4P 0C1","$829,000",2+1 Beds,2 Baths,Apartment
-"2 CATHEDRAL PINES RD, Oro-Medonte, Ontario, L4M 4Y8","$825,000",3 Beds,2 Baths,Detached
-"479 JOSEPH GALE Street, Cobourg, Ontario, K9A 3N3","$824,000",2 Beds,2 Baths,Detached
-"392 ELGIN Street, Port Elgin, Ontario, N0H 2C0","$824,000",1+1 Beds,2 Baths,Detached
-"135 FANSHAWE DR, Brampton, Ontario, L6Z 1A8","$820,000",3 Beds,2 Baths,Detached
-"#1606W -3 ROSEWATER ST, Richmond Hill, Ontario, L4C 5T6","$820,000",2 Beds,2 Baths,Apartment
-"33 PLEASANTVIEW AVE, Brampton, Ontario, L6X 1W6","$799,999",3+1 Beds,2 Baths,Detached
-"1856 COUNTY ROAD 7 Road, Picton, Ontario, K0K 2T0","$799,900",3 Beds,2 Baths,Detached
-"#28 -120 LONG BRANCH AVE, Toronto, Ontario, M8W 0A9","$799,900",2+1 Beds,2 Baths,Detached
-"5965 CRIMSON DR, Niagara Falls, Ontario, L2G 7T7","$799,900",3+1 Beds,2 Baths,Detached
-"47 QUEEN ST, Clarington, Ontario, L1C 1M3","$799,900",3 Beds,2 Baths,Detached
-"47 QUEEN ST, Clarington, Ontario, L1C 1M3","$799,900",3 Beds,2 Baths,Detached
-"35 BONNIEWOOD DR, Mapleton, Ontario, N0G 1P0","$799,888",2+1 Beds,2 Baths,Detached
-"309 TAMPA DR, Georgina, Ontario, L4P 3A3","$799,000",2 Beds,2 Baths,Detached
-"55 CARNELLY CRES, Ajax, Ontario, L1T 2H5","$799,000",3 Beds,2 Baths,Detached
-"479 HAYWARD Street, Cobourg, Ontario, K9A 3N5","$799,000",3 Beds,2 Baths,Townhouse
-"#2615 -75 QUEENS WHARF RD, Toronto, Ontario, M5V 0J8","$799,000",2 Beds,2 Baths,Apartment
-"588 REYNOLDS ST, Whitby, Ontario, L1N 6H5","$799,000",3 Beds,2 Baths,Detached
-"22 NORTHPARK RD, Barrie, Ontario, L4M 2J3","$799,000",4 Beds,2 Baths,Detached
-"27 Warwick Avenue, Grand Bend, ON, N0M 1T0","$795,000",3 Beds,2 Baths,1030 Square Feet
-"232 THOMSON Lane, Chesley, Ontario, N0G 1L0","$789,900",3+1 Beds,2 Baths,Detached
-"#418 -50 LAKEBREEZE DR, Clarington, Ontario, L1B 0V9","$779,990",2 Beds,2 Baths,Apartment
-"526 FIFTY Road, Stoney Creek, Ontario, L8E 5T4","$779,900",4 Beds,2 Baths,Detached
-"45 MARKHAM CRES, Hamilton, Ontario, L8J 1P2","$777,000",3+1 Beds,2 Baths,Detached
-"1164 DEER PARK ROAD, Ottawa, Ontario, K2E 6H3","$775,000",3+1 Beds,2 Baths,Detached
-"700 HASTINGS AVE, Innisfil, Ontario, L0L 2M0","$774,869",2+1 Beds,2 Baths,Detached
-"16 Shannon Street, Barrie, ON, L4M 2K8","$769,000",3 Beds,2 Baths,1078 Square Feet
-"38 ADELAIDE ST, Barrie, Ontario, L4N 3T5","$765,000",4 Beds,2 Baths,Duplex
-"38 ADELAIDE ST, Barrie, Ontario, L4N 3T5","$765,000",4 Beds,2 Baths,Detached
-"#227 -610 FARMSTEAD DR, Milton, Ontario, L9T 8X5","$759,900",2+1 Beds,2 Baths,Apartment
-"#1607 -980 BROADVIEW AVE, Toronto, Ontario, M4K 3Y1","$759,000",2 Beds,2 Baths,Apartment
-"1 Roslyn Road, Barrie, ON, L4M 2X5","$750,000",4 Beds,2 Baths,1219 Square Feet
-"49 KIRKHAM DR, Ajax, Ontario, L1S 4J9","$749,900",3 Beds,2 Baths,Detached
-"858 QUEENSDALE AVE E, Hamilton, Ontario, L8V 1N3","$749,900",3 Beds,2 Baths,Detached
-"1454 VALLEY DR, Oshawa, Ontario, L1J 7Z3","$749,900",3 Beds,2 Baths,Detached
-"61 Pinot Crescent, Hamilton, Ontario, L8E 0J9","$749,900",3 Beds,2 Baths,Townhouse
-"#909 -45 CHARLES ST E, Toronto, Ontario, M4Y 0B8","$749,000",1+1 Beds,2 Baths,Apartment
-"#4 -2500 POST RD, Oakville, Ontario, L6H 0K1","$740,000",2 Beds,2 Baths,Townhouse
-"4166 BARTON ST, Windsor, Ontario, N9G 2S7","$739,900",3+2 Beds,2 Baths,Detached
-"#32 -481 PITFIELD RD, Milton, Ontario, L9T 3J5","$735,000",4 Beds,2 Baths,Finished
-"2505 STEVENSVILLE RD, Fort Erie, Ontario, L0S 1S0","$730,000",4 Beds,2 Baths,Detached
-"172 Churchland Drive, Barrie, ON, L4N 8N5","$729,990",3 Beds,2 Baths,1350 Square Feet
-"71 STIRLING CRES, Prince Edward County, Ontario, K0K 2T0","$729,900",2 Beds,2 Baths,Detached
-"73 Nutcracker Street, Cambridge, ON, N1T 1M1","$729,900",4 Beds,2 Baths,1089 Square Feet
-"71 STIRLING Crescent, Picton, Ontario, K0K 2T0","$729,900",2 Beds,2 Baths,Detached
-"9 Depot Street, Lisle, ON, L0M 1M0","$725,000",5 Beds,2 Baths,1823.38
-"#208 -2486 OLD BRONTE RD, Oakville, Ontario, L6M 4J2","$719,990",2 Beds,2 Baths,Apartment
-"2486 Old Bronte Road|Unit #208, Oakville, Ontario, L6M 0Y4","$719,990",2 Beds,2 Baths,Detached
-"69 STRILING CRES, Prince Edward County, Ontario, K0K 2T0","$719,900",2 Beds,2 Baths,Detached
-"#210 -2055 APPLEBY LINE, Burlington, Ontario, L7L 7H1","$719,900",2 Beds,2 Baths,Apartment
-"69 STIRLING Crescent, Picton, Ontario, K0K 2T0","$719,900",2 Beds,2 Baths,Detached
-"#208 -130 CANON JACKSON DR, Toronto, Ontario, M6M 0B7","$719,900",2 Beds,2 Baths,Apartment
-"#PH1-07 -1215 BAYLY ST, Pickering, Ontario, L1W 0B4","$719,000",2 Beds,2 Baths,Apartment
-"153 EAST ST S, Kawartha Lakes, Ontario, K0M 1A0","$719,000",3 Beds,2 Baths,Detached
-"#21 -175 VETERANS DR, Brampton, Ontario","$715,000",2 Beds,2 Baths,Townhouse
-"29 BALTIMORE RD, Barrie, Ontario, L4M 5M6","$699,999",3+2 Beds,2 Baths,Detached
-"164 ROYAL SALISBURY WAY, Brampton, Ontario, L6V 3J9","$699,999",3 Beds,2 Baths,Townhouse
-"494 ADELAIDE AVE W, Oshawa, Ontario, L1J 2S1","$699,900",3+1 Beds,2 Baths,Detached
-"10 NOAH LANE, Asphodel-Norwood, Ontario, K0L 2V0","$699,900",2+2 Beds,2 Baths,Detached
-"#602 -15 QUEEN ST S, Hamilton, Ontario, L8P 0C6","$699,900",2 Beds,2 Baths,Apartment
-"25 BOILER BEACH Road, Huron-Kinloss, Ontario, N2Z 2L4","$699,700",3 Beds,2 Baths,Detached
-"#2411 -3985 GRAND PARK DR, Mississauga, Ontario, L5B 0H8","$699,000",2 Beds,2 Baths,Apartment
-"772 CENTRAL PARK BLVD, Oshawa, Ontario, L1G 6B1","$699,000",4 Beds,2 Baths,Detached
-"20 Rennie Drive, Kitchener, ON, N2A 1J5","$699,000",3 Beds,2 Baths,1314 Square Feet
-"#1504 -1346 DANFORTH RD, Toronto, Ontario, M1J 0A9","$699,000",2+1 Beds,2 Baths,Apartment
-"#2211 -710 HUMBERWOOD BLVD, Toronto, Ontario, M9W 7J5","$699,000",2 Beds,2 Baths,Apartment
-"#2403 -195 REDPATH AVE, Toronto, Ontario, M4P 0E4","$699,000",2 Beds,2 Baths,Apartment
-"#1311 -3985 GRAND PARK DR, Mississauga, Ontario, L5B 0H8","$699,000",2 Beds,2 Baths,Apartment
-"51 BRAMLEY  ST S, Port Hope, Ontario, L1A 3K3","$699,000",3 Beds,2 Baths,Detached
-"#1203 -60 BYNG AVE, Toronto, Ontario, M2N 7K3","$698,000",1+1 Beds,2 Baths,Apartment
-"8 SULLIVAN DR, St. Catharines, Ontario, L2N 1K2","$695,000",3 Beds,2 Baths,Detached
-"#43 -1250 LIMERIDGE RD E, Hamilton, Ontario, L8W 1P1","$689,900",3 Beds,2 Baths,Townhouse
-"1-1016 Doering Street, Wellesley, ON, N0B 2T0","$689,900",3 Beds,2 Baths,1248 Square Feet
-"#211 -1350 KINGSTON RD, Toronto, Ontario, M1N 1P7","$685,000",2 Beds,2 Baths,Apartment
-"#410 -300 ESSA RD, Barrie, Ontario, L9J 0B9","$685,000",2+1 Beds,2 Baths,Apartment
-"##207 -200 LAGERFELD DR, Brampton, Ontario, L7A 5G5","$684,999",2+1 Beds,2 Baths,Apartment
-"#144 -30 SANDRINGHAM CRT, Brampton, Ontario, L6T 3Z3","$679,900",3+1 Beds,2 Baths,Townhouse
-"447 ONTARIO ST N, Milton, Ontario, L9T 3J4","$679,000",4 Beds,2 Baths,Townhouse
-"#3602 -7895 JANE ST E, Vaughan, Ontario, L4K 2M7","$678,900",1+1 Beds,2 Baths,Apartment
-"3050 PINEMEADOW Drive|Unit #1, Burlington, Ontario, L7M 3X5","$675,000",2 Beds,2 Baths,Apartment
-"#1 -3050-A PINEMEADOW DR, Burlington, Ontario, L7M 3X5","$675,000",2 Beds,2 Baths,Apartment
-"139 Gillin Road, Brantford, Ontario, N3P 1X5","$670,000",2+2 Beds,2 Baths,Detached
-"#503 -175 HILDA AVE, Toronto, Ontario, M2M 1V8","$670,000",3 Beds,2 Baths,Apartment
-"174 HILLMER RD, Cambridge, Ontario, N1R 6N8","$669,900",3+1 Beds,2 Baths,Detached
-"136 ASHTON CRES, Brampton, Ontario, L6S 3J9","$669,888",3 Beds,2 Baths,Townhouse
-"9 Johnson Crescent, Simcoe, ON, N3Y 5K9","$664,900",4 Beds,2 Baths,1369 Square Feet
-"234 ARTHUR ST, Oshawa, Ontario, L1H 1N6","$650,000",3+1 Beds,2 Baths,Detached
-"6429 COUNTY ROAD 2, Odessa, Ontario, K0H 1H0","$650,000",3 Beds,2 Baths,Detached
-"8 ROSEWOOD Drive, Frankford, Ontario, K0K 2C0","$650,000",3+1 Beds,2 Baths,Detached
-"#2212 -55 ELM DR, Mississauga, Ontario, L5B 3Z3","$649,999",2+1 Beds,2 Baths,Apartment
-"39 GIBSON DR, Scugog, Ontario, L9L 1C9","$649,900",3+1 Beds,2 Baths,Detached
-"29 Heritage Drive|Unit #11, Stoney Creek, Ontario, L8G 4T4","$649,900",3 Beds,2 Baths,Townhouse
-"3104 TRAVERTINE WAY, Ottawa, Ontario, K2J 6X1","$649,900",1+1 Beds,2 Baths,Detached
-"3 DEAN Drive, Brighton, Ontario, K0K 1H0","$649,900",3+1 Beds,2 Baths,Detached
-"#11 -29 HERITAGE  DR, Hamilton, Ontario, L8G 4T4","$649,900",3 Beds,2 Baths,Townhouse
-"1110 RITCHANCE ROAD, Alfred, Ontario, K0B 1A0","$649,900",3 Beds,2 Baths,House
-"296 SWINDELLS ST, Clarington, Ontario, L1C 5G7","$649,900",3 Beds,2 Baths,Townhouse
-"1157 WILSON DRIVE, Sarnia, Ontario, N7S 3J5","$649,000",3 Beds,2 Baths,4 Level
-"#1512 -1 ROWNTREE RD, Toronto, Ontario, M9V 5G7","$649,000",2+1 Beds,2 Baths,Apartment
-"8-2444 Post Road, Oakville, ON, L6H 0J2","$649,000",2 Beds,2 Baths,986 Square Feet
-"#210 -550 HOPEWELL AVE, Toronto, Ontario, M6E 2S6","$648,000",2 Beds,2 Baths,Apartment
-"299 FLEETWOOD CRES, Brampton, Ontario, L6T 2E5","$645,000",3+1 Beds,2 Baths,Townhouse
-"143 HOPE AVE, Hamilton, Ontario, L8H 2E7","$639,999",2+3 Beds,2 Baths,Detached
-"#20 -201 SILVERCREEK PKWY, Guelph, Ontario, N1H 3T4","$639,900",3 Beds,2 Baths,Townhouse
-"#B322 -271 SEA RAY AVE, Innisfil, Ontario, L9S 2P7","$638,800",2 Beds,2 Baths,Apartment
-"#202 -3 BRANDY LANE DR, Collingwood, Ontario, L9Y 0X4","$629,000",2 Beds,2 Baths,Apartment
-"70 Stewart Street|Unit #301, Oakville, Ontario, L6K 1X5","$629,000",2 Beds,2 Baths,Apartment
-"8 Culinary Lane, Barrie, ON, L9J 0T2","$629,000",2 Beds,2 Baths,1100 Square Feet
-"385 UPPER OTTAWA Street, Hamilton, Ontario, L8T 3S9","$625,000",2 Beds,2 Baths,Detached
-"#2603 -38 LEE CENTER DR, Toronto, Ontario, M1H 3J7","$625,000",2 Beds,2 Baths,Apartment
-"#911 -58 LAKESIDE TERR, Barrie, Ontario, L4M 0H9","$625,000",2 Beds,2 Baths,Apartment
-"#108 -1140 PARKWEST PL, Mississauga, Ontario, L5E 3K9","$624,900",1+1 Beds,2 Baths,Apartment
-"88 Gram Avenue, Welland, Ontario, L3C 1H6","$624,900",3+2 Beds,2 Baths,Detached
-"88 GRAM AVE, Welland, Ontario, L3C 1H6","$624,900",3+2 Beds,2 Baths,Detached
-"119 EAST 24TH Street, Hamilton, Ontario, L8V 2X9","$619,900",3 Beds,2 Baths,Detached
-"119 EAST 24TH ST, Hamilton, Ontario, L8V 2X9","$619,900",3 Beds,2 Baths,Detached
-"114 OAK STREET West, Leamington, Ontario, N8H 2B6","$619,000",2+2 Beds,2 Baths,Detached
-"61 HOULAHAN STREET, Ottawa, Ontario, K2J 3X6","$610,000",3 Beds,2 Baths,Detached
-"26 PROSPECT AVE, Prince Edward County, Ontario, K0K 2T0","$600,000",2 Beds,2 Baths,Detached
-"225 Townline Street Street, St. Williams, ON, N0E 1P0","$599,999",4 Beds,2 Baths,1567 Square Feet
-"864 LAWNSBERRY DRIVE, Ottawa, Ontario, K1E 1X7","$599,900",3 Beds,2 Baths,Detached
-"#10 -17 LAKEWOOD CRES, Kawartha Lakes, Ontario, K0M 1A0","$599,900",2 Beds,2 Baths,Detached
-"4B-50 Howe Drive, Kitchener, ON, N2E 0A3","$599,900",3 Beds,2 Baths,1394 Square Feet
-"##36 -72 MARTIN RD, Clarington, Ontario, L1C 3N3","$599,900",4 Beds,2 Baths,Townhouse
-"876 Beaconhill Court, Kingston, ON, K7P 2A8","$599,000",4 Beds,2 Baths,1000 Square Feet
-"313-4975 Southampton Dr, Mississauga, ON, L5M 8C5","$599,000",2 Beds,2 Baths,Townhouse
-"320 DENSMORE RD, Cobourg, Ontario, K9A 4J9","$599,000",3 Beds,2 Baths,Detached
-"#25 -680 ATWATER AVE, Mississauga, Ontario, L5G 0B6","$589,990",2 Beds,2 Baths,Townhouse
-"1337 Attlee Avenue, Sudbury, Ontario, P3A 6A3","$589,900",3 Beds,2 Baths,Detached
-"#7 -4095 PEACH TREE CRT, Lincoln, Ontario, L0R 2C0","$589,000",3 Beds,2 Baths,Townhouse
-"1500 RIVERSIDE DRIVE UNIT#804, Ottawa, Ontario, K1G 5H2","$585,000",2 Beds,2 Baths,Apartment
-"476 KINGSCOURT Drive Unit# 18, Waterloo, Ontario, N2K 3R3","$584,900",3 Beds,2 Baths,Townhouse
-"216 BRIEN AVENUE West, Essex, Ontario, N8Y 2Z5","$579,900",2+2 Beds,2 Baths,Detached
-"#9 -145 RICE AVE, Hamilton, Ontario, L9C 6R3","$575,900",3 Beds,2 Baths,Townhouse
-"187 ANDREWS AVENUE, Smiths Falls, Ontario, K7A 4R9","$574,900",3+1 Beds,2 Baths,Detached
-"LOT 58A SOPHIE LANE, Ramara, Ontario, L3V 0L3","$569,900",2 Beds,2 Baths,Detached
-"187 CLOVER Place, Kitchener, Ontario, N2A 1P3","$550,000",3 Beds,2 Baths,Detached
-"105 BARTLETT ST, Thorold, Ontario, L2V 4Y5","$549,999",3+1 Beds,2 Baths,Detached
-"301 FRANCES Avenue|Unit #1104, Stoney Creek, Ontario, L8E 3W6","$549,900",3 Beds,2 Baths,Apartment
-"2083 LAUZON STREET, Ottawa, Ontario, K4A 3K9","$549,900",3 Beds,2 Baths,Townhouse
-"98 Haynes Avenue, St. Catharines, Ontario, L2R 3Z8","$549,900",3 Beds,2 Baths,Detached
-"9700 ASGARD ROAD, Windsor, Ontario, N8R 1E2","$549,900",3 Beds,2 Baths,Detached
-"68 THOMAS ST, St. Catharines, Ontario, L2R 6M2","$549,900",3 Beds,2 Baths,Detached
-"37 SHORT ROAD, Arnprior, Ontario, K7S 3X8","$549,900",3+1 Beds,2 Baths,Detached
-"9 SARAH STREET, Casselman, Ontario, K0A 1M0","$549,900",2+1 Beds,2 Baths,Detached
-"#1104 -301 FRANCES AVE, Hamilton, Ontario, L8E 3W6","$549,900",3 Beds,2 Baths,Apartment
-"217 EASTPORT DRIVE, Cornwall, Ontario, K6H 0G9","$549,900",2 Beds,2 Baths,Detached
-"212 OTTAWA STREET, Almonte, Ontario, K0A 1A0","$549,000",2+1 Beds,2 Baths,Detached
-"206 GREEN VALLEY Drive Unit# 5, Kitchener, Ontario, N2P 1G9","$549,000",3 Beds,2 Baths,Townhouse
-"221 DUNTROON Circle, Ottawa, ON, K1T 4C9","$549,000",3 Beds,2 Baths,3
-"53 INVERLYN Crescent S, Kincardine, Ontario, N2Z 1L1","$545,000",3 Beds,2 Baths,Detached
-"2038 SANDSTONE CRESCENT, Petawawa, Ontario, K8H 0A6","$544,900",3+1 Beds,2 Baths,Detached
-"7 Indiana Street, Kitchener, ON, N2H 2A4","$540,000",3 Beds,2 Baths,1305.87
-"2375 MELDRUM ROAD, Windsor, Ontario, N8W 4E6","$538,500",2+2 Beds,2 Baths,Detached
-"15 DURANT STREET, Petawawa, Ontario, K8H 0H3","$532,900",3 Beds,2 Baths,Detached
-"5907 Vine Street, Niagara Falls, ON, L2J 1K8","$529,999",2 Beds,2 Baths,960 Square Feet
-"153 PARK P PL, Peterborough, Ontario, K9J 3V8","$529,900",4 Beds,2 Baths,Detached
-"#205 -24 MARILYN DR, Guelph, Ontario, N1H 8E9","$529,900",3 Beds,2 Baths,Apartment
-"#720 -7711 GREEN VISTA GATE, Niagara Falls, Ontario, L2H 1R1","$529,000",2 Beds,2 Baths,Apartment
-"#718 -7711 GREEN VISTA GATE, Niagara Falls, Ontario, L2G 0Y9","$529,000",2 Beds,2 Baths,Apartment
-"557 ROMAINE Street, Peterborough, Ontario, K9J 2C8","$525,000",3 Beds,2 Baths,Detached
+address,price,number_of_beds,number_of_baths,style,cooling_type,heating_fuel,heating_type,fire_place,lat,lon
+"2183 PHEASANT LANE, Oakville, Ontario, L6M 3R8","$1,998,000",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"1965 Fieldgate Drive, Burlington, Ontario, L7P 3H4","$1,799,999",3 Beds,4 Baths,Detached,"Central Vacuum, Dryer, Microwave, Refrigerator, Range",Central air conditioning,Natural gas,Forced air,,
+"3483 FOURTH LINE, Oakville, Ontario, L6M 1N8","$1,349,900",4+1 Beds,5 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,,
+"1284 TYRRELL Road, Burlington, Ontario, L7P 2S4","$1,349,000",3 Beds,2 Baths,Detached,"Dishwasher, Refrigerator, Oven, Cooktop, Hood Fan",Central air conditioning,Natural gas,Forced air,,
+"176 SHARPE CRES, New Tecumseth, Ontario, L0G 1W0","$1,320,000",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"158 FIRST Street W, Elmira, Ontario, N3B 1H1","$1,300,000",4+1 Beds,4 Baths,Detached,"Freezer, Window Coverings, Hot Tub",Central air conditioning,Natural gas,Forced air,,
+"1112 CHARLOTTE CRESCENT, Lakeshore, Ontario, N0R 1A0","$1,188,000",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,,,
+"29 Reno Avenue, Hamilton, Ontario, L8T 2S5","$999,900",3+2 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Block,,
+"8 Murray Crt, Orangeville, ON, L9W 0A1","$949,900",3 Beds,4 Baths,Detached,Gas,Forced Air,Built-in,No,,
+"661 GLEN CEDAR CRES, Innisfil, Ontario, L9S 2J5","$949,900",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"539 QUEBEC AVE, Toronto, Ontario, M6P 2V6","$899,000",3 Beds,2 Baths,Townhouse,Natural gas,Forced air,Attached,N/A,,
+"8 RAVEY ST, Clarington, Ontario, L1B 1N8","$879,000",3+2 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"2351 Middlesmoor Crescent, Burlington, Ontario, L7P 3X4","$869,900",3 Beds,2 Baths,Semi-Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Blinds, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"32 JACWIN DR, Ajax, Ontario, L1S 6H9","$849,000",4 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
+"19 CLOVERFIELD ST, Clarington, Ontario, L1E 1K5","$800,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"62 MOSES CRES, Clarington, Ontario, L1C 3K2","$799,900",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"364 DEVONSHIRE Road, Port Elgin, Ontario, N0H 2C2","$759,900",3+2 Beds,3 Baths,Detached,"Dryer, Refrigerator, Washer, Range - Gas, Microwave Built-in, Gas stove(s), Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"8 CHRISTOPHER Court, Belleville, Ontario, K8N 5Z3","$749,900",3+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Microwave Built-in, Hot Tub",Central air conditioning,Natural gas,Forced air,,
+"13065 HYLAND Sideroad, Essex, Ontario, N0R 1K0","$699,900",2+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Freezer, Microwave, Stove, Washer",Heat Pump,,Heat Pump,,
+"84C CARRUTHERS AVENUE, Ottawa, Ontario, K1Y 1N2","$699,900",2 Beds,1 Bath,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",None,Natural gas,Forced air,,
+"20 CLAREWOOD Drive, Walkerton, Ontario, N0G 2V0","$659,000",3+1 Beds,3 Baths,Detached,"Central Vacuum - Roughed In, Dishwasher, Stove, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"53 YORK Street, Welland, Ontario, L3B 4A8","$625,000",3 Beds,4 Baths,Townhouse,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Microwave Built-in, Window Coverings",Central air conditioning,Natural gas,Hot water radiator heat,,
+"54 BRIDGE Street W Unit# 14, Kitchener, Ontario, N2K 1K7","$590,000",2 Beds,1 Bath,Townhouse,"Dishwasher, Dryer, Refrigerator, Stove, Water softener, Washer, Hood Fan",Central air conditioning,Natural gas,Forced air,,
+"##106 -102 ASPEN SPRINGS  DR, Clarington, Ontario, L1C 5N6","$559,000",2 Beds,1 Bath,Apartment,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
+"1 SHELBY LANE, Brockville, Ontario, K6V 7L8","$549,900",2+1 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Microwave Range Hood Combo, Stove, Washer, Alarm System",Central air conditioning,Natural gas,Forced air,,
+"1455 SNAKE LANE, Harrow, Ontario, N0R 1G0","$529,700",3 Beds,3 Baths,Detached,"Dishwasher, Dryer, Microwave Range Hood Combo, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"345 ROBSON ROAD, Leamington, Ontario, N8H 5G6","$439,900",2 Beds,2 Baths,Detached,"Dishwasher, Dryer, Microwave Range Hood Combo, Refrigerator, Stove, Washer",Heat Pump,"Electric, Natural gas","Baseboard heaters, Heat Pump",,
+"1729 TRAPPIST LANE, Ottawa, Ontario, K1C 1X7","$425,000",3 Beds,2 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"957 CUMMINGS AVENUE, Ottawa, Ontario, K1J 7R9","$419,900",2 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"284 Pickering DRIVE, Amherstburg, Ontario, N9V 1R6","$399,900",3 Beds,2 Baths,Detached,"Hot Tub, Dishwasher, Dryer, Microwave Range Hood Combo, Washer, Window Air Conditioner",Electric,Baseboard heaters,Block,,
+"34 HUBBELL STREET, Brockville, Ontario, K6V 4K3","$349,900",3 Beds,1 Bath,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Window air conditioner,Natural gas,Forced air,,
+"143 QUEEN FILOMENA AVE, Vaughan, Ontario, L6A 0H7","$1,989,000",4+2 Beds,5 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"84 VALENTINE DR, Toronto, Ontario, M3A 3J8","$1,880,000",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"30 FALLINGBROOK RD, Toronto, Ontario, M1N 2T4","$1,849,999",3+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"81 BURNS BLVD, King, Ontario, L7B 0M5","$1,828,000",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"13 CHARLES ST, Halton Hills, Ontario, L7G 2Z1","$1,725,000",3+3 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"1170 Agram Drive, Oakville, Ontario, L6H 7R9","$1,649,900",3+1 Beds,4 Baths,Townhouse,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer, Blinds",Central air conditioning,Natural gas,Forced air,,
+"165 BRISTOL RD E, Mississauga, Ontario, L4Z 3V3","$1,599,888",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"22 SOMERVILLE CRES, Mulmur, Ontario, L0N 1M0","$1,575,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"22 MCKENZIE WAY, Bradford West Gwillimbury, Ontario, L3Z 0K1","$1,499,900",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"36 EDGEWOOD CRES, Toronto, Ontario, M4W 3A9","$1,495,000",4 Beds,1 Bath,Detached,Natural gas,Forced air,Yes,Brick,,
+"173 RANKIN CRES, Toronto, Ontario, M6P 4H8","$1,399,000",3 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"446 WESTMINSTER AVENUE, Ottawa, Ontario, K2A 2T8","$1,395,000",4 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave, Stove, Washer",Central air conditioning,Natural gas,"Hot water radiator heat, Radiant heat",,
+"149 LETITIA ST, Barrie, Ontario, L4N 1P4","$1,389,900",2+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"240 KITTY MURRAY Lane, Ancaster, Ontario, L9K 1L8","$1,349,900",3+1 Beds,5 Baths,Detached,"Alarm System, Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"45 SKINNER RD, Hamilton, Ontario, L8B 1W7","$1,349,000",4 Beds,5 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"998 LAKE TRAIL DRIVE, Windsor, Ontario, N9G 2R3","$1,299,999",3+1 Beds,3 Baths,Detached,"Dishwasher, Refrigerator, Stove",Central air conditioning,Natural gas,Forced air,,
+"44 HAVELOCK GATE, Markham, Ontario, L3S 3X6","$1,299,000",4+2 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"42 FRONT ST S, Mississauga, Ontario, L5H 2E2","$1,299,000",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"41 LEILA JACKSON TERR, Toronto, Ontario, M3L 0B2","$1,299,000",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"25 Squirewood Rd, Toronto, ON, M2J 4T2","$1,298,800",4+1 Beds,2 Baths,Detached,Gas,Forced Air,Attached,Yes,,
+"2586 HAMMOND RD, Mississauga, Ontario, L5K 1T2","$1,298,000",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"1683 IRVINE SCOTT ST, Oshawa, Ontario, L1H 7K5","$1,280,000",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"1342 CANFORD CRES, Mississauga, Ontario, L5J 3N1","$1,250,000",3 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"448 CINNAMON CRESCENT, Ottawa, Ontario, K0A 2H0","$1,249,900",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Stove",Central air conditioning,Natural gas,Forced air,,
+"488 FOURTH LINE, Oakville, Ontario, L6L 5A7","$1,249,000",2+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"83 GARDEN ST, Whitby, Ontario, L1N 9E7","$1,225,000",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"86 EDGECROFT RD, Toronto, Ontario, M8Z 2C3","$1,200,000",3+1 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"1452 NORMANDY CRESCENT, Ottawa, Ontario, K2C 0N6","$1,150,000",4+3 Beds,4 Baths,Detached,"Refrigerator, Dishwasher, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"3893 St Francis, LaSalle, Ontario, N9H 1W7","$1,149,000",4+1 Beds,4 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer","Central air conditioning, Fully air conditioned",Natural gas,Forced air,,
+"597 PARKVIEW ROAD, Ottawa, Ontario, K1Z 7E8","$1,129,000",3 Beds,3 Baths,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"162 WILLIAM HONEY CRES, Markham, Ontario, L3S 2L5","$1,099,990",3 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"525 MAGUIRE STREET, Windsor, Ontario, N9E 0A6","$1,099,900",4+2 Beds,4 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,,,
+"1603 SANDHURST CRES, Pickering, Ontario, L1V 6W2","$1,099,000",3 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"550 FOXCROFT BLVD, Newmarket, Ontario, L3X 3L6","$1,099,000",3+1 Beds,4 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"24 MEMON PL, Markham, Ontario, L6E 0S1","$1,098,000",4 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"94 AMBLESIDE DR, Brampton, Ontario, L6Y 1B9","$1,095,000",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"6 PINECLIFF CRES, Barrie, Ontario, L4N 5V3","$1,069,000",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"2433 COPPERSMITH CRT, Mississauga, Ontario, L5L 3B5","$1,049,800",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
+"248 STONEWALK WAY, Kinburn, Ontario, K0A 2H0","$999,999",3 Beds,2 Baths,Detached,"Refrigerator, Cooktop, Dishwasher, Dryer, Hood Fan",Central air conditioning,Propane,Forced air,,
+"1037 WAYNE Place, Burlington, Ontario, L7T 3R5","$999,905",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Hot Tub, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"202 FLANDERS, Lakeshore, Ontario, N8N 3G3","$999,900",4+1 Beds,5 Baths,Detached,"Hot Tub, Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,,,
+"118 Queen Street S, Hamilton, Ontario, L8P 3S1","$999,900",3 Beds,2 Baths,Detached,"Alarm System, Window Coverings",Central air conditioning,"Electric, Natural gas","Baseboard heaters, Forced air",,
+"27 COVENTRY Drive, Kitchener, Ontario, N2A 1N2","$999,900",4 Beds,4 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Freezer, Microwave, Refrigerator, Satellite Dish, Sauna, Water softener, Water purifier, Washer, Range - Gas, Hood Fan, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"116 ARTHUR Street, St. Catharines, Ontario, L2M 1H7","$999,000",4+1 Beds,3 Baths,Detached,"Dryer, Refrigerator, Stove, Washer, Range",Central air conditioning,Natural gas,Forced air,,
+"#236 -1173 DUNDAS ST E, Toronto, Ontario, M4M 3P1","$999,000",2 Beds,1 Bath,Apartment,Central air conditioning,Forced air,Yes,Brick,,
+"3038 BENTLEY DR, Mississauga, Ontario, L5M 6W2","$999,000",3+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"183 HOPEWELL Avenue, Ottawa, ON, K1S 2Z4","$999,000",3 Beds,3 Baths,3,3,Municipal,Natural Gas,Residential,,
+"#4 -169 JONES AVE, Toronto, Ontario, M4M 3A2","$999,000",3 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Brick,,
+"1243 UPPER VILLAGE DR, Mississauga, Ontario, L5E 3J6","$999,000",3 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,,
+"30 CLETA DR, Toronto, Ontario, M1K 3G6","$999,000",3+2 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Baseboard heaters,Brick,,
+"7067 OLD MILL LANE, Mississauga, Ontario, L5W 1A1","$999,000",2 Beds,1 Bath,Detached,Wall unit,Yes,Vinyl siding,Detached,,
+"1341 LUDBROOK CRT, Mississauga, Ontario, L5J 3P2","$999,000",4+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"3394 EGLINTON AVE W, Mississauga, Ontario, L5M 7P2","$998,900",3 Beds,4 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,,
+"2 BRIXHAM LANE, Brampton, Ontario, L7A 0B3","$998,000",3 Beds,3 Baths,Semi-Detached,Natural gas,Forced air,"Brick, Vinyl siding",Semi-detached,,
+"80 WATER ST S, Kitchener, Ontario, N2G 1Z5","$995,000",3 Beds,3 Baths,Detached,Natural gas,Radiant heat,Yes,Brick,,
+"20 MARCHMOUNT CRES, Brampton, Ontario, L6S 2S9","$979,000",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"114 GLEN EAGLES DR, Clarington, Ontario, L1E 3H8","$974,900",4 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"155 SANDRINGHAM DR, Barrie, Ontario, L4N 0Y9","$949,900",2+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"158 MOONSTONE RD E, Oro-Medonte, Ontario, L0K 1N0","$949,000",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"104 HARPIN Way E, Fergus, Ontario, N1M 2W3","$939,900",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Water softener, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"90 MOUNTAINVIEW RD S, Halton Hills, Ontario, L7G 4K5","$934,900",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
+"41 CELEBRITY GREENS WAY, Markham, Ontario, L6E 1B5","$928,000",2 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Yes,,
+"353 MUNNOCH Boulevard, Woodstock, Ontario, N4T 0H7","$915,000",2+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Microwave Built-in, Window Coverings, Hot Tub",Central air conditioning,Natural gas,Forced air,,
+"195 NAIRN AVE, Toronto, Ontario, M6E 4H2","$899,900",2+1 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"5116 OLD HIGHWAY 2, Belleville, Ontario, K8N 4Z4","$899,900",3+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Satellite Dish, Stove, Water softener, Washer, Microwave Built-in, Window Coverings, Hot Tub",Central air conditioning,Propane,Forced air,,
+"64 Great Oak Trail, Binbrook, Ontario, L0R 1C0","$899,900",2+2 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"46 DOYLE Drive, Guelph, Ontario, N1G 5E3","$899,900",3+1 Beds,4 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Forced air,Poured Concrete,,
+"#202 -15 SOUSA MENDES ST, Toronto, Ontario, M6P 0A9","$899,900",2+1 Beds,3 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
+"192 GLEDHILL AVE, Toronto, Ontario, M4C 5L1","$899,000",2 Beds,2 Baths,Detached,Wall unit,Natural gas,Forced air,Vinyl siding,,
+"108 NATIVE LANDING, Brampton, Ontario, L6X 5A7","$899,000",3+1 Beds,4 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"#10 -11 NIAGARA ST, Toronto, Ontario, M5V 3N9","$899,000",2 Beds,1 Bath,Townhouse,Central air conditioning,Natural gas,Forced air,Security guard,,
+"57 DOMBEY RD, Toronto, Ontario, M3L 1P1","$895,000",3 Beds,2 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"643 CHADBURN AVENUE, Ottawa, Ontario, K1G 0Y6","$875,000",4 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer, Wine Fridge",Central air conditioning,Natural gas,Forced air,,
+"1716 WOLLASTON CRT, Pickering, Ontario, L1V 2X1","$875,000",3 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"#123 -1001 ROSELAWN AVE, Toronto, Ontario, M6B 4M4","$875,000",2 Beds,2 Baths,Apartment,Central air conditioning,Natural gas,Forced air,Stucco,,
+"3 BRISTOL Place, Belleville, Ontario, K8N 4Z5","$855,900",3+2 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer, Hood Fan, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"10 RAVENAL ST, Toronto, Ontario, M6N 3Y7","$849,900",3+1 Beds,2 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
+"11 CEDARGROVE COURT, Ottawa, Ontario, K2G 0M4","$849,900",4 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Poured Concrete,,
+"928 DU CASTOR ROAD, St Albert, Ontario, K0A 3C0","$849,900",3+2 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"53 STRATHCONA AVENUE, Ottawa, Ontario, K1S 1X3","$849,900",3 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"1692 Latimer, Sudbury, Ontario, P3C 2V7","$829,900",4 Beds,4 Baths,Detached,Central air conditioning,Forced air,Unknown,Asphalt shingle,,
+"3237 TRISHA  DWNS, Mississauga, Ontario, L5A 2A6","$829,900",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Backsplit,,
+"4 SINDEN DR, Whitby, Ontario, L1M 2B8","$800,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"390 KELLER DR, Midland, Ontario, L4R 0A7","$799,900",3+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"2036 EUGENI STREET, Tecumseh, Ontario, N9K 1B3","$799,900",5+1 Beds,4 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"633 COMMISSO CRESCENT, LaSalle, Ontario, N9H 0C8","$799,900",2+1 Beds,3 Baths,Semi-Detached,"Hot Tub, Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"100 SNOWLING DR, Ajax, Ontario, L1Z 0G4","$799,900",3 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"166 BOURBON PL, Whitby, Ontario, L1R 3C6","$799,898",3 Beds,4 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,Brick,,
+"833 NAROCH BLVD, Pickering, Ontario, L1W 1T1","$799,000",3+1 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"1139 VISCOUNT Road, London, Ontario, N6K 1H9","$799,000",4+1 Beds,4 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"2058 BRANT Street|Unit #3, Burlington, Ontario, L7P 3A6","$799,000",2 Beds,4 Baths,Townhouse,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Stove, Washer, Range, Window Coverings",Wall unit,Electric,Baseboard heaters,,
+"1318 Tom Toth, LaSalle, Ontario, N9H 0L9","$798,888",2 Beds,2 Baths,Semi-Detached,"Dishwasher, Dryer, Garburator, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"40 FOLEY CRES, Collingwood, Ontario, L9Y 3B7","$789,900",3 Beds,3 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"15 IVY PL, Chatham, Ontario, N7L 5R7","$787,700",3 Beds,2 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"986 SHIMMERTON CIRCLE, Ottawa, Ontario, K2M 0L4","$786,800",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"4 ROCKFIELD CRESCENT, Ottawa, Ontario, K2E 5L5","$779,000",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Washer",Central air conditioning,Oil,Forced air,,
+"180 BREEZEHILL Avenue NORTH, Ottawa, ON, K1Y 2H9","$774,900",3 Beds,2 Baths,3,1,Municipal,Natural Gas,RESIDENTIAL - Residential Fourth Density (4),,
+"#2805 -36 PARK LAWN  RD, Toronto, Ontario, M8Y 3H8","$759,900",2 Beds,2 Baths,Apartment,Central air conditioning,Natural gas,Forced air,Concrete,,
+"2369 KAWARTHA HEIGHTS Boulevard, Peterborough, Ontario, K9K 1S4","$749,900",3+3 Beds,3 Baths,Detached,"Central Vacuum, Dishwasher, Dryer, Refrigerator, Satellite Dish, Stove, Washer, Hood Fan, Wine Fridge",Central air conditioning,Natural gas,Forced air,,
+"7463 ISLAND CRES, Severn, Ontario, L0K 2B0","$749,900",4 Beds,1 Bath,Detached,Wall unit,Electric,Baseboard heaters,Yes,,
+"1976 CATHCART Crescent, Cavan-Monaghan, Ontario, L0A 1C0","$739,900",3 Beds,2 Baths,Detached,"Dishwasher, Dryer, Freezer, Refrigerator, Satellite Dish, Stove, Washer, Hood Fan, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"22 NAUTICAL LANE, Brighton, Ontario, K0K 1H0","$727,500",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"622 DU PARC  AVE, Russell, Ontario, K4R 1C5","$725,000",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"12 LORD'S DR, Trent Hills, Ontario, K0L 1Y0","$714,900",4+1 Beds,4 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"175 FREDERICK ST, Georgina, Ontario, L4P 2J2","$699,999",3+1 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"126 GARSIDE Avenue S, Hamilton, Ontario, L8K 2W2","$699,900",4 Beds,3 Baths,Detached,"Dryer, Refrigerator, Stove, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"2400 CHURCH Street, North Gower, ON, K0A 2T0","$699,900",3+1 Beds,3 Baths,3+1,11,Drilled Well,Natural Gas,RURAL - Village Residential First Density (V1),,
+"506 CHEROKEE WAY, Ottawa, Ontario, K2S 0H5","$699,900",3 Beds,3 Baths,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"890 DUCHARME, Windsor, Ontario, N9G 1K7","$699,900",4+1 Beds,3 Baths,Detached,"Hot Tub, Central Vacuum, Dishwasher, Dryer, Microwave Range Hood Combo, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"1785 MAPLE GROVE ROAD, Stittsville, Ontario, K2S 0M4","$699,888",3 Beds,4 Baths,Detached,"Refrigerator, Dishwasher, Hood Fan, Stove",Central air conditioning,Natural gas,Forced air,,
+"#192 -10 BASSETT BLVD, Whitby, Ontario, L1N 9C3","$699,000",3 Beds,2 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
+"1430 GAULTOIS AVENUE, Ottawa, Ontario, K1C 3G8","$699,000",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Microwave, Stove",Central air conditioning,Natural gas,Forced air,,
+"195 PENN AVE, Newmarket, Ontario, L3Y 2S4","$698,800",3+1 Beds,2 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"108 QUIGLEY ST, Essa, Ontario, L0M 1B6","$679,900",3 Beds,4 Baths,Semi-Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"865 DUCHARME STREET, Windsor, Ontario, N9G 1K8","$679,900",3 Beds,2 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer",Natural gas,Forced air,Concrete,,
+"290 WAYMARK CRESCENT, Ottawa, Ontario, K2M 0A5","$679,000",3 Beds,3 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"691 WHITE ALDER AVENUE, Ottawa, Ontario, K1T 0E8","$669,900",3 Beds,3 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"282 MURRAY STREET, Ottawa, Ontario, K1N 5N2","$659,900",3 Beds,3 Baths,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"52 Grant Street, Cambridge, Ontario, N1S 1C1","$649,900",3 Beds,2 Baths,Detached,"Refrigerator, Stove, Water softener, Blinds, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"1167 DEER PARK Road, Ottawa, ON, K2E 6H4","$649,900",3+1 Beds,2 Baths,3+1,4,Municipal,Natural Gas,RESIDENTIAL - Residential First Density (R1),,
+"117 MAX BECKER Drive, Kitchener, Ontario, N2E 3W6","$649,900",3 Beds,3 Baths,Townhouse,"Dishwasher, Dryer, Refrigerator, Stove, Water meter, Water softener, Washer, Microwave Built-in",Central air conditioning,Natural gas,Forced air,,
+"667 FARMBROOK CRESCENT, Ottawa, Ontario, K4A 2L3","$649,900",3 Beds,3 Baths,Detached,"Refrigerator, Dishwasher, Microwave Range Hood Combo, Stove",Central air conditioning,Natural gas,Forced air,,
+"1121 QUEENSDALE Avenue E, Hamilton, Ontario, L8T 1J6","$649,000",2+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"19 BANK SWALLOW Crescent, Kitchener, Ontario, N2P 0J7","$645,000",2 Beds,3 Baths,Townhouse,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"82 BOULDER WAY, Ottawa, Ontario, K2J 4R5","$639,000",2+2 Beds,2 Baths,Semi-Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer, Alarm System",Central air conditioning,Natural gas,Forced air,,
+"14 MACLEAN STREET, Ottawa, Ontario, K1S 3E9","$625,000",1+1 Beds,2 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"535 WATERLOO Street S, Cambridge, Ontario, N3H 1P3","$621,000",3 Beds,1 Bath,Detached,"Dryer, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"73 Roxborough Drive, Greater Sudbury, Ontario, P3E 1J8","$599,900",3 Beds,3 Baths,Detached,"Air exchanger, Central air conditioning",Forced air,Unknown,Asphalt shingle,,
+"195 COUNTY RD 29 Road, Consecon, Ontario, K0K 1T0","$599,900",4 Beds,2 Baths,Detached,"Dryer, Microwave, Refrigerator, Washer, Gas stove(s), Hood Fan, Window Coverings",Propane,Baseboard heaters,Block,,
+"##36 -72 MARTIN RD, Clarington, Ontario, L1C 3N3","$599,900",4 Beds,2 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Aluminum siding, Brick",,
+"109 GALBRAITH CRT, Clarington, Ontario, L1C 4P7","$599,900",2 Beds,2 Baths,Townhouse,Central air conditioning,Natural gas,Forced air,"Brick, Vinyl siding",,
+"220 DEERBROOK ROAD, Lakeshore, Ontario, N0R 1A0","$599,900",3 Beds,2 Baths,Detached,Central air conditioning,Natural gas,Forced air,Concrete,,
+"9 MCNEE DRIVE, Golden Lake, Ontario, K0J 1X0","$599,000",3 Beds,1 Bath,Detached,"Refrigerator, Stove",Central air conditioning,Propane,Forced air,,
+"5029 FIFTH AVE, Niagara Falls, Ontario, L2E 4S6","$589,500",4 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Brick,,
+"95 SUSAN Street, Meaford, Ontario, N4L 1J3","$589,000",3 Beds,1 Bath,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"15 Dahlia, Chatham, Ontario, N7L 5L6","$579,900",2+2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,1850 sqft,,
+"3075 Trottier Avenue, Chelmsford, Ontario, P0M 1L0","$579,000",4 Beds,3 Baths,Detached,Forced air,Unknown,Asphalt shingle,"Stone, Vinyl siding",,
+"6048 PINEGLADE CRESCENT, Ottawa, Ontario, K1W 1G8","$575,000",3 Beds,3 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"36 SECOND Avenue, Russell, ON, K4R 1E2","$574,900",3 Beds,3 Baths,3,4,Municipal,Natural Gas,residential,,
+"2419 DU LAC ROAD, Clarence-Rockland, Ontario, K0A 3N0","$550,000",2 Beds,2 Baths,Detached,"Refrigerator, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Propane,Forced air,,
+"233 DIVISION STREET North, Kingsville, Ontario, N9Y 1E7","$549,900",2+2 Beds,3 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Washer, Oven",Central air conditioning,Natural gas,Forced air,,
+"#29 -41 RHONDA RD, Guelph, Ontario, N1H 6H1","$549,900",3 Beds,2 Baths,Townhouse,Yes,Brick,Attached,N/A,,
+"35 MAITLAND Drive, Belleville, Ontario, K8N 4Z5","$549,000",3+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Water softener, Water purifier, Washer, Microwave Built-in, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"28 KYLE Court, Quinte West, Ontario, K0K 2C0","$549,000",2 Beds,1 Bath,Detached,"Dishwasher, Dryer, Refrigerator, Stove, Water meter, Microwave Built-in",Central air conditioning,Natural gas,"Forced air, Hot water radiator heat",,
+"128 SEVENTH ST W, Midland, Ontario, L4R 3Z1","$549,000",4 Beds,1 Bath,Detached,Natural gas,Forced air,Brick,Detached,,
+"942 ERIE AVENUE, Kingsville, Ontario, N9Y 3E2","$549,000",3 Beds,2 Baths,Detached,Dishwasher,Central air conditioning,Natural gas,Forced air,,
+"189 FOURTH AVENUE, Arnprior, Ontario, K7S 1Z5","$525,000",3 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"527 TURNING STONE CRESCENT, Petawawa, Ontario, K8H 0B3","$525,000",3+1 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Microwave Range Hood Combo, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"29 SPRINGCREEK CRESCENT, Kanata, Ontario, K2M 2K7","$520,000",3 Beds,2 Baths,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"55 BARKER STREET, Carleton Place, Ontario, K7C 4K4","$514,900",3 Beds,2 Baths,Detached,"Refrigerator, Dishwasher, Dryer, Freezer, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"153 Caruso Street, Coniston, Ontario, P0M 1M0","$499,900",3 Beds,2 Baths,Detached,Central air conditioning,Forced air,Unknown,Asphalt shingle,,
+"1262 Edward AVENUE, Windsor, Ontario, N8S 3A1","$499,900",3+1 Beds,2 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"10 MORTON Drive, Ottawa, ON, K2L 1W8","$499,900",4 Beds,2 Baths,4,2,Municipal,Natural Gas,RESIDENTIAL - Residential Second Density Zone (R2),,
+"3105 CALIFORNIA, Windsor, ON, N9E 3K5","$499,900",4 Beds,2 Baths,4,Carport,"Storm, Sanitary",Municipal Water,Natural Gas,,
+"#711 -19 BARBERRY PL, Toronto, Ontario, M2K 3E3","$499,900",1+1 Beds,2 Baths,Apartment,Central air conditioning,Natural gas,Forced air,Concrete,,
+"14 Villa COURT, Chatham, Ontario, N7L 5P5","$499,900",2 Beds,3 Baths,Detached,Central air conditioning,Natural gas,Forced air,Concrete,,
+"22 BALFOUR Crescent, Kitchener, Ontario, N2C 1Z5","$499,900",3 Beds,2 Baths,Semi-Detached,"Dishwasher, Microwave, Refrigerator, Stove, Window Coverings",Central air conditioning,Forced air,Poured Concrete,,
+"32 ALGONQUIN TR, Wasaga Beach, Ontario, L9Z 1X7","$499,900",3 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Yes,,
+"1721 SOUTH CAMERON, Windsor, Ontario, N9B 3C9","$489,900",3 Beds,1 Bath,Detached,Central air conditioning,Natural gas,Forced air,Block,,
+"150 MACLELLAN Avenue, Quinte West, Ontario, K8V 5H9","$485,900",3 Beds,2 Baths,Detached,"Dryer, Refrigerator, Stove, Washer, Window Coverings",Central air conditioning,Natural gas,Forced air,,
+"1477 ALDERDALE Road, Powassan, Ontario, P0H 1Z0","$479,900",4 Beds,3 Baths,Detached,"Dishwasher, Dryer, Microwave, Refrigerator, Stove, Washer, Microwave Built-in, Window Coverings, Hot Tub",Central air conditioning,"Pellet, Propane","Forced air, Heat Pump, Stove",,
+"300 124 Highway, McDougall, Ontario, P2A 2W7","$479,000",3 Beds,1 Bath,Detached,"Refrigerator, Stove, Microwave Built-in, Window Coverings, Hot Tub",Window air conditioner,Propane,Forced air,,
+"176 ELK STREET, Renfrew, Ontario, K7V 0A1","$445,000",2 Beds,1 Bath,Townhouse,"Refrigerator, Dishwasher, Dryer, Hood Fan, Stove, Washer",Central air conditioning,Natural gas,Forced air,,
+"112 Arnold STREET, Chatham, Ontario, N7L 2X8","$444,900",3+1 Beds,2 Baths,Detached,Natural gas,Forced air,Block,Hardwood,,
+"345 ROBSON ROAD Unit# 9, Leamington, Ontario, N8H 5G6","$439,900",2 Beds,2 Baths,Townhouse,Heat Pump,"Electric, Natural gas","Baseboard heaters, Heat Pump",Block,,
+"107 ST-MORITZ TRAIL UNIT#502, Embrun, Ontario, K0A 1W0","$439,900",2 Beds,1 Bath,Detached,Microwave Range Hood Combo,Wall unit,Natural gas,Radiant heat,,
+"107 ST-MORITZ TRAIL UNIT#501, Embrun, Ontario, K0A 1W0","$439,900",2 Beds,1 Bath,Detached,Microwave Range Hood Combo,Wall unit,Natural gas,Radiant heat,,
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
+"755 KEMSLEY Drive, Sarnia, ON, N7V 2M3","$429,900",4 Beds,2 Baths,4,Single Garage,Sanitary,Municipal Water,Natural Gas,42.99195587894737,-79.23779456315789
