@@ -1,3 +1,4 @@
 address,price,number_of_beds,number_of_baths,style,cooling_type,heating_fuel,heating_type,fire_place,lat,lon
-"33 SCUFFLER DR, Vaughan, Ontario, L6A 4Y7","$2,999,888",4 Beds,5 Baths,Detached,,,,Yes,43.7941544,-79.5268023
-"11134 5 SIDE RD, Halton Hills, Ontario, L7G 4S6","$2,999,000",4 Beds,4 Baths,Detached,,,,"Stone, Wood",43.621861,-79.943877
+"33 SCUFFLER DR, Vaughan, Ontario, L6A 4Y7","$2,999,888",4 Beds,5 Baths,,,,,House,43.7941544,-79.5268023
+"11134 5 SIDE RD, Halton Hills, Ontario, L7G 4S6","$2,999,000",4 Beds,4 Baths,,,,,House,43.621861,-79.943877
+"14541 NIAGARA RIVER PKWY, Niagara-on-the-Lake, Ontario, L0S 1L0","$2,998,800",4+1 Beds,4 Baths,,,,,House,43.2556116,-79.0723264
