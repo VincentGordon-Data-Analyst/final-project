@@ -1,4 +1,249 @@
-address,price,number_of_beds,number_of_baths,style,cooling_type,heating_fuel,heating_type,fire_place,lat,lon
-"33 SCUFFLER DR, Vaughan, Ontario, L6A 4Y7","$2,999,888",4 Beds,5 Baths,,,,,House,43.7941544,-79.5268023
-"11134 5 SIDE RD, Halton Hills, Ontario, L7G 4S6","$2,999,000",4 Beds,4 Baths,,,,,House,43.621861,-79.943877
-"14541 NIAGARA RIVER PKWY, Niagara-on-the-Lake, Ontario, L0S 1L0","$2,998,800",4+1 Beds,4 Baths,,,,,House,43.2556116,-79.0723264
+lat,lon,address,price,number_of_beds,number_of_baths,style,building_type,cooling_type,heating_type,fire_place
+43.8563707,-79.3376825,"6 HONEYBOURNE CRES, Markham, Ontario, L3P 1P3","$2,998,000",5+1 Beds,8 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.686359,-79.40231,"123 HEATH ST W, Toronto, Ontario, M4V 2Y6","$2,798,000",3+1 Beds,4 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.67089,-79.316931,"83 BOARDWALK DR, Toronto, Ontario, M4L 3X9","$2,599,900",3 Beds,4 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.1931661,-79.560677,"2 LAKESIDE Drive, Grimsby, Ontario, L3M 2K7","$2,599,900",5 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.5896231,-79.6443879,"#A -41 BROADVIEW AVE, Mississauga, Ontario, L5H 2S8","$2,499,850",4+1 Beds,4 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.447436,-79.666672,"2158 PINEVIEW DR, Oakville, Ontario, L6H 5M3","$1,999,000",5 Beds,4 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"31 BIRCH TREE TR, Brampton, Ontario, L6P 3W1","$1,989,900",4+3 Beds,6 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"20 PELLEGRINO RD, Brampton, Ontario, L7A 4M8","$1,850,000",4+3 Beds,5 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.816244,-79.851035,"36 JAMES WALKER AVE, Caledon, Ontario, L7C 1R5","$1,750,000",4 Beds,3 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"61 MIDSUMMER DR, Brampton, Ontario, L6P 3E4","$1,689,999",4 Beds,4 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.5896231,-79.6443879,"#40 -74 COMPASS WAY, Mississauga, Ontario, L5G 4T8","$1,650,000",4 Beds,5 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.4208777,-75.6901106,"82 BLACKBURN AVENUE, Ottawa, Ontario, K1N 8A5","$1,600,000",4 Beds,4 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.5896231,-79.6443879,"1143 BANCROFT DR, Mississauga, Ontario, L5V 1B7","$1,588,888",5+3 Beds,4 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.056258,-79.461708,"815 GRACE ST, Newmarket, Ontario, L3Y 2L6","$1,588,000",4 Beds,3 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.650005,-79.482809,"98 ARDAGH ST, Toronto, Ontario, M6S 1Y7","$1,499,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8801166,-79.4392925,"98 GRAND OAK  DR, Richmond Hill, Ontario, L4E 4A6","$1,499,000",4+2 Beds,5 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.1561412,-79.9161804,"4078 HWY #6 Highway S, Mount Hope, Ontario, L0R 1W0","$1,425,000",3 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.91741,-79.373131,"1055 EVANSWOOD DR, Gravenhurst, Ontario, P0E 1G0","$1,400,000",5 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.447436,-79.666672,"1336 ASHWOOD TERR, Oakville, Ontario, L6M 4A7","$1,398,000",3 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.1375186,-79.9421083123357,"8977 BOYNE RIVER RD, Adjala-Tosorontio, Ontario, L0M 1J0","$1,379,900",3+2 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"7 ANSBURY DR, Brampton, Ontario, L7A 3S8","$1,349,999",4+1 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"18 HIGHWOOD RD, Brampton, Ontario, L6Z 4T8","$1,349,000",4 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.64877,-79.38171,"#403 -15 SOUSA MENDES ST, Toronto, Ontario, M6P 0A9","$1,329,000",2+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"21 BARNES CRT, Brampton, Ontario, L7A 1J1","$1,299,999",4+1 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.513671,-79.882817,"178 COOKE CRES, Milton, Ontario, L9T 6E5","$1,299,000",3+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8563707,-79.3376825,"261 KIRKHAM DR, Markham, Ontario, L3S 0E9","$1,299,000",3 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.77506,-80.070076,"17 BARBOUR DR, Erin, Ontario, N0B 1Z0","$1,299,000",4+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8505287,-79.0208814,"133 RUSHWORTH DR, Ajax, Ontario, L1Z 2A3","$1,298,000",4+1 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3893113,-79.6901736,"100 KNUPP RD, Barrie, Ontario, L4N 0N5","$1,274,999",4 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"133 BARLEYFIELD RD, Brampton, Ontario, L6R 2J4","$1,249,000",4+3 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"92 OAKMORE LANE, Brampton, Ontario, L6R 0C3","$1,200,000",4+1 Beds,5 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8801166,-79.4392925,"12 HERCULES CLUB DR, Richmond Hill, Ontario, L4K 1K6","$1,199,000",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.2921994,-77.82218148636545,"293 HILLSIDE DR, Trent Hills, Ontario, K0L 1L0","$1,175,000",4 Beds,2 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3150892,-79.5461073,"1254 HARRINGTON STREET ST, Innisfil, Ontario, L0L 1W0","$1,161,254",4 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.2560802,-79.8728583,"271 GREAT FALLS BLVD S, Hamilton, Ontario, L0R 2H8","$1,149,000",4 Beds,3 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.7056973,-81.1926841,"27 BOYDS HARBOUR Loop, North Bruce Peninsula, Ontario, N0H 1Z0","$1,099,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.73339,-81.26644,"17 PHILLIPS Place, Oliphant, Ontario, N0H 2T0","$1,099,000",3 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"19 ALDERWAY AVE, Brampton, Ontario, L6Y 2B5","$1,099,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8801166,-79.4392925,"299 BOISDALE AVE, Richmond Hill, Ontario, L4C 1R4","$1,098,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"46 FADERS DR, Brampton, Ontario, L7A 4Y4","$1,049,999",3+2 Beds,5 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.2556116,-79.0723264,"14 PINOT TR, Niagara-on-the-Lake, Ontario, L0S 1J0","$1,025,000",2+1 Beds,3 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"130 CRESTHAVEN RD, Brampton, Ontario, L7A 1H8","$999,999",3+2 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.5027226,-80.2172379,"12 WILSON  ST, Collingwood, Ontario, L9Y 4S1","$999,999",3+1 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"84 DELPORT CLSE, Brampton, Ontario, L6P 3T2","$999,900",3+1 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+50.400255,-92.837993,"52 FIRE ROUTE 45B, North Kawartha Twp, Ontario, K0L 2H0","$999,900",4 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"21 CLAYPINE TR, Brampton, Ontario, L6V 3L8","$999,900",4 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8563707,-79.3376825,"17 LIAM LANE, Markham, Ontario, L3S 0E8","$999,888",4 Beds,4 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.7941544,-79.5268023,"109 WHITE BLVD, Vaughan, Ontario, L4J 5Z7","$999,000",3+1 Beds,4 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.5896231,-79.6443879,"5307 PALMETTO PL, Mississauga, Ontario, L4T 1G3","$999,000",3 Beds,3 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.646081,-79.576748,"#23 -23 SILVER SHADOW  PATH, Toronto, Ontario, M9C 4Y2","$998,000",4+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3893113,-79.6901736,"55 WILDWOOD TR, Barrie, Ontario, L4N 7Z1","$997,000",3+3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.056258,-79.461708,"215 SHEFFIELD ST, Newmarket, Ontario, L3Y 5X7","$995,001",4 Beds,2 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.959033,-81.235184,"2884 DEVON DR, London, Ontario, N6E 0A4","$989,900",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.0818996,-79.77443058053504,"27 D A JONES  NEW TECU AVE, New Tecumseth, Ontario, L0G 1A0","$979,999",3 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.002954849999995,-78.02435766885671,"510 FIRST LINE, Haldimand, Ontario, N0A 1H0","$974,900",4 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.5445701,-79.54891085886374,"31 BARDS BEACH RD, Oro-Medonte, Ontario, L3V 0J9","$965,000",2 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.959033,-81.235184,"3233 TURNER Crescent, London, Ontario, N6M 0B1","$959,900",4 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.097441700000005,-78.04760303007441,"115 GRANDVIEW DR, Alnwick/Haldimand, Ontario, K0K 2X0","$949,999",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8975558,-78.8635324,"865 CORBETTS Road, Oshawa, Ontario, L1K 2E1","$949,900",4+1 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3893113,-79.6901736,"74 WARD DR, Barrie, Ontario, L4N 8A2","$948,999",4+1 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.7941544,-79.5268023,"99 LUCENA CRES, Vaughan, Ontario, L6A 2W4","$939,000",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.0445702,-79.2838481,"62 CONCORD ST N, Pelham, Ontario, L0S 1E3","$929,000",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3150892,-79.5461073,"1927 APPLEWOOD AVE, Innisfil, Ontario, L9S 1W2","$924,900",4+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"42 FROSTBITE LANE, Brampton, Ontario, L6R 3L8","$899,900",3+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"75 MALLARD CRES, Brampton, Ontario, L6S 2T7","$899,711",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.817087,-79.281909,"4 EVANSVILLE RD, Toronto, Ontario, M1V 1L5","$899,000",4+2 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.2344356,-79.8063686586334,"6591 BROWNS LINE, Essa, Ontario, L0M 1B1","$889,000",2+2 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.740315,-79.538435,"22 TAMPA TERR, Toronto, Ontario, M9M 1T9","$879,000",4 Beds,2 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.5896231,-79.6443879,"#89 -1755 RATHBURN RD E, Mississauga, Ontario, L4W 2M8","$875,000",3 Beds,3 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.3341367,-75.2519986,"1652 KING STREET, Limoges, Ontario, K0A 2M0","$869,900",2+1 Beds,3 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.626816,-79.516419,"#6 -10 BRADBROOK RD, Toronto, Ontario, M8Z 5V3","$869,000",3 Beds,2 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.4208777,-75.6901106,"1452 MCROBIE AVENUE, Ottawa, Ontario, K1H 7E3","$866,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8975558,-78.8635324,"#31 -737-787 CONLIN  RD E, Oshawa, Ontario, L1H 7K5","$854,990",3 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.641342,-79.399759,"#6A -570 WELLINGTON ST W, Toronto, Ontario, M5V 2X5","$838,000",2+1 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.1776378,-81.6348713,"501 MORRISON Crescent, Kincardine, Ontario, N2Z 0A6","$829,900",3 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.225693,-79.976692,"175 Fiddlers Green Road|Unit #50, Ancaster, Ontario, L9G 3K9","$829,000",2+1 Beds,2 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.241045,-77.358813,"38 SCENIC Drive, Belleville, Ontario, K8N 0C2","$809,900",3+2 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8801166,-79.4392925,"123 WILDWOOD   AVE, Richmond Hill, Ontario, L4E 3B6","$800,000",2 Beds,1 Bath,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.7941544,-79.5268023,"#112 -24 WOODSTREAM BLVD, Vaughan, Ontario, L4L 8C4","$799,999",2+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.3248924,-79.7966835,"#25 -2015 CLEAVER AVE, Burlington, Ontario, L7M 4J7","$799,900",2 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3893113,-79.6901736,"18 CASSANDRA DR W, Barrie, Ontario, L4M 6Z3","$799,900",4 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.1931661,-79.560677,"12 Toe Blake Court, Grimsby, Ontario, L3M 0H8","$799,900",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.3600536,-80.3123023,"#19 -143 RIDGE RD, Cambridge, Ontario, N3E 0E1","$790,000",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8975558,-78.8635324,"2562 LARIDA PATH, Oshawa, Ontario, L1L 0P9","$779,000",4+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.4208777,-75.6901106,"410 ABBEYDALE CIRCLE, Ottawa, Ontario, K2K 0E8","$768,000",3 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.0570769,-77.8537127,"42 BANCROFT RIDGE DR, Bancroft, Ontario, K0L 1C0","$759,900",3 Beds,2 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.5896231,-79.6443879,"#138 -2315 BROMSGROVE RD, Mississauga, Ontario, L5J 4A6","$749,000",3+1 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.3128048,-75.8940505,"1 BYLOT COURT, Kanata, Ontario, K2L 2V3","$733,000",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3596825,-78.7421729,"5 LIME ST, Kawartha Lakes, Ontario, K0M 1K0","$725,000",4 Beds,2 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.35012,-78.73286,"43 LUCAS Crescent, Lindsay, Ontario, K9V 0C6","$719,900",4+1 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.986695,-81.182819,"1545 GORE RD, London, Ontario, N5W 1T9","$699,900",5 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.0422275,-77.7370071,"2 SINGLETON ST, Brighton, Ontario, K0K 1H0","$699,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8505287,-79.0208814,"273 MONARCH AVE, Ajax, Ontario, L1S 0C2","$698,000",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.4208777,-75.6901106,"4344 WILDMINT SQUARE, Ottawa, Ontario, K1V 1N5","$697,880",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.7438271,-81.1408154,"771 GOULD Street, Wiarton, Ontario, N0H 2T0","$689,900",2 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.012513,-81.230204,"27A EMPIRE ST, London, Ontario, N5Y 1G6","$669,000",3+3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.8387232,-80.63686805,"4915 HWY 59 S, Norfolk, Ontario, N0J 1E0","$659,900",3+1 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.7243912,-80.9316713,"319921 KEMBLE ROCK Road, Kemble, Ontario, N0H 1S0","$649,900",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.2560802,-79.8728583,"#20 -40 SUMMERCREST DR, Hamilton, Ontario, L8K 6M5","$649,900",3 Beds,2 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.7207522,-76.924124,"1021 STOLL Lane, Arden, Ontario, K0H 1B0","$649,900",3 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.403594,-82.188613,"20 Betty COURT, Chatham, Ontario, N7M 0T9","$649,900",4 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.5224813,-80.0203156,"97 NEW YORK AVE, Wasaga Beach, Ontario, L9Z 3A8","$649,500",2 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.4208777,-75.6901106,"111 QUEENSBURY DRIVE, Ottawa, Ontario, K2J 4P2","$645,900",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.1088502,-79.1226768,"708 REGIONAL RD 13 RD, Uxbridge, Ontario, L0C 1C0","$629,000",2 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.4208777,-75.6901106,"161 LERTA WAY, Ottawa, Ontario, K4A 0W5","$619,900",3 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.4208777,-75.6901106,"143 GLADEVIEW PRIVATE, Ottawa, Ontario, K1T 4C4","$619,900",2+1 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3893113,-79.6901736,"#10 -57 FERNDALE DR S, Barrie, Ontario, L4N 5W9","$619,000",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3893113,-79.6901736,"73 COURTNEY CRES, Barrie, Ontario, L4N 5S8","$614,900",2 Beds,2 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.738576,-79.468834,"#1 -169 WILLIAM DUNCAN RD, Toronto, Ontario, M3K 0B8","$599,000",2+1 Beds,1 Bath,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.1408157,-80.2631733,"66 MUNRO CIRC, Brantford, Ontario, N3T 0R5","$599,000",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.2019073,-77.8868553,"43 HUTCHINSON Court, Warkworth, Ontario, K0K 3K0","$599,000",2+1 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.4208777,-75.6901106,"267 MONACO PLACE, Ottawa, Ontario, K4A 0G6","$579,999",3 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.041406,-74.733993,"2199 BURKE AVENUE, Cornwall, Ontario, K6H 0H5","$579,000",2+1 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.451291,-80.4927815,"9 ROBERTS CRES, Kitchener, Ontario, N2E 1A6","$575,000",3 Beds,2 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.347685049999995,-79.10016490761303,"B28700 HWY 12, Brock, Ontario, L0K 1A0","$559,900",3 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.5053083,-77.4726069,"630 QUIN MO LAC Road, Madoc, Ontario, K0K 2K0","$550,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.821328,-77.110488,"21 BARRY STREET, Pembroke, Ontario, K8A 7L6","$550,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3945886,-80.7952482,"777034 10 Highway, Holland Centre, Ontario, N0H 1R0","$549,900",2 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.1013315,-83.1086458,"30 BRUSH, Amherstburg, Ontario, N9V 3Y4","$549,900",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.1403366,-76.1465672,"35 RIDDELL STREET, Carleton Place, Ontario, K7C 3P2","$529,900",3 Beds,4 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.9922181,-79.2484192,"143 Commercial Street, Welland, Ontario, L3B 5Z2","$499,900",3 Beds,2 Baths,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.8240917,-76.0922993,"38 R6 ROAD, Lombardy, Ontario, K0G 1L0","$499,900",2 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.6250121,-77.7239592234209,"3 TECUMSEH ST, Marmora and Lake, Ontario, K0K 2M0","$499,900",3 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.986695,-81.182819,"482 HALE ST, London, Ontario, N5W 1G4","$450,000",2+1 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.2560802,-79.8728583,"74 ELLIS Avenue|Unit #4, Hamilton, Ontario, L8H 4L9","$447,400",2 Beds,1 Bath,Semi-Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.6276233,-76.8790385,"270 MANSEL HILL ROAD, Cobden, Ontario, K0J 1K0","$439,000",3 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.5678105,-80.9430094,"1610 7TH Avenue E, Owen Sound, Ontario, N4K 2Z4","$420,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.2560802,-79.8728583,"137 Cathcart Street, Hamilton, Ontario, L8L 5A1","$400,000",2+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.969292,-81.20529,"#132 -690 LITTLE GREY ST, London, Ontario, N5Z 4M9","$399,900",4 Beds,2 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.9922181,-79.2484192,"121 Regent Street, Welland, Ontario, L3B 4H7","$399,900",4 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.8975558,-78.8635324,"#91 -1760 SIMCOE ST N, Oshawa, Ontario, L1G 4S1","$399,000",3 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+45.4208777,-75.6901106,"920 DYNES ROAD UNIT#59, Ottawa, Ontario, K2C 0G8","$399,000",3+1 Beds,3 Baths,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+42.363585,-82.177131,"101 Raleigh STREET, Chatham, Ontario, N7M 2N1","$349,900",3 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.210386,-77.306575,"175 HERCHIMER Avenue, Belleville, Ontario, K8N 4G7","$344,900",2 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.000429,-77.148249,"29 3RD Avenue S, Saugeen Indian Reserve 29, Ontario, N0H 2G0","$279,900",3 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.647651,-77.12162,"113277 HIGHWAY 7, Kaladar, Ontario, K0H 1Z0","$269,000",3 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.9013316,-76.0212062,"4 PEARL STREET UNIT#F, Smiths Falls, Ontario, K7A 5B5","$257,900",2 Beds,1 Bath,Townhouse,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.2855122,-80.4507012,"673 BRANT-WATERLOO Road Unit# 229, Ayr, Ontario, N0B 1E0","$100,000",1 Beds,1 Bath,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.602637,-79.506096,"#82 -82 HEMAN ST, Toronto, Ontario, M8V 1X5","$99,900",2+1 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.7941544,-79.5268023,"33 SCUFFLER DR, Vaughan, Ontario, L6A 4Y7","$2,999,888",4 Beds,5 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.621861,-79.943877,"11134 5 SIDE RD, Halton Hills, Ontario, L7G 4S6","$2,999,000",4 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.2556116,-79.0723264,"14541 NIAGARA RIVER PKWY, Niagara-on-the-Lake, Ontario, L0S 1L0","$2,998,800",4+1 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.0034771,-79.60477076446632,"15415 JANE ST, King, Ontario, L7B 1A3","$2,995,000",3 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3596825,-78.7421729,"31 WISPI SHORE RD, Kawartha Lakes, Ontario, K9V 0K4","$2,900,000",6 Beds,6 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.014469,-79.323704,"4282 VIVIAN RD, Whitchurch-Stouffville, Ontario, L4A 1Z2","$2,888,000",4+2 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.780366,-79.34786,"57 ALAMOSA DR, Toronto, Ontario, M2J 2N8","$2,790,000",3+2 Beds,3 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.447436,-79.666672,"121 WATERVIEW COMMON, Oakville, Ontario, L6L 0E7","$2,699,200",4 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.3150892,-79.5461073,"3696 FERRETTI CRT, Innisfil, Ontario, L9S 0N6","$2,699,000",4 Beds,5 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.3248924,-79.7966835,"643 WEST OVAL Drive, Burlington, Ontario, L7T 1C1","$2,698,000",3+2 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.7941544,-79.5268023,"40 DEAN PL, Vaughan, Ontario, L3L 0A8","$2,650,000",3+1 Beds,4 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.6858146,-79.7599337,"48 FOOTHILLS CRES, Brampton, Ontario, L6P 4G9","$2,599,900",5+2 Beds,5 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+44.0034771,-79.60477076446632,"13066 KEELE ST, King, Ontario, L7B 1H8","$2,599,000",3 Beds,2 Baths,Detached,House,"Central air conditioning, Window air conditioner","Baseboard heaters, Forced air",Yes
+43.5896231,-79.6443879,"A-41 Broadview Avenue, Mississauga, ON, L5H 2S8","$2,499,850",5 Beds,4 Baths,Detached,,,,No
+45.4208777,-75.6901106,"1041 BRANDYWINE COURT, Ottawa, Ontario, K4M 1J2","$2,499,000",3+1 Beds,4 Baths,Detached,,,,Yes
+44.36827245,-80.06694742944002,"8254 21/22 NOTTAWASAGA SDRD, Clearview, Ontario, L0M 1H0","$2,495,000",5 Beds,5 Baths,Detached,,,,Yes
+43.774102,-79.381046,"5 WHITELOCK CRES, Toronto, Ontario, M2K 1V9","$2,490,000",3 Beds,2 Baths,Detached,,,,Yes
+43.447436,-79.666672,"1473 DURHAM ST, Oakville, Ontario, L6J 2P4","$2,459,000",4+1 Beds,3 Baths,Detached,,,,Yes
+43.87982,-78.9421751,"2 DONWOODS CRES, Whitby, Ontario, L1R 0K9","$2,450,000",4 Beds,5 Baths,Detached,,,,Yes
+43.5896231,-79.6443879,"1588 CAROLYN RD, Mississauga, Ontario, L5M 2E1","$2,390,000",4+1 Beds,5 Baths,Detached,,,,Yes
+43.842903,-79.89885,"4768 Beech Grove Sdrd, Caledon, ON, L7K 0M5","$2,389,000",3+2 Beds,4 Baths,Detached,,,,Yes
+44.49409275,-79.83172283448036,"34 MARNI LANE, Springwater, Ontario, L0L 2K0","$2,388,999",3 Beds,4 Baths,Detached,,,,Yes
+43.8801166,-79.4392925,"24 LOVE CRT, Richmond Hill, Ontario, L4B 0G2","$2,388,000",5+1 Beds,6 Baths,Detached,,,,Yes
+43.2560802,-79.8728583,"73 ACREDALE DR, Hamilton, Ontario, L0R 1H2","$2,374,900",4 Beds,4 Baths,Detached,,,,Yes
+44.1143279,-79.5647069,"29 ROWE ST, Bradford West Gwillimbury, Ontario","$2,350,000",5 Beds,6 Baths,Detached,,,,Yes
+43.713691,-79.389435,"338 BROADWAY AVE, Toronto, Ontario, M4P 1W7","$2,288,800",3+1 Beds,4 Baths,Detached,,,,Yes
+43.3248924,-79.7966835,"2502 BOROS Road, Burlington, Ontario, L7M 4S7","$2,275,000",4+2 Beds,5 Baths,Detached,,,,Yes
+43.3248924,-79.7966835,"2502 BOROS RD, Burlington, Ontario, L7M 4S7","$2,275,000",4+2 Beds,5 Baths,Detached,,,,Yes
+43.621861,-79.943877,"36 CINDEBARKE TERR, Halton Hills, Ontario, L7G 4S5","$2,249,990",5 Beds,4 Baths,Detached,,,,Yes
+43.96868585,-78.65135738273909,"5728 GILMORE RD, Clarington, Ontario, L0A 1J0","$2,249,900",3+1 Beds,2 Baths,Detached,,,,Yes
+43.6647175,-79.495341,"152 HUMBERCREST BLVD, Toronto, Ontario, M6S 4L3","$2,235,000",3+1 Beds,2 Baths,Detached,,,,Yes
+43.5896231,-79.6443879,"1869 FRIAR TUCK CRT, Mississauga, Ontario, L5K 2L4","$2,199,000",4+1 Beds,4 Baths,Detached,,,,Yes
+43.5896231,-79.6443879,"1235 OLD RIVER RD, Mississauga, Ontario, L5G 3G2","$2,199,000",3 Beds,1 Bath,Detached,,,,Yes
+44.14125,-79.395028,"20430 BATHURST ST, East Gwillimbury, Ontario, L9N 1P5","$2,198,000",3+1 Beds,3 Baths,Detached,,,,Yes
+43.68009,-79.354896,"10 CHESTER HILL RD, Toronto, Ontario, M4K 1X3","$2,195,000",4+1 Beds,5 Baths,Detached,,,,Yes
+43.7941544,-79.5268023,"28 GALLANT PL, Vaughan, Ontario, L4H 3W6","$2,180,000",4 Beds,4 Baths,Detached,,,,Yes
+43.5896231,-79.6443879,"#4 -28 FRONT ST S, Mississauga, Ontario, L5H 2C7","$2,150,000",4 Beds,4 Baths,Detached,,,,Yes
+43.447436,-79.666672,"1176 GRACE DR, Oakville, Ontario, L6H 6T5","$2,099,900",4 Beds,4 Baths,Detached,,,,Yes
+44.14125,-79.395028,"14 UPBOUND  CRT, East Gwillimbury, Ontario, L9N 0W1","$2,088,000",4+1 Beds,4 Baths,Detached,,,,Yes
+43.671561,-79.403274,"117 ALBANY AVE, Toronto, Ontario, M5R 3C5","$2,059,000",3+2 Beds,2 Baths,Detached,,,,Yes
+43.6858146,-79.7599337,"103 CLOCKWORK DR, Brampton, Ontario, L7A 5J1","$2,050,000",4+1 Beds,4 Baths,Detached,,,,Yes
+43.7941544,-79.5268023,"88 FARRELL RD, Vaughan, Ontario, L6A 4W7","$1,999,990",4 Beds,4 Baths,Detached,,,,Yes
+43.5896231,-79.6443879,"1316 MINEOLA GDNS, Mississauga, Ontario, L5G 3Y3","$1,999,850",3 Beds,1 Bath,Detached,,,,Yes
+43.2556116,-79.0723264,"5 WOODBOURNE CRT, Niagara-on-the-Lake, Ontario, L0S 1P0","$1,998,000",2+2 Beds,4 Baths,Detached,,,,Yes
+43.654509,-79.509097,"6 OLD MILL TERR, Toronto, Ontario, M8X 1A2","$1,990,000",4 Beds,3 Baths,Detached,,,,Yes
+44.5224813,-80.0203156,"27 WATERVIEW RD, Wasaga Beach, Ontario, L9Z 0E9","$1,988,888",4+2 Beds,7 Baths,Detached,,,,Yes
+43.7941544,-79.5268023,"10 OLDHAM ST, Vaughan, Ontario, L4H 3N9","$1,988,800",4+2 Beds,4 Baths,Detached,,,,Yes
+43.447436,-79.666672,"2237 GLAZEBROOK CIRC, Oakville, Ontario, L6M 5B5","$1,988,000",4+1 Beds,3 Baths,Detached,,,,Yes
+43.99973,-79.467545,"5 WILLIS DR, Aurora, Ontario, L4G 5N8","$1,949,999",4+1 Beds,4 Baths,Detached,,,,Yes
+44.49409275,-79.83172283448036,"12890 COUNTY ROAD 27, Springwater, Ontario, L0L 2K0","$1,900,000",3 Beds,2 Baths,Detached,,,,Yes
+43.513671,-79.882817,"378 HINTON TERR, Milton, Ontario, L9E 1E1","$1,899,999",4 Beds,5 Baths,Detached,,,,Yes
+43.3248924,-79.7966835,"3909 LODI RD, Burlington, Ontario, L7M 0Z5","$1,899,990",6 Beds,5 Baths,Detached,,,,Yes
+43.447436,-79.666672,"2173 HIGHCLIFFE WAY, Oakville, Ontario, L6M 5B6","$1,899,900",5 Beds,4 Baths,Detached,,,,Yes
+43.791476,-79.408257,"38 ROCKLAND DR, Toronto, Ontario, M2M 2Y9","$1,890,000",4 Beds,4 Baths,Detached,,,,Yes
+43.7941544,-79.5268023,"91 WYCLIFFE AVE, Vaughan, Ontario, L4L 3N4","$1,888,000",4+1 Beds,4 Baths,Detached,,,,Yes
+43.8563707,-79.3376825,"245 SOUTH UNIONVILLE AVE, Markham, Ontario, L3R 5L3","$1,876,000",4+2 Beds,4 Baths,Detached,,,,Yes
+44.056258,-79.461708,"347 REG HARRISON TR, Newmarket, Ontario, L3X 0M2","$1,868,000",4 Beds,4 Baths,Detached,,,,Yes
+43.5460516,-80.2493276,"32 Mcalister Boulevard, Guelph, ON, N1G 0G6","$1,850,000",6 Beds,5 Baths,Detached,,,,No
+43.5896231,-79.6443879,"5073 TERRY FOX Way, Mississauga, Ontario, L5V 1M9","$1,849,000",3+1 Beds,5 Baths,Detached,,,,No
+43.767383,-79.411426,"111 BETTY ANN DR, Toronto, Ontario, M2N 1X3","$1,828,900",3 Beds,3 Baths,Detached,,,,No
+44.49409275,-79.83172283448036,"37 BUDD'S MILL RD, Springwater, Ontario, L9X 0H8","$1,825,000",3+2 Beds,3 Baths,Detached,,,,Yes
+44.14125,-79.395028,"31 CHARLES WHITE CRT, East Gwillimbury, Ontario, L9N 0T7","$1,818,000",5 Beds,4 Baths,Detached,,,,Yes
+43.7941544,-79.5268023,"75 PINE RIDGE AVE, Vaughan, Ontario, L4L 2H8","$1,809,900",4+1 Beds,4 Baths,Detached,,,,Yes
+45.4208777,-75.6901106,"28 IRONSIDE COURT, Ottawa, Ontario, K2K 3H5","$1,800,000",4 Beds,4 Baths,Detached,,,,Yes
+43.513671,-79.882817,"1452 CONNAUGHT TERR, Milton, Ontario, L9E 0B2","$1,799,900",5 Beds,4 Baths,Detached,,,,Yes
+44.5445701,-79.54891085886374,"19 BACHLY AVE, Oro-Medonte, Ontario, L0K 1N0","$1,799,000",3+2 Beds,4 Baths,Detached,,,,Yes
+43.6858146,-79.7599337,"23 WHEATBERRY CRES, Brampton, Ontario, L6R 4A1","$1,799,000",4+2 Beds,6 Baths,Detached,,,,Yes
+43.5896231,-79.6443879,"2175 OBECK CRES, Mississauga, Ontario, L5H 3L6","$1,798,000",3+1 Beds,2 Baths,Detached,,,,Yes
+43.513671,-79.882817,"105 MILL ST, Milton, Ontario, L9T 1R8","$1,749,900",4 Beds,2 Baths,Detached,,,,Yes
+44.056258,-79.461708,"1109 GRAINGER TR, Newmarket, Ontario, L3X 0G7","$1,738,000",4 Beds,5 Baths,Detached,,,,Yes
+43.791476,-79.408257,"39 WINLOCK PARK, Toronto, Ontario, M2M 1Z1","$1,725,000",3+2 Beds,2 Baths,Detached,,,,Yes
+44.68872225,-81.00872535041186,"177623 GREY ROAD 18, Georgian Bluffs, Ontario, N4K 5N5","$1,725,000",3+1 Beds,2 Baths,Detached,,,,Yes
+43.513671,-79.882817,"1210 MCEACHERN CRT, Milton, Ontario, L9E 1E4","$1,699,990",4+2 Beds,6 Baths,Detached,,,,Yes
+43.7941544,-79.5268023,"372 GRAND TRUNK AVE, Vaughan, Ontario, L6A 0T4","$1,699,000",4 Beds,4 Baths,Detached,,,,Yes
+44.190608,-78.46896060471727,"751 MORTON Line, Cavan-Monaghan, Ontario, L0A 1G0","$1,699,000",2+2 Beds,3 Baths,Detached,,,,Yes
+43.6858146,-79.7599337,"40 JOHN CARROLL DR, Brampton, Ontario, L6P 4J8","$1,699,000",5 Beds,4 Baths,Detached,,,,Yes
+44.376812,-79.470068,"91 RIVEREDGE DR, Georgina, Ontario, L4P 2P2","$1,699,000",2+1 Beds,2 Baths,Detached,,,,Yes
+43.5896231,-79.6443879,"470 Willowbank Tr, Mississauga, ON, L4W 4S1","$1,699,000",5+2 Beds,4 Baths,Detached,,,,Yes
+43.738576,-79.468834,"61 MURRAY RD, Toronto, Ontario, M3K 1T5","$1,698,000",3+1 Beds,4 Baths,Detached,,,,Yes
+44.687267,-78.431582,"192 SUMCOT DR, Galway-Cavendish and Harvey, Ontario, K0L 1J0","$1,690,000",3+1 Beds,3 Baths,Detached,,,,Yes
+43.8801166,-79.4392925,"6 LORWOOD CRT, Richmond Hill, Ontario, L4E 3W3","$1,688,000",5 Beds,4 Baths,Detached,,,,Yes
+44.15537915,-80.88357696068783,"522404 CONCESSION 12 NDR, West Grey, Ontario, N0G 1H0","$1,680,000",3 Beds,2 Baths,Detached,,,,Yes
+44.1899502,-80.10235592975826,"11 JEFFERY DR, Mulmur, Ontario, L9V 3H7","$1,675,000",5+2 Beds,4 Baths,Detached,,,,Yes
+43.5896231,-79.6443879,"6415 DONWAY DR, Mississauga, Ontario, L5V 1J4","$1,670,000",4 Beds,3 Baths,Detached,,,,Yes
+44.375719450000005,-77.59914503994594,"152A WANNAMAKER RD N, Stirling-Rawdon, Ontario, K0K 3E0","$1,650,000",5 Beds,3 Baths,Detached,,,,Yes
+44.2963945,-77.5485522,"152A WANNAMAKER Road, Stirling, Ontario, K0K 3E0","$1,650,000",2+3 Beds,3 Baths,Detached,,,,Yes
+43.660438,-79.465004,"296 INDIAN GRVE, Toronto, Ontario, M6P 2H5","$1,649,000",3 Beds,2 Baths,Detached,,,,Yes
+43.602637,-79.506096,"92 LAKE SHORE DR, Toronto, Ontario, M8V 2A2","$1,648,000",5 Beds,3 Baths,Detached,,,,Yes
+43.3248924,-79.7966835,"1312 ROSSEAU PL, Burlington, Ontario, L7P 3N2","$1,627,000",4+1 Beds,4 Baths,Detached,,,,Yes
+43.3248924,-79.7966835,"2512 BOROS RD, Burlington, Ontario, L7M 4T2","$1,624,900",2+2 Beds,3 Baths,Detached,,,,Yes
+43.3248924,-79.7966835,"220 PENN Drive, Burlington, Ontario, L7N 2B8","$1,600,000",4 Beds,2 Baths,Detached,,,,Yes
+44.06798465,-77.36706195,"1509 VICTORIA RD, Prince Edward County, Ontario, K0K 1A0","$1,599,900",3 Beds,3 Baths,Detached,,,,Yes
+44.0591203,-77.4349042,"1509 VICTORIA Road, Ameliasburg, Ontario, K0K 1A0","$1,599,900",3 Beds,3 Baths,Detached,,,,Yes
+43.842903,-79.89885,"20 HELDERMAN ST, Caledon, Ontario, L7C 3V2","$1,599,900",4 Beds,4 Baths,Detached,,,,Yes
+43.8801166,-79.4392925,"108 WELDRICK AVE W, Richmond Hill, Ontario, L4C 3T8","$1,599,000",3+2 Beds,3 Baths,Detached,,,,Yes
+43.704081,-79.255219,"82 FISHLEIGH DR, Toronto, Ontario, M1N 1H5","$1,599,000",3 Beds,2 Baths,Detached,,,,Yes
+44.7546878,-79.51491635139335,"1719 ELLIS RD, Severn, Ontario, L0K 1E0","$1,599,000",3 Beds,2 Baths,Detached,,,,Yes
+44.730762299999995,-78.14223038772805,"21 FIRE ROUTE 28 RTE, North Kawartha, Ontario, K0L 2H0","$1,595,000",3 Beds,3 Baths,Detached,,,,Yes
+50.400255,-92.837993,"21 FIRE ROUTE 28, North Kawartha Twp, Ontario, K0L 2H0","$1,595,000",2+1 Beds,3 Baths,Detached,,,,Yes
+43.704284,-79.587129,"24 NEWLOVE CRT, Toronto, Ontario, M9W 5X5","$1,595,000",4 Beds,4 Baths,Detached,,,,Yes
+43.513671,-79.882817,"159 BELMORE CRT, Milton, Ontario, L9E 1H5","$1,590,000",5 Beds,5 Baths,Detached,,,,Yes
+42.2450635,-83.0606534,"1100 LAURIER AVENUE, LaSalle, Ontario, N9J 1N3","$1,589,000",5 Beds,4 Baths,Detached,,,,Yes
+44.056258,-79.461708,"57 MCINTYRE CRT, Newmarket, Ontario, L3Y 8B7","$1,588,888",4+2 Beds,4 Baths,Detached,,,,Yes
+43.87982,-78.9421751,"22 YVETTE ST, Whitby, Ontario, L1P 0G8","$1,579,000",4 Beds,4 Baths,Detached,,,,Yes
+43.225693,-79.976692,"178 ORCHARD Drive, Ancaster, Ontario, L9G 1Z9","$1,574,888",4 Beds,3 Baths,Detached,,,,Yes
+43.3600536,-80.3123023,"412 Guelph Avenue, Cambridge, ON, N3C 2V3","$1,550,000",6 Beds,5 Baths,Detached,,,,Yes
+44.014469,-79.323704,"15 Westwind Cres, Whitchurch-Stouffville, ON, L4A 0C3","$1,550,000",4+1 Beds,4 Baths,Detached,,,,Yes
+43.513671,-79.882817,"957 KELMAN CRT, Milton, Ontario, L9T 2Y4","$1,549,000",4+1 Beds,4 Baths,Detached,,,,Yes
+43.9595998,-78.1677784,"4 MCCARTY DR, Cobourg, Ontario, K9A 0K5","$1,525,000",4 Beds,3 Baths,Detached,,,,Yes

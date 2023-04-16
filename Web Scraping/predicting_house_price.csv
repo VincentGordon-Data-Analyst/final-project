@@ -1,520 +1,153 @@
 ,lat,lon,street,city,province,postal_code,style,price,number_of_beds,number_of_baths,extra_space
-0,43.7941544,-79.5268023,33 SCUFFLER DR,Vaughan,Ontario,L6A 4Y7,Central air conditioning,2999888,4,5,
-1,43.621861,-79.943877,11134 5 SIDE RD,Halton Hills,Ontario,L7G 4S6,Central air conditioning,2999000,4,4,
-2,43.2556116,-79.0723264,14541 NIAGARA RIVER PKWY,Niagara-on-the-Lake,Ontario,L0S 1L0,Central air conditioning,2998800,4,4,
-3,44.0034771,-79.60477076446632,15415 JANE ST,King,Ontario,L7B 1A3,Propane,2995000,3,3,
-4,44.3596825,-78.7421729,31 WISPI SHORE RD,Kawartha Lakes,Ontario,K9V 0K4,Central air conditioning,2900000,6,6,
-5,44.014469,-79.323704,4282 VIVIAN RD,Whitchurch-Stouffville,Ontario,L4A 1Z2,Central air conditioning,2888000,4,3,
-6,43.780366,-79.34786,57 ALAMOSA DR,Toronto,Ontario,M2J 2N8,Central air conditioning,2790000,3,3,
-7,43.447436,-79.666672,121 WATERVIEW COMMON,Oakville,Ontario,L6L 0E7,Central air conditioning,2699200,4,4,
-8,44.3150892,-79.5461073,3696 FERRETTI CRT,Innisfil,Ontario,L9S 0N6,Central air conditioning,2699000,4,5,
-9,43.3248924,-79.7966835,643 WEST OVAL Drive,Burlington,Ontario,L7T 1C1,Central air conditioning,2698000,3,4,
-10,43.7941544,-79.5268023,40 DEAN PL,Vaughan,Ontario,L3L 0A8,Central air conditioning,2650000,3,4,
-11,43.6858146,-79.7599337,48 FOOTHILLS CRES,Brampton,Ontario,L6P 4G9,Central air conditioning,2599900,5,5,
-12,44.0034771,-79.60477076446632,13066 KEELE ST,King,Ontario,L7B 1H8,Central air conditioning,2599000,3,2,
-13,45.4208777,-75.6901106,1041 BRANDYWINE COURT,Ottawa,Ontario,K4M 1J2,Central air conditioning,2499000,3,4,
-14,44.36827245,-80.06694742944002,8254 21/22 NOTTAWASAGA SDRD,Clearview,Ontario,L0M 1H0,Central air conditioning,2495000,5,5,
-15,43.774102,-79.381046,5 WHITELOCK CRES,Toronto,Ontario,M2K 1V9,Central air conditioning,2490000,3,2,
-16,43.447436,-79.666672,1473 DURHAM ST,Oakville,Ontario,L6J 2P4,Central air conditioning,2459000,4,3,
-17,43.87982,-78.9421751,2 DONWOODS CRES,Whitby,Ontario,L1R 0K9,Central air conditioning,2450000,4,5,
-18,43.5896231,-79.6443879,1588 CAROLYN RD,Mississauga,Ontario,L5M 2E1,Central air conditioning,2390000,4,5,
-19,44.49409275,-79.83172283448036,34 MARNI LANE,Springwater,Ontario,L0L 2K0,Central air conditioning,2388999,3,4,
-20,43.8801166,-79.4392925,24 LOVE CRT,Richmond Hill,Ontario,L4B 0G2,Central air conditioning,2388000,5,6,
-21,43.2560802,-79.8728583,73 ACREDALE DR,Hamilton,Ontario,L0R 1H2,Central air conditioning,2374900,4,4,
-22,44.1143279,-79.5647069,29 ROWE ST,Bradford West Gwillimbury,Ontario,,Natural gas,2350000,5,6,
-23,43.713691,-79.389435,338 BROADWAY AVE,Toronto,Ontario,M4P 1W7,Central air conditioning,2288800,3,4,
-24,43.3248924,-79.7966835,2502 BOROS Road,Burlington,Ontario,L7M 4S7,Central air conditioning,2275000,4,5,
-25,43.3248924,-79.7966835,2502 BOROS RD,Burlington,Ontario,L7M 4S7,Central air conditioning,2275000,4,5,
-26,43.621861,-79.943877,36 CINDEBARKE TERR,Halton Hills,Ontario,L7G 4S5,Central air conditioning,2249990,5,4,
-27,43.96868585,-78.65135738273909,5728 GILMORE RD,Clarington,Ontario,L0A 1J0,Window air conditioner,2249900,3,2,
-28,43.6647175,-79.495341,152 HUMBERCREST BLVD,Toronto,Ontario,M6S 4L3,Wall unit,2235000,3,2,
-29,43.5896231,-79.6443879,1869 FRIAR TUCK CRT,Mississauga,Ontario,L5K 2L4,Central air conditioning,2199000,4,4,
-30,43.5896231,-79.6443879,1235 OLD RIVER RD,Mississauga,Ontario,L5G 3G2,Central air conditioning,2199000,3,1,
-31,44.14125,-79.395028,20430 BATHURST ST,East Gwillimbury,Ontario,L9N 1P5,Central air conditioning,2198000,3,3,
-32,43.68009,-79.354896,10 CHESTER HILL RD,Toronto,Ontario,M4K 1X3,Central air conditioning,2195000,4,5,
-33,43.7941544,-79.5268023,28 GALLANT PL,Vaughan,Ontario,L4H 3W6,Central air conditioning,2180000,4,4,
-34,43.5896231,-79.6443879,#4 -28 FRONT ST S,Mississauga,Ontario,L5H 2C7,Central air conditioning,2150000,4,4,
-35,43.447436,-79.666672,1176 GRACE DR,Oakville,Ontario,L6H 6T5,Central air conditioning,2099900,4,4,
-36,44.14125,-79.395028,14 UPBOUND  CRT,East Gwillimbury,Ontario,L9N 0W1,Central air conditioning,2088000,4,4,
-37,43.671561,-79.403274,117 ALBANY AVE,Toronto,Ontario,M5R 3C5,Central air conditioning,2059000,3,2,
-38,43.6858146,-79.7599337,103 CLOCKWORK DR,Brampton,Ontario,L7A 5J1,Natural gas,2050000,4,4,
-39,43.7941544,-79.5268023,88 FARRELL RD,Vaughan,Ontario,L6A 4W7,Central air conditioning,1999990,4,4,
-40,43.5896231,-79.6443879,1316 MINEOLA GDNS,Mississauga,Ontario,L5G 3Y3,Oil,1999850,3,1,
-41,43.2556116,-79.0723264,5 WOODBOURNE CRT,Niagara-on-the-Lake,Ontario,L0S 1P0,Central air conditioning,1998000,2,4,
-42,43.654509,-79.509097,6 OLD MILL TERR,Toronto,Ontario,M8X 1A2,Wall unit,1990000,4,3,
-43,44.5224813,-80.0203156,27 WATERVIEW RD,Wasaga Beach,Ontario,L9Z 0E9,Central air conditioning,1988888,4,7,
-44,43.7941544,-79.5268023,10 OLDHAM ST,Vaughan,Ontario,L4H 3N9,Central air conditioning,1988800,4,4,
-45,43.447436,-79.666672,2237 GLAZEBROOK CIRC,Oakville,Ontario,L6M 5B5,Central air conditioning,1988000,4,3,
-46,43.99973,-79.467545,5 WILLIS DR,Aurora,Ontario,L4G 5N8,Central air conditioning,1949999,4,4,
-47,44.49409275,-79.83172283448036,12890 COUNTY ROAD 27,Springwater,Ontario,L0L 2K0,Central air conditioning,1900000,3,2,
-48,43.513671,-79.882817,378 HINTON TERR,Milton,Ontario,L9E 1E1,Central air conditioning,1899999,4,5,
-49,43.3248924,-79.7966835,3909 LODI RD,Burlington,Ontario,L7M 0Z5,Central air conditioning,1899990,6,5,
-50,43.447436,-79.666672,2173 HIGHCLIFFE WAY,Oakville,Ontario,L6M 5B6,Central air conditioning,1899900,5,4,
-51,43.7941544,-79.5268023,91 WYCLIFFE AVE,Vaughan,Ontario,L4L 3N4,Central air conditioning,1888000,4,4,
-52,43.8563707,-79.3376825,245 SOUTH UNIONVILLE AVE,Markham,Ontario,L3R 5L3,Central air conditioning,1876000,4,4,
-53,44.056258,-79.461708,347 REG HARRISON TR,Newmarket,Ontario,L3X 0M2,Central air conditioning,1868000,4,4,
-54,43.5896231,-79.6443879,5073 TERRY FOX Way,Mississauga,Ontario,L5V 1M9,Central air conditioning,1849000,3,5,
-55,43.767383,-79.411426,111 BETTY ANN DR,Toronto,Ontario,M2N 1X3,Central air conditioning,1828900,3,3,
-56,44.49409275,-79.83172283448036,37 BUDD'S MILL RD,Springwater,Ontario,L9X 0H8,Central air conditioning,1825000,3,3,
-57,44.14125,-79.395028,31 CHARLES WHITE CRT,East Gwillimbury,Ontario,L9N 0T7,Natural gas,1818000,5,4,
-58,43.7941544,-79.5268023,75 PINE RIDGE AVE,Vaughan,Ontario,L4L 2H8,Central air conditioning,1809900,4,4,
-59,45.4208777,-75.6901106,28 IRONSIDE COURT,Ottawa,Ontario,K2K 3H5,Central air conditioning,1800000,4,4,
-60,43.513671,-79.882817,1452 CONNAUGHT TERR,Milton,Ontario,L9E 0B2,Central air conditioning,1799900,5,4,
-61,44.5445701,-79.54891085886374,19 BACHLY AVE,Oro-Medonte,Ontario,L0K 1N0,Central air conditioning,1799000,3,4,
-62,43.6858146,-79.7599337,23 WHEATBERRY CRES,Brampton,Ontario,L6R 4A1,Central air conditioning,1799000,4,6,
-63,43.5896231,-79.6443879,2175 OBECK CRES,Mississauga,Ontario,L5H 3L6,Central air conditioning,1798000,3,2,
-64,43.513671,-79.882817,105 MILL ST,Milton,Ontario,L9T 1R8,Natural gas,1749900,4,2,
-65,44.056258,-79.461708,1109 GRAINGER TR,Newmarket,Ontario,L3X 0G7,Central air conditioning,1738000,4,5,
-66,43.791476,-79.408257,39 WINLOCK PARK,Toronto,Ontario,M2M 1Z1,Central air conditioning,1725000,3,2,
-67,44.68872225,-81.00872535041186,177623 GREY ROAD 18,Georgian Bluffs,Ontario,N4K 5N5,None,1725000,3,2,
-68,43.513671,-79.882817,1210 MCEACHERN CRT,Milton,Ontario,L9E 1E4,Central air conditioning,1699990,4,6,
-69,43.7941544,-79.5268023,372 GRAND TRUNK AVE,Vaughan,Ontario,L6A 0T4,Central air conditioning,1699000,4,4,
-70,44.376812,-79.470068,91 RIVEREDGE DR,Georgina,Ontario,L4P 2P2,Central air conditioning,1699000,2,2,
-71,43.738576,-79.468834,61 MURRAY RD,Toronto,Ontario,M3K 1T5,Central air conditioning,1698000,3,4,
-72,44.687267,-78.431582,192 SUMCOT DR,Galway-Cavendish and Harvey,Ontario,K0L 1J0,Central air conditioning,1690000,3,3,
-73,43.8801166,-79.4392925,6 LORWOOD CRT,Richmond Hill,Ontario,L4E 3W3,Central air conditioning,1688000,5,4,
-74,44.15537915,-80.88357696068783,522404 CONCESSION 12 NDR,West Grey,Ontario,N0G 1H0,Central air conditioning,1680000,3,2,
-75,44.1899502,-80.10235592975826,11 JEFFERY DR,Mulmur,Ontario,L9V 3H7,Central air conditioning,1675000,5,4,
-76,43.5896231,-79.6443879,6415 DONWAY DR,Mississauga,Ontario,L5V 1J4,Central air conditioning,1670000,4,3,
-77,44.375719450000005,-77.59914503994594,152A WANNAMAKER RD N,Stirling-Rawdon,Ontario,K0K 3E0,Central air conditioning,1650000,5,3,
-78,44.2963945,-77.5485522,152A WANNAMAKER Road,Stirling,Ontario,K0K 3E0,Central air conditioning,1650000,2,3,
-79,43.660438,-79.465004,296 INDIAN GRVE,Toronto,Ontario,M6P 2H5,Wall unit,1649000,3,2,
-80,43.602637,-79.506096,92 LAKE SHORE DR,Toronto,Ontario,M8V 2A2,Wall unit,1648000,5,3,
-81,43.3248924,-79.7966835,1312 ROSSEAU PL,Burlington,Ontario,L7P 3N2,Central air conditioning,1627000,4,4,
-82,43.3248924,-79.7966835,2512 BOROS RD,Burlington,Ontario,L7M 4T2,Central air conditioning,1624900,2,3,
-83,43.3248924,-79.7966835,220 PENN Drive,Burlington,Ontario,L7N 2B8,Central air conditioning,1600000,4,2,
-84,44.06798465,-77.36706195,1509 VICTORIA RD,Prince Edward County,Ontario,K0K 1A0,Central air conditioning,1599900,3,3,
-85,44.0591203,-77.4349042,1509 VICTORIA Road,Ameliasburg,Ontario,K0K 1A0,Central air conditioning,1599900,3,3,
-86,43.842903,-79.89885,20 HELDERMAN ST,Caledon,Ontario,L7C 3V2,Central air conditioning,1599900,4,4,
-87,43.8801166,-79.4392925,108 WELDRICK AVE W,Richmond Hill,Ontario,L4C 3T8,Central air conditioning,1599000,3,3,
-88,43.704081,-79.255219,82 FISHLEIGH DR,Toronto,Ontario,M1N 1H5,Natural gas,1599000,3,2,
-89,50.400255,-92.837993,21 FIRE ROUTE 28,North Kawartha Twp,Ontario,K0L 2H0,None,1595000,2,3,
-90,44.7307623,-78.14223038772805,21 FIRE ROUTE 28 RTE,North Kawartha,Ontario,K0L 2H0,Propane,1595000,3,3,
-91,43.704284,-79.587129,24 NEWLOVE CRT,Toronto,Ontario,M9W 5X5,Central air conditioning,1595000,4,4,
-92,43.513671,-79.882817,159 BELMORE CRT,Milton,Ontario,L9E 1H5,Central air conditioning,1590000,5,5,
-93,42.2450635,-83.0606534,1100 LAURIER AVENUE,LaSalle,Ontario,N9J 1N3,Central air conditioning,1589000,5,4,
-94,43.87982,-78.9421751,22 YVETTE ST,Whitby,Ontario,L1P 0G8,Central air conditioning,1579000,4,4,
-95,43.225693,-79.976692,178 ORCHARD Drive,Ancaster,Ontario,L9G 1Z9,Central air conditioning,1574888,4,3,
-96,43.513671,-79.882817,957 KELMAN CRT,Milton,Ontario,L9T 2Y4,Central air conditioning,1549000,4,4,
-97,43.9595998,-78.1677784,4 MCCARTY DR,Cobourg,Ontario,K9A 0K5,Central air conditioning,1525000,4,3,
-98,44.9618052,-76.9845528,1014 CROWS FOOT Lane,Plevna,Ontario,K0H 2M0,None,1499900,6,2,
-99,43.2560802,-79.8728583,LOT 8 KLEIN CIRC,Hamilton,Ontario,L9G 3K9,Natural gas,1499900,4,3,
-100,42.0378963,-82.7396606,27 EMILY,Kingsville,Ontario,N9Y 0C7,Central air conditioning,1499900,4,4,
-101,43.225693,-79.976692,Lot 8 Klein Circle,Ancaster,Ontario,L9G 3K9,Air exchanger,1499900,4,3,
-102,44.26392895,-79.4800355,216 BOYERS RD,Georgina,Ontario,L4P 3C8,Central air conditioning,1499000,2,3,
-103,43.835765,-79.090576,401 WOODGRANGE AVE,Pickering,Ontario,L1W 2B4,Central air conditioning,1499000,3,4,
-104,44.11697,-79.497616,52 PRUNELLA CRES,East Gwillimbury,Ontario,L9N 0S7,Central air conditioning,1498888,4,4,
-105,43.8563707,-79.3376825,24 CRANDALL DR,Markham,Ontario,L3P 6H6,Central air conditioning,1498000,4,3,
-106,42.28382,-82.997089,1001 Chateau,Windsor,Ontario,N8P 0E6,Central air conditioning,1475000,4,3,
-107,43.2560802,-79.8728583,75 ARROWHEAD DR,Hamilton,Ontario,L8W 3X2,Central air conditioning,1469000,4,4,
-108,45.4208777,-75.6901106,2150 RUSSELL ROAD,Ottawa,Ontario,K1G 1B3,Central air conditioning,1459000,4,5,
-109,42.896365,-79.357884,11267 HARBOURVIEW RD,Wainfleet,Ontario,L3K 5V4,Central air conditioning,1450000,3,3,
-110,42.896365,-79.357884,11267 Harbourview Road,Wainfleet,Ontario,L3K 5V4,Central air conditioning,1450000,3,3,
-111,43.2560802,-79.8728583,827 6TH CONCESSION RD W,Hamilton,Ontario,L8B 1N3,Wall unit,1449000,4,3,
-112,44.11697,-79.497616,105 BEN SINCLAIR AVE,East Gwillimbury,Ontario,L9N 0S3,Central air conditioning,1449000,4,4,
-113,43.721307,-79.452785,31 SPARROW AVE,Toronto,Ontario,M6A 1L5,Central air conditioning,1449000,3,2,
-114,43.33583,-80.06361,827 6th Concession Road W,Flamborough,Ontario,L8B 1N3,Wall unit,1449000,5,3,
-115,43.2560802,-79.8728583,16B KLEN CIRC,Hamilton,Ontario,L9G 3K9,Natural gas,1429900,4,3,
-116,43.2560802,-79.8728583,16B Klein Circle,Hamilton,Ontario,L9G 3K9,Natural gas,1429900,4,3,
-117,44.3893113,-79.6901736,24 HOLLY MEADOW RD,Barrie,Ontario,L4N 8S2,Central air conditioning,1425000,4,5,
-118,43.3248924,-79.7966835,1963 FOUR SEASONS DR,Burlington,Ontario,L7P 2Y2,Central air conditioning,1400000,4,4,
-119,43.3248924,-79.7966835,1963 Four Seasons Drive,Burlington,Ontario,L7P 2Y2,Central air conditioning,1400000,4,3,
-120,43.513671,-79.882817,1580 SORENSEN CRT,Milton,Ontario,L9E 1G8,Central air conditioning,1399999,4,4,
-121,43.646081,-79.576748,17 RICHLAND CRES,Toronto,Ontario,M9C 4C1,Central air conditioning,1399999,3,2,
-122,43.713895,-79.486737,4 BOURDON AVE,Toronto,Ontario,M6L 2V6,Central air conditioning,1399900,3,3,
-123,45.4208777,-75.6901106,28 GWYNNE AVENUE,Ottawa,Ontario,K1Y 1W9,Central air conditioning,1399900,5,1,
-124,44.5027226,-80.2172379,51 TRACEY LANE,Collingwood,Ontario,L9Y 3L7,Central air conditioning,1399900,4,3,
-125,43.447436,-79.666672,2423 HOLLYBROOK DR,Oakville,Ontario,L6M 4W7,Central air conditioning,1399800,4,4,
-126,43.7941544,-79.5268023,41 REINDEER CRES,Vaughan,Ontario,L4H 2E9,Central air conditioning,1399000,4,5,
-127,43.665276,-79.438009,12 SOMERSET AVE,Toronto,Ontario,M6H 2R4,Central air conditioning,1399000,3,3,
-128,43.6858146,-79.7599337,103 COOKVIEW  DR,Brampton,Ontario,L6R 3T9,Central air conditioning,1399000,4,5,
-129,43.2167526,-79.7567616,252 WESTBANK Trail,Stoney Creek,Ontario,L8K 5R9,Central air conditioning,1399000,4,4,
-130,43.99973,-79.467545,36 BROOKLAND AVE,Aurora,Ontario,L4G 2H8,Central air conditioning,1398888,3,2,
-131,43.2560802,-79.8728583,158 STILLWATER CRES,Hamilton,Ontario,L8B 1V5,Central air conditioning,1398000,4,4,
-132,43.8563707,-79.3376825,11 CATHEDRAL HIGH ST,Markham,Ontario,L6C 0N9,Central air conditioning,1390000,3,3,
-133,43.783573,-79.146172,62 HAVILAND DR,Toronto,Ontario,M1C 2T8,Central air conditioning,1388900,4,4,
-134,43.8801166,-79.4392925,9 VERSAILLES CRT,Richmond Hill,Ontario,L4C 8V5,Central air conditioning,1388888,4,4,
-135,43.3248924,-79.7966835,2260 MIDDLESMOOR CRES,Burlington,Ontario,L7P 3X6,Central air conditioning,1379900,3,3,
-136,43.3248924,-79.7966835,2260 Middlesmoor Crescent,Burlington,ON,L7P 3X6,Yes,1379900,4,3,
-137,43.646081,-79.576748,9 BOREAL RD,Toronto,Ontario,M9C 2E9,Wall unit,1378000,3,3,
-138,43.816244,-79.851035,15851 AIRPORT  RD,Caledon,Ontario,L7C 1J3,Central air conditioning,1375000,4,3,
-139,44.3150892,-79.5461073,1464 TOMKINS RD,Innisfil,Ontario,L9S 0M8,Central air conditioning,1369000,4,4,
-140,44.078473,-80.203431,511 WANSBROUGH WAY,Shelburne,Ontario,L0N 1S4,Central air conditioning,1350000,7,5,
-141,44.3893113,-79.6901736,152 OWEN ST,Barrie,Ontario,L4M 3H9,Central air conditioning,1350000,3,3,
-142,43.77506,-80.070076,9360 WELLINGTON 124 N0B RD,Erin,Ontario,N0B 1T0,Central air conditioning,1350000,3,2,
-143,43.5896231,-79.6443879,4036 FARNSWORTH CRES,Mississauga,Ontario,L5L 3Z3,Central air conditioning,1350000,4,4,
-144,43.2560802,-79.8728583,15 KEYSTONE Crescent,Hamilton,Ontario,L0R 1P0,Central air conditioning,1350000,5,3,
-145,43.793231,-79.263929,27 STUBBSWOOD SQ,Toronto,Ontario,M1S 2K7,Central air conditioning,1350000,4,3,
-146,43.2560802,-79.8728583,15 KEYSTONE CRES,Hamilton,Ontario,L0R 1P0,Central air conditioning,1350000,5,3,
-147,44.056258,-79.461708,1093 WILDWOOD DR,Newmarket,Ontario,L3Y 2B6,Central air conditioning,1349900,4,3,
-148,43.2560802,-79.8728583,17B KLEIN CIRC,Hamilton,Ontario,L9G 3K9,Natural gas,1349900,4,3,
-149,43.225693,-79.976692,17B Klein Circle,Ancaster,Ontario,L9G 3K9,Natural gas,1349900,4,4,
-150,43.96868585,-78.65135738273909,34 COLVILLE AVE,Clarington,Ontario,L1C 0H7,Central air conditioning,1349000,4,4,
-151,44.3048009,-78.3199496,1209 SCOLLARD DR,Peterborough,Ontario,K9H 0A7,Central air conditioning,1349000,4,4,
-152,43.8801166,-79.4392925,234 TAMPICO RD,Richmond Hill,Ontario,L4C 4R7,Natural gas,1348000,3,2,
-153,43.5460516,-80.2493276,82 ERAMOSA RD,Guelph,Ontario,N1E 2L6,Natural gas,1344900,5,4,
-154,43.3248924,-79.7966835,1419 OLGA DR,Burlington,Ontario,L7S 1L1,Central air conditioning,1299999,3,2,
-155,43.3248924,-79.7966835,1419 OLGA Drive,Burlington,Ontario,L7S 1L1,Central air conditioning,1299999,3,2,
-156,43.713895,-79.486737,355 CULFORD RD,Toronto,Ontario,M6L 2V8,Central air conditioning,1299999,2,3,
-157,43.5460516,-80.2493276,15 WILTSHIRE PL,Guelph,Ontario,N1H 8B1,Central air conditioning,1299995,3,3,
-158,44.056258,-79.461708,101 FOREST GLEN RD,Newmarket,Ontario,L3Y 4N4,Central air conditioning,1299900,3,3,
-159,42.0378963,-82.7396606,10 GREGORY AVENUE,Kingsville,Ontario,N9Y 0C7,Central air conditioning,1299900,3,3,
-160,42.6888079,-80.3292017,11 RESERVE Street,Turkey Point,Ontario,N0E 1T0,Central air conditioning,1299900,4,2,
-161,44.49409275,-79.83172283448036,8 ALEXANDER ST,Springwater,Ontario,L0G 1W0,Natural gas,1299000,3,2,
-162,43.5896231,-79.6443879,3142 ORLEANS RD,Mississauga,Ontario,L5L 5L4,Central air conditioning,1299000,4,4,
-163,43.7941544,-79.5268023,94 VELIA CRT,Vaughan,Ontario,L4H 4S5,Central air conditioning,1299000,4,4,
-164,43.68928,-79.430898,181 Cedric Ave,Toronto,ON,M6C 3X7,No,1299000,3,3,
-165,43.6858146,-79.7599337,3 FEEDER ST,Brampton,Ontario,L7A 4T7,Central air conditioning,1295000,4,4,
-166,43.4652699,-80.5222961,616 SEAWIND TR,Waterloo,Ontario,N2K 4G4,Central air conditioning,1295000,3,2,
-167,43.8975558,-78.8635324,1898 RIVERTON CRT,Oshawa,Ontario,L1K 0P2,Central air conditioning,1290000,4,4,
-168,43.738576,-79.468834,45 FREDERICK TISDALE DR,Toronto,Ontario,M3K 0C4,Central air conditioning,1289000,5,4,
-169,43.2560802,-79.8728583,130 LOWDEN Avenue,Hamilton,Ontario,L9G 3A3,Central air conditioning,1289000,3,2,
-170,44.056258,-79.461708,549 MCBEAN AVE,Newmarket,Ontario,L3X 2N5,Central air conditioning,1288000,3,3,
-171,44.014469,-79.323704,15 ROSS SHINER LANE,Whitchurch-Stouffville,Ontario,L4A 0V5,Central air conditioning,1279000,4,4,
-172,43.8801166,-79.4392925,2 HUGHES ST,Richmond Hill,Ontario,L4E 2V9,Central air conditioning,1279000,3,3,
-173,43.2167526,-79.7567616,3 Trillium Avenue,Stoney Creek,Ontario,L8E 5E1,Central air conditioning,1250000,3,4,
-174,43.1249127,-79.2005935,31 PALACE Street,Thorold,Ontario,L2V 3P4,Central air conditioning,1250000,4,5,
-175,43.5665497,-80.49951537867625,55 PINTAIL DR,Woolwich,Ontario,N3B 3G8,Central air conditioning,1250000,3,4,
-176,43.1579812,-79.2441003,594 NIAGARA Street,St. Catharines,Ontario,L2M 3P7,Central air conditioning,1250000,4,3,
-177,43.5896231,-79.6443879,1481 LEWISHAM DR,Mississauga,Ontario,L5J 3R2,Central air conditioning,1250000,3,4,
-178,43.835765,-79.090576,1366 ROUGEMOUNT DR,Pickering,Ontario,L1V 1N1,Central air conditioning,1250000,4,3,
-180,44.088083,-79.775724,105 RIDGE WAY,New Tecumseth,Ontario,L9R 0M6,Central air conditioning,1250000,2,3,
-181,43.6858146,-79.7599337,30 SPENCER DR,Brampton,Ontario,L7A 2A4,Central air conditioning,1249999,4,4,
-182,44.2344356,-79.8063686586334,170 BROWNLEY LANE,Essa,Ontario,L0M 1B6,Central air conditioning,1249900,4,5,
-183,44.3893113,-79.6901736,15 MAGNA CARTA  RD,Barrie,Ontario,L4M 7H9,Central air conditioning,1249240,4,4,
-184,44.7546878,-79.51491635139335,1369 RYERSON BLVD,Severn,Ontario,L3V 0X2,Natural gas,1249000,4,5,
-185,43.9193171,-80.0973754,2 FRONT ST N,Orangeville,Ontario,L9W 1M5,Central air conditioning,1249000,2,1,
-186,43.2560802,-79.8728583,124 CLINE AVE N,Hamilton,Ontario,L8S 3Z8,Window air conditioner,1249000,4,3,
-187,43.2560802,-79.8728583,124 Cline Avenue N,Hamilton,Ontario,L8S 3Z8,"Electric, Natural gas",1249000,3,3,
-188,43.8801166,-79.4392925,385 ALLGOOD ST,Richmond Hill,Ontario,L4C 2Z1,Central air conditioning,1238880,3,2,
-189,45.4208777,-75.6901106,37 QUARRY RIDGE DRIVE,Ottawa,Ontario,K1C 7S1,Central air conditioning,1235000,4,5,
-190,43.5896231,-79.6443879,6423 DUNRAY CRT,Mississauga,Ontario,L5N 1E7,Central air conditioning,1200000,3,2,
-191,43.6858146,-79.7599337,21 MORTON WAY,Brampton,Ontario,L6Y 2R6,Central air conditioning,1199999,4,4,
-192,42.0531166,-82.5996998,1134 MERSEA RD 6,Leamington,Ontario,N8H 3V8,Central air conditioning,1199900,3,3,
-193,43.3248924,-79.7966835,469 NELSON Avenue,Burlington,Ontario,L7S 1N4,Central air conditioning,1199900,2,2,
-194,43.5460516,-80.2493276,27 WHETSTONE CRES,Guelph,Ontario,N1L 1T3,Central air conditioning,1199900,4,3,
-195,43.073558,-79.950127,1417 McKenzie Road,Caledonia,Ontario,N3W 2B9,Central air conditioning,1199900,4,2,
-196,42.3167397,-83.0373389,1534 CLEARWATER,Windsor,Ontario,,Natural gas,1199900,5,4,
-197,43.8801166,-79.4392925,115 CROSBY AVE,Richmond Hill,Ontario,L4C 2R3,Central air conditioning,1199900,3,4,
-198,43.6858146,-79.7599337,14 TRUFFLE CRT,Brampton,Ontario,L7A 5A6,Central air conditioning,1199900,4,3,
-199,43.728584,-79.490851,24 RENSHAW ST,Toronto,Ontario,M3M 2C8,Central air conditioning,1199888,3,3,
-200,43.8975558,-78.8635324,182 BLACKWELL CRES,Oshawa,Ontario,L1L 0C9,Central air conditioning,1199000,4,4,
-201,43.33583,-80.06361,1419 Governors Road,Flamborough,Ontario,L9H 5E3,Central air conditioning,1199000,3,3,
-202,44.83187403333333,-79.7367417,621 SWEETS PORTAGE  RD,Georgian Bay,Ontario,L0K 1S0,Wall unit,1199000,2,2,
-203,43.2560802,-79.8728583,1419 GOVERNORS RD,Hamilton,Ontario,L9H 5E3,Central air conditioning,1199000,3,3,
-204,43.87982,-78.9421751,1 ROBINSON CRES W,Whitby,Ontario,L1N 6W6,Central air conditioning,1199000,4,4,
-205,43.5896231,-79.6443879,7230 TORRISDALE LANE,Mississauga,Ontario,L5N 7Y8,Central air conditioning,1199000,3,4,
-206,43.6858146,-79.7599337,5 GOLDIE AVE,Brampton,Ontario,L7A 2C7,Central air conditioning,1199000,3,4,
-207,43.8801166,-79.4392925,9091 YONGE ST,Richmond Hill,Ontario,L4C 0L2,Central air conditioning,1198000,3,3,
-208,45.4208777,-75.6901106,879 PERCIVAL CRESCENT,Ottawa,Ontario,K4M 1J8,Central air conditioning,1190000,5,4,
-209,44.5224813,-80.0203156,245 OLD MOSLEY ST,Wasaga Beach,Ontario,L9Z 2H8,Central air conditioning,1190000,2,2,
-210,43.8801166,-79.4392925,52 MARTINI DR,Richmond Hill,Ontario,L4S 2T7,Central air conditioning,1188800,4,4,
-211,43.3248924,-79.7966835,4445 ROGERS Road,Burlington,Ontario,L7L 1S2,Central air conditioning,1185000,3,2,
-212,43.6858146,-79.7599337,68 JILL CRES,Brampton,Ontario,L6S 3J2,Central air conditioning,1185000,4,3,
-213,43.5896231,-79.6443879,5837 RAINBERRY DR,Mississauga,Ontario,L5M 6S2,Central air conditioning,1179000,3,4,
-214,43.7941544,-79.5268023,46 BEAUMONT PL,Vaughan,Ontario,L4J 4W8,Central air conditioning,1179000,3,3,
-215,43.5896231,-79.6443879,4361 SAWMILL VALLEY DR,Mississauga,Ontario,L5L 3L3,Central air conditioning,1178888,3,3,
-216,43.2560802,-79.8728583,245 KINSMAN DR,Hamilton,Ontario,L0R 1C0,Central air conditioning,1174900,4,3,
-217,44.3893113,-79.6901736,15 GRAND FOREST DR,Barrie,Ontario,L4N 7E7,Central air conditioning,1159900,4,3,
-218,44.5053083,-77.4726069,2183 COOPER Road,Madoc,Ontario,K0K 2K0,Central air conditioning,1150000,3,2,
-219,44.14125,-79.395028,19 VIOLA ST,East Gwillimbury,Ontario,L9N 0T6,Central air conditioning,1150000,3,3,
-220,43.1579812,-79.2441003,54 MERRITT Street,St. Catharines,Ontario,L2T 1J5,Natural gas,1150000,4,3,
-221,43.121034,-79.804001,2020 Corlis Road,Binbrook,Ontario,L0R 1C0,Central air conditioning,1149900,3,2,
-222,44.118081,-79.618447,5 TRAILSIDE DR,Bradford West Gwillimbury,Ontario,L3Z 0B5,Central air conditioning,1149900,4,3,
-223,43.690678,-79.313802,188 OAK PARK AVE,Toronto,Ontario,M4C 4M8,Central air conditioning,1149000,3,2,
-224,43.1408157,-80.2631733,3 BEE CRES,Brantford,Ontario,N3T 0V7,Central air conditioning,1129000,4,4,
-225,43.513671,-79.882817,191 FEATHERSTONE RD,Milton,Ontario,L9T 6B8,Central air conditioning,1125000,3,4,
-226,44.014469,-79.323704,55 MILT STOREY LANE,Whitchurch-Stouffville,Ontario,L4A 1Y4,Central air conditioning,1120000,3,3,
-227,43.1931661,-79.560677,66 CASABLANCA Boulevard,Grimsby,Ontario,L3M 4S7,Central air conditioning,1115000,3,4,
-228,45.3691913,-75.4561543,6247 RUSSELL ROAD,Carlsbad Springs,Ontario,K0A 1K0,None,1100000,4,1,
-229,44.3596825,-78.7421729,11 TRENT VIEW RD,Kawartha Lakes,Ontario,K0M 2B0,Central air conditioning,1100000,2,3,
-230,43.740315,-79.538435,28 PETERSON DR,Toronto,Ontario,M9M 1X1,Central air conditioning,1099999,4,3,
-231,43.6858146,-79.7599337,6 ROWLAND ST,Brampton,Ontario,L7A 1P6,Central air conditioning,1099900,3,3,
-232,43.3314156,-79.8956803,121 Borers Creek Circle,Waterdown,Ontario,L8B 1W3,Central air conditioning,1099900,4,3,
-233,43.2560802,-79.8728583,121 BORERS CREEK CIRC,Hamilton,Ontario,L8B 1W3,Central air conditioning,1099900,4,4,
-234,43.2167526,-79.7567616,4 Azalea Court,Stoney Creek,Ontario,L8J 1K4,Central air conditioning,1099900,4,4,
-235,43.447436,-79.666672,2356 BARONWOOD ST,Oakville,Ontario,L6M 0J8,Central air conditioning,1099900,3,4,
-236,43.2560802,-79.8728583,604 Eaglewood Drive,Hamilton,Ontario,L8W 3J8,Central air conditioning,1099900,5,3,
-237,43.2560802,-79.8728583,37 MEAGHAN  ST,Hamilton,Ontario,L8B 0H5,Central air conditioning,1099900,3,3,
-238,43.3314156,-79.8956803,37 Meaghan Street,Waterdown,Ontario,L8B 0H5,Central air conditioning,1099900,3,3,
-239,43.2560802,-79.8728583,604 EAGLEWOOD DR,Hamilton,Ontario,L8W 3J8,Central air conditioning,1099900,5,3,
-240,43.766199,-79.18128,6 AVONMORE SQ S,Toronto,Ontario,M1E 1C9,Central air conditioning,1099800,3,4,
-241,43.6858146,-79.7599337,14 UPPER HIGHLANDS DR,Brampton,Ontario,L6Z 4W1,Central air conditioning,1099000,3,4,
-242,43.687783,-79.450978,34 ALLENVALE AVE,Toronto,Ontario,M6E 2A6,Natural gas,1099000,3,3,
-243,43.816244,-79.851035,10 GLASSON LANE,Caledon,Ontario,L7C 2E9,Central air conditioning,1099000,4,3,
-244,45.4208777,-75.6901106,606 BRIDGEPORT AVENUE,Ottawa,Ontario,K4M 0N1,Central air conditioning,1099000,4,3,
-245,44.5027226,-80.2172379,100 MCLEAN AVE,Collingwood,Ontario,L9Y 4B6,Central air conditioning,1099000,4,3,
-246,44.3150892,-79.5461073,1073 BELLE AIRE BEACH RD,Innisfil,Ontario,L0L 1C0,Central air conditioning,1098800,3,3,
-247,44.151443,-79.852153,79 HUTCHINSON DR,New Tecumseth,Ontario,L9R 1M3,Central air conditioning,1098000,4,4,
-248,43.17354975,-79.41600688766434,4224 TAYLOR CRT,Lincoln,Ontario,L3J 0J9,Central air conditioning,1075000,4,4,
-249,43.17354975,-79.41600688766434,4224 Taylor Court,Lincoln,Ontario,L3J 0J9,Central air conditioning,1075000,4,4,
-250,43.3248924,-79.7966835,643 Blue Forest Hill,Burlington,Ontario,L7L 4H4,Central air conditioning,1070000,3,2,
-251,43.3248924,-79.7966835,643 BLUE FOREST HILL,Burlington,Ontario,L7L 4H4,Central air conditioning,1070000,3,2,
-252,44.49409275,-79.83172283448036,38 FINLAY MILL RD,Springwater,Ontario,L9X 0N9,Central air conditioning,1050000,2,2,
-253,44.088083,-79.775724,79 KENNEDY BLVD,New Tecumseth,Ontario,L9R 0T3,Central air conditioning,1049000,4,3,
-254,44.118081,-79.618447,104 FRED COOK DR,Bradford West Gwillimbury,Ontario,L3Z 1V2,Central air conditioning,1025000,3,3,
-255,44.014469,-79.323704,16626 HIGHWAY 48,Whitchurch-Stouffville,Ontario,L4A 3M6,Electric,999999,2,1,
-256,43.2560802,-79.8728583,10 SANDRINGHAM AVE,Hamilton,Ontario,L9C 2H4,Central air conditioning,999999,3,3,
-257,43.6858146,-79.7599337,14 ROYAL PALM DR W,Brampton,Ontario,L6Z 1P5,Central air conditioning,999999,4,2,
-258,42.9922181,-79.2484192,17 MONARCH ST,Welland,Ontario,L3C 0E6,Central air conditioning,999999,4,3,
-259,43.3248924,-79.7966835,907 CLOVERLEAF DR,Burlington,Ontario,L7T 3Y8,Central air conditioning,999999,2,2,
-260,43.9193171,-80.0973754,17 HURONTARIO ST,Orangeville,Ontario,L9W 1Y9,Central air conditioning,999998,3,2,
-261,43.451291,-80.4927815,48 ISAIAH DR,Kitchener,Ontario,N2E 0B2,Central air conditioning,999998,3,3,
-262,43.9193171,-80.0973754,17 HURONTARIO Street,Orangeville,Ontario,L9W 1Y9,Central air conditioning,999998,3,0,
-263,43.2560802,-79.8728583,316 HOUGHTON Avenue S,Hamilton,Ontario,L8K 2N3,Central air conditioning,999990,4,4,
-264,43.2560802,-79.8728583,316 HOUGHTON AVE S,Hamilton,Ontario,L8K 2N3,Central air conditioning,999990,4,4,
-265,44.3893113,-79.6901736,32 WILDWOOD TR,Barrie,Ontario,L4N 7Z4,Central air conditioning,999900,2,3,
-266,42.835192,-79.9312019,443 Cheapside Road,Selkirk,Ontario,N0A 1P0,Central air conditioning,999900,4,3,
-267,45.4208777,-75.6901106,400 GOLDEN SPRINGS DRIVE,Ottawa,Ontario,K4M 0B8,Central air conditioning,999900,4,4,
-268,43.3600536,-80.3123023,57 CAMBRIDGE Street,Cambridge,Ontario,N1R 3R8,Central air conditioning,999900,4,3,
-269,43.8505287,-79.0208814,39 FARROW CRES,Ajax,Ontario,L1S 4W7,Central air conditioning,999900,4,3,
-270,43.1408157,-80.2631733,LOT #16 DENNIS ST,Brantford,Ontario,,Central air conditioning,999900,4,3,
-271,43.10506117272728,-79.56924241818182,7 GATEWAY AVE,West Lincoln,Ontario,L0R 2A0,Central air conditioning,999900,3,3,
-272,43.6858146,-79.7599337,46 PURPLE SAGE DR,Brampton,Ontario,L6P 4N9,Central air conditioning,999900,4,5,
-273,43.09879,-79.5463593,7 Gateway Avenue,Smithville,Ontario,L0R 2A0,"Air exchanger, Central air conditioning",999900,3,3,
-274,43.6858146,-79.7599337,42 BLACKTHORN LANE,Brampton,Ontario,L6V 3K8,Central air conditioning,999900,3,2,
-275,43.8563707,-79.3376825,13 KINGSLEY RD,Markham,Ontario,L3R 5X7,Central air conditioning,999900,3,4,
-276,42.959033,-81.235184,2606 BATEMAN TR,London,Ontario,N6L 0B1,Central air conditioning,999900,4,5,
-277,43.5896231,-79.6443879,5938 SHELFORD TERR,Mississauga,Ontario,L5M 6K3,Central air conditioning,999900,3,3,
-278,44.0711837,-81.5755462,33 FINLAY Street,Ripley,Ontario,N0G 2R0,Central air conditioning,999900,3,3,
-279,43.8563707,-79.3376825,26 HOLLOWAY RD,Markham,Ontario,L3S 4P4,Central air conditioning,999888,3,4,
-280,43.751725,-79.299967,19 LYNVALLEY CRES,Toronto,Ontario,M1R 2V1,Central air conditioning,999800,3,2,
-281,44.263277,-76.524396,241 MANN DR,Kingston,Ontario,K7L 0G2,Central air conditioning,999000,3,3,
-282,43.6858146,-79.7599337,25 GOULSTON ST,Brampton,Ontario,L7A 5C2,Central air conditioning,999000,4,3,
-283,43.8563707,-79.3376825,24 PENFIELD DR,Markham,Ontario,L3S 4C9,Central air conditioning,999000,3,4,
-284,43.6858146,-79.7599337,24 ROCKY POINT CRES,Brampton,Ontario,L6V 4R7,Central air conditioning,999000,3,3,
-285,44.034908,-79.2686144,13652 NINTH LINE,Whitchurch-Stouffville,Ontario,L4A 7X3,Central air conditioning,999000,3,2,
-286,43.6858146,-79.7599337,1 HETHERINGTON PL,Brampton,Ontario,L6S 5M6,Central air conditioning,999000,4,4,
-287,43.447436,-79.666672,258 ELLEN DAVIDSON DR,Oakville,Ontario,L6M 0V2,Central air conditioning,998000,4,4,
-288,43.727586,-79.517186,90 ODOARDO DI SANTO CIRC,Toronto,Ontario,M3L 0E8,Central air conditioning,995000,4,4,
-289,43.801685,-79.32186,42 HUNTINGWOOD DR,Toronto,Ontario,M1W 1A3,Central air conditioning,990000,3,3,
-290,43.740315,-79.538435,137 ARDWICK BLVD,Toronto,Ontario,M9M 1W3,Central air conditioning,990000,3,3,
-291,44.5445701,-79.54891085886374,15 PINE RIDGE TR,Oro-Medonte,Ontario,L4M 4Y8,Central air conditioning,989900,3,3,
-292,44.11697,-79.497616,102 MONDIAL CRES,East Gwillimbury,Ontario,L9N 0S2,Central air conditioning,988888,4,4,
-293,44.14125,-79.395028,174 SILK TWIST DR,East Gwillimbury,Ontario,L9N 0V6,Central air conditioning,988000,4,3,
-294,43.513671,-79.882817,162 WATERS BLVD,Milton,Ontario,L9T 6K6,Central air conditioning,979900,3,3,
-295,43.447436,-79.666672,2006 GLENADA CRES,Oakville,Ontario,L6H 5R9,Central air conditioning,979000,3,4,
-296,43.513671,-79.882817,#42 -165 HAMPSHIRE WAY,Milton,Ontario,L9T 8M7,Central air conditioning,975000,3,3,
-297,44.3893113,-79.6901736,104 ARTHUR AVE,Barrie,Ontario,L4M 6H6,Central air conditioning,969900,2,3,
-298,43.5964593,-80.2567182345291,8397 WELLINGTON RD RD,Guelph/Eramosa,Ontario,N0B 2K0,Central air conditioning,950000,3,2,
-299,42.2450635,-83.0606534,5848 BAGLEY AVENUE,LaSalle,Ontario,N9H 1P1,Central air conditioning,949900,4,3,
-300,43.96868585,-78.65135738273909,155 TAMBLYN RD,Clarington,Ontario,L1C 3A6,Central air conditioning,949900,3,2,
-301,43.87982,-78.9421751,89 FERNBANK PL,Whitby,Ontario,L1R 1T2,Central air conditioning,949900,3,4,
-302,43.621861,-79.943877,11 SPRUCE BLVD,Halton Hills,Ontario,L7J 2Y3,Central air conditioning,949000,3,2,
-303,44.3048009,-78.3199496,730 WHETSTONE LANE,Peterborough,Ontario,,Central air conditioning,949000,3,4,
-304,43.87982,-78.9421751,48 ELKINGTON CRES N,Whitby,Ontario,L1P 0L7,Central air conditioning,949000,3,3,
-305,43.8801166,-79.4392925,#267 -23 OBSERVATORY LANE,Richmond Hill,Ontario,L4C 0M7,Central air conditioning,949000,3,3,
-306,43.3600536,-80.3123023,LOT 14 HONEY ST N,Cambridge,Ontario,N1T 0B7,Central air conditioning,949000,4,2,
-307,44.3893113,-79.6901736,11 SANDALWOOD CRT,Barrie,Ontario,L4N 0G8,Central air conditioning,949000,3,3,
-309,44.3893113,-79.6901736,59 BIRCHWOOD DR,Barrie,Ontario,L4M 6X7,Central air conditioning,939000,4,3,
-310,43.5460516,-80.2493276,22 SUZANNA DR,Guelph,Ontario,N1K 1K7,Wall unit,939000,3,4,
-311,43.87982,-78.9421751,6 BOVEY ST,Whitby,Ontario,L1P 0M6,Central air conditioning,934990,3,3,
-312,43.6858146,-79.7599337,28 PLUM HOLLOW CRT,Brampton,Ontario,L6R 2T5,Central air conditioning,930000,3,3,
-313,42.91308,-78.918611,PART 1 PARK  ST,Fort Erie,Ontario,,Central air conditioning,929999,4,3,
-314,45.4208777,-75.6901106,1 GALENA Court,Ottawa,ON,K2S 1Z3,Natural Gas,929900,2,3,
-315,43.621861,-79.943877,51 RAYLAWN CRES,Halton Hills,Ontario,L7G 4M6,Central air conditioning,929000,3,2,
-316,45.4208777,-75.6901106,124 PRETORIA AVENUE,Ottawa,Ontario,K1S 1W9,Central air conditioning,929000,2,2,
-317,43.2560802,-79.8728583,542 HUGHSON  ST N,Hamilton,Ontario,L8L 4N9,Central air conditioning,925000,2,2,
-318,43.2556116,-79.0723264,113 HOMESTEAD DR,Niagara-on-the-Lake,Ontario,L0S 1T0,Central air conditioning,925000,3,3,
-319,43.2560802,-79.8728583,133 EASTBOURNE AVE E,Hamilton,Ontario,L8M 2M9,Central air conditioning,924888,4,3,
-320,42.8844706,-80.1139414,Mckeen - 26 MCKEEN Street,Jarvis,Ontario,N0A 1J0,Central air conditioning,914988,4,4,
-321,43.724686,-79.313559,19 WARNER AVE E,Toronto,Ontario,M4A 2X1,Central air conditioning,899999,3,3,
-322,44.3596825,-78.7421729,57 TITAN  RD,Kawartha Lakes,Ontario,K0M 1N0,Window air conditioner,899999,6,3,
-323,43.6858146,-79.7599337,32 TWIN WILLOW CRES,Brampton,Ontario,L7A 1K1,Central air conditioning,899900,3,3,
-324,43.3248924,-79.7966835,#37 -1095 COOKE BLVD,Burlington,Ontario,L7T 0C3,Central air conditioning,899900,2,3,
-325,44.4775884,-81.1462111,64 CHESTNUT HILL Crescent,Tara,Ontario,N0H 2N0,Central air conditioning,899900,3,3,
-326,43.96868585,-78.65135738273909,43 PURDY PL,Clarington,Ontario,,Central air conditioning,899900,3,3,
-327,42.2450635,-83.0606534,1299 OUTRAM AVENUE,LaSalle,Ontario,N9J 3S1,Central air conditioning,899299,4,3,
-328,43.8563707,-79.3376825,5299 MAJOR MACKENZIE DR E,Markham,Ontario,L6C 0N3,Central air conditioning,899000,3,3,
-329,43.6858146,-79.7599337,32 DONALD FICHT  CRES,Brampton,Ontario,,Central air conditioning,899000,3,3,
-330,44.5027226,-80.2172379,19 KERR ST,Collingwood,Ontario,L9Y 4B6,Natural gas,899000,3,3,
-331,44.5027226,-80.2172379,19 Kerr Street,Collingwood,Ontario,L9Y 4B6,Central air conditioning,899000,3,3,
-332,45.19764103571429,-79.40957233571429,#16 -1326 WINDERMERE RD,Muskoka Lakes,Ontario,P0B 1M0,Yes,899000,3,1,
-333,44.4764863,-77.3119649,2718 MARLBANK Road,Tweed,Ontario,K0K 3J0,Central air conditioning,899000,2,2,
-334,43.8975558,-78.8635324,1083 RIDGEMOUNT BLVD,Oshawa,Ontario,L1K 2K8,Central air conditioning,899000,2,3,
-335,43.451291,-80.4927815,328 WATERVALE CRES,Kitchener,Ontario,N2A 0G1,Central air conditioning,899000,3,4,
-336,42.0378963,-82.7396606,168 WOODYCREST AVENUE,Kingsville,Ontario,N9Y 0A4,Central air conditioning,899000,3,2,
-337,43.1408157,-80.2631733,7 OLIVER CRT,Brantford,Ontario,N3T 6N6,Central air conditioning,899000,3,2,
-338,44.2344356,-79.8063686586334,5759 SCOTCH LINE W,Essa,Ontario,L9R 1V2,Oil,899000,4,1,
-339,43.1408157,-80.2631733,22 AMOS AVE,Brantford,Ontario,N3T 0S2,Central air conditioning,899000,4,3,
-340,45.4208777,-75.6901106,50 ALLANFORD AVENUE,Ottawa,Ontario,K1T 3Z6,Central air conditioning,899000,4,4,
-341,43.87982,-78.9421751,95 RICE DR,Whitby,Ontario,L1N 7Y3,Central air conditioning,899000,3,4,
-342,44.4764863,-77.3119649,2718 MARLBANK RD,Tweed,Ontario,K0K 3J0,Central air conditioning,899000,2,2,
-343,43.697054,-79.486213,167 KANE AVE,Toronto,Ontario,M6M 3N4,Central air conditioning,895000,3,2,
-344,43.676479,-79.481669,154 PRITCHARD AVE,Toronto,Ontario,M6N 1T8,Wall unit,895000,1,2,
-345,44.118081,-79.618447,37 LUISA ST,Bradford West Gwillimbury,Ontario,L3Z 0P2,Central air conditioning,894800,3,4,
-346,43.741433,-79.590509,9 WALLIS CRES,Toronto,Ontario,M9V 4K2,Central air conditioning,890000,3,3,
-347,44.014469,-79.323704,30 JAKE SMITH WAY,Whitchurch-Stouffville,Ontario,L4A 0T8,Central air conditioning,889000,4,3,
-348,44.078473,-80.203431,250 ANDREW ST,Shelburne,Ontario,L9V 2Y7,Natural gas,885000,6,3,
-349,43.447436,-79.666672,#74 -2435 GREENWICH DR,Oakville,Ontario,L6M 0S4,Central air conditioning,880000,2,2,
-350,42.3791473,-82.2102956,568 INDIAN CREEK ROAD West,Chatham,Ontario,N7M 5J5,Central air conditioning,875000,2,3,
-351,44.3150892,-79.5461073,2842 MCKEE CRT,Innisfil,Ontario,L9S 2J4,Central air conditioning,875000,2,3,
-352,44.3596825,-78.7421729,4 LAKEVIEW BLVD,Kawartha Lakes,Ontario,K0M 2C0,Electric,875000,3,1,
-353,43.783573,-79.146172,60 FREEPORT DR,Toronto,Ontario,M1C 5G1,Central air conditioning,869999,3,3,
-354,43.10506117272728,-79.56924241818182,26 LINDAN ST,West Lincoln,Ontario,L0R 2A0,Central air conditioning,869900,3,2,
-355,42.1013315,-83.1086458,304 Morin,Amherstburg,Ontario,N9V 0G8,Central air conditioning,869900,4,2,
-356,44.5027226,-80.2172379,58 CEDAR ST,Collingwood,Ontario,L9Y 3A5,Central air conditioning,869000,4,2,
-357,43.447436,-79.666672,#C -2368 MUNN'S AVE,Oakville,Ontario,L6H 6G9,Central air conditioning,869000,3,2,
-358,44.088083,-79.775724,54 TUSCANY GRANDE,New Tecumseth,Ontario,L9R 0E2,Central air conditioning,869000,2,3,
-359,43.3314156,-79.8956803,46 Humphrey Street,Waterdown,Ontario,L8B 0V1,Central air conditioning,864900,3,3,
-360,44.5445701,-79.54891085886374,94 LANDSCAPE DR,Oro-Medonte,Ontario,L0L 2L0,Central air conditioning,864900,2,3,
-361,43.8563707,-79.3376825,#136 -326 JOHN ST,Markham,Ontario,L3T 0B1,Central air conditioning,850000,2,3,
-362,43.2560802,-79.8728583,4 TALENCE DR,Hamilton,Ontario,L8J 0L2,Central air conditioning,849999,4,4,
-363,45.3112037,-74.6367573,19947 KENYON CONCESSION 6 ROAD,Alexandria,Ontario,K0C 1A0,Central air conditioning,849900,3,2,
-364,44.376812,-79.470068,269 RAYNERS RD,Georgina,Ontario,L4P 1G5,Natural gas,849900,3,1,
-365,43.121034,-79.804001,64 BRIGHAM Avenue,Binbrook,Ontario,L0R 1C0,Central air conditioning,849900,3,3,
-366,43.3248924,-79.7966835,3199 BASTEDO COMMON,Burlington,Ontario,L7M 2A9,Central air conditioning,849900,3,2,
-367,43.621861,-79.943877,29 MOULTREY CRES,Halton Hills,Ontario,L7G 4N4,Central air conditioning,849900,3,2,
-368,44.3893113,-79.6901736,82 GIRDWOOD DR,Barrie,Ontario,L4N 8R9,Central air conditioning,849900,2,2,
-369,43.6858146,-79.7599337,95 URAL CIRC,Brampton,Ontario,L6R 1H2,Central air conditioning,849000,3,3,
-370,44.687267,-78.431582,92 TATE'S BAY RD,Galway-Cavendish and Harvey,Ontario,K0M 0A1,Central air conditioning,849000,3,2,
-371,43.6858146,-79.7599337,43 HEARTLEAF CRES,Brampton,Ontario,L7A 2B7,Central air conditioning,849000,3,3,
-372,44.3150892,-79.5461073,1020 EWART ST,Innisfil,Ontario,L0L 1C0,Central air conditioning,844900,4,3,
-373,43.636597,-79.432422,#21 -1250 KING ST W,Toronto,Ontario,M6K 1G5,Wall unit,836000,2,1,
-374,43.2560802,-79.8728583,161 SIRENTE DR,Hamilton,Ontario,L9A 5H1,Central air conditioning,829900,4,3,
-375,43.2560802,-79.8728583,161 SIRENTE Drive,Hamilton,Ontario,L9A 5H1,Central air conditioning,829900,4,3,
-376,42.3038299,-82.8189267,249 MAXWELL,Lakeshore,Ontario,N0R 1A0,Central air conditioning,829000,4,3,
-377,44.6298478,-81.2648606,14 CAMMIDGE Crescent,Sauble Beach,Ontario,N0H 2G0,None,824900,3,2,
-378,44.6310905,-81.268759,14 CAMMIDGE CRES,South Bruce Peninsula,Ontario,N0H 2G0,Natural gas,824900,3,2,
-379,44.0988246,-77.5748551,20 STONECREST Boulevard,Quinte West,Ontario,K8R 0A2,Central air conditioning,819900,2,3,
-380,43.2560802,-79.8728583,7 Southam Lane,Hamilton,Ontario,L9C 0E9,"Air exchanger, Central air conditioning",819000,3,3,
-381,43.5460516,-80.2493276,21 HENDERSON DR,Guelph,Ontario,N1E 0A1,Central air conditioning,799999,3,3,
-382,43.5896231,-79.6443879,#67 -3020 CEDARGLEN GATE,Mississauga,Ontario,L5C 4S7,Central air conditioning,799991,2,2,
-383,43.8563707,-79.3376825,40 COMELY WAY,Markham,Ontario,L3R 2L8,Central air conditioning,799990,3,3,
-384,43.073558,-79.950127,Lot 29 Park St & McClung Rd Road,Caledonia,Ontario,N3W 0H3,Natural gas,799900,3,4,
-385,44.1150554,-78.90598875892695,3440 HIGHWAY 7A RD,Scugog,Ontario,L0B 1L0,Electric,799900,4,3,
-386,45.4208777,-75.6901106,7 CORLISS STREET,Ottawa,Ontario,K1J 6W4,Wall unit,799900,3,2,
-387,43.2560802,-79.8728583,188 APPLEFORD Court,Hamilton,Ontario,L9C 5Y5,Central air conditioning,799900,3,2,
-388,42.1013315,-83.1086458,48 KINGSBRIDGE DR,Amherstburg,Ontario,N9V 4A4,Central air conditioning,799900,3,2,
-389,43.96868585,-78.65135738273909,112 REDFERN CRES,Clarington,Ontario,L1C 0K1,Central air conditioning,799900,3,4,
-390,43.91682,-78.68286,112 REDFERN Crescent,Bowmanville,Ontario,L1C 0K1,Central air conditioning,799900,3,4,
-391,44.0818996,-79.77443058053504,38 WALLACE ST,New Tecumseth,Ontario,L4N 7E1,Central air conditioning,799900,3,2,
-392,43.2560802,-79.8728583,39 Pelican Lane,Hamilton,Ontario,L8K 0A4,"Air exchanger, Central air conditioning",799900,3,3,
-393,43.9595998,-78.1677784,319 DIVISION ST,Cobourg,Ontario,K9A 3R4,Detached,799900,2,1,
-394,44.7382893,-80.12709935653204,31 TINY BEACHES RD N,Tiny,Ontario,L0L 2J0,Wall unit,799900,4,3,
-395,44.1435081,-79.41190570379848,1661 MOUNT ALBERT RD,East Gwillimbury,Ontario,L0G 1V0,Central air conditioning,799900,4,2,
-396,44.3048009,-78.3199496,2508 DENURE  DR,Peterborough,Ontario,K9K 2M3,Central air conditioning,799900,3,3,
-397,43.1579812,-79.2441003,429 LINWELL  RD,St. Catharines,Ontario,L2M 2P5,Central air conditioning,799900,3,2,
-398,43.6858146,-79.7599337,32 CUMBERLAND DR,Brampton,Ontario,L6V 1W6,Central air conditioning,799888,3,2,
-399,43.811594,-79.188405,258 BURROWS HALL BLVD,Toronto,Ontario,M1B 1J9,Central air conditioning,799000,4,2,
-400,43.6858146,-79.7599337,2 STEPHENSEN CRT,Brampton,Ontario,L6V 3X8,Central air conditioning,799000,3,3,
-401,44.625576,-80.418409,#211 -796404 GREY 19 RD,Blue Mountains,Ontario,L9Y 0N8,Central air conditioning,799000,2,2,
-402,43.8505287,-79.0208814,80 BARNHAM ST,Ajax,Ontario,L1Z 0K8,Central air conditioning,799000,4,4,
-403,42.246782,-82.992243,4245 SIXTH CONCESSION ROAD,Windsor,Ontario,N9G 3A2,Central air conditioning,798800,3,2,
-404,43.8563707,-79.3376825,2245 BUR OAK AVE,Markham,Ontario,L6E 0C2,Central air conditioning,795000,2,2,
-405,43.2560802,-79.8728583,118 HIBISCUS LANE,Hamilton,Ontario,L8K 0A3,Central air conditioning,791000,4,4,
-406,46.5521017,-81.1148103,72 Laurier Street E,Azilda,Ontario,P0M 1B0,"Air exchanger, Central air conditioning",789900,5,3,
-407,43.073558,-79.950127,53 FRASER Court,Caledonia,Ontario,N3W 1J8,Central air conditioning,789000,2,2,
-408,43.064089,-79.931618,53 FRASER CRT,Haldimand,Ontario,N3W 1J8,Central air conditioning,789000,2,2,
-409,44.3596825,-78.7421729,15 CEDAR RIDGE DR,Kawartha Lakes,Ontario,L0C 1G0,Central air conditioning,789000,2,1,
-410,44.0988246,-77.5748551,9 BRIDLEWOOD LANE,Quinte West,Ontario,K8V 6N4,Central air conditioning,779900,4,4,
-411,44.0988246,-77.5748551,9 BRIDLEWOOD Lane,Quinte West,Ontario,K8V 6N4,Central air conditioning,779900,4,4,
-412,43.6858146,-79.7599337,66 WEST ST,Brampton,Ontario,L6X 1V9,Central air conditioning,775000,3,2,
-413,43.3600536,-80.3123023,193 CONCESSION ST,Cambridge,Ontario,N1R 2J1,Central air conditioning,775000,4,3,
-415,44.5224813,-80.0203156,32 PRINCESS POINT DR,Wasaga Beach,Ontario,L9Z 3C2,Central air conditioning,774900,4,3,
-416,43.2560802,-79.8728583,4 ALGOMA CRES,Hamilton,Ontario,L9C 1S6,Central air conditioning,759900,2,2,
-417,44.3893113,-79.6901736,70 BURKE  DR,Barrie,Ontario,L4N 7H9,Central air conditioning,750000,3,3,
-418,43.451291,-80.4927815,33 WOOLWICH ST,Kitchener,Ontario,N2K 1S2,Central air conditioning,750000,2,3,
-419,43.8505287,-79.0208814,7 Mcrae Rd,Ajax,ON,L1S 3W2,Yes,750000,3,3,
-420,44.3596825,-78.7421729,14 SPRINGBANK RD,Kawartha Lakes,Ontario,K0L 2W0,Central air conditioning,749999,2,3,
-421,45.3128048,-75.8940505,497 FOXHALL WAY,Kanata,Ontario,K2M 0G2,Central air conditioning,749900,4,3,
-422,44.3596825,-78.7421729,218 ANGELINE ST N,Kawartha Lakes,Ontario,K9V 5E9,Central air conditioning,749900,4,3,
-423,42.3048504,-82.5479704,1525 ST. CLAIR ROAD,Stoney Point,Ontario,N0R 1N0,Central air conditioning,749900,3,1,
-424,43.1408157,-80.2631733,85 St Paul Avenue,Brantford,Ontario,N3T 4G1,Central air conditioning,749900,3,3,
-425,42.246782,-82.992243,4410 CHERRY HILL,Windsor,Ontario,N9G 2P5,Central air conditioning,749900,3,3,
-426,44.3893113,-79.6901736,19 NICOL MARIE AVE,Barrie,Ontario,L4M 6Z1,Natural gas,749900,3,1,
-427,43.2560802,-79.8728583,1111 King Street W,Hamilton,Ontario,L8S 1L8,Central air conditioning,749000,5,2,
-428,43.2560802,-79.8728583,1111 KING ST W,Hamilton,Ontario,L8S 1L8,Central air conditioning,749000,4,2,
-429,43.6858146,-79.7599337,#77 -77 MOREGATE  CRES,Brampton,Ontario,L6S 3K9,Central air conditioning,729900,3,2,
-430,45.821328,-77.110488,182 MORRIS STREET,Pembroke,Ontario,K8A 2L2,Central air conditioning,729900,4,4,
-431,44.0988246,-77.5748551,4 KINGFISHER Drive,Quinte West,Ontario,K8V 0A6,Central air conditioning,729900,2,2,
-432,46.49272,-80.991211,596 Brenda Drive,Greater Sudbury,Ontario,P3E 5G7,Central air conditioning,729900,5,2,
-433,43.5460516,-80.2493276,#6 -122 WATSON PKWY N,Guelph,Ontario,N1E 0P6,Central air conditioning,729000,3,3,
-434,44.3596825,-78.7421729,7 YOUNG ST,Kawartha Lakes,Ontario,L0K 1W0,Central air conditioning,725000,3,1,
-435,44.49409275,-79.83172283448036,23 BEVERLY ST,Springwater,Ontario,L0L 1P0,Central air conditioning,725000,2,1,
-436,43.5460516,-80.2493276,484 SPEEDVALE AVE E,Guelph,Ontario,N1E 1P2,Central air conditioning,724000,3,1,
-437,44.7688035,-79.9339487,25 CAMILLE Road,Penetanguishene,Ontario,L9M 1R3,Central air conditioning,720000,3,2,
-438,43.5460516,-80.2493276,41 STEELE CRES,Guelph,Ontario,N1E 0S7,Central air conditioning,719999,3,3,
-439,43.121034,-79.804001,45 ROYAL WINTER Drive|Unit #26,Binbrook,Ontario,L0R 1C0,Central air conditioning,718850,3,4,
-440,44.5224813,-80.0203156,9 HILLS THISTLE DR,Wasaga Beach,Ontario,L9Z 0J3,Natural gas,699999,4,3,
-441,43.801685,-79.32186,#4 -42 STONEHILL CRT,Toronto,Ontario,M1W 2V3,Central air conditioning,699999,3,3,
-442,43.2560802,-79.8728583,237 BROADWAY AVE,Hamilton,Ontario,L8S 2W7,Central air conditioning,699990,5,2,
-443,45.041508,-79.310989,83 KILLDEER Crescent,Bracebridge,Ontario,P1L 1Z2,Central air conditioning,699900,3,2,
-444,43.657016,-79.338932,#7 -24 FLORENCE WYLE LANE,Toronto,Ontario,M4M 3E7,Central air conditioning,699900,2,1,
-445,43.657016,-79.338932,24 Florence Wyle Lane|Unit #7,Toronto,Ontario,M4M 3E7,Central air conditioning,699900,2,1,
-446,44.3596825,-78.7421729,#34 -17 LAKEWOOD CRES,Kawartha Lakes,Ontario,K0M 1A0,Central air conditioning,699900,2,2,
-447,44.98505955,-76.87963940318183,1795 HARLOWE RD,North Frontenac,Ontario,K0H 1B0,Electric,699900,3,3,
-448,45.041508,-79.310989,83 KILLDEER CRES,Bracebridge,Ontario,P1L 1Z2,Central air conditioning,699900,3,2,
-449,45.4208777,-75.6901106,106 CALAVERAS AVENUE,Ottawa,Ontario,K2J 4Z7,Central air conditioning,699900,3,3,
-450,43.2560802,-79.8728583,147 Longwood Road N,Hamilton,Ontario,L8S 3V8,Central air conditioning,699900,2,2,
-451,43.1579812,-79.2441003,505 Scott Street,St. Catharines,Ontario,L2M 3X3,Central air conditioning,699900,2,2,
-452,44.7207522,-76.924124,1795 HARLOWE Road,Arden,Ontario,K0H 1B0,None,699900,3,3,
-453,42.246782,-82.992243,1548 VILLA MARIA BOULEVARD North,Windsor,Ontario,N9G 1W4,Central air conditioning,699900,3,3,
-454,49.4082025,-94.0957123,29 Ghost Bay,Sioux Narrows,ON,P0X 1N0,Space Heater,699000,2,1,
-455,46.0814468,-79.3611147,78 MOUNTAINVIEW RD,Powassan,Ontario,P0H 1Z0,Central air conditioning,699000,3,2,
-456,43.3248924,-79.7966835,#318 -1210 THORPE RD,Burlington,Ontario,L7S 2G9,Central air conditioning,699000,3,2,
-457,46.1129339,-81.7287589,1400C Bay of Islands Drive,Whitefish Falls,Ontario,P0P 2H0,Air exchanger,699000,2,1,
-458,44.34768505,-79.10016490761303,510 SIMCOE ST,Brock,Ontario,L0K 1A0,Natural gas,699000,4,2,
-459,43.0706096,-79.6518091,9016 Silver Street,Caistor Centre,Ontario,L0R 1E0,Central air conditioning,699000,3,2,
-460,44.014469,-79.323704,20 MITCHELL AVE,Whitchurch-Stouffville,Ontario,L4A 2X9,Central air conditioning,699000,2,2,
-461,43.87982,-78.9421751,607 ATHOL ST,Whitby,Ontario,L1N 3Z9,Central air conditioning,699000,2,2,
-462,43.3248924,-79.7966835,1210 THORPE Road|Unit #318,Burlington,Ontario,L7S 2G8,Central air conditioning,699000,3,2,
-463,43.96868585,-78.65135738273909,75 CROWS NEST LANE,Clarington,Ontario,L1C 4A9,Central air conditioning,699000,3,3,
-464,44.3893113,-79.6901736,89 WELLINGTON ST W,Barrie,Ontario,L4N 1K8,Central air conditioning,699000,3,1,
-465,43.2560802,-79.8728583,#22 -215 DUNDAS ST,Hamilton,Ontario,L0R 2H6,Central air conditioning,698000,3,2,
-466,43.621861,-79.943877,37 GREENORE  CRES,Halton Hills,Ontario,L7J 2T1,Central air conditioning,695000,3,2,
-467,45.0928774,-75.35299,565 VICTORIA STREET,Winchester,Ontario,K0C 2K0,Central air conditioning,694900,3,2,
-468,42.2324646,-82.5524942,5532 NOSTADT,Comber,Ontario,N0P 1J0,Natural gas,694900,3,3,
-469,43.2560802,-79.8728583,##115 -590 NORTH SERVICE RD,Hamilton,Ontario,,Central air conditioning,689999,2,3,
-470,43.1931661,-79.560677,#87 -6 CHESTNUT DR,Grimsby,Ontario,L3M 0C4,Central air conditioning,689900,3,2,
-471,43.1931661,-79.560677,6 CHESTNUT Drive|Unit #87,Grimsby,Ontario,L3M 0C4,Central air conditioning,689900,2,2,
-472,44.49409275,-79.83172283448036,1071 SUNNIDALE RD,Springwater,Ontario,L4M 4S4,Central air conditioning,685000,4,2,
-473,44.056258,-79.461708,79 RYE CRES,Newmarket,Ontario,L3Y 2T9,Natural gas,680000,3,2,
-474,44.34768505,-79.10016490761303,254 VICTORIA AVE,Brock,Ontario,L0K 1A0,Central air conditioning,679900,3,2,
-475,45.0928774,-75.35299,106 JAMES STREET,Winchester,Ontario,K0C 2K0,Central air conditioning,679900,3,2,
-476,44.8368158,-76.5414181,679 ARMSTRONG LINE,Maberly,Ontario,K0H 2B0,None,674900,4,3,
-478,43.3600536,-80.3123023,##31 -310 CHRISTOPHER DR,Cambridge,Ontario,N1P 1B4,Central air conditioning,669900,3,4,
-479,45.4208777,-75.6901106,100 LIONEL PRIVATE,Ottawa,Ontario,K4A 1X0,Central air conditioning,664900,2,3,
-480,43.2560802,-79.8728583,231 ADELINE Avenue,Hamilton,Ontario,L8H 5T9,Central air conditioning,659900,2,2,
-481,45.4208777,-75.6901106,306 TOURING WAY,Ottawa,Ontario,K2J 6N9,Central air conditioning,655000,3,3,
-482,43.96868585,-78.65135738273909,94 FREELAND AVE,Clarington,Ontario,L1C 4V6,Natural gas,650000,2,2,
-483,45.4208777,-75.6901106,143 ECCLES STREET,Ottawa,Ontario,K1R 6S7,Central air conditioning,650000,2,2,
-484,34.03134,-117.604914,774 LAKE RANGE Drive,Huron Township,Ontario,N2Z 2X3,None,649900,3,3,
-485,44.600724,-75.697724,30 COUNTRY CLUB PLACE,Brockville,Ontario,K6V 6T6,Central air conditioning,649900,3,4,
-486,43.1579812,-79.2441003,65 GREEN MAPLE DR,St. Catharines,Ontario,L2P 3P3,Central air conditioning,649900,3,2,
-487,45.041406,-74.733993,132 EMILY JADE CRESCENT,Cornwall,Ontario,K6K 0B6,Central air conditioning,649000,3,3,
-488,43.2560802,-79.8728583,214 HADDON AVE S,Hamilton,Ontario,L8S 1Y1,Central air conditioning,649000,2,2,
-489,43.755055,-80.6711337,152 MAPLE Street,Drayton,Ontario,N0G 1P0,Central air conditioning,647500,3,3,
-490,42.637637,-80.39003,756 VILLA NOVA  RD,Norfolk,Ontario,N0A 1Y0,Central air conditioning,639900,4,2,
-491,45.8984286,-77.2826645,20 LIAM STREET,Petawawa,Ontario,K8H 0C2,Central air conditioning,639900,3,3,
-492,44.522787,-80.019457,756 Villa Nova Road,Villa Nova,Ontario,N0A 1Y0,Central air conditioning,639900,4,2,
-494,43.0445702,-79.2838481,138 ACACIA RD,Pelham,Ontario,L0S 1E6,Central air conditioning,639900,2,2,
-495,44.54977770555556,-79.18956932222223,#4 -2 PARADISE BLVD,Ramara,Ontario,L0K 1B0,Electric,639000,2,2,
-496,44.3893113,-79.6901736,71 QUEEN ST,Barrie,Ontario,L4M 1Z2,Natural gas,634900,3,1,
-497,43.1065603,-79.0639039,6484 ARMSTRONG DR,Niagara Falls,Ontario,L2H 2M1,Central air conditioning,629900,2,2,
-498,45.4208777,-75.6901106,307 BRIGITTA STREET,Ottawa,Ontario,K2S 0H8,Central air conditioning,629000,3,3,
-499,44.163837,-77.39984,125 AVONDALE Road,Belleville,Ontario,K8P 4G2,Central air conditioning,625000,4,3,
-500,43.2560802,-79.8728583,16 JEFFERSON Avenue,Hamilton,Ontario,L8H 1A7,Central air conditioning,624900,3,2,
-501,43.2560802,-79.8728583,16 JEFFERSON AVE,Hamilton,Ontario,L8H 1A7,Central air conditioning,624900,3,2,
-502,44.9254436,-78.72493,12 STOUFFER Street,Minden,Ontario,K0M 2K0,Central air conditioning,624900,3,2,
-503,44.3893113,-79.6901736,38 BROCK ST,Barrie,Ontario,L4N 2L7,Central air conditioning,619000,3,2,
-504,42.969292,-81.20529,90  GLENWOOD AVE,London,Ontario,N5Z 2P9,Central air conditioning,619000,3,2,
-505,43.2560802,-79.8728583,49 Cardinal Drive,Hamilton,Ontario,L9A 4H6,Central air conditioning,619000,3,2,
-506,45.4208777,-75.6901106,947 WESTON DRIVE,Ottawa,Ontario,K1G 1X1,Central air conditioning,599900,3,2,
-507,44.8178537,-77.1855867,1205 HEAD Road,Cloyne,Ontario,K0H 1K0,None,599900,4,1,
-508,42.9922181,-79.2484192,52 NORTHHAVEN RD,Welland,Ontario,L3C 1X1,Central air conditioning,599900,3,2,
-509,44.5678105,-80.9430094,2260 6TH Avenue W,Owen Sound,Ontario,N4K 6J6,Central air conditioning,599900,3,2,
-510,43.2560802,-79.8728583,51 GRAHAM  AVE S,Hamilton,Ontario,L8K 2L9,Central air conditioning,599900,3,2,
-511,44.09917,-77.57755,2458 HAMILTON Road,Trenton,Ontario,K8V 6T7,None,599900,6,2,
-512,43.8975558,-78.8635324,253 WILSON RD N,Oshawa,Ontario,L1G 6E3,Central air conditioning,599800,3,2,
-513,43.17354975,-79.41600688766434,#14 -5016 SERENA DR,Lincoln,Ontario,L0R 1B8,Central air conditioning,599000,2,1,
-514,43.6189078,-80.1442087,11 GUTHRIE Lane Unit# B,Rockwood,Ontario,N0B 2K0,Central air conditioning,599000,2,2,
-515,45.4208777,-75.6901106,529 KIRKWOOD AVENUE,Ottawa,Ontario,K1Z 5X2,None,599000,2,1,
-516,44.3893113,-79.6901736,17 ARCH BROWN CRT,Barrie,Ontario,L4M 0C6,Central air conditioning,599000,3,2,
-517,44.00012,-77.13275,22 E MARY Street,Picton,Ontario,K0K 2T0,Central air conditioning,599000,2,2,
-518,44.5678105,-80.9430094,1544 14TH ST E,Owen Sound,Ontario,N4K 0J2,Wall unit,599000,2,2,
-519,43.1579812,-79.2441003,49 SHERBOURNE ST,St. Catharines,Ontario,L2M 5R1,Central air conditioning,598800,3,1,
-520,44.3596825,-78.7421729,212 MCGUIRE BEACH RD,Kawartha Lakes,Ontario,K0M 2B0,Central air conditioning,594900,3,2,
-521,44.3596825,-78.7421729,48 ST. DAVID  ST,Kawartha Lakes,Ontario,K9V 1N3,Propane,593000,3,2,
-524,44.1776378,-81.6348713,215 MECHANICS Avenue,Kincardine,Ontario,N2Z 1C7,None,579000,3,2,
-525,44.8218809,-77.6116412,188D GRANNY'S Lane,Gilmour,Ontario,K0L 1W0,None,575000,3,0,
+0,43.8563707,-79.3376825,6 HONEYBOURNE CRES,Markham,Ontario,L3P 1P3,Semi-Detached,2998000,5,8,1
+1,43.686359,-79.40231,123 HEATH ST W,Toronto,Ontario,M4V 2Y6,Semi-Detached,2798000,3,4,1
+2,43.67089,-79.316931,83 BOARDWALK DR,Toronto,Ontario,M4L 3X9,Semi-Detached,2599900,3,4,0
+3,43.1931661,-79.560677,2 LAKESIDE Drive,Grimsby,Ontario,L3M 2K7,Detached,2599900,5,3,0
+4,43.5896231,-79.6443879,#A -41 BROADVIEW AVE,Mississauga,Ontario,L5H 2S8,Semi-Detached,2499850,4,4,1
+5,43.447436,-79.666672,2158 PINEVIEW DR,Oakville,Ontario,L6H 5M3,Semi-Detached,1999000,5,4,0
+6,43.6858146,-79.7599337,31 BIRCH TREE TR,Brampton,Ontario,L6P 3W1,Semi-Detached,1989900,4,6,1
+7,43.6858146,-79.7599337,20 PELLEGRINO RD,Brampton,Ontario,L7A 4M8,Semi-Detached,1850000,4,5,1
+8,43.816244,-79.851035,36 JAMES WALKER AVE,Caledon,Ontario,L7C 1R5,Semi-Detached,1750000,4,3,0
+9,43.6858146,-79.7599337,61 MIDSUMMER DR,Brampton,Ontario,L6P 3E4,Semi-Detached,1689999,4,4,0
+10,43.5896231,-79.6443879,#40 -74 COMPASS WAY,Mississauga,Ontario,L5G 4T8,Semi-Detached,1650000,4,5,0
+11,45.4208777,-75.6901106,82 BLACKBURN AVENUE,Ottawa,Ontario,K1N 8A5,Semi-Detached,1600000,4,4,0
+12,43.5896231,-79.6443879,1143 BANCROFT DR,Mississauga,Ontario,L5V 1B7,Semi-Detached,1588888,5,4,1
+13,44.056258,-79.461708,815 GRACE ST,Newmarket,Ontario,L3Y 2L6,Semi-Detached,1588000,4,3,0
+14,43.650005,-79.482809,98 ARDAGH ST,Toronto,Ontario,M6S 1Y7,Detached,1499000,3,2,0
+15,43.8801166,-79.4392925,98 GRAND OAK  DR,Richmond Hill,Ontario,L4E 4A6,Detached,1499000,4,5,1
+16,43.1561412,-79.9161804,4078 HWY #6 Highway S,Mount Hope,Ontario,L0R 1W0,Detached,1425000,3,3,0
+17,44.91741,-79.373131,1055 EVANSWOOD DR,Gravenhurst,Ontario,P0E 1G0,Detached,1400000,5,2,0
+18,43.447436,-79.666672,1336 ASHWOOD TERR,Oakville,Ontario,L6M 4A7,Detached,1398000,3,4,0
+19,44.1375186,-79.9421083123357,8977 BOYNE RIVER RD,Adjala-Tosorontio,Ontario,L0M 1J0,Detached,1379900,3,3,1
+20,43.6858146,-79.7599337,7 ANSBURY DR,Brampton,Ontario,L7A 3S8,Detached,1349999,4,4,1
+21,43.6858146,-79.7599337,18 HIGHWOOD RD,Brampton,Ontario,L6Z 4T8,Detached,1349000,4,3,0
+22,43.64877,-79.38171,#403 -15 SOUSA MENDES ST,Toronto,Ontario,M6P 0A9,Townhouse,1329000,2,3,1
+23,43.6858146,-79.7599337,21 BARNES CRT,Brampton,Ontario,L7A 1J1,Townhouse,1299999,4,4,1
+24,43.513671,-79.882817,178 COOKE CRES,Milton,Ontario,L9T 6E5,Townhouse,1299000,3,3,1
+25,43.8563707,-79.3376825,261 KIRKHAM DR,Markham,Ontario,L3S 0E9,Townhouse,1299000,3,4,0
+26,43.77506,-80.070076,17 BARBOUR DR,Erin,Ontario,N0B 1Z0,Townhouse,1299000,4,3,1
+27,43.8505287,-79.0208814,133 RUSHWORTH DR,Ajax,Ontario,L1Z 2A3,Townhouse,1298000,4,4,1
+28,44.3893113,-79.6901736,100 KNUPP RD,Barrie,Ontario,L4N 0N5,Townhouse,1274999,4,4,0
+29,43.6858146,-79.7599337,133 BARLEYFIELD RD,Brampton,Ontario,L6R 2J4,Townhouse,1249000,4,4,1
+30,43.6858146,-79.7599337,92 OAKMORE LANE,Brampton,Ontario,L6R 0C3,Townhouse,1200000,4,5,1
+31,43.8801166,-79.4392925,12 HERCULES CLUB DR,Richmond Hill,Ontario,L4K 1K6,Townhouse,1199000,3,3,0
+32,44.2921994,-77.82218148636545,293 HILLSIDE DR,Trent Hills,Ontario,K0L 1L0,Townhouse,1175000,4,2,0
+33,44.3150892,-79.5461073,1254 HARRINGTON STREET ST,Innisfil,Ontario,L0L 1W0,Townhouse,1161254,4,4,0
+34,43.2560802,-79.8728583,271 GREAT FALLS BLVD S,Hamilton,Ontario,L0R 2H8,Semi-Detached,1149000,4,3,0
+35,44.7056973,-81.1926841,27 BOYDS HARBOUR Loop,North Bruce Peninsula,Ontario,N0H 1Z0,Detached,1099000,3,2,0
+36,44.73339,-81.26644,17 PHILLIPS Place,Oliphant,Ontario,N0H 2T0,Detached,1099000,3,3,0
+37,43.6858146,-79.7599337,19 ALDERWAY AVE,Brampton,Ontario,L6Y 2B5,Detached,1099000,3,2,0
+38,43.8801166,-79.4392925,299 BOISDALE AVE,Richmond Hill,Ontario,L4C 1R4,Detached,1098000,3,2,0
+39,43.6858146,-79.7599337,46 FADERS DR,Brampton,Ontario,L7A 4Y4,Semi-Detached,1049999,3,5,1
+40,43.2556116,-79.0723264,14 PINOT TR,Niagara-on-the-Lake,Ontario,L0S 1J0,Semi-Detached,1025000,2,3,1
+41,43.6858146,-79.7599337,130 CRESTHAVEN RD,Brampton,Ontario,L7A 1H8,Detached,999999,3,3,1
+42,44.5027226,-80.2172379,12 WILSON  ST,Collingwood,Ontario,L9Y 4S1,Detached,999999,3,4,1
+43,43.6858146,-79.7599337,84 DELPORT CLSE,Brampton,Ontario,L6P 3T2,Townhouse,999900,3,4,1
+44,50.400255,-92.837993,52 FIRE ROUTE 45B,North Kawartha Twp,Ontario,K0L 2H0,Detached,999900,4,2,0
+45,43.6858146,-79.7599337,21 CLAYPINE TR,Brampton,Ontario,L6V 3L8,Detached,999900,4,2,0
+46,43.8563707,-79.3376825,17 LIAM LANE,Markham,Ontario,L3S 0E8,Semi-Detached,999888,4,4,0
+47,43.7941544,-79.5268023,109 WHITE BLVD,Vaughan,Ontario,L4J 5Z7,Semi-Detached,999000,3,4,1
+48,43.5896231,-79.6443879,5307 PALMETTO PL,Mississauga,Ontario,L4T 1G3,Semi-Detached,999000,3,3,0
+49,43.646081,-79.576748,#23 -23 SILVER SHADOW  PATH,Toronto,Ontario,M9C 4Y2,Townhouse,998000,4,3,1
+50,44.3893113,-79.6901736,55 WILDWOOD TR,Barrie,Ontario,L4N 7Z1,Townhouse,997000,3,3,1
+51,44.056258,-79.461708,215 SHEFFIELD ST,Newmarket,Ontario,L3Y 5X7,Townhouse,995001,4,2,0
+52,42.959033,-81.235184,2884 DEVON DR,London,Ontario,N6E 0A4,Townhouse,989900,3,3,0
+53,44.0818996,-79.77443058053504,27 D A JONES  NEW TECU AVE,New Tecumseth,Ontario,L0G 1A0,Detached,979999,3,3,0
+54,44.00295485,-78.02435766885671,510 FIRST LINE,Haldimand,Ontario,N0A 1H0,Detached,974900,4,3,0
+55,44.5445701,-79.54891085886374,31 BARDS BEACH RD,Oro-Medonte,Ontario,L3V 0J9,Detached,965000,2,2,0
+56,42.959033,-81.235184,3233 TURNER Crescent,London,Ontario,N6M 0B1,Detached,959900,4,4,0
+57,44.097441700000005,-78.04760303007441,115 GRANDVIEW DR,Alnwick/Haldimand,Ontario,K0K 2X0,Detached,949999,3,2,0
+58,43.8975558,-78.8635324,865 CORBETTS Road,Oshawa,Ontario,L1K 2E1,Detached,949900,4,3,1
+59,44.3893113,-79.6901736,74 WARD DR,Barrie,Ontario,L4N 8A2,Detached,948999,4,4,1
+60,43.7941544,-79.5268023,99 LUCENA CRES,Vaughan,Ontario,L6A 2W4,Townhouse,939000,3,3,0
+61,43.0445702,-79.2838481,62 CONCORD ST N,Pelham,Ontario,L0S 1E3,Townhouse,929000,3,3,0
+62,44.3150892,-79.5461073,1927 APPLEWOOD AVE,Innisfil,Ontario,L9S 1W2,Townhouse,924900,4,3,1
+63,43.6858146,-79.7599337,42 FROSTBITE LANE,Brampton,Ontario,L6R 3L8,Townhouse,899900,3,3,1
+64,43.6858146,-79.7599337,75 MALLARD CRES,Brampton,Ontario,L6S 2T7,Townhouse,899711,3,3,0
+65,43.817087,-79.281909,4 EVANSVILLE RD,Toronto,Ontario,M1V 1L5,Townhouse,899000,4,4,1
+66,44.2344356,-79.8063686586334,6591 BROWNS LINE,Essa,Ontario,L0M 1B1,Detached,889000,2,2,1
+67,43.740315,-79.538435,22 TAMPA TERR,Toronto,Ontario,M9M 1T9,Semi-Detached,879000,4,2,0
+68,43.5896231,-79.6443879,#89 -1755 RATHBURN RD E,Mississauga,Ontario,L4W 2M8,Semi-Detached,875000,3,3,0
+69,45.3341367,-75.2519986,1652 KING STREET,Limoges,Ontario,K0A 2M0,Semi-Detached,869900,2,3,1
+70,43.626816,-79.516419,#6 -10 BRADBROOK RD,Toronto,Ontario,M8Z 5V3,Townhouse,869000,3,2,0
+71,45.4208777,-75.6901106,1452 MCROBIE AVENUE,Ottawa,Ontario,K1H 7E3,Detached,866000,3,2,0
+72,43.8975558,-78.8635324,#31 -737-787 CONLIN  RD E,Oshawa,Ontario,L1H 7K5,Detached,854990,3,3,0
+73,43.641342,-79.399759,#6A -570 WELLINGTON ST W,Toronto,Ontario,M5V 2X5,Detached,838000,2,2,1
+74,44.1776378,-81.6348713,501 MORRISON Crescent,Kincardine,Ontario,N2Z 0A6,Detached,829900,3,3,0
+75,43.225693,-79.976692,175 Fiddlers Green Road|Unit #50,Ancaster,Ontario,L9G 3K9,Townhouse,829000,2,2,1
+76,44.241045,-77.358813,38 SCENIC Drive,Belleville,Ontario,K8N 0C2,Townhouse,809900,3,3,1
+77,43.8801166,-79.4392925,123 WILDWOOD   AVE,Richmond Hill,Ontario,L4E 3B6,Townhouse,800000,2,1,0
+78,43.7941544,-79.5268023,#112 -24 WOODSTREAM BLVD,Vaughan,Ontario,L4L 8C4,Townhouse,799999,2,3,1
+79,43.3248924,-79.7966835,#25 -2015 CLEAVER AVE,Burlington,Ontario,L7M 4J7,Townhouse,799900,2,3,0
+80,44.3893113,-79.6901736,18 CASSANDRA DR W,Barrie,Ontario,L4M 6Z3,Townhouse,799900,4,3,0
+81,43.1931661,-79.560677,12 Toe Blake Court,Grimsby,Ontario,L3M 0H8,Townhouse,799900,3,3,0
+82,43.3600536,-80.3123023,#19 -143 RIDGE RD,Cambridge,Ontario,N3E 0E1,Townhouse,790000,3,3,0
+83,43.8975558,-78.8635324,2562 LARIDA PATH,Oshawa,Ontario,L1L 0P9,Townhouse,779000,4,3,1
+84,45.4208777,-75.6901106,410 ABBEYDALE CIRCLE,Ottawa,Ontario,K2K 0E8,Townhouse,768000,3,4,0
+85,45.0570769,-77.8537127,42 BANCROFT RIDGE DR,Bancroft,Ontario,K0L 1C0,Townhouse,759900,3,2,0
+86,43.5896231,-79.6443879,#138 -2315 BROMSGROVE RD,Mississauga,Ontario,L5J 4A6,Townhouse,749000,3,4,1
+87,45.3128048,-75.8940505,1 BYLOT COURT,Kanata,Ontario,K2L 2V3,Townhouse,733000,3,3,0
+88,44.3596825,-78.7421729,5 LIME ST,Kawartha Lakes,Ontario,K0M 1K0,Townhouse,725000,4,2,0
+89,44.35012,-78.73286,43 LUCAS Crescent,Lindsay,Ontario,K9V 0C6,Detached,719900,4,4,1
+90,42.986695,-81.182819,1545 GORE RD,London,Ontario,N5W 1T9,Detached,699900,5,1,0
+91,44.0422275,-77.7370071,2 SINGLETON ST,Brighton,Ontario,K0K 1H0,Detached,699000,3,2,0
+92,43.8505287,-79.0208814,273 MONARCH AVE,Ajax,Ontario,L1S 0C2,Townhouse,698000,3,3,0
+93,45.4208777,-75.6901106,4344 WILDMINT SQUARE,Ottawa,Ontario,K1V 1N5,Townhouse,697880,3,3,0
+94,44.7438271,-81.1408154,771 GOULD Street,Wiarton,Ontario,N0H 2T0,Detached,689900,2,1,0
+95,43.012513,-81.230204,27A EMPIRE ST,London,Ontario,N5Y 1G6,Detached,669000,3,2,1
+96,42.8387232,-80.63686805,4915 HWY 59 S,Norfolk,Ontario,N0J 1E0,Detached,659900,3,2,1
+97,44.7243912,-80.9316713,319921 KEMBLE ROCK Road,Kemble,Ontario,N0H 1S0,Detached,649900,3,2,0
+98,43.2560802,-79.8728583,#20 -40 SUMMERCREST DR,Hamilton,Ontario,L8K 6M5,Townhouse,649900,3,2,0
+99,44.7207522,-76.924124,1021 STOLL Lane,Arden,Ontario,K0H 1B0,Detached,649900,3,1,0
+100,42.403594,-82.188613,20 Betty COURT,Chatham,Ontario,N7M 0T9,Townhouse,649900,4,3,0
+101,44.5224813,-80.0203156,97 NEW YORK AVE,Wasaga Beach,Ontario,L9Z 3A8,Detached,649500,2,2,0
+102,45.4208777,-75.6901106,111 QUEENSBURY DRIVE,Ottawa,Ontario,K2J 4P2,Detached,645900,3,2,0
+103,44.1088502,-79.1226768,708 REGIONAL RD 13 RD,Uxbridge,Ontario,L0C 1C0,Detached,629000,2,1,0
+104,45.4208777,-75.6901106,161 LERTA WAY,Ottawa,Ontario,K4A 0W5,Detached,619900,3,3,0
+105,45.4208777,-75.6901106,143 GLADEVIEW PRIVATE,Ottawa,Ontario,K1T 4C4,Detached,619900,2,3,1
+106,44.3893113,-79.6901736,#10 -57 FERNDALE DR S,Barrie,Ontario,L4N 5W9,Townhouse,619000,3,3,0
+107,44.3893113,-79.6901736,73 COURTNEY CRES,Barrie,Ontario,L4N 5S8,Townhouse,614900,2,2,0
+108,43.738576,-79.468834,#1 -169 WILLIAM DUNCAN RD,Toronto,Ontario,M3K 0B8,Townhouse,599000,2,1,1
+109,43.1408157,-80.2631733,66 MUNRO CIRC,Brantford,Ontario,N3T 0R5,Townhouse,599000,3,3,0
+110,44.2019073,-77.8868553,43 HUTCHINSON Court,Warkworth,Ontario,K0K 3K0,Detached,599000,2,2,1
+111,45.4208777,-75.6901106,267 MONACO PLACE,Ottawa,Ontario,K4A 0G6,Detached,579999,3,3,0
+112,45.041406,-74.733993,2199 BURKE AVENUE,Cornwall,Ontario,K6H 0H5,Detached,579000,2,2,1
+113,43.451291,-80.4927815,9 ROBERTS CRES,Kitchener,Ontario,N2E 1A6,Semi-Detached,575000,3,2,0
+114,44.34768505,-79.10016490761303,B28700 HWY 12,Brock,Ontario,L0K 1A0,Detached,559900,3,1,0
+115,44.5053083,-77.4726069,630 QUIN MO LAC Road,Madoc,Ontario,K0K 2K0,Detached,550000,3,2,0
+116,45.821328,-77.110488,21 BARRY STREET,Pembroke,Ontario,K8A 7L6,Detached,550000,3,2,0
+117,44.3945886,-80.7952482,777034 10 Highway,Holland Centre,Ontario,N0H 1R0,Detached,549900,2,1,0
+118,42.1013315,-83.1086458,30 BRUSH,Amherstburg,Ontario,N9V 3Y4,Detached,549900,3,2,0
+119,45.1403366,-76.1465672,35 RIDDELL STREET,Carleton Place,Ontario,K7C 3P2,Townhouse,529900,3,4,0
+120,42.9922181,-79.2484192,143 Commercial Street,Welland,Ontario,L3B 5Z2,Semi-Detached,499900,3,2,0
+121,44.8240917,-76.0922993,38 R6 ROAD,Lombardy,Ontario,K0G 1L0,Detached,499900,2,1,0
+122,44.6250121,-77.7239592234209,3 TECUMSEH ST,Marmora and Lake,Ontario,K0K 2M0,Detached,499900,3,1,0
+123,42.986695,-81.182819,482 HALE ST,London,Ontario,N5W 1G4,Detached,450000,2,1,1
+124,43.2560802,-79.8728583,74 ELLIS Avenue|Unit #4,Hamilton,Ontario,L8H 4L9,Semi-Detached,447400,2,1,0
+125,45.6276233,-76.8790385,270 MANSEL HILL ROAD,Cobden,Ontario,K0J 1K0,Detached,439000,3,1,0
+126,44.5678105,-80.9430094,1610 7TH Avenue E,Owen Sound,Ontario,N4K 2Z4,Detached,420000,3,2,0
+127,43.2560802,-79.8728583,137 Cathcart Street,Hamilton,Ontario,L8L 5A1,Townhouse,400000,2,3,1
+128,42.969292,-81.20529,#132 -690 LITTLE GREY ST,London,Ontario,N5Z 4M9,Townhouse,399900,4,2,0
+129,42.9922181,-79.2484192,121 Regent Street,Welland,Ontario,L3B 4H7,Detached,399900,4,2,0
+130,43.8975558,-78.8635324,#91 -1760 SIMCOE ST N,Oshawa,Ontario,L1G 4S1,Townhouse,399000,3,3,0
+131,45.4208777,-75.6901106,920 DYNES ROAD UNIT#59,Ottawa,Ontario,K2C 0G8,Townhouse,399000,3,3,1
+132,42.363585,-82.177131,101 Raleigh STREET,Chatham,Ontario,N7M 2N1,Detached,349900,3,1,0
+133,44.210386,-77.306575,175 HERCHIMER Avenue,Belleville,Ontario,K8N 4G7,Detached,344900,2,1,0
+134,44.000429,-77.148249,29 3RD Avenue S,Saugeen Indian Reserve 29,Ontario,N0H 2G0,Detached,279900,3,1,0
+135,44.647651,-77.12162,113277 HIGHWAY 7,Kaladar,Ontario,K0H 1Z0,Detached,269000,3,1,0
+136,44.9013316,-76.0212062,4 PEARL STREET UNIT#F,Smiths Falls,Ontario,K7A 5B5,Townhouse,257900,2,1,0
+137,43.2855122,-80.4507012,673 BRANT-WATERLOO Road Unit# 229,Ayr,Ontario,N0B 1E0,Detached,100000,1,1,0
+138,43.602637,-79.506096,#82 -82 HEMAN ST,Toronto,Ontario,M8V 1X5,Detached,99900,2,2,1
+139,43.7941544,-79.5268023,33 SCUFFLER DR,Vaughan,Ontario,L6A 4Y7,Detached,2999888,4,5,0
+140,43.621861,-79.943877,11134 5 SIDE RD,Halton Hills,Ontario,L7G 4S6,Detached,2999000,4,4,0
+141,43.2556116,-79.0723264,14541 NIAGARA RIVER PKWY,Niagara-on-the-Lake,Ontario,L0S 1L0,Detached,2998800,4,4,1
+142,44.0034771,-79.60477076446632,15415 JANE ST,King,Ontario,L7B 1A3,Detached,2995000,3,3,0
+143,44.3596825,-78.7421729,31 WISPI SHORE RD,Kawartha Lakes,Ontario,K9V 0K4,Detached,2900000,6,6,0
+144,44.014469,-79.323704,4282 VIVIAN RD,Whitchurch-Stouffville,Ontario,L4A 1Z2,Detached,2888000,4,3,1
+145,43.780366,-79.34786,57 ALAMOSA DR,Toronto,Ontario,M2J 2N8,Detached,2790000,3,3,1
+146,43.447436,-79.666672,121 WATERVIEW COMMON,Oakville,Ontario,L6L 0E7,Detached,2699200,4,4,0
+147,44.3150892,-79.5461073,3696 FERRETTI CRT,Innisfil,Ontario,L9S 0N6,Detached,2699000,4,5,0
+148,43.3248924,-79.7966835,643 WEST OVAL Drive,Burlington,Ontario,L7T 1C1,Detached,2698000,3,4,1
+149,43.7941544,-79.5268023,40 DEAN PL,Vaughan,Ontario,L3L 0A8,Detached,2650000,3,4,1
+150,43.6858146,-79.7599337,48 FOOTHILLS CRES,Brampton,Ontario,L6P 4G9,Detached,2599900,5,5,1
+151,44.0034771,-79.60477076446632,13066 KEELE ST,King,Ontario,L7B 1H8,Detached,2599000,3,2,0
