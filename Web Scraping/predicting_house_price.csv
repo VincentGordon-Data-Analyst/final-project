@@ -1,615 +1,610 @@
-,street,city,province,postal_code,style,price,number_of_beds,number_of_baths,extra_space
-0,#903 -151 AVENUE RD,Toronto,Ontario,M5R 2H7,Apartment,1955000,2,2,1
-1,7575 4TH LINE,Centre Wellington,Ontario,N0B 1S0,Detached,1799900,5,2,0
-2,388A WHITMORE AVE,Toronto,Ontario,M6E 2N4,Triplex,1795000,4,2,1
-3,332 DURIE ST,Toronto,Ontario,M6S 3G3,Detached,1699000,4,2,0
-4,71 WALMSLEY BLVD,Toronto,Ontario,M4V 1X7,Duplex,1599000,3,2,0
-5,#319 -9909 PINE VALLEY DR,Vaughan,Ontario,L4H 4M1,Apartment,1488800,2,2,0
-6,B130 CONCESSION ROAD 1 RD,Brock,Ontario,L0K 1A0,Detached,1399000,3,2,0
-7,#PH01 -30 ROEHAMPTON AVE,Toronto,Ontario,M4P 1R2,Apartment,1267280,2,2,1
-8,454638 ROAD 45 RD,Grey Highlands,Ontario,N0C 1C0,Detached,1260000,3,2,0
-9,556 BARTON ST E,Hamilton,Ontario,L8E 5N3,Detached,1250000,3,2,0
-10,223213 STATION ST,Amaranth,Ontario,L0N 1G0,Detached,1249999,3,2,1
-11,2193 TRUSCOTT DR,Mississauga,Ontario,L5J 2A7,Detached,1249888,3,2,1
-12,74 SEVENTEENTH ST,Toronto,Ontario,M8V 3K4,Detached,1199000,2,2,1
-13,523 MARINERS WAY,Collingwood,Ontario,L9Y 5C7,Apartment,1180000,2,2,0
-14,61 HORSESHOE BAY RD,Haldimand,Ontario,N1A 2W8,Detached,1147000,3,2,1
-15,61 HORSESHOE BAY Road,Dunnville,Ontario,N1A 2W8,Detached,1147000,3,2,1
-16,#2508 -357 KING  ST W,Toronto,Ontario,M5V 1K1,Apartment,1130000,2,2,0
-17,9 CLEGG RD S,Markham,Ontario,L6G 0G6,Apartment,1109900,3,2,0
-18,4994 CANBOROUGH RD,West Lincoln,Ontario,L0R 2J0,Detached,1099999,3,2,1
-19,116 ELLIOTT ST,Brampton,Ontario,L6Y 1W4,Detached,1088888,3,2,1
-20,925 BOGDANOVIC Way,Huron-Kinloss,Ontario,N2Z 0H3,Detached,1059000,3,2,0
-21,#640 -21 DALE AVE,Toronto,Ontario,M4W 1K3,Apartment,1049000,2,2,0
-22,232 ROSLIN Road,Hastings,Ontario,K0K 2Y0,Detached,999000,3,2,1
-23,#1308 -33 ELLEN ST,Barrie,Ontario,L4N 6E9,Apartment,999000,2,2,0
-24,1438 DUNNS LINE,Severn,Ontario,L0K 1E0,Detached,999000,2,2,1
-25,122 DRIVE-IN Crescent,Owen Sound,Ontario,N4K 5N7,Detached,985000,4,2,1
-26,140 FINLEY MCEWEN AVENUE,Carleton Place,Ontario,K7C 3P2,Detached,979000,4,2,0
-27,140 FINLEY MCEWEN AVENUE,Carleton Place,Ontario,K7C 3P2,Detached,979000,4,2,0
-28,6 LYNNWOOD Avenue,Grimsby,Ontario,L3M 2X7,Detached,949900,3,2,0
-29,255 GUILDWOOD DR,Hamilton,Ontario,L9C 6W7,Detached,949900,3,2,1
-30,2131 Cavendish Drive,Burlington,Ontario,L7P 1Z5,Detached,899900,3,2,0
-31,2131 CAVENDISH DR,Burlington,Ontario,L7P 1Z5,Detached,899900,3,2,0
-32,2131 CAVENDISH DR,Burlington,Ontario,L7P 1Z5,Detached,899900,3,2,0
-33,1737 Cote Boulevard,Hanmer,Ontario,P3P 0B2,Detached,849900,5,2,0
-34,1737 Cote Boulevard,Hanmer,Ontario,P3P 0B2,Detached,849900,5,2,0
-35,##47 -2441 GREENWICH DR,Oakville,Ontario,L6M 0S4,Townhouse,834950,2,2,0
-36,479 JOSEPH GALE ST,Cobourg,Ontario,K9A 3N3,Detached,824000,2,2,0
-38,#615 -25 BAKER HILL BLVD,Whitchurch-Stouffville,Ontario,L4A 1P8,Apartment,818000,1,2,1
-39,#207 -1190 DUNDAS ST E,Toronto,Ontario,M4M 0C5,Apartment,799999,2,2,0
-40,294 WOLFE ST,Oshawa,Ontario,L1H 3T7,Detached,799900,3,2,1
-41,44 ELDOMAR AVE,Brampton,Ontario,L6W 1P7,Detached,799900,2,2,1
-42,479 HAYWARD ST,Cobourg,Ontario,K9A 3N5,Townhouse,799000,3,2,0
-43,#PH 3 -58 CHURCH ST E,Brampton,Ontario,L6V 4A8,Apartment,799000,2,2,0
-44,225 VILLAGE GREEN SQ,Toronto,Ontario,M1S 0N4,Apartment,780000,2,2,1
-45,#1504 -45 KINGSBRIDGE GARDEN CIRC,Mississauga,Ontario,L5R 3K4,Apartment,779900,2,2,1
-46,#825 -4263 FOURTH AVE,Niagara Falls,Ontario,L7E 4N2,Townhouse,777000,3,2,0
-47,102 COURTLEIGH SQ,Brampton,Ontario,L6Z 1J3,Townhouse,769000,3,2,0
-48,1773 PAISLEY AVENUE,Ottawa,Ontario,K2C 1A7,Detached,759900,3,2,1
-49,1174 ALFRED ST,Innisfil,Ontario,L0L 1C0,Detached,759500,3,2,0
-50,1038 RIVIERA DRIVE,Ottawa,Ontario,K1K 0N8,Detached,749900,3,2,1
-51,1905 Main Street E,Hamilton,Ontario,L8H 1G6,Detached,749500,3,2,1
-52,1905 MAIN ST E,Hamilton,Ontario,L8H 1G6,Detached,749500,3,2,1
-53,1484 HEARTLAND BLVD,Oshawa,Ontario,L1K 2P2,Detached,749000,3,2,0
-54,15 VICTORIA CRES,Centre Wellington,Ontario,N1M 2W3,Detached,746969,3,2,1
-55,139 RIDGE Road,Rockwood,Ontario,N0B 2K0,Townhouse,739000,3,2,0
-56,146 ALLEGRA DR,Wasaga Beach,Ontario,L9Z 1P6,Detached,729000,2,2,0
-57,423 AUDEN RD,Guelph,Ontario,N1E 6V7,Detached,724900,3,2,0
-58,34 DALGLEISH AVE,Kingston,Ontario,K7L 0C3,Detached,724888,3,2,1
-59,#111 -1441 WALKER'S LINE,Burlington,Ontario,L7M 4P2,Apartment,719900,2,2,0
-60,13 Alpine Avenue,Hamilton,Ontario,L9A 1A4,Detached,710000,3,2,0
-61,13 ALPINE AVE,Hamilton,Ontario,L9A 1A4,Detached,710000,3,2,0
-62,9 DOWNEY Street,Kitchener,Ontario,N2H 6K5,Detached,700000,3,2,0
-63,1869 MUSKOKA 118 Road W Unit# BTV-W-103,Bracebridge,Ontario,P1L 1W8,Apartment,699999,2,2,0
-64,1172 HILL ST,Innisfil,Ontario,L9S 1Y1,Townhouse,699999,2,2,0
-65,#1401 -1055 SOUTHDOWN RD,Mississauga,Ontario,L5J 0A3,Apartment,699999,1,2,1
-66,61 SEVEN OAKS ST,Whitby,Ontario,L1R 0C2,Detached,699900,2,2,0
-67,#1711 -50 ELM DR E,Mississauga,Ontario,L5A 3X2,Apartment,699900,2,2,1
-68,#1501 -8 REAN DR,Toronto,Ontario,M2K 3B9,Apartment,699900,2,2,0
-69,#2004 -4065 CONFEDERATION PKWY,Mississauga,Ontario,L5B 0E9,Apartment,699900,2,2,0
-70,308 NIAGARA ST,Haldimand,Ontario,N1A 2B3,Detached,699500,4,2,0
-71,937 YONGE ST E,Barrie,Ontario,L9S 3C1,Detached,699000,3,2,1
-72,138 GLEDHILL Crescent,Hamilton,Ontario,L9C 6H4,Townhouse,669900,3,2,0
-73,17 BROOKDALE Avenue,St. Catharines,Ontario,L2T 2T2,Detached,665000,3,2,0
-74,#40 -2500 HILL RISE CRT,Oshawa,Ontario,L1L 0J5,Townhouse,654900,2,2,0
-75,19 RUPERTS RD,Madoc,Ontario,K0K 2K0,Detached,650000,3,2,0
-76,238 BROWNING TR,Barrie,Ontario,L4N 5C1,Detached,649900,3,2,0
-77,#2310 -50 TOWN CENTRE CRT,Toronto,Ontario,M1P 0A9,Apartment,649000,2,2,1
-78,1235 RICHMOND ST,London,Ontario,N6A 0C1,Apartment,649000,3,2,0
-79,102 QUEEN ST,Essa,Ontario,L0M 1B0,Detached,649000,3,2,0
-80,#831 -3091 DUFFERIN ST,Toronto,Ontario,M6A 2S7,Apartment,629000,2,2,0
-81,#6108 -5 BUTTERMILL  AVE,Vaughan,Ontario,L4J 0J5,Apartment,628000,2,2,0
-82,112 KING Street E|Unit #807,Hamilton,Ontario,L8N 1A8,Apartment,627997,2,2,0
-83,124 Grassland Grove,Chatham,Ontario,N7M 0T2,Detached,609900,3,2,0
-84,569 HURDVILLE Road,McKellar,Ontario,P2A 0B5,Detached,599900,3,2,0
-85,2032 MAIN ST N,Haldimand,Ontario,N0A 1J0,Detached,599900,2,2,0
-86,#L -2111 MEADOWBROOK RD,Burlington,Ontario,L7P 2A5,Townhouse,599000,3,2,0
-87,2111 Meadowbrook Road|Unit #L,Burlington,Ontario,L7P 2A5,Townhouse,599000,3,2,0
-88,#511 -500 GREEN RD,Hamilton,Ontario,L8E 3M6,Apartment,599000,2,2,1
-89,500 GREEN Road|Unit #511,Stoney Creek,Ontario,L8E 3M6,Apartment,599000,2,2,0
-90,#706 -223 BEECROFT RD,Toronto,Ontario,M2N 6Z9,Apartment,598000,1,2,1
-91,#301 -335 WEBB DR,Mississauga,Ontario,L5B 4A1,Apartment,589800,2,2,1
-92,#154 -2095 ROCHE CRT,Mississauga,Ontario,L5K 2C8,Townhouse,575000,2,2,1
-93,#515 -1300 MARLBOROUGH CRT,Oakville,Ontario,L6H 2S2,"Storage - Locker, Party Room, Exercise Centre, Recreation Centre",559999,3,2,0
-94,11 PRINCESS Street,Glen Morris,Ontario,L4B 1J8,Detached,550000,3,2,0
-95,851 GOLF CLUB ROAD,Hawkesbury,Ontario,K6A 2R2,Detached,550000,3,2,0
-96,27 JONES LANE,Welland,Ontario,L3G 3M6,Detached,549400,2,2,1
-97,223 AUBURN AVE,Hamilton,Ontario,L8K 3B7,Detached,549000,2,2,1
-98,#704 -665 KENNEDY RD,Toronto,Ontario,M1K 5E2,Apartment,519000,3,2,0
-99,80 Duskridge Road,Chatham,Ontario,N7L 0G6,Detached,509900,2,2,0
-100,33 DAYTON Court,Picton,Ontario,K0K 2T0,Detached,499900,2,2,0
-101,152 ANTONIO COURT,Leamington,Ontario,N8H 5P5,Townhouse,499000,2,2,1
-102,#104 -410 DUNDAS ST S,Cambridge,Ontario,N1R 8H7,Apartment,499000,2,2,0
-103,U 10 116 CEDARDALE RD,Brighton,Ontario,K0K 1H0,Mobile,499000,3,2,0
-104,41 PORTLAND AVENUE,Cornwall,Ontario,K6H 0A2,Detached,489900,2,2,1
-105,#205 -358 WATERLOO AVE,Guelph,Ontario,N1H 7Y3,Apartment,479900,2,2,1
-106,23 MARY STREET,Petawawa,Ontario,K8H 1R8,Detached,449900,3,2,0
-107,55 Plumtree Crescent,Sudbury,Ontario,P3B 4G7,Detached,424900,4,2,0
-108,10 COOPER Street Unit# 215,Cambridge,Ontario,N3C 2N2,Apartment,400000,2,2,0
-109,1135 10TH Avenue E,Owen Sound,Ontario,N4K 5V5,Detached,400000,2,2,1
-110,7 LEE Street,Walkerton,Ontario,N0G 2V0,Detached,399900,2,2,1
-111,450 McEwan AVENUE,Windsor,Ontario,N9B 2E8,Duplex,399000,4,2,0
-112,#76 -92 STROUD CRES,London,Ontario,N6E 1Y8,Townhouse,390000,3,2,0
-113,257 McMillan Crescent,Dryden,ON,P8N 0A2,4,389000,4,2,0
-114,329 THIRD STREET,Cornwall,Ontario,K6H 2E3,Detached,379900,3,2,0
-115,193 West River Road,Dryden,ON,P8N 2Y5,4,379900,4,2,0
-116,4530 STE-CATHERINE STREET,St Isidore,Ontario,K0C 2B0,Detached,374900,3,2,0
-117,231 Glen AVE,Sault Ste. Marie,Ontario,P6A 5E3,Detached,359000,3,2,0
-118,210 Walsh Street W,Thunder Bay,ON,P7E 4W6,3,355000,3,2,0
-119,86 NELSON Avenue,North Bay,Ontario,P1A 1Z9,Detached,349900,2,2,1
-120,6300 WILLIAM-MILLIKEN Road,Kettle Point,Ontario,N0N 1J1,Detached,329900,2,2,0
-121,44 WILSON ROAD,Petawawa,Ontario,K8H 2Y3,Detached,315900,2,2,0
-122,434 GOLF COURSE ROAD,Pembroke,Ontario,K8A 7B4,Detached,309900,2,2,0
-123,7 MILL STREET,Oxford Station,Ontario,K0G 1T0,Detached,309000,1,2,1
-124,121 Amelia Street W,Thunder Bay,ON,P7E 4A1,4,259900,4,2,0
-125,52 Hudson Drive,Terrace Bay,ON,P0T 2W0,3,219900,3,2,0
-126,219 DOUGLAS AVE,Toronto,Ontario,M5M 1G9,Detached,1599000,3,2,1
-127,1225 Bellview Street,Burlington,ON,L7S 1C8,1038 Square Feet,1372900,3,2,0
-128,616 Lakeshore Road,Fort Erie,ON,L2A 1B6,2050 Square Feet,1298800,3,2,0
-129,341 Lawrence Ave W,Toronto,ON,M5M 1B6,Detached,1290000,3,2,1
-130,454638 Road 45,Feversham,ON,N0C 1C0,2939 Square Feet,1260000,3,2,0
-131,#4002 -1 YORKVILLE AVE,Toronto,Ontario,M4W 1L1,Apartment,1169000,2,2,0
-132,58 Pinecone Avenue,Tiny,ON,L9M 0J2,1820 Square Feet,1125000,3,2,0
-133,307604 Hockley Rd,Mono,ON,L9W 6N1,Detached,1100000,4,2,0
-134,4994 Canborough Road,Wellandport,ON,L0R 2J0,1554 Square Feet,1099999,4,2,0
-135,3408-357 King St W,Toronto,ON,M5V 1K1,Apartment,1099000,2,2,0
-136,1360 WOODBINE AVE,Toronto,Ontario,M4C 4G5,Detached,999999,2,2,1
-137,1360 WOODBINE AVE,Toronto,Ontario,M4C 4G5,Detached,999999,2,2,1
-138,#4204 -12 YORK ST,Toronto,Ontario,M5J 0A9,Apartment,999000,3,2,1
-139,1308-33 Ellen Street,Barrie,ON,L4N 6E9,1369 Square Feet,999000,2,2,0
-140,290 Shanty Bay Road,Oro-Medonte,ON,L4M 1E6,957 Square Feet,999000,3,2,0
-141,807-60 Old Mill Road,Oakville,ON,L6J 7V9,1050 Square Feet,929900,2,2,0
-142,62 Ottawa Street,Whitney,ON,K0J 2M0,2060 Square Feet,925000,4,2,0
-143,71 Little John Road,Dundas,ON,L9H 4G9,Yes,899000,4,2,0
-144,2228 CONCESSION 6 RD,Clarington,Ontario,L0B 1J0,Detached,899000,3,2,0
-145,7 PENDEEN AVE,Toronto,Ontario,M6N 2P4,Detached,899000,3,2,1
-146,378 Jonathan Street,London,ON,N5Z 5C8,2150 Square Feet,895000,3,2,0
-147,214-800 Lawrence Ave W,Toronto,ON,M6A 1C3,Apartment,879900,2,2,1
-148,66 St Andrew Street,Paris,ON,N3L 2X3,Yes,879888,3,2,0
-149,55 Belcourt Crescent,Guelph,ON,N1H 7A6,1162 Square Feet,875000,4,2,0
-150,#2205 -5 ST JOSEPH ST,Toronto,Ontario,M4Y 0B6,Apartment,868000,1,2,1
-151,441038 CONCESSION 12-13 RD,East Luther Grand Valley,Ontario,L9W 0Z9,Detached,849900,3,2,0
-152,407-1888 Queen St E,Toronto,ON,M4L 1H3,Apartment,849000,2,2,0
-153,431 GLENHOLME AVE,Toronto,Ontario,M6E 3E9,Detached,849000,3,2,1
-154,43 Warwick Avenue,Grand Bend,ON,N0M 1T0,1406 Square Feet,839900,4,2,0
-155,331 Tweedsmuir Avenue,London,ON,N5W 1L5,1494 Square Feet,829900,3,2,0
-156,28 Cottonwood Dr,Toronto,ON,M3C 2B4,Townhouse,828000,3,2,0
-157,531 Sandybrook Drive,London,ON,N5X 4H1,1711.93,819900,2,2,0
-158,#723 -50 CLEGG RD,Markham,Ontario,L6G 0C6,Apartment,809980,2,2,0
-159,207-1190 Dundas Street E,Toronto,ON,M4M 0C5,754 Square Feet,799999,2,2,0
-160,230 Frederick Court,Tavistock,ON,N0B 2R0,1470 Square Feet,799900,2,2,0
-161,100 Stirling Avenue N,Kitchener,ON,N2H 3G8,1242 Square Feet,799900,4,2,0
-162,241 BOON AVE,Toronto,Ontario,M6E 3Z7,Detached,799900,3,2,0
-163,2102-1215 York Mills  Rd,Toronto,ON,M3A 1Y4,Apartment,797000,2,2,0
-164,167 Highland Dr,Orangeville,ON,L9W 3J5,Detached,779000,4,2,0
-165,1137 Prince Philip Drive,London,ON,N6H 4E8,1600 Square Feet,749900,4,2,0
-166,15 Victoria Crescent,Fergus,ON,N1M 2W3,1191 Square Feet,746969,4,2,0
-167,1664 Ridge Road E,Hawkestone,ON,L0L 1T0,845 Square Feet,745000,3,2,0
-168,14 Elm Street,Picton,ON,K0K 2T0,1431 Square Feet,745000,3,2,0
-169,418-302 Essa Road,Barrie,ON,L9J 0H3,1454 Square Feet,739900,2,2,0
-170,3561 Imperial Road,Aylmer,ON,N2H 2R2,1046 Square Feet,739500,2,2,0
-171,146 Allegra Drive,Wasaga Beach,ON,L9Z 1P6,1327 Square Feet,729000,2,2,0
-172,212-85 Wellington St W,Aurora,ON,L4G 2P2,Apartment,729000,2,2,0
-173,423 Auden Road,Guelph,ON,N1E 6V7,1129 Square Feet,724900,3,2,0
-174,34 Dalgleish Avenue,Kingston,ON,K7L 0C3,1102 Square Feet,724888,5,2,0
-176,815 Mohawk Road E,Hamilton,Ontario,L8T 2R4,Detached,699000,3,2,1
-177,#504 -2908 HWY 7 RD N,Vaughan,Ontario,L4K 0H8,Apartment,699000,1,2,1
-178,10-530 Falgarwood Drive,Oakville,ON,L6H 1N3,1590 Square Feet,699000,3,2,0
-179,42 HIGHLAND DR W,Orangeville,Ontario,L9W 2Y3,Detached,680000,3,2,1
-180,#611 -15 SINGER CRT,Toronto,Ontario,M2K 0B1,Apartment,665000,1,2,1
-181,40-2500 Hill Rise Court,Oshawa,ON,L1L 0J5,900 Square Feet,654900,2,2,0
-182,71 Leeson St S,East Luther Grand Valley,ON,L9W 5S5,Detached,650000,3,2,1
-183,#316 -2910 HIGHWAY 7 RD W,Vaughan,Ontario,L4K 0H8,Apartment,649900,1,2,1
-184,16 Wiltshire Drive,Brantford,ON,N3R 5A9,1341 Square Feet,649900,4,2,0
-185,128 The Greenway,Cambridge,ON,N1R 6L9,1021 Square Feet,649900,3,2,0
-186,6 Arrow Wood Court,Guelph,ON,N1G 4X7,1283.65,649900,2,2,0
-187,#1010 -6 EVA RD,Toronto,Ontario,M9C 0B1,Apartment,634900,2,2,0
-188,101 Martindale Road,St. Catharines,ON,L2S 2Y7,1030 Square Feet,629900,5,2,0
-189,57-369 Essa Road Road,Barrie,ON,L4N 9C8,1388 Square Feet,624900,3,2,0
-190,4119 Rd 164 Road,Mitchell,ON,N0K 1N0,2086 Square Feet,607000,3,2,0
-191,158 Huron Road,Sebringville,ON,N0K 1N0,2000 Square Feet,599900,4,2,0
-192,499 Canterbury Street,Woodstock,ON,N4S 4K6,1600 Square Feet,589900,2,2,0
-193,81 Field Street,Lively,ON,P3Y 1B4,1325 Square Feet,575000,3,2,0
-194,3211 Highway 3,Simcoe,ON,N3Y 4K6,1444 Square Feet,549919,3,2,0
-195,104 St David Street,Mitchell,ON,N0K 1N0,1344 Square Feet,549000,4,2,0
-196,103 Empire Lane,Meaford,ON,N4L 0A5,1583 Square Feet,549000,2,2,0
-197,6 Tillson Street,Tillsonburg,ON,N4G 2X2,1367 Square Feet,535000,5,2,0
-198,202-155 Water Street S,Cambridge,ON,N1R 3E3,850 Square Feet,524900,2,2,0
-199,59 Lankin Boulevard,Orillia,ON,L3V 6T1,1564 Square Feet,519000,3,2,0
-200,22 The Greenway Way,Cambridge,ON,N1R 6L8,1053 Square Feet,514500,3,2,0
-201,326 Glen Cairn Terrace,Kingston,ON,K7M 4A5,1109 Square Feet,509900,4,2,0
-202,64-26 Poplar Drive,Cambridge,ON,N3C 4A4,1412 Square Feet,500000,3,2,0
-203,51 HARRIS ST,Cambridge,Ontario,N1R 3X9,Duplex,499900,5,2,0
-204,207-344 Florence Drive,Peterborough,ON,K9J 0K4,888 Square Feet,499900,2,2,0
-205,#1046 -100 MORNELLE CRT,Toronto,Ontario,M1E 4X2,Townhouse,499900,2,2,1
-206,230 Grey Street,Brantford,ON,N3S 4W7,1500 Square Feet,499900,3,2,0
-207,#1111 -36 LISGAR ST,Toronto,Ontario,M6J 0C7,Apartment,499000,2,2,0
-208,321-8 Harris Street,Cambridge,ON,N1R 8R1,818 Square Feet,489800,2,2,0
-209,14 Mariah Street,North Bay,ON,P1A 4L9,1066 Square Feet,449000,3,2,0
-210,32-14 New Lakeshore Road,Port Dover,ON,N0A 1N8,1026 Square Feet,423750,3,2,0
-211,76-92 Stroud Crescent,London,ON,N6E 1Y8,1170 Square Feet,390000,3,2,0
-212,6300 William-Milliken Road,Kettle Point,ON,N0N 1J1,1380 Square Feet,329900,2,2,0
-213,484 Dundas Street,Deseronto,ON,K0K 1X0,1390 Square Feet,299900,2,2,0
-214,92 DAY AVE,Toronto,Ontario,M6E 3V9,Detached,1189000,3,2,1
-215,15494 HWY 41,Cloyne,Ontario,K0H 1K0,Detached,1185000,3,2,1
-216,3082 30 Side Rd,Milton,ON,N0B 2K0,Detached,1175000,3,2,1
-217,#403 -20 TUBMAN AVE,Toronto,Ontario,M5A 0M5,Apartment,1145000,3,2,0
-218,#1912 -1 MARKET ST,Toronto,Ontario,M5E 0A2,Apartment,1100000,2,2,1
-219,2070 CHURCHILL AVE,Burlington,Ontario,L7R 3T7,Detached,1099000,4,2,0
-220,60 Balmoral Place,Barrie,ON,L4N 0Y9,2189 Square Feet,1049000,5,2,0
-221,61 BARRYMORE RD,Toronto,Ontario,M1J 1W4,Detached,998888,3,2,1
-222,89 REYNOLDS RD,Centre Wellington,Ontario,N0B 1S0,Detached,998000,3,2,0
-223,38 Erie Avenue S,Fisherville,Ontario,N0A 1G0,Detached,899999,3,2,0
-224,15 FERGUSON DR,Barrie,Ontario,L4N 7B4,Detached,899999,3,2,1
-225,#1203 -5 KENNETH AVE,Toronto,Ontario,M2N 6M7,Apartment,899000,2,2,1
-226,#3210 -10 PARK LAWN RD,Toronto,Ontario,M8V 0H9,Apartment,895000,2,2,1
-227,7 Yarmouth Court,Hamilton,Ontario,L8S 3E2,Detached,869900,4,2,1
-228,#125 -5030 HEATHERLEIGH AVE,Mississauga,Ontario,L5V 2G7,Townhouse,869900,3,2,0
-229,#2215 -72 ESTHER SHINER BLVD,Toronto,Ontario,M2K 2X9,Apartment,869000,2,2,0
-230,#1032 -100 EAGLE ROCK WAY,Vaughan,Ontario,L6A 5A7,Apartment,858000,2,2,1
-231,1229 DELMARK CRT,Oshawa,Ontario,L1H 8K6,Detached,849000,3,2,0
-232,1317 UPPER SHERMAN AVE,Hamilton,Ontario,L8W 3E7,Detached,829000,3,2,1
-233,29 ADELAIDE STREET,Ottawa,Ontario,K1S 3S1,Townhouse,824000,3,2,0
-234,82-1058 Whitings Road,Torrance,ON,P0C 1M0,1140.72,800000,3,2,0
-235,22A BERNICK DR,Barrie,Ontario,L4M 5J5,Duplex,799999,3,2,1
-236,411 Leacock Drive,Barrie,ON,L4N 5L8,1005 Square Feet,799900,6,2,0
-237,14 HUCKLEBERRY SQ,Brampton,Ontario,L6S 1Y2,Detached,799000,4,2,0
-238,303 SECOND Avenue N,Sauble Beach,Ontario,N0H 2G0,Detached,799000,4,2,0
-239,44 WALTER AVE,Newmarket,Ontario,L3Y 2T3,Detached,789900,3,2,1
-240,6662 STANMORE STREET,Ottawa,Ontario,K4P 1G7,Detached,789000,3,2,0
-241,72 KINZIE LANE,Barrie,Ontario,L4M 5Z8,Detached,786500,4,2,1
-242,16 SHANNON ST,Barrie,Ontario,L4M 2K8,Detached,769000,3,2,0
-243,1174 Alfred Street,Innisfil,ON,L0L 1C0,1030 Square Feet,759500,3,2,0
-244,#121 -2 ADAM SELLERS ST,Markham,Ontario,L6B 1P2,Apartment,759000,2,2,0
-245,1 ROSLYN RD,Barrie,Ontario,L4M 2X5,Detached,750000,3,2,1
-246,10 Windward Drive|Unit #307,Grimsby,Ontario,L3M 4E8,Apartment,739000,1,2,0
-247,#407 -550 NORTH SERVICE RD,Grimsby,Ontario,L3M 4E8,Apartment,714900,2,2,0
-248,#704 -15 ELIZABETH ST N,Mississauga,Ontario,L5G 2Z3,Apartment,699900,3,2,0
-249,367 2ND AVENUE SOUTH EAST Avenue,Georgian Bluffs,Ontario,N4K 5T2,Detached,699000,4,2,0
-250,815 MOHAWK RD E,Hamilton,Ontario,L8T 2R4,Detached,699000,3,2,1
-251,2832-7161 Yonge St,Markham,ON,L3T 0C8,Apartment,699000,2,2,1
-252,593 GRANDVIEW ST S,Oshawa,Ontario,L1H 7T5,Detached,699000,3,2,1
-253,1817 KING STREET,Limoges,Ontario,K0A 2M0,Detached,669900,4,2,1
-254,1296 LOWER CRAIGMOUNT ROAD,Combermere,Ontario,K0J 1L0,Detached,669000,2,2,0
-255,147 KENSINGTON AVE N,Hamilton,Ontario,L8L 7N4,Detached,669000,2,2,1
-256,#606 -60 FAIRFAX CRES,Toronto,Ontario,M1L 1Z8,Apartment,659500,2,2,1
-257,2211-15 Queen Street S,Hamilton,ON,L8P 3R6,846 Square Feet,659000,2,2,0
-258,52 Kinnear Crescent,London,ON,N6K 1V8,1424 Square Feet,650000,3,2,0
-259,1262 COLEMAN CRT,Innisfil,Ontario,L0L 2M0,Townhouse,649888,3,2,0
-260,#8 -2444 POST RD,Oakville,Ontario,L6M 5A8,Townhouse,649000,2,2,0
-261,60 LIBBYS ROAD,Braeside,Ontario,K7S 0E1,Detached,624900,3,2,1
-262,56 GOWRIE Drive,Ottawa,ON,K2L 2S5,3,620000,3,2,0
-263,#588 -1 GREYSTONE WALK DR,Toronto,Ontario,M1K 5J3,Apartment,619000,2,2,1
-264,#204 -7 MICHAEL POWER PL,Toronto,Ontario,M9A 0A4,Apartment,615000,1,2,1
-265,2032 Main Street N,Jarvis,Ontario,N0A 1J0,Detached,599900,2,2,0
-266,#1059 -100 MORNELLE CRT,Toronto,Ontario,M1E 4X2,Townhouse,599900,2,2,1
-267,1107-151 Village Green Square,Toronto,ON,M1S 0K5,Apartment,599880,2,2,1
-268,#2106 -3939 DUKE OF YORK BLVD,Mississauga,Ontario,L5B 4N2,Apartment,599000,1,2,1
-269,230 LINDEN  DR,Cambridge,Ontario,N3H 4Y2,Townhouse,590000,3,2,1
-270,#902 -7890 BATHURST ST,Vaughan,Ontario,L4J 0J8,Apartment,580000,1,2,1
-271,#805 -330 MILL ST S,Brampton,Ontario,L6Y 3V3,Apartment,560000,2,2,0
-272,#1102 -840 QUEENS PLATE DR,Toronto,Ontario,M9W 7J9,Apartment,549000,1,2,1
-273,20 QUEEN STREET,Renfrew,Ontario,K7C 2A2,Detached,515000,4,2,0
-274,111 LEACOCK DRIVE,Ottawa,Ontario,K2K 1S7,Detached,499900,4,2,0
-275,62 EMERALD ST N,Hamilton,Ontario,L8L 5K3,Detached,499000,3,2,0
-276,20 OWEN ST,Penetanguishene,Ontario,L9M 1M8,Townhouse,497700,3,2,0
-277,52-423 Westwood Drive,Kitchener,ON,N2M 5B5,1143 Square Feet,449900,3,2,0
-278,120 PRESTIGE CIRCLE UNIT#117,Ottawa,Ontario,K4A 1B4,Apartment,429900,2,2,0
-279,61 WOODFIELD DRIVE UNIT#D,Ottawa,Ontario,K2G 3Y7,Townhouse,429900,3,2,0
-280,694 22ND Street W,Owen Sound,Ontario,N4K 4G4,Detached,395000,2,2,1
-281,#17 -15 NICKLAUS DR,Hamilton,Ontario,L8K 5J5,"Storage - Locker, Party Room, Exercise Centre, Recreation Centre",389900,3,2,0
-282,#601 -3 SOUTHVALE DR,Toronto,Ontario,M4G 1G1,Apartment,1998500,2,2,1
-283,457 CLAREMONT CRES,Oakville,Ontario,L6J 6J9,Detached,1688000,3,2,0
-284,245 Brookview Court,Ancaster,Ontario,L9G 1J7,Detached,1299900,3,2,1
-285,#712 -33 BAY ST,Toronto,Ontario,M5J 2Z3,Apartment,1258000,2,2,1
-286,252 Morton Line,Cavan-Monaghan,ON,L0A 1C0,1130 Square Feet,1200000,3,2,0
-287,523 Mariners Way,Collingwood,ON,L9Y 5C7,1157 Square Feet,1180000,2,2,0
-288,3 GARLAND CRT,Brampton,Ontario,L6S 2E3,Detached,1099000,4,2,1
-289,#PH08 -30 ROEHAMPTON AVE,Toronto,Ontario,M4P 1R2,Apartment,1095584,2,2,1
-290,735 9TH LINE,Innisfil,Ontario,L9S 3X9,Detached,1068000,3,2,0
-291,5780 SECOND LINE E,Guelph/Eramosa,Ontario,N0B 1B0,Detached,999900,3,2,0
-292,84 SHERWOOD FOREST DR,Markham,Ontario,L3P 1R1,Detached,998000,4,2,0
-293,14 MELLON AVE,Georgina,Ontario,L0E 1N0,Detached,989900,3,2,0
-294,356-358 DUNDAS ST E,Hamilton,Ontario,L0R 2H1,Detached,958000,4,2,0
-295,339 GREEN Street,Port Elgin,Ontario,N0H 2C0,Detached,899900,4,2,0
-296,104 DUNSMURE RD,Hamilton,Ontario,L8M 1S4,Detached,899900,6,2,0
-297,#PH2 -7 KENASTON GDNS,Toronto,Ontario,M2K 1G7,Apartment,899000,2,2,1
-298,13 SPEERS AVE,Toronto,Ontario,M9N 1E9,Detached,888000,2,2,1
-299,#633 -120 HARRISON GARDEN BLVD,Toronto,Ontario,M2N 0H1,Apartment,869000,2,2,1
-300,151 STANLEY DR,Grey Highlands,Ontario,N0C 1E0,Detached,800000,2,2,0
-301,22A Bernick Drive,Barrie,ON,L4M 5J5,1032 Square Feet,799999,6,2,0
-302,34 FERNWOOD Terrace,Welland,Ontario,L3C 2R8,Detached,799900,3,2,1
-303,#318 -7363 KENNEDY RD,Markham,Ontario,L3R 5B5,Apartment,799000,3,2,1
-304,#28 -59 KENNINGHALL BLVD,Mississauga,Ontario,L5N 1J6,Detached,799000,3,2,0
-305,#3209 -3515 KARIYA DR,Mississauga,Ontario,L5B 0C1,Apartment,799000,2,2,1
-306,232 THOMSON LANE,Arran-Elderslie,Ontario,N0G 1L0,Detached,789900,3,2,1
-307,1 WINTERGREEN CIRC,Tay,Ontario,L0K 2A0,Detached,755000,2,2,1
-308,27 Burnet Street,Warminster,ON,L0K 2G0,1192 Square Feet,749900,4,2,0
-309,#112 -9235 JANE ST,Vaughan,Ontario,L6A 0J8,Apartment,749000,2,2,0
-310,#611 -5001 FINCH AVE E,Toronto,Ontario,M1S 5J9,Apartment,738000,3,2,0
-311,376 BRIARHILL AVE,London,Ontario,N5Y 1N9,Detached,735000,2,2,1
-312,73 NUTCRACKER ST,Cambridge,Ontario,N1T 1M1,Detached,729900,3,2,1
-313,1386 KILLARNEY BAY RD,Kawartha Lakes,Ontario,K0M 1G0,Detached,729900,2,2,0
-314,1386 KILLARNEY BAY Road,Cameron,Ontario,K0M 1G0,Detached,729900,2,2,0
-315,410-70 Annie Craig Drive,Toronto,ON,M8V 0G2,789 Square Feet,714000,2,2,0
-316,5865 MARINE STATION Road,Iroquois,ON,K0E 1K0,3,699900,3,2,0
-317,704-15 Elizabeth Street N,Port Credit,ON,L5G 2Z3,1117.44,699900,3,2,0
-318,308 NIAGARA Street,Dunnville,Ontario,N1A 2B3,Detached,699500,4,2,0
-319,75 Princess St,Orangeville,ON,L9W 4E8,Semi-Detached,699000,3,2,0
-320,248 Moonstone CRESCENT,Chatham,Ontario,N7M 0S1,Detached,679900,2,2,0
-321,18 OXFORD ST,Orangeville,Ontario,L9W 3P5,Detached,679000,4,2,1
-322,14 LAKEVIEW CRT,Orangeville,Ontario,L9W 4P2,Detached,675000,3,2,0
-323,#1416 -4727 SHEPPARD AVE E,Toronto,Ontario,M1S 5B3,Apartment,659999,2,2,1
-324,#315 NE -9205 YONGE ST,Richmond Hill,Ontario,L4C 1V5,Apartment,659900,2,2,0
-325,19 RUPERTS Road,Madoc,Ontario,K0K 2K0,Detached,650000,2,2,1
-326,210 FORWARD AVENUE,Ottawa,Ontario,K1Y 1L2,Townhouse,649900,3,2,0
-327,3 DEAN DR,Brighton,Ontario,K0K 1H0,Detached,649900,3,2,1
-328,1262 Coleman Court,Innisfil,ON,L9S 1X4,1259 Square Feet,649888,3,2,0
-329,1383 BRUCE-SAUGEEN Townline,Saugeen Shores,Ontario,N0G 2N0,Detached,649000,3,2,0
-330,896 FLAT RAPIDS Drive,Arnprior,ON,K7S 3G8,2,649000,2,2,0
-331,#1408 -3 MICHAEL POWER PL,Toronto,Ontario,M9A 0A2,Apartment,638000,2,2,0
-332,82 Patterson Road,Barrie,ON,L4N 3W2,1056 Square Feet,629900,3,2,0
-333,#104 -8 CULINARY LANE,Barrie,Ontario,L9J 0T2,Apartment,629000,2,2,0
-334,202-13 Beausoleil Lane,The Blue Mountains,ON,L9Y 2X5,905 Square Feet,619000,2,2,0
-335,##213 -21 MATCHEDASH ST S,Orillia,Ontario,L3V 4W4,Apartment,605000,1,2,0
-336,#1708 -5 BUTTERMILL AVE,Vaughan,Ontario,L4K 0J5,Apartment,599900,2,2,0
-337,##1706 -3100 KIRWIN AVE,Mississauga,Ontario,L5A 3S6,Apartment,599900,1,2,1
-338,#PH11 -225 BAMBURGH CIRC,Toronto,Ontario,M1W 3X9,Apartment,599000,2,2,1
-339,4993 Maple Street,Niagara Falls,ON,L2E 2M7,1148 Square Feet,599000,2,2,0
-340,39 Lake Breeze Drive,Ashfield-Colborne-Wawanosh,ON,N7A 0B7,1333 Square Feet,589900,2,2,0
-341,#419 -50 LAKEBREEZE DR,Clarington,Ontario,L1B 0V9,Apartment,579990,1,2,1
-342,6-410 Burwell Road,St. Thomas,ON,N5P 4N6,1164 Square Feet,579000,4,2,0
-343,6 Wesley Avenue,Brantford,ON,N3R 3X1,714 Square Feet,549900,2,2,0
-344,34 YORK Street,Picton,Ontario,K0K 2T0,Detached,546500,3,2,0
-345,34 YORK ST,Prince Edward County,Ontario,K0K 2T0,Detached,546500,3,2,0
-346,7 INDIANA ST,Kitchener,Ontario,N2H 2A4,Detached,540000,2,2,1
-347,201-7 KIPPEWA Drive,Ottawa,ON,K1S 3G3,2,539800,2,2,0
-348,#1004 -20 MCFARLANE DR,Halton Hills,Ontario,L7G 5J8,Apartment,539000,1,2,0
-349,#1076 -100 MORNELLE CRT,Toronto,Ontario,M1E 4X2,Townhouse,515000,2,2,1
-350,#5007 -5 BUTTERMILL AVE,Vaughan,Ontario,L4K 0J5,Apartment,499990,2,2,0
-351,5636 DORAN CREEK DRIVE,Iroquois,Ontario,K0E 1K0,Detached,499900,2,2,0
-352,312 CARLA STREET,Petawawa,Ontario,K8H 3N2,Detached,499900,3,2,1
-353,62 Emerald Street N,Hamilton,Ontario,L8W 3V5,Detached,499000,3,2,0
-354,57 SPRUCE STREET,Petawawa,Ontario,K8H 3N6,Detached,490000,2,2,1
-355,1121 KIRKMAN COURT,Cornwall,Ontario,K6H 7M7,Detached,489000,3,2,1
-356,25 DURANT STREET,Petawawa,Ontario,K8H 0H3,Detached,474900,2,2,0
-357,180 Lake Street,St. Catharines,ON,L2R 5Y9,1342 Square Feet,449000,3,2,0
-358,62 RIDGE ROAD,Eganville,Ontario,K0J 1T0,Detached,425000,3,2,1
-359,17-15 Nicklaus Drive,Hamilton,ON,L8K 5J5,1185 Square Feet,389900,3,2,0
-360,305-10 Lake Road,Grand Bend,ON,N0M 1T0,925 Square Feet,369900,2,2,0
-361,240 CHAPEL Street Unit# 320,Cobourg,Ontario,K9A 0E3,Apartment,299000,2,2,0
-362,#320 -240 CHAPEL ST,Cobourg,Ontario,K9A 0E3,Apartment,299000,2,2,0
-363,4944 ST PAUL STREET,St Eugene,Ontario,K0B 1P0,Detached,289900,3,2,0
-364,123 Park Street,Victoria Harbour,ON,L0K 2A0,987.8,275000,3,2,0
-365,74845 DR GEORGE SMITH Avenue,Bayfield,Ontario,N0M 1G0,Detached,1999000,3,2,0
-366,33 PINEWAY CRT,Galway-Cavendish and Harvey,Ontario,K0L 1J0,Detached,1995000,3,2,1
-367,1879 Truscott Drive,Mississauga,Ontario,L5J 2A1,Detached,1799900,4,2,0
-368,1879 TRUSCOTT DR,Mississauga,Ontario,L5J 2A1,Detached,1799900,4,2,0
-369,61 SIMPSON ST,Brighton,Ontario,K0K 1H0,Detached,1699000,3,2,0
-370,1719 ELLIS Road,Severn,Ontario,L0K 1E0,Detached,1599000,3,2,0
-371,645 SIMCOE ST,Niagara-on-the-Lake,Ontario,L0S 1J0,Detached,1575000,2,2,0
-372,50 Heathfield Dr,Toronto,ON,M1M 3B1,Detached,1498000,3,2,1
-373,148 BETTY ANN DR,Toronto,Ontario,M2N 1X4,Detached,1490000,5,2,0
-374,3557 REGIONAL ROAD 12 S,Grimsby,Ontario,L0R 1M0,Detached,1487000,3,2,1
-375,3557 REGIONAL ROAD 12 Road S,West Lincoln,Ontario,L0R 1M0,Detached,1487000,3,2,1
-376,422 DAVENPORT RD,Toronto,Ontario,M4V 1B5,Detached,1449000,2,2,1
-377,88 Russell Drive,Oakville,ON,L6H 1L3,Yes,1399000,4,2,0
-378,349 BRYANT CRES,Burlington,Ontario,L7L 3Z4,Detached,1349900,5,2,0
-379,349 BRYANT Crescent,Burlington,Ontario,L7L 3Z4,Detached,1349900,5,2,0
-380,67 POWSELAND CRES,Vaughan,Ontario,L4L 0C5,Townhouse,1299999,3,2,1
-381,2254 Kilbride Street,Burlington,Ontario,L7P 0J4,Detached,1299900,3,2,0
-382,907 ADAMS RD,Innisfil,Ontario,L9S 4C9,Detached,1299700,3,2,0
-383,189 ARMSTRONG STREET,Ottawa,Ontario,K1Y 2W3,Detached,1299000,5,2,0
-384,212 CROSSLAND GATE,Newmarket,Ontario,L3X 1A8,Detached,1279000,3,2,0
-385,77 MILFORD HEAVEN DR,Toronto,Ontario,M1G 3C9,Detached,1260000,4,2,0
-386,740 APPLEWOOD CRES,Milton,Ontario,L9T 3C4,Detached,1225000,3,2,1
-387,616 SEAWIND  TR,Waterloo,Ontario,N2K 4G4,Detached,1200000,3,2,0
-388,2515 WINDWOOD DR,Mississauga,Ontario,L5N 2A8,Detached,1190000,3,2,0
-389,14 GOLDPINE CRES,Toronto,Ontario,M9M 1X9,Detached,1150000,4,2,0
-390,132 Ritchie Crescent,Elmvale,ON,L0L 1P0,1957 Square Feet,1139000,3,2,0
-391,133 HOLLYBERRY TR,Toronto,Ontario,M2H 2P2,Detached,1126000,3,2,0
-392,9 CASSELS RD,Whitby,Ontario,L1M 1A5,Detached,1100000,3,2,1
-393,#520 -825 CHURCH ST,Toronto,Ontario,M4W 3Z4,Apartment,1100000,2,2,0
-394,#1604 -1 CLARK AVE W,Vaughan,Ontario,L4J 7Y6,Apartment,1100000,2,2,1
-395,1242 HOUSTON RD,Highlands East,Ontario,K0M 1L0,Detached,1099000,2,2,1
-396,44 GREENWAY CIRC,Brighton,Ontario,K0K 1H0,Detached,1099000,3,2,0
-397,29 MCCAFFERY'S LANE,Caledon,Ontario,L7C 1K4,Detached,1099000,3,2,0
-398,1242 HOUSTON Road,Cardiff,Ontario,K0M 1L0,Detached,1099000,1,2,1
-399,32 Hyde Park Avenue,Hamilton,Ontario,L8P 4M5,Detached,1099000,3,2,0
-400,15 ELM HILL BLVD,Hamilton,Ontario,L9G 2T9,Detached,1099000,3,2,1
-401,32 HYDE PARK AVE,Hamilton,Ontario,L8P 4M5,Detached,1099000,3,2,0
-402,#1504 -386 YONGE ST,Toronto,Ontario,M5B 0A5,Apartment,1098868,2,2,0
-403,#17 -300 RICHMOND ST,Thorold,Ontario,L2V 5B9,Detached,1075000,2,2,1
-404,5124 HARRIS BOATWORKS RD,Hamilton Township,Ontario,K0K 2E0,Detached,1050000,3,2,0
-405,318743 GREY ROAD 1,Georgian Bluffs,Ontario,N4K 5N4,Detached,1050000,2,2,1
-406,31 BARDS BEACH Road,Oro-Medonte,Ontario,L3V 6H2,Detached,1025000,2,2,0
-407,952 Glenwood Avenue,Burlington,Ontario,L7T 2K2,Detached,999999,4,2,0
-408,1033 PICARD LANE,Gravenhurst,Ontario,P0E 1G0,Detached,999999,3,2,0
-409,14 GAFNEY DR,Mississauga,Ontario,L5M 1E2,Detached,999999,4,2,1
-410,5780 Second Line E,Ariss,ON,N0B 1B0,1170 Square Feet,999900,3,2,0
-411,30 MELDAZY DR,Toronto,Ontario,M1P 4G1,Detached,999000,3,2,1
-412,59 ALDGATE  AVE,Toronto,Ontario,M8Y 3L7,Detached,998000,2,2,1
-413,30 BRADFORD ST,East Gwillimbury,Ontario,L9N 1L6,Detached,998000,3,2,0
-414,78 STUART ST,Whitchurch-Stouffville,Ontario,L4A 4S3,Detached,998000,3,2,0
-415,89 Reynolds Road,Centre Wellington,ON,N0B 1S0,Yes,998000,3,2,0
-416,129 TUSCANY TR,Chatham-Kent,Ontario,N7L 0A0,Detached,989786,3,2,0
-417,137 Blossom Avenue,Brantford,ON,N3T 5L9,1632 Square Feet,989500,3,2,0
-418,61 LOMBARDY CRES,Toronto,Ontario,M1K 4P1,Detached,980000,3,2,1
-419,191 CHARLOTTE ST S,Newmarket,Ontario,L3Y 3S7,Detached,980000,2,2,1
-420,#207 -1300 BLOOR ST W,Mississauga,Ontario,L4Y 3Z2,Apartment,977000,3,2,0
-421,1 VISCOUNT PL,St. Catharines,Ontario,L2N 2N2,Detached,974900,3,2,0
-422,551 Heritage,Kingsville,Ontario,N9Y 3A9,Detached,969000,2,2,0
-423,356-358 Dundas Street E,Waterdown,ON,L0R 2H1,2000 Square Feet,958000,4,2,0
-424,3679 BRANDON GATE DR,Mississauga,Ontario,L4T 3E4,Detached,949888,3,2,1
-425,#313 -377 MADISON AVE,Toronto,Ontario,M4V 2W7,Apartment,949000,2,2,0
-426,222 COLUMBIA DR,Hamilton,Ontario,L9C 3Y9,Detached,945777,3,2,1
-427,255 GARRARD RD,Whitby,Ontario,L1N 3K9,Detached,900000,3,2,0
-428,1426 SPRING GARDEN  CRT,Mississauga,Ontario,L5N 8K5,Detached,899900,3,2,0
-429,104 Dunsmure Road,Hamilton,Ontario,L8M 1S4,Detached,899900,6,2,0
-430,3 HOLTON RD,Toronto,Ontario,M1G 1E7,Detached,899900,3,2,1
-431,151 FAWCETT TR,Toronto,Ontario,M1B 3B9,Detached,899000,4,2,1
-432,#502 -1215 YORK MILLS RD,Toronto,Ontario,M3A 1Y4,Apartment,898800,2,2,0
-433,#4303 -2221 YONGE ST,Toronto,Ontario,M4S 0B8,Apartment,898000,2,2,0
-434,#206 -375 LAKEBREEZE DR,Clarington,Ontario,L1B 0A3,Apartment,895000,2,2,0
-435,21 JERMYN ST,Whitby,Ontario,L1N 5M4,Detached,888000,3,2,0
-436,#129 -251 MANITOBA ST,Toronto,Ontario,M8Y 4G9,Apartment,879900,2,2,0
-437,6332 ATHERLY CRES,Mississauga,Ontario,L5N 2J2,Detached,875000,4,2,0
-438,#508 -3985 GRAND PARK DR DR,Mississauga,Ontario,L5B 0H8,Apartment,869900,1,2,1
-439,1 TURNER CRT,Bradford West Gwillimbury,Ontario,L3Z 2W3,Detached,859000,3,2,1
-440,24 MILL ST,Erin,Ontario,N0B 1Z0,Detached,859000,3,2,1
-441,#405 -99 EAGLE ROCK WAY,Vaughan,Ontario,L6A 5A7,Apartment,858888,2,2,1
-442,291 SHORELINE DR,Oro-Medonte,Ontario,L0L 1T0,Detached,850000,3,2,1
-443,#801 -1000 CREEKSIDE DR,Hamilton,Ontario,L9H 7S6,Apartment,849900,2,2,0
-444,1336 TATRA DR,Pickering,Ontario,L1W 1K4,Duplex,849900,6,2,0
-445,11 SUMAC PL,Guelph,Ontario,N1E 1K8,Detached,849900,2,2,0
-446,16 MelBeuf Drive,Webbwood,Ontario,P0P 2G0,Detached,849900,2,2,0
-447,1240 MCDOWELL  CRES,Milton,Ontario,L9T 6R5,Townhouse,849000,3,2,0
-448,164 Selkirk Drive,Kitchener,ON,N2E 1M6,2111 Square Feet,849000,5,2,0
-449,164 Selkirk Dr,Kitchener,ON,N2E 1M6,Duplex,849000,3,2,1
-450,#205 -1055 BAY ST,Toronto,Ontario,M5S 3A3,Apartment,845000,2,2,1
-451,1692 NORTH BIG ISLAND Road,Demorestville,Ontario,K0K 1W0,Detached,839900,4,2,0
-452,2655 DON STREET,Ottawa,Ontario,K2B 6Y2,Detached,839000,3,2,1
-453,#1040 -250 WELLINGTON ST W,Toronto,Ontario,M5V 3P6,Apartment,829900,2,2,0
-454,384232 CONCESSION 4,West Grey,Ontario,N0C 1K0,Detached,829000,4,2,0
-455,1317 UPPER SHERMAN Avenue,Hamilton,Ontario,L8W 3E7,Detached,829000,3,2,1
-456,#4002 -8 EGLINTON AVE E,Toronto,Ontario,M4P 0C1,Apartment,829000,2,2,1
-457,2 CATHEDRAL PINES RD,Oro-Medonte,Ontario,L4M 4Y8,Detached,825000,3,2,0
-458,479 JOSEPH GALE Street,Cobourg,Ontario,K9A 3N3,Detached,824000,2,2,0
-459,392 ELGIN Street,Port Elgin,Ontario,N0H 2C0,Detached,824000,1,2,1
-460,135 FANSHAWE DR,Brampton,Ontario,L6Z 1A8,Detached,820000,3,2,0
-461,#1606W -3 ROSEWATER ST,Richmond Hill,Ontario,L4C 5T6,Apartment,820000,2,2,0
-462,33 PLEASANTVIEW AVE,Brampton,Ontario,L6X 1W6,Detached,799999,3,2,1
-463,1856 COUNTY ROAD 7 Road,Picton,Ontario,K0K 2T0,Detached,799900,3,2,0
-464,#28 -120 LONG BRANCH AVE,Toronto,Ontario,M8W 0A9,Detached,799900,2,2,1
-465,5965 CRIMSON DR,Niagara Falls,Ontario,L2G 7T7,Detached,799900,3,2,1
-466,47 QUEEN ST,Clarington,Ontario,L1C 1M3,Detached,799900,3,2,0
-467,47 QUEEN ST,Clarington,Ontario,L1C 1M3,Detached,799900,3,2,0
-468,35 BONNIEWOOD DR,Mapleton,Ontario,N0G 1P0,Detached,799888,2,2,1
-469,309 TAMPA DR,Georgina,Ontario,L4P 3A3,Detached,799000,2,2,0
-470,55 CARNELLY CRES,Ajax,Ontario,L1T 2H5,Detached,799000,3,2,0
-471,479 HAYWARD Street,Cobourg,Ontario,K9A 3N5,Townhouse,799000,3,2,0
-472,#2615 -75 QUEENS WHARF RD,Toronto,Ontario,M5V 0J8,Apartment,799000,2,2,0
-473,588 REYNOLDS ST,Whitby,Ontario,L1N 6H5,Detached,799000,3,2,0
-474,22 NORTHPARK RD,Barrie,Ontario,L4M 2J3,Detached,799000,4,2,0
-475,27 Warwick Avenue,Grand Bend,ON,N0M 1T0,1030 Square Feet,795000,3,2,0
-476,232 THOMSON Lane,Chesley,Ontario,N0G 1L0,Detached,789900,3,2,1
-477,#418 -50 LAKEBREEZE DR,Clarington,Ontario,L1B 0V9,Apartment,779990,2,2,0
-478,526 FIFTY Road,Stoney Creek,Ontario,L8E 5T4,Detached,779900,4,2,0
-479,45 MARKHAM CRES,Hamilton,Ontario,L8J 1P2,Detached,777000,3,2,1
-480,1164 DEER PARK ROAD,Ottawa,Ontario,K2E 6H3,Detached,775000,3,2,1
-481,700 HASTINGS AVE,Innisfil,Ontario,L0L 2M0,Detached,774869,2,2,1
-482,16 Shannon Street,Barrie,ON,L4M 2K8,1078 Square Feet,769000,3,2,0
-483,38 ADELAIDE ST,Barrie,Ontario,L4N 3T5,Duplex,765000,4,2,0
-484,38 ADELAIDE ST,Barrie,Ontario,L4N 3T5,Detached,765000,4,2,0
-485,#227 -610 FARMSTEAD DR,Milton,Ontario,L9T 8X5,Apartment,759900,2,2,1
-486,#1607 -980 BROADVIEW AVE,Toronto,Ontario,M4K 3Y1,Apartment,759000,2,2,0
-487,1 Roslyn Road,Barrie,ON,L4M 2X5,1219 Square Feet,750000,4,2,0
-488,49 KIRKHAM DR,Ajax,Ontario,L1S 4J9,Detached,749900,3,2,0
-489,858 QUEENSDALE AVE E,Hamilton,Ontario,L8V 1N3,Detached,749900,3,2,0
-490,1454 VALLEY DR,Oshawa,Ontario,L1J 7Z3,Detached,749900,3,2,0
-491,61 Pinot Crescent,Hamilton,Ontario,L8E 0J9,Townhouse,749900,3,2,0
-492,#909 -45 CHARLES ST E,Toronto,Ontario,M4Y 0B8,Apartment,749000,1,2,1
-493,#4 -2500 POST RD,Oakville,Ontario,L6H 0K1,Townhouse,740000,2,2,0
-494,4166 BARTON ST,Windsor,Ontario,N9G 2S7,Detached,739900,3,2,1
-495,#32 -481 PITFIELD RD,Milton,Ontario,L9T 3J5,Finished,735000,4,2,0
-496,2505 STEVENSVILLE RD,Fort Erie,Ontario,L0S 1S0,Detached,730000,4,2,0
-497,172 Churchland Drive,Barrie,ON,L4N 8N5,1350 Square Feet,729990,3,2,0
-498,71 STIRLING CRES,Prince Edward County,Ontario,K0K 2T0,Detached,729900,2,2,0
-499,73 Nutcracker Street,Cambridge,ON,N1T 1M1,1089 Square Feet,729900,4,2,0
-500,71 STIRLING Crescent,Picton,Ontario,K0K 2T0,Detached,729900,2,2,0
-501,9 Depot Street,Lisle,ON,L0M 1M0,1823.38,725000,5,2,0
-502,#208 -2486 OLD BRONTE RD,Oakville,Ontario,L6M 4J2,Apartment,719990,2,2,0
-503,2486 Old Bronte Road|Unit #208,Oakville,Ontario,L6M 0Y4,Detached,719990,2,2,0
-504,69 STRILING CRES,Prince Edward County,Ontario,K0K 2T0,Detached,719900,2,2,0
-505,#210 -2055 APPLEBY LINE,Burlington,Ontario,L7L 7H1,Apartment,719900,2,2,0
-506,69 STIRLING Crescent,Picton,Ontario,K0K 2T0,Detached,719900,2,2,0
-507,#208 -130 CANON JACKSON DR,Toronto,Ontario,M6M 0B7,Apartment,719900,2,2,0
-508,#PH1-07 -1215 BAYLY ST,Pickering,Ontario,L1W 0B4,Apartment,719000,2,2,0
-509,153 EAST ST S,Kawartha Lakes,Ontario,K0M 1A0,Detached,719000,3,2,0
-511,29 BALTIMORE RD,Barrie,Ontario,L4M 5M6,Detached,699999,3,2,1
-512,164 ROYAL SALISBURY WAY,Brampton,Ontario,L6V 3J9,Townhouse,699999,3,2,0
-513,494 ADELAIDE AVE W,Oshawa,Ontario,L1J 2S1,Detached,699900,3,2,1
-514,10 NOAH LANE,Asphodel-Norwood,Ontario,K0L 2V0,Detached,699900,2,2,1
-515,#602 -15 QUEEN ST S,Hamilton,Ontario,L8P 0C6,Apartment,699900,2,2,0
-516,25 BOILER BEACH Road,Huron-Kinloss,Ontario,N2Z 2L4,Detached,699700,3,2,0
-517,#2411 -3985 GRAND PARK DR,Mississauga,Ontario,L5B 0H8,Apartment,699000,2,2,0
-518,772 CENTRAL PARK BLVD,Oshawa,Ontario,L1G 6B1,Detached,699000,4,2,0
-519,20 Rennie Drive,Kitchener,ON,N2A 1J5,1314 Square Feet,699000,3,2,0
-520,#1504 -1346 DANFORTH RD,Toronto,Ontario,M1J 0A9,Apartment,699000,2,2,1
-521,#2211 -710 HUMBERWOOD BLVD,Toronto,Ontario,M9W 7J5,Apartment,699000,2,2,0
-522,#2403 -195 REDPATH AVE,Toronto,Ontario,M4P 0E4,Apartment,699000,2,2,0
-523,#1311 -3985 GRAND PARK DR,Mississauga,Ontario,L5B 0H8,Apartment,699000,2,2,0
-524,51 BRAMLEY  ST S,Port Hope,Ontario,L1A 3K3,Detached,699000,3,2,0
-525,#1203 -60 BYNG AVE,Toronto,Ontario,M2N 7K3,Apartment,698000,1,2,1
-526,8 SULLIVAN DR,St. Catharines,Ontario,L2N 1K2,Detached,695000,3,2,0
-527,#43 -1250 LIMERIDGE RD E,Hamilton,Ontario,L8W 1P1,Townhouse,689900,3,2,0
-528,1-1016 Doering Street,Wellesley,ON,N0B 2T0,1248 Square Feet,689900,3,2,0
-529,#211 -1350 KINGSTON RD,Toronto,Ontario,M1N 1P7,Apartment,685000,2,2,0
-530,#410 -300 ESSA RD,Barrie,Ontario,L9J 0B9,Apartment,685000,2,2,1
-531,##207 -200 LAGERFELD DR,Brampton,Ontario,L7A 5G5,Apartment,684999,2,2,1
-532,#144 -30 SANDRINGHAM CRT,Brampton,Ontario,L6T 3Z3,Townhouse,679900,3,2,1
-533,447 ONTARIO ST N,Milton,Ontario,L9T 3J4,Townhouse,679000,4,2,0
-534,#3602 -7895 JANE ST E,Vaughan,Ontario,L4K 2M7,Apartment,678900,1,2,1
-535,3050 PINEMEADOW Drive|Unit #1,Burlington,Ontario,L7M 3X5,Apartment,675000,2,2,0
-536,#1 -3050-A PINEMEADOW DR,Burlington,Ontario,L7M 3X5,Apartment,675000,2,2,0
-537,139 Gillin Road,Brantford,Ontario,N3P 1X5,Detached,670000,2,2,1
-538,#503 -175 HILDA AVE,Toronto,Ontario,M2M 1V8,Apartment,670000,3,2,0
-539,174 HILLMER RD,Cambridge,Ontario,N1R 6N8,Detached,669900,3,2,1
-540,136 ASHTON CRES,Brampton,Ontario,L6S 3J9,Townhouse,669888,3,2,0
-541,9 Johnson Crescent,Simcoe,ON,N3Y 5K9,1369 Square Feet,664900,4,2,0
-542,234 ARTHUR ST,Oshawa,Ontario,L1H 1N6,Detached,650000,3,2,1
-543,6429 COUNTY ROAD 2,Odessa,Ontario,K0H 1H0,Detached,650000,3,2,0
-544,8 ROSEWOOD Drive,Frankford,Ontario,K0K 2C0,Detached,650000,3,2,1
-545,#2212 -55 ELM DR,Mississauga,Ontario,L5B 3Z3,Apartment,649999,2,2,1
-546,39 GIBSON DR,Scugog,Ontario,L9L 1C9,Detached,649900,3,2,1
-547,29 Heritage Drive|Unit #11,Stoney Creek,Ontario,L8G 4T4,Townhouse,649900,3,2,0
-548,3104 TRAVERTINE WAY,Ottawa,Ontario,K2J 6X1,Detached,649900,1,2,1
-549,3 DEAN Drive,Brighton,Ontario,K0K 1H0,Detached,649900,3,2,1
-550,#11 -29 HERITAGE  DR,Hamilton,Ontario,L8G 4T4,Townhouse,649900,3,2,0
-551,1110 RITCHANCE ROAD,Alfred,Ontario,K0B 1A0,House,649900,3,2,0
-552,296 SWINDELLS ST,Clarington,Ontario,L1C 5G7,Townhouse,649900,3,2,0
-553,1157 WILSON DRIVE,Sarnia,Ontario,N7S 3J5,4 Level,649000,3,2,0
-554,#1512 -1 ROWNTREE RD,Toronto,Ontario,M9V 5G7,Apartment,649000,2,2,1
-555,8-2444 Post Road,Oakville,ON,L6H 0J2,986 Square Feet,649000,2,2,0
-556,#210 -550 HOPEWELL AVE,Toronto,Ontario,M6E 2S6,Apartment,648000,2,2,0
-557,299 FLEETWOOD CRES,Brampton,Ontario,L6T 2E5,Townhouse,645000,3,2,1
-558,143 HOPE AVE,Hamilton,Ontario,L8H 2E7,Detached,639999,2,2,1
-559,#20 -201 SILVERCREEK PKWY,Guelph,Ontario,N1H 3T4,Townhouse,639900,3,2,0
-560,#B322 -271 SEA RAY AVE,Innisfil,Ontario,L9S 2P7,Apartment,638800,2,2,0
-561,#202 -3 BRANDY LANE DR,Collingwood,Ontario,L9Y 0X4,Apartment,629000,2,2,0
-562,70 Stewart Street|Unit #301,Oakville,Ontario,L6K 1X5,Apartment,629000,2,2,0
-563,8 Culinary Lane,Barrie,ON,L9J 0T2,1100 Square Feet,629000,2,2,0
-564,385 UPPER OTTAWA Street,Hamilton,Ontario,L8T 3S9,Detached,625000,2,2,0
-565,#2603 -38 LEE CENTER DR,Toronto,Ontario,M1H 3J7,Apartment,625000,2,2,0
-566,#911 -58 LAKESIDE TERR,Barrie,Ontario,L4M 0H9,Apartment,625000,2,2,0
-567,#108 -1140 PARKWEST PL,Mississauga,Ontario,L5E 3K9,Apartment,624900,1,2,1
-568,88 Gram Avenue,Welland,Ontario,L3C 1H6,Detached,624900,3,2,1
-569,88 GRAM AVE,Welland,Ontario,L3C 1H6,Detached,624900,3,2,1
-570,119 EAST 24TH Street,Hamilton,Ontario,L8V 2X9,Detached,619900,3,2,0
-571,119 EAST 24TH ST,Hamilton,Ontario,L8V 2X9,Detached,619900,3,2,0
-572,114 OAK STREET West,Leamington,Ontario,N8H 2B6,Detached,619000,2,2,1
-573,61 HOULAHAN STREET,Ottawa,Ontario,K2J 3X6,Detached,610000,3,2,0
-574,26 PROSPECT AVE,Prince Edward County,Ontario,K0K 2T0,Detached,600000,2,2,0
-575,225 Townline Street Street,St. Williams,ON,N0E 1P0,1567 Square Feet,599999,4,2,0
-576,864 LAWNSBERRY DRIVE,Ottawa,Ontario,K1E 1X7,Detached,599900,3,2,0
-577,#10 -17 LAKEWOOD CRES,Kawartha Lakes,Ontario,K0M 1A0,Detached,599900,2,2,0
-578,4B-50 Howe Drive,Kitchener,ON,N2E 0A3,1394 Square Feet,599900,3,2,0
-579,##36 -72 MARTIN RD,Clarington,Ontario,L1C 3N3,Townhouse,599900,4,2,0
-580,876 Beaconhill Court,Kingston,ON,K7P 2A8,1000 Square Feet,599000,4,2,0
-581,313-4975 Southampton Dr,Mississauga,ON,L5M 8C5,Townhouse,599000,2,2,0
-582,320 DENSMORE RD,Cobourg,Ontario,K9A 4J9,Detached,599000,3,2,0
-583,#25 -680 ATWATER AVE,Mississauga,Ontario,L5G 0B6,Townhouse,589990,2,2,0
-584,1337 Attlee Avenue,Sudbury,Ontario,P3A 6A3,Detached,589900,3,2,0
-585,#7 -4095 PEACH TREE CRT,Lincoln,Ontario,L0R 2C0,Townhouse,589000,3,2,0
-586,1500 RIVERSIDE DRIVE UNIT#804,Ottawa,Ontario,K1G 5H2,Apartment,585000,2,2,0
-587,476 KINGSCOURT Drive Unit# 18,Waterloo,Ontario,N2K 3R3,Townhouse,584900,3,2,0
-588,216 BRIEN AVENUE West,Essex,Ontario,N8Y 2Z5,Detached,579900,2,2,1
-589,#9 -145 RICE AVE,Hamilton,Ontario,L9C 6R3,Townhouse,575900,3,2,0
-590,187 ANDREWS AVENUE,Smiths Falls,Ontario,K7A 4R9,Detached,574900,3,2,1
-591,LOT 58A SOPHIE LANE,Ramara,Ontario,L3V 0L3,Detached,569900,2,2,0
-592,187 CLOVER Place,Kitchener,Ontario,N2A 1P3,Detached,550000,3,2,0
-593,105 BARTLETT ST,Thorold,Ontario,L2V 4Y5,Detached,549999,3,2,1
-594,301 FRANCES Avenue|Unit #1104,Stoney Creek,Ontario,L8E 3W6,Apartment,549900,3,2,0
-595,2083 LAUZON STREET,Ottawa,Ontario,K4A 3K9,Townhouse,549900,3,2,0
-596,98 Haynes Avenue,St. Catharines,Ontario,L2R 3Z8,Detached,549900,3,2,0
-597,9700 ASGARD ROAD,Windsor,Ontario,N8R 1E2,Detached,549900,3,2,0
-598,68 THOMAS ST,St. Catharines,Ontario,L2R 6M2,Detached,549900,3,2,0
-599,37 SHORT ROAD,Arnprior,Ontario,K7S 3X8,Detached,549900,3,2,1
-600,9 SARAH STREET,Casselman,Ontario,K0A 1M0,Detached,549900,2,2,1
-601,#1104 -301 FRANCES AVE,Hamilton,Ontario,L8E 3W6,Apartment,549900,3,2,0
-602,217 EASTPORT DRIVE,Cornwall,Ontario,K6H 0G9,Detached,549900,2,2,0
-603,212 OTTAWA STREET,Almonte,Ontario,K0A 1A0,Detached,549000,2,2,1
-604,206 GREEN VALLEY Drive Unit# 5,Kitchener,Ontario,N2P 1G9,Townhouse,549000,3,2,0
-605,221 DUNTROON Circle,Ottawa,ON,K1T 4C9,3,549000,3,2,0
-606,53 INVERLYN Crescent S,Kincardine,Ontario,N2Z 1L1,Detached,545000,3,2,0
-607,2038 SANDSTONE CRESCENT,Petawawa,Ontario,K8H 0A6,Detached,544900,3,2,1
-608,7 Indiana Street,Kitchener,ON,N2H 2A4,1305.87,540000,3,2,0
-609,2375 MELDRUM ROAD,Windsor,Ontario,N8W 4E6,Detached,538500,2,2,1
-610,15 DURANT STREET,Petawawa,Ontario,K8H 0H3,Detached,532900,3,2,0
-611,5907 Vine Street,Niagara Falls,ON,L2J 1K8,960 Square Feet,529999,2,2,0
-612,153 PARK P PL,Peterborough,Ontario,K9J 3V8,Detached,529900,4,2,0
-613,#205 -24 MARILYN DR,Guelph,Ontario,N1H 8E9,Apartment,529900,3,2,0
-614,#720 -7711 GREEN VISTA GATE,Niagara Falls,Ontario,L2H 1R1,Apartment,529000,2,2,0
-615,#718 -7711 GREEN VISTA GATE,Niagara Falls,Ontario,L2G 0Y9,Apartment,529000,2,2,0
-616,557 ROMAINE Street,Peterborough,Ontario,K9J 2C8,Detached,525000,3,2,0
+,lat,lon,city,style,building_type,cooling_type,heating_type,price,number_of_beds,number_of_baths,extra_space,fire_place
+0,43.33341,-79.88293,Waterdown,Townhouse,Row / Townhouse,Central air conditioning,Forced air,749900.0,2,3,0,0
+1,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,2998000.0,5,8,1,1
+2,43.67089,-79.316931,Toronto,Detached,House,Central air conditioning,Forced air,2599900.0,3,4,0,1
+3,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,2499850.0,4,4,1,0
+4,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1999000.0,5,4,0,1
+5,43.650005,-79.482809,Toronto,Detached,House,Wall unit,Hot water radiator heat,1499000.0,3,2,0,0
+6,43.1561412,-79.9161804,Mount Hope,Detached,House,Central air conditioning,"Baseboard heaters, Forced air",1425000.0,3,3,0,0
+7,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1199000.0,3,3,0,0
+8,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,1098000.0,3,2,0,0
+9,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,999900.0,4,2,0,1
+10,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,949900.0,4,3,1,0
+11,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,875000.0,3,3,0,1
+12,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,866000.0,3,2,0,0
+13,43.641342,-79.399759,Toronto,Townhouse,Row / Townhouse,Wall unit,Baseboard heaters,838000.0,2,2,1,1
+14,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,749888.0,3,3,0,1
+15,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,645900.0,3,2,0,1
+16,45.0154164,-75.644567,Kemptville,Detached,House,Wall unit,"Baseboard heaters, Other",599999.0,2,1,0,1
+17,43.1408157,-80.2631733,Brantford,Townhouse,Row / Townhouse,Central air conditioning,Forced air,599000.0,3,3,0,0
+18,45.041406,-74.733993,Cornwall,Detached,House,Central air conditioning,Forced air,579000.0,2,2,1,0
+19,45.821328,-77.110488,Pembroke,Detached,House,Central air conditioning,Forced air,550000.0,3,2,0,1
+20,42.1013315,-83.1086458,Amherstburg,Detached,House,"Central air conditioning, Fully air conditioned",Forced air,549900.0,3,2,0,0
+21,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,"Central air conditioning, Fully air conditioned",Forced air,400000.0,2,3,1,0
+22,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,"Central air conditioning, Fully air conditioned",Forced air,400000.0,2,3,1,0
+23,42.969292,-81.20529,London,Townhouse,Row / Townhouse,Central air conditioning,Forced air,399900.0,4,2,0,0
+24,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,2999000.0,4,4,0,1
+25,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,2900000.0,6,6,0,1
+26,44.3150892,-79.5461073,Innisfil,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2699000.0,4,5,0,1
+27,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,2390000.0,4,5,1,1
+28,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,2199000.0,4,4,1,1
+29,43.68009,-79.354896,Toronto,Detached,House,Central air conditioning,Forced air,2195000.0,4,5,1,1
+30,43.671561,-79.403274,Toronto,Detached,House,Central air conditioning,Forced air,2059000.0,3,2,1,1
+31,43.654509,-79.509097,Toronto,Detached,House,Wall unit,Hot water radiator heat,1990000.0,4,3,0,1
+32,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1988800.0,4,4,1,1
+33,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1899999.0,4,5,0,1
+34,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1849000.0,3,5,1,0
+35,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1800000.0,4,4,0,1
+36,44.5445701,-79.54891085886374,Oro-Medonte,Detached,House,Central air conditioning,Forced air,1799000.0,3,4,1,1
+37,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1799000.0,4,6,1,1
+38,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1798000.0,3,2,1,1
+39,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Radiant heat,1749900.0,4,2,0,1
+40,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,1738000.0,4,5,0,1
+41,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1699990.0,4,6,1,1
+42,43.738576,-79.468834,Toronto,Detached,House,Central air conditioning,Forced air,1698000.0,3,4,1,1
+43,43.660438,-79.465004,Toronto,Detached,House,Wall unit,Hot water radiator heat,1649000.0,3,2,0,0
+44,43.842903,-79.89885,Caledon,Detached,House,Central air conditioning,Forced air,1599900.0,4,4,0,1
+45,43.704081,-79.255219,Toronto,Detached,House,Central air conditioning,Forced air,1599000.0,3,2,0,1
+46,43.704284,-79.587129,Toronto,Detached,House,Central air conditioning,Forced air,1595000.0,4,4,0,0
+47,42.0378963,-82.7396606,Kingsville,Detached,House,Central air conditioning,Forced air,1499900.0,4,4,0,0
+48,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1498000.0,4,3,1,1
+49,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,1475000.0,4,3,0,0
+50,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1400000.0,4,3,0,0
+51,43.225693,-79.976692,Ancaster,Detached,House,Central air conditioning,Forced air,1399900.0,3,3,1,0
+52,43.713895,-79.486737,Toronto,Detached,House,Central air conditioning,Forced air,1399900.0,3,3,1,1
+53,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1398000.0,4,4,0,0
+54,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1379900.0,3,3,1,1
+55,43.793231,-79.263929,Toronto,Detached,House,Central air conditioning,Forced air,1350000.0,4,3,0,1
+56,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1350000.0,5,3,0,0
+57,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,1349000.0,4,4,0,1
+58,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1299999.0,3,2,1,1
+59,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1299999.0,3,2,1,0
+60,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1299000.0,4,4,0,1
+61,44.014469,-79.323704,Whitchurch-Stouffville,Detached,House,Central air conditioning,Forced air,1279000.0,4,4,1,1
+62,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,1279000.0,4,3,1,0
+63,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,1250000.0,3,4,0,0
+64,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1249999.0,4,4,1,1
+65,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,"Baseboard heaters, Boiler",1249000.0,3,3,1,0
+66,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,1199900.0,4,3,0,0
+67,42.3167397,-83.0373389,Windsor,Detached,House,Central air conditioning,Forced air,1199900.0,5,4,0,0
+68,43.073558,-79.950127,Caledonia,Detached,House,Central air conditioning,Forced air,1199900.0,4,2,0,0
+69,43.33583,-80.06361,Flamborough,Detached,House,Central air conditioning,Forced air,1199000.0,3,3,0,0
+70,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1199000.0,3,4,1,1
+71,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1185000.0,3,2,1,0
+72,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1178888.0,3,3,0,1
+73,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,1159900.0,4,3,0,1
+74,44.14125,-79.395028,East Gwillimbury,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1150000.0,3,3,0,1
+75,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1125000.0,3,4,1,0
+76,44.014469,-79.323704,Whitchurch-Stouffville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1120000.0,3,3,1,0
+77,43.3314156,-79.8956803,Waterdown,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1099900.0,4,3,0,0
+78,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1099900.0,3,3,0,0
+79,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1099900.0,5,3,0,0
+80,43.766199,-79.18128,Toronto,Detached,House,Central air conditioning,Forced air,1099800.0,3,4,1,1
+81,43.687783,-79.450978,Toronto,Semi-Detached,House,Central air conditioning,Hot water radiator heat,1099000.0,3,3,0,0
+82,44.3150892,-79.5461073,Innisfil,Detached,House,Central air conditioning,Forced air,1098800.0,3,3,0,0
+83,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1070000.0,3,2,0,0
+84,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1070000.0,3,2,0,0
+85,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999999.0,3,3,1,0
+86,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,999999.0,4,2,1,0
+87,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,999900.0,4,4,1,1
+88,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999900.0,4,5,1,1
+89,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999900.0,3,4,1,0
+90,44.11697,-79.497616,East Gwillimbury,Townhouse,Row / Townhouse,Central air conditioning,Forced air,988888.0,4,4,1,0
+91,43.513671,-79.882817,Milton,Semi-Detached,House,Central air conditioning,Forced air,979900.0,3,3,0,0
+92,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,979000.0,3,4,0,1
+93,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,930000.0,3,3,0,0
+94,42.8844706,-80.1139414,Jarvis,Detached,House,Central air conditioning,Forced air,914988.0,4,4,0,0
+95,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899900.0,2,3,1,0
+96,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,899900.0,3,3,0,1
+97,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Forced air,899299.0,4,3,1,0
+98,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899000.0,3,3,0,0
+99,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,899000.0,3,4,1,0
+100,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,899000.0,2,3,1,1
+101,44.118081,-79.618447,Bradford West Gwillimbury,Townhouse,Row / Townhouse,Central air conditioning,Forced air,894800.0,3,4,0,0
+102,44.014469,-79.323704,Whitchurch-Stouffville,Detached,House,Central air conditioning,Forced air,889000.0,4,3,0,1
+103,42.3791473,-82.2102956,Chatham,Detached,House,Central air conditioning,Forced air,875000.0,2,3,0,0
+104,44.5445701,-79.54891085886374,Oro-Medonte,Townhouse,Row / Townhouse,Central air conditioning,Forced air,864900.0,2,3,1,1
+105,44.376812,-79.470068,Georgina,Detached,House,Central air conditioning,Forced air,849900.0,3,1,0,1
+106,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,849000.0,3,3,0,0
+107,45.274101,-75.27935,Embrun,Detached,House,Central air conditioning,Forced air,849000.0,3,4,0,1
+108,43.636597,-79.432422,Toronto,Townhouse,Row / Townhouse,Wall unit,Baseboard heaters,836000.0,2,1,1,0
+109,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,799999.0,3,3,0,0
+110,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799991.0,2,2,0,0
+111,44.1435081,-79.41190570379848,East Gwillimbury,Detached,House,Central air conditioning,Forced air,799900.0,4,2,0,0
+112,43.8505287,-79.0208814,Ajax,Semi-Detached,House,Central air conditioning,Forced air,799000.0,4,4,0,0
+113,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,799000.0,3,3,1,0
+114,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,775000.0,3,2,0,1
+115,45.3128048,-75.8940505,Kanata,Townhouse,Row / Townhouse,Central air conditioning,Forced air,749900.0,4,3,0,1
+116,42.3048504,-82.5479704,Stoney Point,Detached,House,Central air conditioning,Forced air,749900.0,3,1,0,0
+117,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,749900.0,3,3,1,0
+118,43.121034,-79.804001,Binbrook,Townhouse,Row / Townhouse,Central air conditioning,Forced air,718850.0,3,4,0,0
+119,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,699990.0,5,2,1,0
+120,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,699900.0,2,2,1,0
+121,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,699900.0,2,2,1,0
+122,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,699000.0,3,1,1,0
+123,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699000.0,3,2,0,0
+124,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,699000.0,2,2,1,0
+125,43.621861,-79.943877,Halton Hills,Semi-Detached,House,Central air conditioning,Forced air,695000.0,3,2,0,0
+126,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,689999.0,2,3,0,0
+127,43.3600536,-80.3123023,Cambridge,Townhouse,Row / Townhouse,Central air conditioning,Forced air,669900.0,3,4,0,1
+128,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,655000.0,3,3,0,0
+129,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,650000.0,2,2,1,0
+130,45.3341367,-75.2519986,Limoges,Detached,House,None,Forced air,564900.0,3,1,0,0
+131,45.3341367,-75.2519986,Limoges,Semi-Detached,House,None,Forced air,554900.0,3,3,0,0
+132,44.2963945,-77.5485522,Stirling,Detached,House,Central air conditioning,Forced air,545000.0,3,2,1,1
+133,43.1408157,-80.2631733,Brantford,Detached,House,Central air conditioning,Forced air,499900.0,2,2,0,0
+134,44.2963945,-77.5485522,Stirling,Detached,House,Central air conditioning,"Forced air, Heat Pump",499900.0,3,2,1,1
+135,45.4413007,-74.8986384,Fournier,Detached,House,Central air conditioning,Forced air,449900.0,3,2,0,0
+136,46.49272,-80.991211,Sudbury,Detached,House,Central air conditioning,Forced air,429900.0,3,2,0,0
+137,43.9526078,-77.34742339,Prince Edward County,Detached,House,Central air conditioning,Forced air,429900.0,2,2,0,0
+138,44.6310905,-81.268759,South Bruce Peninsula,Detached,House,None,"Baseboard heaters, Forced air",429000.0,3,1,0,0
+139,42.7838172,-82.126915,Oil Springs,Detached,House,None,Boiler,389900.0,4,2,0,0
+140,42.9746137,-82.4065585,Sarnia,Detached,House,None,Forced air,324900.0,2,1,0,0
+141,44.7164408,-79.77099198066065,Tay,Detached,Mobile Home,Window air conditioner,Baseboard heaters,299900.0,2,1,0,1
+142,43.73952294,-79.4150904,Toronto,Detached,House,Central air conditioning,Forced air,3000000.0,4,4,0,1
+143,43.767383,-79.411426,Toronto,Detached,House,Central air conditioning,Forced air,2988000.0,5,6,1,1
+144,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,2495000.0,4,5,1,1
+145,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2388000.0,6,6,0,0
+146,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2299900.0,5,5,1,1
+147,43.668236,-79.420351,Toronto,Semi-Detached,House,Central air conditioning,Radiant heat,2200000.0,4,4,1,0
+148,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,2199888.0,5,4,1,1
+149,43.729413,-79.39237,Toronto,Detached,House,Central air conditioning,Radiant heat,2198000.0,3,4,1,1
+150,43.710815,-79.418648,Toronto,Detached,House,Central air conditioning,Forced air,2188000.0,3,4,0,1
+152,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,2099888.0,5,4,1,1
+153,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2050000.0,4,5,0,1
+154,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1998000.0,4,4,1,1
+155,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,1968888.0,4,5,1,1
+156,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1949900.0,4,4,1,1
+157,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1899900.0,4,4,1,1
+158,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1899000.0,4,4,1,1
+159,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1898888.0,4,5,0,1
+160,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1799999.0,3,4,0,1
+161,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1799999.0,3,4,0,0
+162,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,1799900.0,4,5,0,1
+163,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1699000.0,4,3,0,1
+164,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1698880.0,4,4,1,1
+165,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1679000.0,4,4,0,1
+166,43.3600536,-80.3123023,Cambridge,Detached,House,Central air conditioning,Forced air,1649000.0,3,3,0,1
+167,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1649000.0,3,4,1,1
+168,43.768097,-79.492601,Toronto,Detached,House,Central air conditioning,Forced air,1580000.0,3,3,1,1
+169,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1579000.0,4,3,0,0
+170,43.686567,-79.337066,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1549900.0,4,3,0,0
+171,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,1499900.0,4,4,1,1
+172,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1499000.0,3,3,0,1
+173,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1499000.0,3,3,1,1
+174,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1499000.0,3,3,1,0
+175,43.650005,-79.482809,Toronto,Detached,House,Wall unit,Hot water radiator heat,1499000.0,3,2,1,1
+176,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1488800.0,4,4,0,1
+177,43.676218,-79.291151,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1479000.0,3,4,1,1
+178,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1399900.0,4,2,1,1
+179,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1399900.0,4,2,1,0
+180,44.1150554,-78.90598875892695,Scugog,Detached,House,Central air conditioning,Forced air,1399000.0,2,4,1,1
+181,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1388000.0,3,4,1,1
+182,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1349900.0,4,5,1,1
+183,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1349000.0,3,2,0,0
+184,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1349000.0,3,2,0,1
+185,44.0818996,-79.77443058053504,New Tecumseth,Detached,House,Central air conditioning,Forced air,1320000.0,4,4,0,1
+186,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1299999.0,4,4,0,1
+187,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1299999.0,4,4,0,1
+188,44.7382893,-80.12709935653204,Tiny,Detached,House,Central air conditioning,Forced air,1289999.0,3,3,1,1
+189,43.686567,-79.337066,Toronto,Detached,House,Central air conditioning,Forced air,1200000.0,3,2,0,1
+190,43.2661904,-79.9546341,Dundas,Detached,House,Central air conditioning,Forced air,1199900.0,3,3,1,0
+191,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1199900.0,5,3,1,1
+192,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,1199000.0,3,4,0,1
+193,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1195000.0,3,1,0,1
+194,43.602637,-79.506096,Toronto,Detached,House,Central air conditioning,Forced air,1189000.0,3,2,1,0
+195,43.687783,-79.450978,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1189000.0,3,3,0,1
+196,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1188000.0,3,4,1,1
+197,43.447436,-79.666672,Oakville,Semi-Detached,House,Central air conditioning,Forced air,1177777.0,3,4,0,1
+198,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1175000.0,4,3,0,1
+199,44.34159575,-79.34615813017496,Georgina,Detached,House,Central air conditioning,Forced air,1169900.0,3,2,0,1
+200,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,1150000.0,3,4,0,1
+201,42.2928986,-82.7113352,Belle River,Detached,House,Central air conditioning,Forced air,1149999.0,4,4,1,0
+202,44.190608,-78.46896060471727,Cavan Monaghan,Detached,House,Central air conditioning,Forced air,1124900.0,4,4,0,1
+203,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Baseboard heaters,1100000.0,5,3,1,1
+204,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1099999.0,3,3,1,0
+205,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,1099000.0,4,4,1,1
+206,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1098000.0,3,3,1,1
+208,42.1744783,-82.8215468,Essex,Detached,House,Central air conditioning,Forced air,1089000.0,2,2,1,0
+209,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1075000.0,4,4,0,0
+210,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1049900.0,3,4,0,0
+211,43.650381,-79.55204,Toronto,Detached,House,Central air conditioning,Forced air,1049900.0,3,2,1,0
+212,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1049000.0,3,3,0,0
+213,43.704081,-79.255219,Toronto,Detached,House,Central air conditioning,Forced air,1049000.0,3,4,1,0
+214,43.513671,-79.882817,Milton,Semi-Detached,House,Central air conditioning,Forced air,1048888.0,3,3,0,1
+215,43.660438,-79.465004,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1000000.0,3,2,0,0
+216,43.842903,-79.89885,Caledon,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999900.0,3,2,0,0
+217,44.056258,-79.461708,Newmarket,Detached,House,Central air conditioning,Forced air,999900.0,4,3,0,1
+218,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,999900.0,3,4,1,1
+219,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,999900.0,3,2,1,0
+220,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999888.0,2,3,1,0
+221,43.656078,-79.36364,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999000.0,3,2,1,1
+222,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,999000.0,3,3,0,0
+223,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,998800.0,3,3,0,1
+224,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,979000.0,3,3,0,0
+225,43.690678,-79.313802,Toronto,Semi-Detached,House,Central air conditioning,Forced air,949000.0,3,3,0,0
+226,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,949000.0,3,3,0,1
+227,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,929000.0,3,3,0,1
+228,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,925000.0,2,2,0,0
+229,43.5460516,-80.2493276,Guelph,Townhouse,Row / Townhouse,Central air conditioning,Forced air,919900.0,3,3,0,0
+230,43.731742,-79.262514,Toronto,Detached,House,Central air conditioning,Forced air,899900.0,5,3,1,0
+231,43.693021,-79.532953,Toronto,Detached,House,Central air conditioning,Forced air,899900.0,3,2,1,0
+232,43.727586,-79.517186,Toronto,Semi-Detached,House,Central air conditioning,Forced air,899900.0,3,2,0,0
+233,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,899900.0,3,3,0,1
+234,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899000.0,3,3,0,0
+235,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,899000.0,4,3,0,1
+237,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,879000.0,3,4,1,1
+238,43.3248924,-79.7966835,Burlington,Semi-Detached,House,Central air conditioning,Forced air,869900.0,3,2,0,0
+239,43.2556116,-79.0723264,Niagara-on-the-Lake,Detached,House,Central air conditioning,Forced air,868000.0,2,1,0,1
+240,44.4233365,-78.2721953,Lakefield,Detached,House,Central air conditioning,Forced air,865000.0,1,3,1,1
+241,45.4810323,-75.5100002,Orleans,Detached,House,Central air conditioning,Forced air,849900.0,5,3,0,1
+242,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,849900.0,3,3,1,1
+243,43.87982,-78.9421751,Whitby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,849000.0,4,4,0,1
+244,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,849000.0,4,2,0,0
+245,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,829900.0,4,3,0,0
+246,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,827777.0,3,3,1,0
+247,43.9595998,-78.1677784,Cobourg,Detached,House,Central air conditioning,"Forced air, Heat Pump",825000.0,3,3,0,0
+248,43.9595998,-78.1677784,Cobourg,Detached,House,Central air conditioning,Forced air,825000.0,3,3,0,1
+249,43.38339,-80.6997,New Hamburg,Detached,House,Central air conditioning,Hot water radiator heat,809000.0,5,3,0,0
+250,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799999.0,3,3,0,0
+251,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,799900.0,3,2,1,1
+252,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,799900.0,4,3,0,1
+253,45.0617824,-75.5175929,Hallville,Detached,House,Central air conditioning,Forced air,799900.0,3,2,0,1
+254,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799900.0,3,3,0,0
+255,43.6858146,-79.7599337,Brampton,Semi-Detached,House,Central air conditioning,Forced air,799900.0,3,3,1,0
+256,42.265799,-83.024291,Windsor,Detached,House,Central air conditioning,Forced air,799000.0,4,4,0,0
+257,44.078473,-80.203431,Shelburne,Semi-Detached,House,Central air conditioning,Forced air,799000.0,4,3,0,1
+258,43.99973,-79.467545,Aurora,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,3,3,0,0
+259,44.36827245,-80.06694742944002,Clearview,Detached,House,Central air conditioning,Forced air,799000.0,4,3,0,1
+260,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,799000.0,3,3,0,1
+261,43.621861,-79.943877,Halton Hills,Semi-Detached,House,Window air conditioner,Hot water radiator heat,799000.0,3,2,0,0
+262,43.752068,-79.397935,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,2,3,1,1
+263,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,789900.0,3,3,1,1
+264,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,789000.0,4,2,0,1
+265,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,779900.0,3,2,1,0
+266,43.0445702,-79.2838481,Pelham,Detached,House,Central air conditioning,Forced air,774900.0,3,2,0,0
+267,44.43605,-81.38981,Port Elgin,Detached,House,Central air conditioning,Forced air,759900.0,3,3,1,0
+268,45.2573172,-75.3583264,Russell,Detached,House,Central air conditioning,Forced air,754900.0,3,3,1,0
+269,44.210386,-77.306575,Belleville,Detached,House,Central air conditioning,Forced air,749900.0,3,3,1,0
+270,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,749900.0,2,2,1,0
+271,43.87982,-78.9421751,Whitby,Semi-Detached,House,Central air conditioning,Forced air,749900.0,3,2,1,1
+272,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Baseboard heaters,749900.0,1,2,1,0
+273,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,749900.0,3,3,0,1
+274,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,719900.0,2,2,1,0
+275,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,719900.0,3,2,0,0
+276,43.064089,-79.931618,Haldimand,Detached,House,Central air conditioning,Forced air,719000.0,3,2,0,1
+277,43.96868585,-78.65135738273909,Clarington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,719000.0,3,2,0,0
+278,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,699900.0,3,2,0,0
+279,42.327396,-82.909689,Windsor,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,699900.0,2,3,1,0
+280,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,None,Forced air,699900.0,2,1,0,0
+281,44.3366441,-78.01036153346413,Asphodel-Norwood,Detached,House,Central air conditioning,Forced air,699900.0,4,3,0,0
+282,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699900.0,3,2,0,0
+283,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,699900.0,3,3,0,1
+284,42.1744783,-82.8215468,Essex,Detached,House,Heat Pump,Heat Pump,699900.0,2,2,1,0
+285,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,699000.0,3,2,0,1
+286,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,699000.0,3,3,0,1
+287,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,699000.0,4,2,1,0
+288,43.8975558,-78.8635324,Oshawa,Semi-Detached,House,Central air conditioning,Forced air,689000.0,4,3,0,0
+289,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,688000.0,3,3,1,0
+290,44.3048009,-78.3199496,Peterborough,Detached,House,Central air conditioning,Forced air,679900.0,2,2,1,1
+291,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,669900.0,2,2,1,0
+292,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,659900.0,3,3,0,1
+293,43.17354975,-79.41600688766434,Lincoln,Townhouse,Row / Townhouse,Central air conditioning,Forced air,650000.0,3,3,0,0
+294,43.1579812,-79.2441003,St. Catharines,Townhouse,Row / Townhouse,Central air conditioning,Forced air,649900.0,3,3,0,0
+295,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,629900.0,3,1,0,0
+296,43.811594,-79.188405,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,629000.0,2,2,1,0
+297,42.9922181,-79.2484192,Welland,Townhouse,Row / Townhouse,Central air conditioning,Hot water radiator heat,625000.0,3,4,0,0
+299,43.96868585,-78.65135738273909,Clarington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,599900.0,3,3,0,0
+300,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,599900.0,3,3,0,0
+301,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,599900.0,4,3,0,0
+302,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Wall unit,"Radiant heat, Boiler",599800.0,2,2,1,0
+303,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,599800.0,2,2,0,0
+304,44.23891108888889,-79.45252973333334,Georgina,Detached,House,Central air conditioning,Forced air,599000.0,2,1,0,0
+305,43.1408157,-80.2631733,Brantford,Townhouse,Row / Townhouse,Central air conditioning,Forced air,599000.0,2,3,0,0
+306,45.313529,-75.086746,Casselman,Detached,House,Central air conditioning,Forced air,599000.0,2,3,1,1
+307,43.451291,-80.4927815,Kitchener,Townhouse,Row / Townhouse,Central air conditioning,Forced air,590000.0,2,1,0,0
+308,45.1403366,-76.1465672,Carleton Place,Townhouse,Row / Townhouse,Central air conditioning,Forced air,584900.0,3,3,0,1
+309,45.3128048,-75.8940505,Kanata,Townhouse,Row / Townhouse,Central air conditioning,Forced air,554000.0,3,3,0,0
+310,45.274101,-75.27935,Embrun,Townhouse,Row / Townhouse,Central air conditioning,Forced air,539900.0,2,2,1,0
+311,44.3596825,-78.7421729,Kawartha Lakes,Detached,House,Central air conditioning,Forced air,539900.0,3,2,0,0
+313,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,499900.0,3,2,0,0
+314,45.3128048,-75.8940505,Kanata,Townhouse,Row / Townhouse,Central air conditioning,Forced air,479000.0,3,3,0,1
+315,42.0378963,-82.7396606,Kingsville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,469900.0,2,3,1,0
+316,42.0378963,-82.7396606,Kingsville,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,469900.0,2,3,1,0
+317,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,469000.0,3,2,0,0
+319,42.0531166,-82.5996998,Leamington,Detached,House,Heat Pump,"Baseboard heaters, Heat Pump",439900.0,2,2,0,0
+320,45.3128048,-75.8940505,Kanata,Townhouse,Row / Townhouse,Central air conditioning,Forced air,439900.0,3,2,0,0
+321,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,425000.0,3,2,0,0
+322,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,419900.0,2,2,0,1
+323,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Baseboard heaters,399900.0,3,2,0,0
+324,42.15008,-82.96654,McGregor,Detached,House,Central air conditioning,Forced air,399900.0,3,1,0,0
+325,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,399480.0,2,2,0,0
+326,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,399000.0,1,1,0,0
+327,45.1412662,-74.4999495,Lancaster,Detached,House,None,Baseboard heaters,309900.0,2,2,0,1
+328,42.316358,-82.992932,Windsor,Detached,House,Central air conditioning,Forced air,299900.0,2,1,0,0
+329,42.316358,-82.992932,Windsor,Detached,House,Central air conditioning,Forced air,279900.0,3,1,0,0
+330,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,274900.0,3,2,0,0
+331,42.316358,-82.992932,Windsor,Detached,House,Central air conditioning,Forced air,249900.0,2,1,0,0
+333,42.295477,-83.053394,Windsor,Detached,House,Central air conditioning,Forced air,219900.0,2,1,0,0
+334,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1.0,4,4,0,1
+335,43.676218,-79.291151,Toronto,Detached,House,Central air conditioning,Forced air,2999990.0,3,3,1,0
+336,43.648806,-79.413855,Toronto,Detached,House,Central air conditioning,Forced air,2999990.0,3,3,1,0
+337,43.686359,-79.40231,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2795000.0,3,3,0,1
+338,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,2780000.0,5,6,1,1
+339,43.650005,-79.482809,Toronto,Detached,House,Central air conditioning,Forced air,2775000.0,5,5,0,1
+340,43.729413,-79.39237,Toronto,Detached,House,Central air conditioning,Forced air,2688000.0,4,3,0,1
+341,44.1435081,-79.41190570379848,East Gwillimbury,Detached,House,Central air conditioning,Forced air,2575000.0,3,4,1,1
+342,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,2499999.0,5,5,1,1
+343,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2348000.0,4,5,1,1
+344,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2337000.0,5,5,1,1
+345,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,2288888.0,5,4,0,1
+346,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1989000.0,4,5,1,1
+347,43.754227,-79.328265,Toronto,Detached,House,Central air conditioning,Forced air,1880000.0,4,4,1,1
+348,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,1725000.0,3,3,1,1
+349,43.513671,-79.882817,Milton,Detached,House,Central air conditioning,Forced air,1699900.0,5,4,0,1
+350,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1688000.0,4,5,1,1
+351,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,1688000.0,4,3,1,1
+352,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1599000.0,4,4,1,1
+353,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,1549000.0,4,3,0,0
+354,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,1499900.0,4,4,0,1
+355,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,1499900.0,4,4,1,1
+356,43.680156,-79.374616,Toronto,Detached,House,Central air conditioning,Forced air,1495000.0,4,1,0,1
+357,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1479900.0,3,4,0,1
+358,44.11697,-79.497616,East Gwillimbury,Detached,House,Central air conditioning,Forced air,1399900.0,4,3,0,1
+359,43.660438,-79.465004,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1399000.0,3,3,0,0
+360,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,"Hot water radiator heat, Radiant heat",1395000.0,4,3,0,0
+361,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,1389900.0,2,3,1,1
+362,43.71275,-79.406626,Toronto,Detached,House,Central air conditioning,Forced air,1388000.0,3,3,0,0
+363,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Forced air,1349999.0,4,4,0,0
+364,43.225693,-79.976692,Ancaster,Detached,House,Central air conditioning,Forced air,1349900.0,3,5,1,0
+365,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1349000.0,4,5,0,1
+366,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1299800.0,4,4,1,1
+367,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1299000.0,4,4,1,1
+368,43.64877,-79.38171,Toronto,Detached,House,Central air conditioning,Forced air,1299000.0,4,3,0,1
+369,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1298000.0,4,4,0,1
+370,43.8563707,-79.3376825,Markham,Semi-Detached,House,Central air conditioning,Forced air,1288880.0,4,6,1,0
+371,43.92856,-79.52694,King City,Detached,House,Central air conditioning,Forced air,1250000.0,3,2,1,0
+372,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1249900.0,3,3,0,1
+373,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1249000.0,2,2,1,1
+374,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,1225000.0,3,3,1,1
+375,43.626816,-79.516419,Toronto,Detached,House,Central air conditioning,Forced air,1200000.0,3,1,1,0
+376,44.118081,-79.618447,Bradford West Gwillimbury,Detached,House,Central air conditioning,Forced air,1199000.0,4,3,0,0
+377,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1150000.0,4,4,1,1
+378,42.2450635,-83.0606534,LaSalle,Detached,House,"Central air conditioning, Fully air conditioned",Forced air,1149000.0,4,4,1,0
+379,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,1129000.0,3,3,0,1
+380,44.7382893,-80.12709935653204,Tiny,Detached,House,Central air conditioning,Forced air,1100000.0,2,3,1,1
+381,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,1099990.0,3,4,0,0
+383,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,1099000.0,3,4,0,1
+384,44.056258,-79.461708,Newmarket,Semi-Detached,House,Central air conditioning,Forced air,1099000.0,3,4,1,1
+385,44.056258,-79.461708,Newmarket,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1098000.0,3,3,0,0
+386,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1095000.0,3,2,1,1
+388,45.3917725,-76.1883413,Kinburn,Detached,House,Central air conditioning,Forced air,999999.0,3,2,0,0
+389,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,999905.0,4,3,0,0
+391,43.1579812,-79.2441003,St. Catharines,Detached,House,Central air conditioning,Forced air,999000.0,4,3,1,0
+392,43.657016,-79.338932,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999000.0,3,3,0,0
+393,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999000.0,3,4,0,0
+394,44.014469,-79.323704,Whitchurch-Stouffville,Detached,House,Central air conditioning,Forced air,999000.0,4,4,1,0
+395,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,999000.0,3,4,1,0
+396,43.731742,-79.262514,Toronto,Detached,House,Central air conditioning,Baseboard heaters,999000.0,3,2,1,0
+397,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,999000.0,4,3,0,1
+398,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,999000.0,4,3,1,1
+399,43.5896231,-79.6443879,Mississauga,Detached,House,Wall unit,Forced air,999000.0,2,1,0,1
+400,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,998900.0,3,4,0,1
+401,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,998700.0,3,3,1,1
+402,43.6858146,-79.7599337,Brampton,Semi-Detached,House,Central air conditioning,Forced air,998000.0,3,3,0,0
+403,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Radiant heat,995000.0,3,3,0,1
+404,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,995000.0,3,3,0,0
+405,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,988000.0,3,3,0,0
+406,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,974900.0,4,3,0,1
+408,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,949900.0,2,3,1,1
+409,44.5445701,-79.54891085886374,Oro-Medonte,Detached,House,Central air conditioning,Forced air,949000.0,3,3,1,1
+410,43.71351605,-80.3920235,Fergus,Detached,House,Central air conditioning,Forced air,939900.0,4,3,0,1
+411,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,934900.0,3,3,1,0
+412,43.8563707,-79.3376825,Markham,Townhouse,Row / Townhouse,Central air conditioning,Forced air,928000.0,2,3,0,1
+413,43.1301111,-80.7562977,Woodstock,Detached,House,Central air conditioning,Forced air,915000.0,2,3,1,1
+414,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,899999.0,4,4,1,0
+415,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,899999.0,4,4,1,0
+416,43.687783,-79.450978,Toronto,Detached,House,Central air conditioning,Forced air,899900.0,2,1,1,0
+417,43.64877,-79.38171,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899900.0,2,3,1,0
+418,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,899900.0,3,4,1,0
+419,43.690678,-79.313802,Toronto,Detached,House,Wall unit,Forced air,899000.0,2,2,0,0
+420,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,899000.0,3,3,0,1
+421,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,899000.0,3,3,0,0
+422,44.83187403333333,-79.7367417,Georgian Bay,Detached,House,Central air conditioning,Forced air,898999.0,3,3,0,1
+423,43.8801166,-79.4392925,Richmond Hill,Townhouse,Row / Townhouse,Central air conditioning,Forced air,898000.0,4,2,1,0
+425,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,875000.0,3,3,0,1
+426,44.210386,-77.306575,Belleville,Detached,House,Central air conditioning,Forced air,855900.0,3,3,1,1
+427,43.676479,-79.481669,Toronto,Semi-Detached,House,Central air conditioning,Forced air,849900.0,3,2,1,0
+428,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,849900.0,3,2,0,0
+429,45.2550212,-75.1221013,St Albert,Detached,House,Central air conditioning,Forced air,849900.0,3,3,1,0
+430,43.513671,-79.882817,Milton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,839000.0,3,3,0,0
+431,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,800000.0,3,2,0,1
+432,43.3248924,-79.7966835,Burlington,Townhouse,Row / Townhouse,Central air conditioning,Heat Pump,799999.0,2,2,1,1
+433,42.3117951,-82.8861974,Tecumseh,Detached,House,Central air conditioning,Forced air,799900.0,5,4,1,0
+434,42.2450635,-83.0606534,LaSalle,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,799900.0,2,3,1,0
+435,43.87982,-78.9421751,Whitby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799898.0,3,4,0,0
+436,43.835765,-79.090576,Pickering,Detached,House,Central air conditioning,Forced air,799000.0,3,2,1,0
+437,42.949626,-81.340963,London,Detached,House,Central air conditioning,Forced air,799000.0,4,4,1,0
+438,42.2450635,-83.0606534,LaSalle,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,798888.0,2,2,0,0
+439,42.418259,-82.202405,Chatham,Detached,House,Central air conditioning,Forced air,787700.0,3,2,0,0
+440,42.28382,-82.997089,Windsor,Semi-Detached,Row / Townhouse,Central air conditioning,Forced air,779900.0,2,3,1,0
+441,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,779000.0,4,3,0,1
+443,44.7546878,-79.51491635139335,Severn,Detached,House,Wall unit,Baseboard heaters,749900.0,4,1,0,1
+444,44.7612581,-75.738843,North Augusta,Detached,House,None,Forced air,749000.0,3,3,1,0
+445,44.190608,-78.46896060471727,Cavan-Monaghan,Detached,House,Central air conditioning,Forced air,739900.0,3,2,0,1
+446,45.2573172,-75.3583264,Russell,Detached,House,Central air conditioning,Forced air,725000.0,3,2,0,1
+447,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,720000.0,3,2,0,0
+448,44.376812,-79.470068,Georgina,Detached,House,Central air conditioning,Forced air,699999.0,3,3,1,1
+449,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,699900.0,4,3,0,0
+450,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,699900.0,3,3,0,1
+451,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,699900.0,4,3,1,0
+452,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699900.0,2,2,0,0
+453,45.2584251,-75.9206131,Stittsville,Detached,House,Central air conditioning,Forced air,699888.0,3,4,0,1
+454,43.87982,-78.9421751,Whitby,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699000.0,3,2,0,0
+455,44.056258,-79.461708,Newmarket,Semi-Detached,House,Central air conditioning,Forced air,698800.0,3,2,1,0
+456,44.2344356,-79.8063686586334,Essa,Semi-Detached,House,Central air conditioning,Forced air,679900.0,3,4,0,0
+457,42.246782,-82.992243,Windsor,Detached,House,Central air conditioning,Forced air,679900.0,3,2,0,1
+458,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,679000.0,3,3,0,1
+459,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,669900.0,3,3,0,1
+460,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,659900.0,3,3,0,0
+461,43.3600536,-80.3123023,Cambridge,Detached,House,Central air conditioning,Forced air,649900.0,3,2,0,0
+462,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,649000.0,2,2,1,0
+463,43.451291,-80.4927815,Kitchener,Townhouse,Row / Townhouse,Central air conditioning,Forced air,645000.0,2,3,0,0
+464,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,639000.0,2,2,1,1
+465,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,625000.0,1,2,1,0
+466,43.3600536,-80.3123023,Cambridge,Detached,House,Central air conditioning,Forced air,621000.0,3,1,0,0
+467,43.8975558,-78.8635324,Oshawa,Detached,House,Window air conditioner,Forced air,600000.0,2,2,0,0
+468,46.49272,-80.991211,Greater Sudbury,Detached,House,"Air exchanger, Central air conditioning",Forced air,599900.0,3,3,0,0
+469,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Forced air,599900.0,3,4,0,1
+470,43.96868585,-78.65135738273909,Clarington,Townhouse,Row / Townhouse,Central air conditioning,Forced air,599900.0,2,2,0,0
+471,43.1065603,-79.0639039,Niagara Falls,Detached,House,Central air conditioning,Forced air,589500.0,4,1,0,0
+474,42.0378963,-82.7396606,Kingsville,Detached,House,Central air conditioning,Forced air,549000.0,3,2,0,0
+475,45.433515,-76.3543692,Arnprior,Detached,House,Central air conditioning,Forced air,525000.0,3,2,0,0
+476,45.8984286,-77.2826645,Petawawa,Detached,House,Central air conditioning,Forced air,525000.0,3,2,1,0
+477,45.1403366,-76.1465672,Carleton Place,Detached,House,Central air conditioning,Forced air,514900.0,3,2,0,0
+480,46.48338,-80.84973,Coniston,Detached,House,Central air conditioning,Forced air,499900.0,3,2,0,0
+482,42.331405,-82.942044,Windsor,Detached,House,Central air conditioning,Forced air,499900.0,3,2,1,0
+483,43.727832,-79.344634,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,499900.0,3,2,0,0
+484,45.4208777,-75.6901106,Ottawa,Townhouse,Row / Townhouse,Central air conditioning,Forced air,499000.0,3,3,0,0
+485,45.1332585,-75.7165345,North Gower,Detached,House,Wall unit,"Hot water radiator heat, Radiant heat",499000.0,2,2,0,0
+486,45.4208777,-75.6901106,Ottawa,Detached,House,Window air conditioner,Forced air,499000.0,2,1,0,0
+487,42.295477,-83.053394,Windsor,Detached,House,Central air conditioning,Forced air,489900.0,3,1,0,0
+488,46.10347,-80.550384,Alban,Detached,House,Central air conditioning,"Forced air, Wood Stove",460000.0,5,2,0,0
+489,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,449900.0,3,1,0,0
+490,45.4720417,-76.6838617,Renfrew,Townhouse,Row / Townhouse,Central air conditioning,Forced air,445000.0,2,1,0,0
+491,42.418259,-82.202405,Chatham,Detached,House,Central air conditioning,Forced air,444900.0,3,2,1,0
+492,42.0531166,-82.5996998,Leamington,Townhouse,Row / Townhouse,Heat Pump,"Baseboard heaters, Heat Pump",439900.0,2,2,0,0
+493,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,439900.0,2,1,0,0
+494,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,439900.0,2,1,0,0
+495,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,429900.0,2,1,0,0
+496,45.274101,-75.27935,Embrun,Detached,House,Wall unit,Radiant heat,429900.0,2,1,0,0
+497,42.1744783,-82.8215468,Essex,Detached,House,Central air conditioning,Forced air,424900.0,3,2,0,0
+498,46.5521017,-81.1148103,Azilda,Detached,House,Central air conditioning,Boiler,399900.0,5,2,0,0
+499,45.3112037,-74.6367573,Alexandria,Semi-Detached,House,Central air conditioning,Forced air,394900.0,2,2,0,1
+502,42.265799,-83.024291,Windsor,Detached,House,Central air conditioning,Forced air,349900.0,3,1,0,0
+503,42.295477,-83.053394,Windsor,Detached,House,Central air conditioning,Forced air,299900.0,4,2,0,0
+504,42.29533,-83.024461,Windsor,Detached,House,Central air conditioning,Forced air,299000.0,2,1,0,0
+505,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,259900.0,2,1,0,0
+506,43.8563707,-79.3376825,Markham,Detached,House,Central air conditioning,Forced air,2980000.0,4,5,1,1
+507,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,2850000.0,4,5,1,1
+508,43.710815,-79.418648,Toronto,Semi-Detached,House,Central air conditioning,Forced air,2679000.0,3,4,1,1
+509,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,2199000.0,4,4,0,1
+510,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,2199000.0,4,4,1,1
+511,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,2188000.0,4,4,1,1
+512,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,2048000.0,5,5,1,1
+513,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1999000.0,4,4,1,1
+514,43.71275,-79.406626,Toronto,Detached,House,Central air conditioning,Forced air,1995000.0,3,3,1,1
+515,43.646081,-79.576748,Toronto,Detached,House,Central air conditioning,Forced air,1950000.0,5,4,1,1
+516,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1899999.0,4,4,1,1
+517,43.671561,-79.403274,Toronto,Detached,House,Central air conditioning,Forced air,1799000.0,3,4,1,1
+518,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,1775000.0,5,4,0,1
+519,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1749900.0,4,4,1,1
+520,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1699000.0,4,4,0,1
+521,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1699000.0,4,3,0,1
+522,43.5896231,-79.6443879,Mississauga,Semi-Detached,House,Central air conditioning,Forced air,1688888.0,3,4,0,1
+523,43.5904294,-79.5433932,Toronto,Detached,House,Central air conditioning,Forced air,1649900.0,4,4,0,1
+524,43.665276,-79.438009,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1639000.0,3,4,1,1
+525,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1599000.0,3,3,0,1
+526,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1595000.0,2,2,0,0
+527,43.99973,-79.467545,Aurora,Detached,House,Central air conditioning,Forced air,1549000.0,4,5,1,1
+528,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1536000.0,2,4,1,1
+529,45.4208777,-75.6901106,Ottawa,Semi-Detached,House,Central air conditioning,Forced air,1535000.0,3,4,1,0
+530,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1499000.0,3,2,1,1
+531,43.713691,-79.389435,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1499000.0,3,3,1,0
+532,43.67089,-79.316931,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1499000.0,4,2,0,1
+533,44.14125,-79.395028,East Gwillimbury,Detached,House,Central air conditioning,Forced air,1468000.0,5,4,1,1
+534,43.3248924,-79.7966835,Burlington,Detached,House,Central air conditioning,Forced air,1399900.0,3,2,1,0
+535,43.7174721,-80.68926371473657,Mapleton,Detached,House,Central air conditioning,Forced air,1399000.0,3,2,0,1
+536,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1399000.0,3,2,1,1
+537,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1388000.0,4,4,1,1
+538,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,1386000.0,5,5,1,1
+539,43.7941544,-79.5268023,Vaughan,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1386000.0,4,4,0,0
+540,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,1374900.0,3,3,1,0
+542,43.713691,-79.389435,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1349000.0,3,3,1,0
+543,43.801685,-79.32186,Toronto,Detached,House,Central air conditioning,Forced air,1299900.0,3,4,1,1
+544,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,1299000.0,4,3,0,1
+545,43.447436,-79.666672,Oakville,Detached,House,Central air conditioning,Forced air,1299000.0,3,3,0,1
+546,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1299000.0,4,4,0,0
+547,43.751661,-79.447657,Toronto,Detached,House,Central air conditioning,Forced air,1299000.0,3,2,1,0
+548,43.650005,-79.482809,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1298000.0,3,2,0,0
+549,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1298000.0,4,3,0,1
+550,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1298000.0,3,3,0,1
+551,44.097441700000005,-78.04760303007441,Alnwick/Haldimand,Detached,House,Central air conditioning,Forced air,1295000.0,3,3,1,1
+552,43.7941544,-79.5268023,Vaughan,Detached,House,Central air conditioning,Forced air,1290000.0,4,3,0,0
+553,43.648806,-79.413855,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1279000.0,2,2,1,0
+554,43.687783,-79.450978,Toronto,Detached,House,Central air conditioning,Forced air,1275000.0,3,2,1,1
+555,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1249999.0,3,2,1,0
+556,43.621861,-79.943877,Halton Hills,Detached,House,Wall unit,Forced air,1249000.0,3,2,0,1
+557,43.447436,-79.666672,Oakville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1225000.0,4,4,0,0
+558,43.5896231,-79.6443879,Mississauga,Detached,House,Central air conditioning,Forced air,1200000.0,4,4,0,0
+559,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,1200000.0,4,3,0,1
+560,42.28382,-82.997089,Windsor,Detached,House,Central air conditioning,Forced air,1199900.0,4,4,0,0
+561,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1199900.0,3,2,1,0
+563,43.686567,-79.337066,Toronto,Semi-Detached,House,Central air conditioning,Forced air,1150000.0,3,2,1,1
+564,43.1931661,-79.560677,Grimsby,Detached,House,Central air conditioning,Forced air,1149900.0,4,3,0,0
+565,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,1099999.0,4,4,0,0
+566,43.99973,-79.467545,Aurora,Semi-Detached,House,Central air conditioning,Forced air,1098000.0,3,4,0,0
+567,44.014469,-79.323704,Whitchurch-Stouffville,Townhouse,Row / Townhouse,Central air conditioning,Forced air,1087000.0,3,3,0,0
+568,43.2560802,-79.8728583,Hamilton,Detached,House,Central air conditioning,Forced air,1050000.0,3,1,1,0
+569,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,1050000.0,3,3,0,1
+570,44.3893113,-79.6901736,Barrie,Detached,House,Central air conditioning,Forced air,1049000.0,4,3,1,1
+571,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,1025000.0,3,3,0,0
+572,43.8801166,-79.4392925,Richmond Hill,Detached,House,Central air conditioning,Forced air,999999.0,3,2,1,0
+573,43.686567,-79.337066,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,999999.0,3,2,0,0
+574,43.632597,-79.494149,Toronto,Detached,House,Central air conditioning,Heat Pump,999900.0,3,2,1,0
+575,44.078473,-80.203431,Shelburne,Detached,House,Central air conditioning,Forced air,999900.0,5,4,0,1
+576,43.621861,-79.943877,Halton Hills,Detached,House,Central air conditioning,Forced air,999000.0,4,2,0,0
+577,43.686567,-79.337066,Toronto,Detached,House,Central air conditioning,Forced air,999000.0,2,3,1,0
+578,43.2167526,-79.7567616,Stoney Creek,Detached,House,Central air conditioning,Forced air,998999.0,3,3,1,0
+579,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,995000.0,3,3,0,0
+580,42.2450635,-83.0606534,LaSalle,Detached,House,Central air conditioning,Boiler,964000.0,4,4,1,0
+581,43.6858146,-79.7599337,Brampton,Detached,House,Central air conditioning,Forced air,954000.0,3,4,1,1
+582,43.99973,-79.467545,Aurora,Townhouse,Row / Townhouse,Central air conditioning,Forced air,949000.0,3,3,0,0
+584,43.5460516,-80.2493276,Guelph,Detached,House,Central air conditioning,Forced air,945000.0,4,4,0,1
+585,43.2556116,-79.0723264,Niagara-on-the-Lake,Detached,House,Central air conditioning,Forced air,919000.0,3,1,0,0
+586,43.8505287,-79.0208814,Ajax,Semi-Detached,House,Central air conditioning,Forced air,899999.0,3,3,0,0
+587,46.5691573,-81.1978944,Chelmsford,Detached,House,Central air conditioning,Forced air,899900.0,4,2,0,0
+588,44.078473,-80.203431,Shelburne,Detached,House,Central air conditioning,Forced air,899900.0,3,4,1,1
+589,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,899900.0,4,4,0,1
+590,42.7415823,-81.33191889735019,Southwold,Detached,House,Central air conditioning,Forced air,899700.0,4,3,0,0
+591,44.241045,-77.358813,Belleville,Detached,House,Central air conditioning,Forced air,899000.0,4,3,0,1
+592,43.073558,-79.950127,Caledonia,Detached,House,Central air conditioning,Forced air,899000.0,4,3,0,0
+593,42.783344,-79.789826,Haldimand,Detached,House,Central air conditioning,Forced air,899000.0,4,3,0,0
+594,43.1931661,-79.560677,Grimsby,Detached,House,Central air conditioning,Forced air,899000.0,4,2,0,1
+595,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,899000.0,3,3,1,1
+596,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,865000.0,4,3,0,1
+597,45.5501,-75.29101,Rockland,Detached,House,Central air conditioning,Forced air,849900.0,4,4,0,1
+598,44.5224813,-80.0203156,Wasaga Beach,Detached,House,Central air conditioning,Forced air,849900.0,3,3,1,0
+599,43.87982,-78.9421751,Whitby,Detached,House,Central air conditioning,Forced air,849900.0,3,3,0,1
+600,45.4208777,-75.6901106,Ottawa,Detached,House,Central air conditioning,Forced air,834900.0,4,3,1,1
+601,43.4652699,-80.5222961,Waterloo,Detached,House,Central air conditioning,Forced air,800000.0,3,3,0,0
+602,43.8505287,-79.0208814,Ajax,Detached,House,Central air conditioning,Forced air,799999.0,3,2,0,0
+603,43.2167526,-79.7567616,Stoney Creek,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799900.0,3,4,0,0
+604,43.6858146,-79.7599337,Brampton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799900.0,3,3,0,0
+606,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799900.0,3,4,0,1
+607,42.1013315,-83.1086458,Amherstburg,Detached,House,Central air conditioning,Forced air,799900.0,2,3,1,0
+608,43.8505287,-79.0208814,Ajax,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,4,3,0,0
+609,43.073558,-79.950127,Caledonia,Detached,House,Central air conditioning,Forced air,799000.0,3,2,1,0
+610,43.704081,-79.255219,Toronto,Detached,House,Central air conditioning,Forced air,799000.0,2,2,0,0
+611,43.4652699,-80.5222961,Waterloo,Detached,House,Central air conditioning,Forced air,799000.0,2,3,1,1
+612,43.5896231,-79.6443879,Mississauga,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,2,2,1,0
+613,43.709229,-79.513598,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,799000.0,3,2,1,0
+614,45.4208777,-75.6901106,Ottawa,Detached,House,Window air conditioner,Hot water radiator heat,794900.0,2,2,0,0
+615,43.835765,-79.090576,Pickering,Townhouse,Row / Townhouse,Central air conditioning,Forced air,789900.0,3,3,0,1
+616,43.758752,-79.519698,Toronto,Townhouse,Row / Townhouse,Window air conditioner,Baseboard heaters,780000.0,4,3,1,0
+617,42.9345071,-80.290768,Waterford,Detached,House,"Air exchanger, Central air conditioning",Forced air,779000.0,2,2,0,0
+618,43.835765,-79.090576,Pickering,Semi-Detached,House,Central air conditioning,Forced air,769998.0,3,2,1,0
+619,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,764990.0,3,3,0,0
+620,44.3048009,-78.3199496,Peterborough,Detached,House,Central air conditioning,Forced air,759900.0,3,3,0,0
+621,43.728584,-79.490851,Toronto,Townhouse,Row / Townhouse,Central air conditioning,Forced air,749000.0,3,2,1,0
+622,44.1150554,-78.90598875892695,Scugog,Detached,House,Central air conditioning,Forced air,745000.0,3,3,0,1
+623,44.4952483,-81.3713261,Saugeen Shores,Townhouse,Row / Townhouse,Central air conditioning,Forced air,744000.0,2,3,1,0
+624,42.3038299,-82.8189267,Lakeshore,Detached,House,Central air conditioning,Forced air,729000.0,3,3,0,0
+625,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,725000.0,3,2,0,0
+626,43.8975558,-78.8635324,Oshawa,Detached,House,Central air conditioning,Forced air,724900.0,3,3,1,0
+627,43.4652699,-80.5222961,Waterloo,Detached,House,Central air conditioning,Forced air,699900.0,3,2,0,0
+628,43.96868585,-78.65135738273909,Clarington,Detached,House,Central air conditioning,Forced air,699900.0,3,3,0,1
+629,43.2560802,-79.8728583,Hamilton,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699900.0,3,2,0,0
+630,42.3038299,-82.8189267,Lakeshore,Detached,House,Central air conditioning,Forced air,699900.0,3,3,1,0
+631,42.28382,-82.997089,Windsor,Townhouse,Row / Townhouse,Central air conditioning,Forced air,699888.0,2,3,1,0
+632,43.451291,-80.4927815,Kitchener,Detached,House,Central air conditioning,Forced air,699000.0,3,2,0,0
